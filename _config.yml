@@ -18,6 +18,11 @@ prose:
   media: 'images'
   metadata:
     _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"      
       - name: "layout"
         field:
           element: "hidden"
@@ -89,4 +94,4 @@ prose:
         field:
           element: "text"
           label: "Keywords"
-          placeholder: "Enter Comma Separated Keywords"
+          placeholder: "Enter Keywords"

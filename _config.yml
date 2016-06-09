@@ -36,9 +36,8 @@ prose:
           placeholder: "YYYY-MM-DD HH:MM"
       - name: "title"
         field:
-          label: "Title"
+          label: "title"
           element: "text"
-          value: "An Awesome Title!"
       - name: "description"
         field:
           element: "textarea"

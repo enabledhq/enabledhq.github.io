@@ -38,10 +38,24 @@ prose:
           element: "text"
           label: "Description"
           placeholder: "Enter Post Description"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Author"
+          placeholder: "Choose author"
+          value: grant
+          options:
+            - name: "Linh Dao"
+              value: linh            
+            - name: "Grant Hull"
+              value: grant
+            - name: "Dylan Sale"
+              value: dylan
+          alterable: true          
       - name: "main-category"
         field:
           element: "select"
-          label: "Add categories"
+          label: "Main Category"
           placeholder: "Choose categories"
           value: technology
           options:
@@ -57,7 +71,7 @@ prose:
       - name: "categories"
         field:
           element: "multiselect"
-          label: "Add categories"
+          label: "Additional Categories"
           placeholder: "Choose categories"
           value: technology
           options:

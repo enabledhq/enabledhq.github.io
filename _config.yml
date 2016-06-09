@@ -37,7 +37,8 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"
+          label: "Title"
+          value: ""
       - name: "description"
         field:
           element: "textarea"

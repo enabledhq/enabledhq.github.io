@@ -12,3 +12,7 @@ url: "https://enabledhq.github.io"
 # Build settings
 markdown: kramdown
 
+prose:
+  rooturl: '_posts'
+  media: 'images'
+    

@@ -3,18 +3,19 @@ layout: post
 title: What is 3D Printing?
 date: '2012-03-6 15:30:00 +0930'
 main-category: technology
-categories: technology
+categories:
+  - technology
 author: dylan
 hero-banner: /images/Blog_Header_3D.jpg
 thumbnail-image: /images/img_3d_thumb.jpg
-description: >
+description: >-
   3D Printing is being touted as the next Industrial Revolution. It will
   transform object manufacturing in the same way the desktop printer has to
   publishing.
 meta-description: >
   3D printing technology is emerging. What is it and how does a 3d printer work?
   This blog will give you a brief introduction into this exciting area. 
-meta-keywords: >
+meta-keywords: >-
   3d printing technology, What is 3d printing, 3d printing definition, 3d
   printing, 3d printer
 published: true
@@ -26,7 +27,7 @@ Imagine you are product designer creating a new product and instead of dealing w
 ​
 The thing is you do not have to imagine, this can be realised today through 3D printing, and 3D Printing is being touted as the next Industrial Revolution. It will transform object manufacturing in the same way the desktop printer has to publishing. The 3D industry is growing fast and already there are many entrepreneurs utilising the freedom and flexibility that bespoke manufacturing provides.
 
-![](/images/blog/img_3d_1.jpg)
+![](/images/img_3d_1.jpg)
 *Panel session (I'm in the back on the bottom right)*
 
 But what is a 3D printer? Well it is a device that uses a process known as Additive Manufacturing to build an object (usually from ABS plastic, the same as used in LEGO) layer-by-layer. While the technology has been around for a few decades, it is only now starting to become affordable for the average household.
@@ -35,12 +36,12 @@ But what is a 3D printer? Well it is a device that uses a process known as Addit
 ​
 The process starts by creating or obtaining a 3D digital model of an object you wish to print. This can be done with traditional 3D modelling packages, by searching the internet on websites such as [thingiverse.com](http://thingiverse.com) or by using some of the easier to use tools coming out such as [tinkercad.com](http://tinkercad.com)
 
-![](/images/blog/img_3d_2.jpg)
+![](/images/img_3d_2.jpg)
 *UniSA Makerbot printing a whistle*
 
 There are a wide range of devices out there, with a huge price range, but the current entry point 3D printers is either with a Makerbot or a RepRap. Both are open source, though the Makerbot is a bit slicker. The draw of the RepRap is that it is built almost entirely of parts you can find at a local hardware store or parts that another RepRap can print. This means you can print the parts your friends need to build one!
 
-![](/images/blog/img_3d_3.jpg)
+![](/images/img_3d_3.jpg)
 *Close up of Makerbots in action*
 
 > "What is a 3D printer? It's a device that uses a process known as Additive Manufacturing to build an object layer-by-layer."

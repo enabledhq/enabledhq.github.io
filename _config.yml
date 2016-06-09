@@ -18,16 +18,17 @@ prose:
   media: 'images'
   metadata:
     _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
       - name: "layout"
         field:
           element: "hidden"
           label: "Layout"
           value: "post"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Publish Date"
+          value: CURRENT_DATETIME          
+          placeholder: "YYYY-MM-DD HH:MM"
       - name: "title"
         field:
           label: "Title"

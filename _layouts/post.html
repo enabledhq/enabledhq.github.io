@@ -11,7 +11,7 @@ layout: default
 http://placehold.it/1000x550
 {% endif %});">
 
-<div class="post-header-categories"><a href="/blog?category={{site.data.categories[page.main-category].class | url_param_escape}}">{{site.data.categories[page.main-category].name}}</a><hr></div>
+<div class="post-header-categories"><a href="/?category={{site.data.categories[page.main-category].class | url_param_escape}}">{{site.data.categories[page.main-category].name}}</a><hr></div>
 
 <!-- <div class="post-header-categories">{% for category in page.categories %}<a href="/blog?category={{category | url_param_escape}}">{{category}}</a>{% unless forLoop.last %}&nbsp;&nbsp;&nbsp;{% endunless %}{%endfor%}<hr></div> -->
   <div class="post-header-title"><h1>{{ page.title }}</h1></div>

@@ -41,7 +41,7 @@ prose:
           value: "An Awesome Title!"
       - name: "description"
         field:
-          element: "text"
+          element: "textarea"
           label: "Description"
           placeholder: "Enter Post Description"
       - name: "author"

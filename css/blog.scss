@@ -1,0 +1,11 @@
+---
+---
+@charset "utf-8";
+
+$text-color:       		#9b9b9b;
+$brand-color:      		#9966cc;
+$brand-color-link: 		#8355b1;
+$arrow-box-color:		#cecece;
+$arrow-box-hover-color:	#55acee;
+
+@import "base", "quote", "author-info", "sticky-footer", "subscribe";

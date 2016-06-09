@@ -1,0 +1,75 @@
+.sticky-footer {
+    z-index: 50;
+    position: fixed;
+    width: 100%;
+    height: 34px;
+    padding: 13px 0;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    border-top: 1px solid #cecece;
+}
+
+.sticky-footer-logo{
+    float: left;
+    margin-left: 10px;
+}
+
+@media only screen and (min-width : 768px) {
+    .sticky-footer-logo {
+        margin-left: 80px;
+    }
+}
+
+.sticky-footer-title {
+    height: 34px;
+    line-height: 34px;
+    vertical-align: middle;
+    display: inline-block; 
+    float: right;
+    margin-left: 15px;
+
+    font-family: 'Roboto Slab', serif;
+    color: #252b33;
+    font-size: 22px;
+}
+
+.sticky-footer-share-buttons {
+    width: 250px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.sticky-footer-share-buttons ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; 
+    justify-content: space-between;
+}
+
+.sticky-footer-share-buttons ul li{
+    display: inline;
+}
+
+.sticky-footer-icon svg {
+    height: 34px;
+}
+
+.sticky-footer-icon svg:hover {
+    opacity: 0.8;
+}
+
+/* When on mobile, offset the sharing buttons from the blog link*/
+.sticky-footer-share-buttons-container {
+    width: calc(100% - 110px);
+    float: right;
+}
+
+/* When on desktop center the icons in the page*/
+@media only screen and (min-width : 768px) {
+    .sticky-footer-share-buttons-container {
+        width: 100%;
+        float: none;
+    }
+}

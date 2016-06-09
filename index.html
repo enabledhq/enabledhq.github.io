@@ -1,1 +1,42 @@
-Hello World
+---
+layout: default
+---
+<div class="text-center grey">
+  <div class="container">
+    <h1>Our Blog</h1>
+    <h3 class="blog-index-description">We care about what we create, as well as how we got there.<br /> Here's some of what inspires, perplexes, excites and motivates us.</h3>
+    <ul id="filters">
+      <li><span class="filter" data-filter="all">All</span></li>
+      <li><span class="filter" data-filter=".innovation">Innovation</span></li>
+      <li><span class="filter" data-filter=".technology">Technology</span></li>
+      <li><span class="filter" data-filter=".ux">User Experience</span></li>
+      <li><span class="filter" data-filter=".entrepreneurship">Entrepreneurship</span></li>
+    </ul>
+
+    <ul class="three-columns more-work" id="portfolio-list">
+      {% for post in site.posts %}
+      {% include index-post.html post=post include_mix=true%}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<script>
+  $(function () {
+    var filter_value = 'all';
+    var param = $.urlParam('category');
+    if(param && param !== 'all'){
+      filter_value = "."+param;
+    }
+
+    $('#portfolio-list').mixItUp({
+      animation: {
+        effects: 'fade' ,
+        duration: 400
+      },
+      load: {
+        filter: filter_value
+      }
+    });
+  });
+</script>

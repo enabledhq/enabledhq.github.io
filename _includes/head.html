@@ -1,0 +1,40 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+
+  {% if page.meta-description %}
+  <meta name="description" content="{{ page.meta-description | escape }}" />
+  {% else %}
+  <meta name="description" content="{{ site.description | escape }}" />
+  {% endif %}
+
+  {% if page.meta-keywords %}
+   <meta name="keywords" content="{{page.meta-keywords | escape}}" />
+  {% else %}
+   <meta name="keywords" content="{{site.keywords | escape }}" />
+  {% endif %}
+
+  <link href="//fonts.googleapis.com/css?family=Lato:300,400,500,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,400italic' rel='stylesheet' type='text/css'>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Sitewide styles -->
+  <link href="/css/enabled_style.css" rel="stylesheet" type="text/css">
+  <link href="/css/sss.css" rel="stylesheet" type="text/css">
+  <link href="/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="/css/slick.css" rel="stylesheet" type="text/css">
+  <link href="/css/normalize.css" rel="stylesheet" type="text/css">
+  <!-- Blog styles -->
+  <link href="/blog/css/autumn.css" rel="stylesheet" type="text/css">
+  <link href="/blog/css/blog.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script> 
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
+  <script type="text/javascript" src="/js/slick.min.js"></script> 
+  <script src="/js/modernizr.custom.js"></script> 
+</head>

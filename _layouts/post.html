@@ -1,0 +1,108 @@
+---
+layout: default
+---
+{% assign author = site.data.people[page.author] %}
+{% assign words = content | number_of_words %}
+
+<div class="post-header-banner" style="background-image:url(
+{% if page.hero-banner %}
+{{ page.hero-banner }}
+{% else %}
+http://placehold.it/1000x550
+{% endif %}");">
+
+<div class="post-header-categories"><a href="/blog?category={{site.data.categories[page.main-category].class | url_param_escape}}">{{site.data.categories[page.main-category].name}}</a><hr></div>
+
+<!-- <div class="post-header-categories">{% for category in page.categories %}<a href="/blog?category={{category | url_param_escape}}">{{category}}</a>{% unless forLoop.last %}&nbsp;&nbsp;&nbsp;{% endunless %}{%endfor%}<hr></div> -->
+  <div class="post-header-title"><h1>{{ page.title }}</h1></div>
+  <div class="post-header-meta">
+    <span class="author-image post-{{ author.shortname }}"></span>
+    <br>
+    <div class="post-author-name">by {{ author.name }}</div>
+    <div class="post-time"><i class="fa fa-clock-o"></i> {{ page.date | date: "%b %-d, %Y" }}</div>
+    <br>
+    <!-- <a href="#save-overlay"> -->
+    <div class="post-header-read">
+    <i class="fa fa-paper-plane"></i>
+    {% if words < 360 %}
+      1 Minute
+    {% else %}
+      {{ words | divided_by:180 }} Minutes
+    {% endif %}
+    </div>
+    <!-- </a> -->
+  </div>
+</div>
+
+
+<article>
+  <div class="content-container">
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </div>
+</article>
+
+{% include subscribe.html %}
+{% include author-info.html author=author %}
+
+{% if site.related_posts.size > 0 %}
+<!-- Related Posts -->
+<div class="related-posts-container">
+<div class="related-posts">
+<h2>You might also like...</h2>
+<ul class="three-columns more-work" id="portfolio-list">
+    {% for post in site.related_posts limit:3  %}
+      {% include index-post.html post=post %}
+    {% endfor %}
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+{% endif %}
+
+{% include sticky-footer.html %}
+
+{% comment %}
+{% include save-overlay.html overlayid="save-overlay"%}
+{% endcomment %}
+<script>
+// Blockquote twitter sharing
+$('blockquote').each(function (index, value){
+	var quote = $(this).find("p").text();
+	$(this).append(
+    $(document.createElement('div')).attr({class:"arrow_box"})
+  			.html('<i class="fa fa-twitter" aria-hidden="true"></i>'));
+  var anchor = $(document.createElement('a')).attr({
+    href:"https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl | prepend: site.url  | url_param_escape }}&via=EnabledHQ&text=" + encodeURIComponent(quote) + " @{{author.twitter}}",
+    target:"_blank",
+    class: "quote-link"
+    });
+  $(this).wrap(anchor);
+});
+
+// Inline quotes
+$('.inline-quote').each(function (index, value){
+    var quote = $(this).text();
+
+    var anchor = $(document.createElement('a')).attr({
+      href:"https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl | prepend: site.url  | url_param_escape }}&via=EnabledHQ&text=\"" + encodeURIComponent(quote)+"\" @{{author.twitter}}",
+      target:"_blank",
+      class: "inline-quote-link"
+    });
+
+    var quoteText = $(document.createElement('span')).attr({
+      class: "inline-quote-text"
+    }).text(quote);
+
+    var twitterIcon = $(document.createElement('span')).attr({
+      class: "twitter-text-icon"
+    });
+
+    $(this).empty();
+    $(this).wrap(anchor);
+    $(this).append(quoteText);
+    $(this).append(twitterIcon);
+});
+
+</script>

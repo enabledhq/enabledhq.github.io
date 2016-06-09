@@ -1,0 +1,15 @@
+innovation:
+  name: Innovation
+  class: innovation
+
+technology:
+  name: Technology
+  class: technology
+
+ux:
+  name: User Experience
+  class: ux
+
+entrepreneurship:
+  name: Entrepreneurship
+  class: entrepreneurship

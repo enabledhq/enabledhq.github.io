@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<symbol  id="enabled" viewBox="-9.341 -9 18.682 18">
+	<path fill="#FFFFFF" d="M9.337-1.27c0-1.726-1.791-1.726-1.791-1.726h-0.77V-3H3.114v-2.592H3.11v-1.679
+		c0-1.726-1.791-1.726-1.791-1.726h-0.77V-9h-3.662v2.588h0.002v1.685c0,1.726,1.791,1.726,1.791,1.726h0.768l0,0h3.666v2.59h0.002
+		v1.685c0,1.726,1.791,1.726,1.791,1.726h0.768l0,0h3.667V0.407H9.337V-1.27z M3.109,4.73c0-1.726-1.791-1.726-1.791-1.726H0.549V3
+		h-3.662V0.408h-0.004V-1.27c0-1.726-1.791-1.726-1.791-1.726h-0.77V-3h-3.663v2.589h0.003v1.685c0,1.726,1.791,1.726,1.791,1.726
+		h0.768l0,0h3.666v2.59h0.002v1.686C-3.111,9-1.321,9-1.321,9h0.768l0,0h3.666V6.408H3.109V4.73z"/>
+</symbol>
+<symbol  id="enabled_rounded" viewBox="-25 -25 50 50">
+	<path fill="#562E88" d="M25-20c0-2.761-2.239-5-5-5h-40c-2.761,0-5,2.239-5,5v40c0,2.761,2.239,5,5,5h40c2.761,0,5-2.239,5-5V-20z"
+		/>
+	
+		<use xlink:href="#enabled"  width="18.682" height="18" id="XMLID_6_" x="-9.341" y="-9" transform="matrix(1.2847 0 0 1.2847 0.3409 -1.074137e-04)" overflow="visible"/>
+</symbol>
+<use xlink:href="#enabled_rounded"  width="50" height="50" x="-25" y="-25" transform="matrix(1 0 0 -1 25 24.888)" overflow="visible"/>
+</svg>

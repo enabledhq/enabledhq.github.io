@@ -1,0 +1,33 @@
+<div id="header">
+  <div class="container">
+    <div id="top">
+      <div id="logo"> <a href="{{ site.url }}"><img src="/images/logo_header.svg" width="126" height="32" alt=""/></a></div>
+      <div id="menu"> <a href="#" class="nav-icon" id="trigger-overlay"><span></span> </a> </div>
+    </div>
+  </div>
+</div>
+
+<div class="overlay overlay-enabled">
+  <div class="container">
+    <button type="button" class="overlay-close">Close</button>
+  </div>
+  <nav>
+    <ul>
+      <li><a href="/index">Home</a></li>
+      <li><a href="/our-work">Our Work</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/team">Team</a></li>
+      <li><a href="/letschat">Let's Chat</a></li>
+      <li><a href="/jobs">Jobs</a></li>
+    </ul>
+  </nav>
+</div>
+
+{% comment %}
+<!-- if converted to jekyll, nav could be replaced with  -->
+  {% for my_page in site.pages %}
+    {% if my_page.title %}
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+    {% endif %}
+  {% endfor %}
+{% endcomment %}

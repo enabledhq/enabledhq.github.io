@@ -1,0 +1,21 @@
+# Output destination for built files
+destination: ../website/blog
+
+# Site settings
+title: Enabled - iOS, Android, App, Website Developers, Adelaide
+description: > # Default meta description
+  Digital media agency developing iPhone, Android &amp; mobile applications, 
+  websites with video &amp; search engine optimisation, touch signage, 
+  interactive digital media.
+keywords: > # Default meta keywords
+  Enabled, Enabled Solutions, Adelaide, Australia, mobile, mobile applications, iPhone developers,iPad developers,cross platform developers, Android developers, ios developers, Adelaide, digital media, websites, CMS websites, design, branding, digital design, video, motion, touch
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+
+url: "https://enabled.com.au"
+
+# Build settings
+markdown: kramdown
+
+bitly: 
+  username: jackenabled 
+  api_key: YOUR_BITLY_KEY

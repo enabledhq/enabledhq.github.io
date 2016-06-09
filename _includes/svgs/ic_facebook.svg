@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<symbol  id="facebook" viewBox="-4.632 -9.264 9.263 18.528">
+	<path fill="#FFFFFF" d="M4.22,6.044l0.412,2.887c0,0-6.825,1.714-7.197-2.638V3.14h-2.066V0.324h2.045v-9.588h3.589v9.588h3.068
+		L4.277,3.14H1.133v2.246C1.133,5.385,0.874,6.886,4.22,6.044z"/>
+</symbol>
+<symbol  id="facebook_circle" viewBox="-25 -25 50 50">
+	<path fill="#3B5998" d="M25,0c0-13.807-11.193-25-25-25S-25-13.807-25,0s11.193,25,25,25S25,13.807,25,0z"/>
+	
+		<use xlink:href="#facebook"  width="9.263" height="18.528" id="XMLID_5_" x="-4.632" y="-9.264" transform="matrix(1 0 0 1 5.218857e-05 -0.2601)" overflow="visible"/>
+</symbol>
+<use xlink:href="#facebook_circle"  width="50" height="50" x="-25" y="-25" transform="matrix(1 0 0 -1 25 25)" overflow="visible"/>
+</svg>

@@ -1,0 +1,31 @@
+dylan:
+  name: Dylan Sale
+  shortname: dylan
+  twitter: DylanSale
+  description-title: Dylan Sale, CTO at Enabled
+  description: >
+    Meet the technical mastermind. His deep knowledge and interest in the latest technologies has helped us steer client projects in the right direction. People come to Dylan for his wise counsel and solution architecture.
+    <br><a class="author-link" href="https://twitter.com/dylansale" target="_blank">Follow Dylan on Twitter</a>
+  small-image: /images/img_teamphotos_dylan_sm.jpg
+  large-image: /images/blog/author/img_author_dylan.jpg
+
+grant:
+  name: Grant Hull
+  shortname: grant
+  twitter: gbuffer
+  description-title: Grant Hull, CEO and Director at Enabled
+  description: >
+    Grant has helped guide Enabled through the "Dot Com Bust" to grow steadily ever since. A popular presenter and speaker in the digital space, he has also been teaching an annual innovation course at the University of Adelaide.
+    <br>Follow Grant on <a class="author-link" href="https://twitter.com/gbuffer" target="_blank">Twitter</a> and <a class="author-link" href="https://www.linkedin.com/in/granthull" target="_blank">LinkedIn</a>
+  small-image: /images/img_teamphotos_grant_sm.jpg
+  large-image: /images/blog/author/img_author_grant.jpg
+
+linh:
+  name: Linh Dao
+  shortname: linh
+  twitter: LinhContent
+  description-title: Linh Dao, 
+  description: >
+    Placeholder
+  small-image: /images/img_teamphotos_linh_sm.jpg
+  large-image: /images/blog/author/img_author_linh.jpg

@@ -1,13 +1,14 @@
 ---
 layout: post
-title: 'How To Hire Software Developers: Dos and Don''ts'
-date: 2016-06-07T00:00:00.000Z
+title: 'How To Choose Software Developers: Dos and Don''ts'
+date: 'Tue Jun 07 2016 09:30:00 GMT+0930 (ACST)'
 main-category: technology
-categories: technology
+categories:
+  - technology
 author: grant
 hero-banner: /images/Blog_Header_howtohire.jpg
 thumbnail-image: /images/img_howtohire_thumb.jpg
-description: >
+description: >-
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the
   start.
@@ -15,7 +16,7 @@ meta-description: >
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the
   start. 
-meta-keywords: >
+meta-keywords: >-
   software developer, software development, app developer, app development,
   agile development,
 published: true
@@ -58,7 +59,7 @@ Lowest cost option can be more expensive in the long run.  The biggest reason fo
 __Do they think of the whole package, not just the coding?__<br />
 If you are extremely successful in finding a good developer you will notice they are obsessed with more than just the code. They will be obsessed with topics like User Experience, and they will bombard you with questions to understand how the app will be used, and what conditions it will be used under.
 
-![](/images/blog/img_temp_1.jpg)
+![](/images/img_temp_1.jpg)
 
 Questions to ask the candidate software developer
 -------------------------------------------------

@@ -59,7 +59,7 @@ Lowest cost option can be more expensive in the long run.  The biggest reason fo
 __Do they think of the whole package, not just the coding?__<br />
 If you are extremely successful in finding a good developer you will notice they are obsessed with more than just the code. They will be obsessed with topics like User Experience, and they will bombard you with questions to understand how the app will be used, and what conditions it will be used under.
 
-![](/images/img_temp_1.jpg)
+![What the customer needed](images/img_whatthecustomerneeded.jpg)
 
 Questions to ask the candidate software developer
 -------------------------------------------------

@@ -36,7 +36,7 @@ Often this edge is __not__ because they offer a better product or service, but t
  
 To see a clear example of this type of disruption, consider digital cameras. Originally, no professional would consider the poor results offered by emerging digital cameras. However to the less discerning amateur, they provided instant feedback and offered zero wastage, allowing them to experiment towards their perfect shot. This uptake by less sophisticated users allowed digital cameras to gain traction and quickly improve to the point of taking market share away from film-oriented players like Kodak.
 
-![](/images/blog/img_weapons_1.jpg)
+![](/images/img_weapons_1.jpg)
 *The emergence of the digital camera provided immediacy in finding the perfect shot.*
 
 Even more recently, this same cycle repeated with the evolution of the mobile phone camera. Although early offerings were extremely poor, a phone being on the person at all times allows for quick capture of memories. Through Internet connectivity, instant social media sharing helps propagates this behaviour. Today, the phone camera has become so good the amateur end of the digital camera market is evaporating; and the iPhone has officially become the world’s most popular camera.
@@ -54,7 +54,7 @@ Disruption in itself is not a negative, but it means change and those that canno
  
 Digital Disruption is more specifically related to online technologies, with websites and mobile apps being the enablers of this disruptive change. For example, a website allowing the online retailer the advantage of lower overheads to that of the bricks and mortar store. 
 
-![](/images/blog/img_weapons_2.jpg)
+![](/images/img_weapons_2.jpg)
 *Digital disruption is more specifically related to online technologies.*
 
 Important to remember is that the disrupting business is not necessarily a better offering. For most people, buying clothes online surely is not as good as visiting a store to try an item on.  But if the price is right and the convenience of staying at home is attractive, then online wins.

@@ -23,8 +23,6 @@ There is much fear attached to the concept of Disruption especially when the ter
  
 The irony is, even those who feel they are successfully wielding this weapon, poorly understand Disruption.
 
-![photo-enh.png]({{site.baseurl}}/images/photo-enh.png)
-
 Defining disruptive innovation
 ------------------------------
 Contrary to the belief held by the digital start-up scene, Disruption itself is not a weapon, it is an outcome. Understanding how it happens is key to being able to avoid it, or have the opportunity to disrupt others.

@@ -14,5 +14,64 @@ markdown: kramdown
 
 prose:
   rooturl: '_posts'
+  siteurl: 'https://enabledhq.github.io'
   media: 'images'
-    
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "Layout"
+          value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Title!"
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          placeholder: "Enter Post Description"
+      - name: "main-category"
+        field:
+          element: "select"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          value: technology
+          options:
+            - name: "Innovation"
+              value: innovation
+            - name: "Technology"
+              value: technology
+            - name: "User Experience"
+              value: ux
+            - name: "Entrepreneurship"
+              value: entrepreneurship
+          alterable: true
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          value: technology
+          options:
+            - name: "Innovation"
+              value: innovation
+            - name: "Technology"
+              value: technology
+            - name: "User Experience"
+              value: ux
+            - name: "Entrepreneurship"
+              value: entrepreneurship
+          alterable: true
+      - name: "meta-keywords"
+        field:
+          element: "text"
+          label: "Keywords"
+          placeholder: "Enter Comma Separated Keywords"

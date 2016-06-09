@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "What is 3D Printing?"
-date:   2012-03-6 15:30:00 +0930
+title: What is 3D Printing?
+date: '2012-03-6 15:30:00 +0930'
 main-category: technology
 categories: technology
 author: dylan
-hero-banner: "/images/blog/Blog_Header_3D.jpg"
-thumbnail-image: "/images/blog/img_3d_thumb.jpg"
+hero-banner: /images/Blog_Header_3D.jpg
+thumbnail-image: /images/img_3d_thumb.jpg
 description: >
-    3D Printing is being touted as the next Industrial Revolution. It will transform object manufacturing in the same way the desktop printer has to publishing.
+  3D Printing is being touted as the next Industrial Revolution. It will
+  transform object manufacturing in the same way the desktop printer has to
+  publishing.
 meta-description: >
-    3D printing technology is emerging. What is it and how does a 3d printer work? This blog will give you a brief introduction into this exciting area. 
+  3D printing technology is emerging. What is it and how does a 3d printer work?
+  This blog will give you a brief introduction into this exciting area. 
 meta-keywords: >
-    3d printing technology, What is 3d printing, 3d printing definition, 3d printing, 3d printer
+  3d printing technology, What is 3d printing, 3d printing definition, 3d
+  printing, 3d printer
+published: true
 ---
 
 I recently attended the [RiAUS 3D printing information day and workshop](http://riaus.org.au/programs-and-events/3d-printing-the-next-industrial-revolution/) and wanted to share some thoughts on the subject.

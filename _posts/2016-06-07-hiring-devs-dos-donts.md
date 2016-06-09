@@ -5,7 +5,7 @@ date: 'Tue Jun 07 2016 09:30:00 GMT+0930 (ACST)'
 main-category: technology
 categories:
   - technology
-author: grant
+author: linh
 hero-banner: /images/Blog_Header_howtohire.jpg
 thumbnail-image: /images/img_howtohire_thumb.jpg
 description: >-

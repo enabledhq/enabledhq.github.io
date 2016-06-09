@@ -1,18 +1,24 @@
 ---
 layout: post
-title:  "How To Hire Software Developers: Dos and Don'ts"
-date:   2016-06-07
+title: 'How To Hire Software Developers: Dos and Don''ts'
+date: 2016-06-07T00:00:00.000Z
 main-category: technology
 categories: technology
 author: grant
-hero-banner: "/images/blog/Blog_Header_howtohire.jpg"
-thumbnail-image: "/images/blog/img_howtohire_thumb.jpg"
+hero-banner: /images/Blog_Header_howtohire.jpg
+thumbnail-image: /images/img_howtohire_thumb.jpg
 description: >
-    Finding good software and app developers is hard, building long-term relationships with them is even harder. Here’s how to get in right from the start.
+  Finding good software and app developers is hard, building long-term
+  relationships with them is even harder. Here’s how to get in right from the
+  start.
 meta-description: >
-    Finding good software and app developers is hard, building long-term relationships with them is even harder. Here’s how to get in right from the start. 
+  Finding good software and app developers is hard, building long-term
+  relationships with them is even harder. Here’s how to get in right from the
+  start. 
 meta-keywords: >
-    software developer, software development, app developer, app development, agile development,
+  software developer, software development, app developer, app development,
+  agile development,
+published: true
 ---
 Technology projects can be daunting. The complexity, the unexpected issues, and if you’re unlucky, cost overruns. It might be tempting to blame technology - something that is intangible and difficult to explain. But it starts, and ends with people. 
 

@@ -1,6 +1,3 @@
-# Output destination for built files
-destination: ../website/blog
-
 # Site settings
 title: Enabled - iOS, Android, App, Website Developers, Adelaide
 description: > # Default meta description
@@ -16,6 +13,3 @@ url: "https://enabled.com.au"
 # Build settings
 markdown: kramdown
 
-bitly: 
-  username: jackenabled 
-  api_key: YOUR_BITLY_KEY

@@ -92,3 +92,13 @@ prose:
           element: "text"
           label: "Keywords"
           placeholder: "Enter Keywords"
+      - name: "hero-banner"
+        field:
+          element: "text"
+          label: "Hero Banner"
+          placeholder: "Enter image URL (e.g., images/my_image.jpg)"
+      - name: "thumbnail-image"
+        field:
+          element: "text"
+          label: "Thumbnail"
+          placeholder: "Enter image URL (e.g., images/my_image.jpg)"

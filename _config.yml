@@ -56,8 +56,7 @@ prose:
             - name: "Grant Hull"
               value: grant
             - name: "Dylan Sale"
-              value: dylan
-          alterable: true          
+              value: dylan         
       - name: "main-category"
         field:
           element: "select"
@@ -73,7 +72,6 @@ prose:
               value: ux
             - name: "Entrepreneurship"
               value: entrepreneurship
-          alterable: true
       - name: "categories"
         field:
           element: "multiselect"
@@ -89,7 +87,6 @@ prose:
               value: ux
             - name: "Entrepreneurship"
               value: entrepreneurship
-          alterable: true
       - name: "meta-keywords"
         field:
           element: "text"

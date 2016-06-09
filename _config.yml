@@ -16,28 +16,8 @@ prose:
   rooturl: '_posts'
   siteurl: 'https://enabledhq.github.io'
   media: 'images'
-  metadata:
-    "":
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          value: false    
+  metadata:    
     _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"      
       - name: "layout"
         field:
           element: "hidden"

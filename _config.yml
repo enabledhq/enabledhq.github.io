@@ -49,7 +49,15 @@ prose:
             - name: "Grant Hull"
               value: grant
             - name: "Dylan Sale"
-              value: dylan         
+              value: dylan
+            - name: "Josh Rogers"
+              value: josh
+            - name: "Simeon Saens"
+              value: simeon
+            - name: "Colin Capurso"
+              value: colin
+            - name: "Jarrod Swift"
+              value: jarrod
       - name: "main-category"
         field:
           element: "select"

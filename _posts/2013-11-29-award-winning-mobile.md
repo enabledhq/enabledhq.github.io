@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  "Award Winning Mobile Application Development"
-date:   2013-11-29 15:30:00 +0930
+title: Award Winning Mobile Application Development
+date: '2013-11-29 15:30:00 +0930'
 main-category: technology
 categories: technology
 author: grant
-hero-banner: "/images/blog/Blog_Header_winning.jpg"
-thumbnail-image: "/images/blog/img_winning_thumb.jpg"
+hero-banner: /images/Blog_Header_winning.jpg
+thumbnail-image: /images/img_winning_thumb.jpg
 description: >
-    Mobile application development is not just about getting the coding right, but also the user experience and business implication.
+  Mobile application development is not just about getting the coding right, but
+  also the user experience and business implication.
 meta-description: >
-    Mobile application development is not just about getting the coding right, but also the user experience and business implication.
-meta-keywords: >
-    mobile application development, software development, app development
+  Mobile application development is not just about getting the coding right, but
+  also the user experience and business implication.
+meta-keywords: |
+  mobile application development, software development, app development
+published: true
 ---
 
 Over the years, Enabled has scored a series of wins with National and Local awards. We feel this demonstrates our commitment to delivering real outcomes for our clients. Mobile app development is not just about getting the coding right, but also the user experience and business implication. 

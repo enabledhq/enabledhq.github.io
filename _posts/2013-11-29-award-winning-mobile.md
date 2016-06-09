@@ -3,18 +3,18 @@ layout: post
 title: Award Winning Mobile Application Development
 date: '2013-11-29 15:30:00 +0930'
 main-category: technology
-categories: technology
+categories:
+  - technology
 author: grant
 hero-banner: /images/Blog_Header_winning.jpg
 thumbnail-image: /images/img_winning_thumb.jpg
-description: >
+description: >-
   Mobile application development is not just about getting the coding right, but
   also the user experience and business implication.
 meta-description: >
   Mobile application development is not just about getting the coding right, but
   also the user experience and business implication.
-meta-keywords: |
-  mobile application development, software development, app development
+meta-keywords: 'mobile application development, software development, app development'
 published: true
 ---
 
@@ -22,7 +22,7 @@ Over the years, Enabled has scored a series of wins with National and Local awar
 <br />
 <br />
 
-![](/images/blog/award_clipsalicat.jpg)
+![](/images/award_clipsalicat.jpg)
 
 Clipsal iCat
 ------------
@@ -36,7 +36,7 @@ _Anthony Locke, Marketing Systems Manager, Clipsal by Schneider Electric_
 <br />
 <br />
 
-![](/images/blog/award_mixxitathome.jpg)
+![](/images/award_mixxitathome.jpg)
 
 CCA Mixxit@Home Kiosk
 ---------------------
@@ -50,7 +50,7 @@ _John Murphy, CCA MD of Beverages._
 <br />
 <br />
 
-![](/images/blog/award_cloudclinic.jpg)
+![](/images/award_cloudclinic.jpg)
 
 
 Cloud Clinic
@@ -62,7 +62,7 @@ The National publication “Medical Observer” ran a competition for the best a
 <br />
 <br />
 
-![](/images/blog/award_isports.jpg)
+![](/images/award_isports.jpg)
 
 iSports
 -------
@@ -74,11 +74,11 @@ Presently, iSports is a well-kept South Australian secret and yet is a software 
 <br />
 <br />
 
-![](/images/blog/award_wahousing.jpg)
+![](/images/award_wahousing.jpg)
 
 Western Australia Housing
 -------------------------
 
 The app designed for Western Australia’s Housing Department also received a special commendation in the SAimX awards. Western Australian Housing engaged Enabled to replace their aging PDA based system with a fully integrated and real time inspection iOS application for the assessment of government provided housing. Now in the field, their inspectors enjoy use of the app on the perfectly portioned iPad mini, and feedback has been positive from the ground through to the top level management.
 
-For more details on some of our work, head to our [Case Studies](/our-work) section.
+For more details on some of our work, head to our [Case Studies](https://enabled.com.au/our-work) section.

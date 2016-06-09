@@ -7,14 +7,13 @@ description: > # Default meta description
 keywords: > # Default meta keywords
   Enabled, Enabled Solutions, Adelaide, Australia, mobile, mobile applications, iPhone developers,iPad developers,cross platform developers, Android developers, ios developers, Adelaide, digital media, websites, CMS websites, design, branding, digital design, video, motion, touch
 
-url: "https://enabledhq.github.io"
+url: "http://blog.enabled.com.au"
 
 # Build settings
 markdown: kramdown
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://enabledhq.github.io'
   media: 'images'
   metadata:    
     _posts:

@@ -28,7 +28,7 @@ linh:
   description: >
     Placeholder
   small-image: /images/img_teamphotos_linh_sm.jpg
-  large-image: /images/author/img_author_linh.jpg
+  large-image: /images/author/img_author_linh.png
   
 josh:
   name: Josh Rogers
@@ -67,5 +67,4 @@ jarrod:
   description: >
     Description of Jarrod
   small-image: /images/img_teamphotos_jarrod_sm.jpg
-  large-image: /images/author/img_author_jarrod.jpg      
-    
+  large-image: /images/author/img_author_jarrod.jpg

@@ -29,3 +29,43 @@ linh:
     Placeholder
   small-image: /images/img_teamphotos_linh_sm.jpg
   large-image: /images/author/img_author_linh.jpg
+  
+josh:
+  name: Josh Rogers
+  shortname: josh
+  twitter: TheJoshRogers
+  description-title: Designer
+  description: >
+    Description of Josh
+  small-image: /images/img_teamphotos_josh_sm.jpg
+  large-image: /images/author/img_author_josh.jpg
+  
+simeon:
+  name: Simeon Saens
+  shortname: simeon
+  twitter: TwoLivesLeft
+  description-title: Developer
+  description: >
+    Description of Simeon
+  small-image: /images/img_teamphotos_simeon_sm.jpg
+  large-image: /images/author/img_author_simeon.jpg  
+  
+colin:
+  name: Colin Capurso
+  shortname: colin
+  twitter: colincapurso
+  description-title: Developer
+  description: >
+    Description of Colin
+  small-image: /images/img_teamphotos_colin_sm.jpg
+  large-image: /images/author/img_author_colin.jpg    
+  
+jarrod:
+  name: Jarrod Swift
+  shortname: jarrod
+  description-title: Developer
+  description: >
+    Description of Jarrod
+  small-image: /images/img_teamphotos_jarrod_sm.jpg
+  large-image: /images/author/img_author_jarrod.jpg      
+    

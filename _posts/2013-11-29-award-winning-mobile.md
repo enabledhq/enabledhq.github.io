@@ -15,7 +15,7 @@ meta-description: >
   Mobile application development is not just about getting the coding right, but
   also the user experience and business implication.
 meta-keywords: 'mobile application development, software development, app development'
-published: true
+published: false
 ---
 
 Over the years, Enabled has scored a series of wins with National and Local awards. We feel this demonstrates our commitment to delivering real outcomes for our clients. Mobile app development is not just about getting the coding right, but also the user experience and business implication. 

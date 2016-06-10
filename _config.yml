@@ -12,6 +12,8 @@ url: "http://blog.enabled.com.au"
 # Build settings
 markdown: kramdown
 
+permalink: /:title/
+
 prose:
   media: 'images'
   ignore: ['_includes', '_layouts', '_sass', '.gitignore', 'CNAME']

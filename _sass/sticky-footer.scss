@@ -31,6 +31,12 @@
 	}
 }*/
 
+@media (max-width: 480px){
+	div#footer-buttons .btn {
+    	margin: 25px auto 0 auto;
+	}
+}
+
 @media only screen and (min-width : 768px) {
     .sticky-footer-logo {
         margin-left: 80px;

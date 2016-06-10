@@ -12,7 +12,7 @@ url: "http://blog.enabled.com.au"
 # Build settings
 markdown: kramdown
 
-permalink: /:categories/:title/
+permalink: /:title/
 
 prose:
   media: 'images'

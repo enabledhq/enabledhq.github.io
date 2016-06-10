@@ -90,6 +90,9 @@
 
 /* When on desktop center the icons in the page*/
 @media only screen and (min-width : 768px) {
+	a.btn {
+    	margin: 0 25px 15px 30px;
+	}
     .sticky-footer-share-buttons-container {
         width: 100%;
         float: none;

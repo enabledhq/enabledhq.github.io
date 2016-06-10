@@ -126,7 +126,7 @@ div.post-meta.work-postby {
 
 .related-posts-container {
     padding-top: 20px;
-    background-color: white;
+    background-color: #FFF;
     width: 100%;
 }
 .related-posts {
@@ -167,7 +167,7 @@ div.post-meta.work-postby {
     background-position: center center;
 
     text-align: center;
-    color: white;
+    color: #FFF;
     font-family: 'Roboto Slab', serif;
 }
 
@@ -179,7 +179,7 @@ div.post-meta.work-postby {
 }
 
 .post-header-categories a {
-    color: white;
+    color: #FFF;
 }
 
 .post-header-categories a:hover {
@@ -190,11 +190,15 @@ div.post-meta.work-postby {
     width: 70%;
     border-style: none;
     border-width: 0;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #FFF;
 }
 .post-header-title h1 {
     margin-top: 50px;
-    color: white;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFF;
 }
 
 .post-header-meta {
@@ -210,10 +214,10 @@ div.post-meta.work-postby {
     height: 20px;
     padding: 13px;
     border-style: solid;
-    border-color: white;
+    border-color: #FFF;
     border-radius: 26px;
     border-width: 3px;
-    color: white;
+    color: #FFF;
 }
 
 .post-header-read i {
@@ -229,7 +233,7 @@ div.post-meta.work-postby {
 }
 
 .twitter-inline-button {
-    color: white;
+    color: #FFF;
     cursor: pointer;
     font-size: 24px;
     text-align: center;
@@ -267,25 +271,21 @@ div.post-meta.work-postby {
 }
 
 #footer-buttons a.button-letschat {
-    height: 20px;
-    margin-left: 35px;
-    margin-top: 5px;
+   background-color: #f6364b;
+    color: #FFF;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    border: 2px solid #f6364b;
+	
+	margin: 0 25px 15px 0;
     padding: 6px 15px 6px 30px;
+    display: inline-block;
+    text-decoration: none;
     font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-style: normal;
 }
-
-/*@media (max-width: 480px){
-    div#footer-buttons .btn {
-        margin: 0; 
-        width: 100%; 
-        text-align: center; 
-        font-size: inherit; 
-        padding: 15px 15px 15px 30px; 
-        -moz-box-sizing: content-box;
-        -webkit-box-sizing: content-box; 
-        box-sizing: content-box; 
-    }
-}*/
 
 .clearfix:after {
     content: ".";
@@ -342,7 +342,7 @@ div.work-postby {
 
 .work-text p {
     margin-top: 0;
-    min-height: 115px;
+    min-height: 90px;
 }
 
 .non-twitter-quote {

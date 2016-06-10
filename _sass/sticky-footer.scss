@@ -15,6 +15,22 @@
     margin-left: 10px;
 }
 
+ @media (max-width: 480px){
+    div#footer-buttons a.button-letschat {
+       margin: 0 auto 15px auto;
+		width: 100%;
+		text-align: center;
+		font-size: 22px;
+		padding: 15px 15px 15px 30px;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		-webkit-border-radius: 28px;
+		-moz-border-radius: 28px;
+		border-radius: 28px;
+	}
+}
+
 @media only screen and (min-width : 768px) {
     .sticky-footer-logo {
         margin-left: 80px;

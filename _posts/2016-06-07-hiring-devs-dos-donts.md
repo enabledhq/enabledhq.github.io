@@ -74,7 +74,7 @@ What methods does the developer use to test the robustness and security of your 
 
 
 __Do you use version control?__<br />
-An individual developer may feel they have less need for using version control but it is best practice to do so. Ask them which version control system they use, common ones include: CVS, Subversion (SVN) and Git. While you are at it, set up an account with a source code repository like GitHub or Bitbucket and ask for access to the code. With this you can also see how often they are working on your project.
+An individual developer may feel they have less need for using version control but it is best practice to do so. Ask them which version control system they use, common ones include: Git, Mercurial and Subversion (SVN). While you are at it, set up an account with a source code repository like GitHub or Bitbucket and ask for access to the code. With this you can also see how often they are working on your project.
 
 
 __Do you have a development agreement?__<br />

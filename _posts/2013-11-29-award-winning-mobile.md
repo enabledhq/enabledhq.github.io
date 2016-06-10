@@ -5,7 +5,7 @@ date: '2013-11-29 15:30:00 +0930'
 main-category: technology
 categories:
   - technology
-author: grant
+author: linh
 hero-banner: /images/Blog_Header_winning.jpg
 thumbnail-image: /images/img_winning_thumb.jpg
 description: >-

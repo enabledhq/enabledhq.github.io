@@ -1,3 +1,5 @@
+{% assign author = site.data.people[page.author] %}
+
 <div class="sticky-footer">
     <div class="sticky-footer-logo">
         <a href="{{ site.url | append: site.baseurl }}">
@@ -14,7 +16,7 @@
                 </a>
             </li>
             <li><!-- Twitter (url, text, @mention) -->
-                <a href="https://twitter.com/intent/tweet?text={{page.title | uri_escape }}:%20{{ site.url | append: site.baseurl | append: page.url | uri_escape }}&amp;via={{page.author}}" target="_blank">
+                <a href="https://twitter.com/intent/tweet?text={{page.title | uri_escape }}:%20{{ site.url | append: site.baseurl | append: page.url | uri_escape }}&amp;via={{author.twitter}}" target="_blank">
                     <span class="sticky-footer-icon">{% include svgs/ic_twitter.svg%}</span>
                 </a>
             </li>

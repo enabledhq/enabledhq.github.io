@@ -1,13 +1,15 @@
+{% assign author = site.data.people[page.author] %}
+
 <div class="author-container">
 	<h3 class="author-title">Author</h3>
 	<hr class="author-hr">
 
 	<div class="author-info-image">
-		<img src="{{include.author.large-image}}">
+		<img src="{{author.large-image}}">
 	</div>
 	<div class="author-info-description">
-		<h3>{{include.author.description-title}}</h3>
-		{{include.author.description}}
+		<h3>{{author.description-title}}</h3>
+		{{author.description}}
 	</div>
 	<div class="clearfix"></div>
 </div>

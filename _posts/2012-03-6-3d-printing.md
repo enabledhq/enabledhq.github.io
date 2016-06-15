@@ -5,6 +5,7 @@ date: '2012-03-6 15:30:00 +0930'
 main-category: technology
 categories:
   - technology
+short-link: http://bit.ly/1USK5N4
 author: dylan
 hero-banner: /images/Blog_Header_3D.jpg
 thumbnail-image: /images/img_3d_thumb.jpg

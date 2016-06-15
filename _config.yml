@@ -91,6 +91,11 @@ prose:
               value: ux
             - name: "Entrepreneurship"
               value: entrepreneurship
+      - name: "short-link"
+        field:
+          element: "text"
+          label: "Short Link"
+          placeholder: "Enter short link"
       - name: "meta-keywords"
         field:
           element: "text"

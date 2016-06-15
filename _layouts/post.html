@@ -3,7 +3,6 @@ layout: default
 ---
 {% assign author = site.data.people[page.author] %}
 {% assign words = content | number_of_words %}
-
 <div class="post-header-banner" style="background-image:url(
 {% if page.hero-banner %}
 {{ page.hero-banner }}
@@ -44,7 +43,7 @@ http://placehold.it/1000x550
 </article>
 
 {% include subscribe.html %}
-{% include author-info.html author=author %}
+{% include author-info.html %}
 
 {% if site.related_posts.size > 0 %}
 <!-- Related Posts -->
@@ -74,7 +73,7 @@ $('blockquote').each(function (index, value){
     $(document.createElement('div')).attr({class:"arrow_box"})
   			.html('<i class="fa fa-twitter" aria-hidden="true"></i>'));
   var anchor = $(document.createElement('a')).attr({
-    href:"https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl | prepend: site.url  | url_param_escape }}&via=EnabledHQ&text=" + encodeURIComponent(quote) + " @{{author.twitter}}",
+    href:"https://twitter.com/intent/tweet?url={{ page.short-link }}&via={{author.twitter}}&text=" + encodeURIComponent(quote) + " @EnabledHQ",
     target:"_blank",
     class: "quote-link"
     });
@@ -86,7 +85,7 @@ $('.inline-quote').each(function (index, value){
     var quote = $(this).text();
 
     var anchor = $(document.createElement('a')).attr({
-      href:"https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl | prepend: site.url  | url_param_escape }}&via=EnabledHQ&text=\"" + encodeURIComponent(quote)+"\" @{{author.twitter}}",
+      href:"https://twitter.com/intent/tweet?url={{ page.short-link }}&via={{author.twitter}}&text=\"" + encodeURIComponent(quote)+"\" @EnabledHQ",
       target:"_blank",
       class: "inline-quote-link"
     });

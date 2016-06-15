@@ -4,6 +4,7 @@ title: 'Weapons of Mass Disruption: Scary and Accessible'
 date: '2016-05-03 15:30:00 +0930'
 main-category: innovation
 categories: innovation
+short-link: http://bit.ly/1Uydlc2
 author: grant
 hero-banner: /images/Blog_Header_weapons.jpg
 thumbnail-image: /images/img_weapons_thumb.jpg

@@ -19,7 +19,7 @@ meta-keywords: 'mobile application development, software development, app develo
 published: true
 ---
 
-Over the years, Enabled has scored a series of wins with National and Local awards. We feel this demonstrates our commitment to delivering real outcomes for our clients. Mobile app development is not just about getting the coding right, but also the user experience and business implication. 
+Over the years, Enabled has scored a series of wins with National and Local awards. We feel this demonstrates our commitment to delivering real outcomes for our clients. Mobile app development is not just about getting the coding right, but also the user experience and business implication.
 <br />
 <br />
 
@@ -41,7 +41,7 @@ _Anthony Locke, Marketing Systems Manager, Clipsal by Schneider Electric_
 
 CCA Mixxit@Home Kiosk
 ---------------------
-Taking out a Gold Award at POPAI - Marketing at Retail Awards, the Mixxit@Home kiosk and App is a Point Of Sales tool for Coca-Cola Amatil. It aims to expand customers’ thoughts of what drinks to make at their next social occasion, with the side effect of expanding purchase of Coca-Cola Amatil’s range of spirits. 
+Taking out a Gold Award at POPAI - Marketing at Retail Awards, the Mixxit@Home kiosk and App is a Point Of Sales tool for Coca-Cola Amatil. It aims to expand customers’ thoughts of what drinks to make at their next social occasion, with the side effect of expanding purchase of Coca-Cola Amatil’s range of spirits.
 
 <div class="non-twitter-quote">
 “The response has been overwhelming, with feedback from retailers and consumers proving extremely positive. Some stores are recording up to 40% uplift in sales on products featured in the Mixxit@Home unit”
@@ -68,8 +68,8 @@ The National publication “Medical Observer” ran a competition for the best a
 iSports
 -------
 
-Enabled’s own iSports apps also received a Highly Commended award in the SAimX awards. iSports is a suite of professional sporting tools designed to manage and enhance game day performance, and facilitate better post-match review. The suite of iSports apps were taken up in the 2013 season by 5 of the leading AFL clubs and many state-level clubs, including a majority of the SANFL. It has been very well received and has pre-sales requests by the same users and additional clubs for 2014. 
-Presently, iSports is a well-kept South Australian secret and yet is a software platform satisfying one of Australia’s pinnacle sports. In 2014, interest is building in other Australian sports with tremendous growth opportunities overseas. 
+Enabled’s own iSports apps also received a Highly Commended award in the SAimX awards. iSports is a suite of professional sporting tools designed to manage and enhance game day performance, and facilitate better post-match review. The suite of iSports apps were taken up in the 2013 season by 5 of the leading AFL clubs and many state-level clubs, including a majority of the SANFL. It has been very well received and has pre-sales requests by the same users and additional clubs for 2014.
+Presently, iSports is a well-kept South Australian secret and yet is a software platform satisfying one of Australia’s pinnacle sports. In 2014, interest is building in other Australian sports with tremendous growth opportunities overseas.
 
 <http://www.isports.net.au/>
 <br />

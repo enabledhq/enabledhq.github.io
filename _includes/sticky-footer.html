@@ -10,28 +10,28 @@
     <div class="sticky-footer-share-buttons-container">
         <div class="sticky-footer-share-buttons">
         <ul>
-            <li>
-                <a href="https://bufferapp.com/add?url={{ site.url | append: site.baseurl | append: page.url | uri_escape }}&amp;text={{page.title | uri_escape }}" target="_blank">
+            <li><!-- Buffer (url, text) -->
+                <a href="https://bufferapp.com/add?url={{ page.short-link }}&amp;text={{ page.title | uri_escape }}" target="_blank">
                 <span class="sticky-footer-icon">{% include svgs/ic_buffer.svg%}</span>
                 </a>
             </li>
             <li><!-- Twitter (url, text, @mention) -->
-                <a href="https://twitter.com/intent/tweet?text={{page.title | uri_escape }}:%20{{ site.url | append: site.baseurl | append: page.url | uri_escape }}&amp;via={{author.twitter}}" target="_blank">
+                <a href="https://twitter.com/intent/tweet?url={{ page.short-link }}&amp;via={{ author.twitter }}&amp;text={{page.title | uri_escape }} @EnabledHQ" target="_blank">
                     <span class="sticky-footer-icon">{% include svgs/ic_twitter.svg%}</span>
                 </a>
             </li>
             <li><!-- Google Plus (url) -->
-                <a href="https://plus.google.com/share?url={{ site.url | append: site.baseurl | append: page.url | uri_escape }}" target="_blank">
+                <a href="https://plus.google.com/share?url={{ page.short-link }}" target="_blank">
                     <span class="sticky-footer-icon">{% include svgs/ic_googleplus.svg%}</span>
                 </a>
             </li>
             <li><!-- Facebook (url) -->
-                <a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url | append: site.baseurl | append: page.url | uri_escape }}" target="_blank">
+                <a href="http://www.facebook.com/sharer/sharer.php?u={{ page.short-link }}" target="_blank">
                     <span class="sticky-footer-icon">{% include svgs/ic_facebook.svg%}</span>
                 </a>
             </li>
             <li><!-- LinkedIn (url, title, summary, source url) -->
-                <a href="http://www.linkedin.com/shareArticle?url={{ site.url | append: site.baseurl | append: page.url | uri_escape }}&amp;mini=true&amp;title={{page.title|uri_escape}}&amp;source=Enaled%20Solutions" target="_blank">
+                <a href="http://www.linkedin.com/shareArticle?url={{ page.short-link }}amp;mini=true&amp;title={{ page.title | uri_escape }}&amp;source=Enabled%20Solutions" target="_blank">
                     <span class="sticky-footer-icon">{% include svgs/ic_linkedin.svg%}</span>
                 </a>
             </li>

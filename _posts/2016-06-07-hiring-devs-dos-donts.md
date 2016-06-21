@@ -16,17 +16,17 @@ description: >-
 meta-description: >
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the
-  start. 
+  start.
 meta-keywords: >-
   software developer, software development, app developer, app development,
   agile development,
 published: true
 ---
-Technology projects can be daunting. The complexity, the unexpected issues, and if you’re unlucky, cost overruns. It might be tempting to blame technology - something that is intangible and difficult to explain. But it starts, and ends with people. 
+Technology projects can be daunting. The complexity, the unexpected issues, and if you’re unlucky, cost overruns. It might be tempting to blame technology - something that is intangible and difficult to explain. But it starts, and ends with people.
 
-Why do you want to start a software development project? To serve the needs of people. How do we know if it’s a successful project? We test it on people. 
+Why do you want to start a software development project? To serve the needs of people. How do we know if it’s a successful project? We test it on people.
 
-If we follow this logic, it is easy to see why we need to address the human factors when a project runs over its budget. In our experience, often it happens when the developer(s) did not have the required skill to see it through. 
+If we follow this logic, it is easy to see why we need to address the human factors when a project runs over its budget. In our experience, often it happens when the developer(s) did not have the required skill to see it through.
 
 Particularly upsetting are a few recent examples of new tech-startups who have joined forces with extremely enthusiastic, but overconfident programmers, who have consumed budgets and wasted critical time.
 
@@ -54,7 +54,7 @@ Most successful software needs to be honed to become optimally functional and sh
 
 
 __Don’t shop by price alone__<br />
-Lowest cost option can be more expensive in the long run.  The biggest reason for a failed development is because the developer completely underestimated the scope of work, sometimes to the point of not having the required skills to able to finish the job. This leaves you with an exhausted budget and no app to deploy. 
+Lowest cost option can be more expensive in the long run.  The biggest reason for a failed development is because the developer completely underestimated the scope of work, sometimes to the point of not having the required skills to able to finish the job. This leaves you with an exhausted budget and no app to deploy.
 
 
 __Do they think of the whole package, not just the coding?__<br />
@@ -67,7 +67,7 @@ Questions to ask the candidate software developer
 -------------------------------------------------
 
 __What development methodology do you like?__<br />
-You should expect a mention of either Waterfall / Agile or a hybrid of these. Take the time to read up on the basics if you can, but a complete understanding is not necessary to evaluate a developer. In practice, both have their pros and cons and certain projects suit one more than the other. What you should hope is that your developer knows something about both and can present a case for which one suits your project most.  
+You should expect a mention of either Waterfall / Agile or a hybrid of these. Take the time to read up on the basics if you can, but a complete understanding is not necessary to evaluate a developer. In practice, both have their pros and cons and certain projects suit one more than the other. What you should hope is that your developer knows something about both and can present a case for which one suits your project most.
 
 
 __What is your Quality Assurance (QA) process?__<br />
@@ -100,7 +100,7 @@ As development includes several activities such as User Experience, Graphic Desi
 __They don’t provide a development schedule__<br />
 If you have been provided a quotation, this developer should also be able to provide you a schedule. After all how did they estimate the fees they need to charge? Commonly, your own availability can have a significant effect on a project. Thus, this schedule should also consider the time it will take you to be able to play your part in the development.
 
-> Time in the industry is also not an indication of quality, as an experienced person can become obsolete faster than a new player can become mature.
+> An experienced person can become obsolete faster than a new player can become mature.
 
 
 __Timelines are drawn out__<br />

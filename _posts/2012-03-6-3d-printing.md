@@ -15,7 +15,7 @@ description: >-
   publishing.
 meta-description: >
   3D printing technology is emerging. What is it and how does a 3d printer work?
-  This blog will give you a brief introduction into this exciting area. 
+  This blog will give you a brief introduction into this exciting area.
 meta-keywords: >-
   3d printing technology, What is 3d printing, 3d printing definition, 3d
   printing, 3d printer
@@ -45,7 +45,7 @@ There are a wide range of devices out there, with a huge price range, but the cu
 ![](/images/img_3d_3.jpg)
 *Close up of Makerbots in action*
 
-> "What is a 3D printer? It's a device that uses a process known as Additive Manufacturing to build an object layer-by-layer."
+> "A 3D printer uses Additive Manufacturing to build an object layer-by-layer."
 
 These machines are very nifty and cost around $1000 so are reasonably affordable when compared to the tens to hundreds of thousands of dollars to outlay for the big industrial machines. The results are striking but still have plenty of room for improvement, their resolution are low so they don’t create a polished finish and can take a lot of calibration in order to correctly setup
 
@@ -53,10 +53,10 @@ An alternative to these entry point printers is to use a service like [Ponoko](h
 
 Conclusion
 ----------
-What will this mean? Consider a future where designers don’t create a single object. Instead they will create a parametric system which defines a possible infinite set of objects that encapsulate a desired function. Think of a chair that can be adjusted to any dimensions, or a set of shelves built exactly to your wall space. This technology has the possibility to bring back the personalisation that craftsmen once provided before the industrial revolution, while offering the economic savings that mass production has brought us. 
+What will this mean? Consider a future where designers don’t create a single object. Instead they will create a parametric system which defines a possible infinite set of objects that encapsulate a desired function. Think of a chair that can be adjusted to any dimensions, or a set of shelves built exactly to your wall space. This technology has the possibility to bring back the personalisation that craftsmen once provided before the industrial revolution, while offering the economic savings that mass production has brought us.
 
 > "Consider a future where designers don’t have to create a single object."
 
-It is an exciting prospect, however the current entry level is around the of sophistication of personal computing during the 70s and 80s, thus there is a long way to go before the mainstream will get on board. So for now personal 3D printing is mostly the domain of geeks – but I think that in the next 5 to 10 years you might just have a 3D printer in your home or office. 
+It is an exciting prospect, however the current entry level is around the of sophistication of personal computing during the 70s and 80s, thus there is a long way to go before the mainstream will get on board. So for now personal 3D printing is mostly the domain of geeks – but I think that in the next 5 to 10 years you might just have a 3D printer in your home or office.
 ​
 More images and commentary on the event can be found at the [ANAT website](http://makerblog.anat.org.au/2012/02/3d-printing-forum-riaus-20th-feb-2012-photos/).

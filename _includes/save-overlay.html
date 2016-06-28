@@ -1,31 +1,50 @@
 <div id="{{include.overlayid}}">
-<a href="#" class="close-overlay"><div>&times;</div></a>
-<h1>Save this post for later.</h1>
-<input type="text" name="email"><br>
-<div><input type="checkbox" name="subscribe" placeholder="email"> Subscribe to future blog updates</div>
-<a class="btn button-letschat" href="/letschat">Let's Chat <span class="icon">&#8595;</span></a> 
+    <a href="#" class="close-overlay"><div>&times;</div></a>
+    <img class="save-image" src="/images/img_savethispost.jpg">
+    <h1>Save this post for later.</h1>
+    <input type="text" class="save-email" placeholder="Email" name="email"><br>
+    <br>
+    <div>
+        <input type="checkbox" class="checkbox-save" name="subscribe" placeholder="email"> <label>Subscribe to future blog updates</label>
+    </div>
+    <br>
+    <br>
+    <a class="btn button-save-submit" href="#save-overlay">Submit <span class="icon">&#8594;</span></a>
+    <p class="success-message"></p>
+    <p class="error-message"></p>
 </div>
 
 <style>
-#{{include.overlayid}}{ /* we set all of the properties for are overlay */
-    height:100%;
-    width:100%;
-    background-color:#553285;
-    color:black;
-    position:fixed;
+#{{include.overlayid}}{
+    height: 100%;
+    width: 100%;
+    background-color: #562E87;
+    color: white;
+    position: fixed;
     top: 0;
     left: 0;
-    z-index:2000;
-    display:none;
+    z-index: 2000;
+    display: none;
     text-align: center;
+    font-family: 'Roboto Slab', serif;
 }
 
 #{{include.overlayid}}:target{
-  display: block;
+    display: block;
 }
 
 #{{include.overlayid}} h1 {
     color: white;
+}
+
+.save-image {
+    max-width: 100%;
+}
+
+@media only screen and (min-width : 768px) {
+    .save-image {
+        margin-top: 100px;
+    }
 }
 
 #{{include.overlayid}} input[type=text] {
@@ -34,12 +53,20 @@
     border-radius: 3px;
 
     border: none;
-    padding: 5px;
+    padding: 15px;
     font-family: 'Roboto Slab', serif;
-    width: 270px;
+    width: 400px;
     max-width: 100%;
+    font-size: 20px;
 }
 
+.success-message {
+    display: none;
+}
+
+.error-message {
+    display: none;
+}
 
 .close-overlay div {
     position: absolute;
@@ -52,4 +79,52 @@
     font-size: 30px;
 }
 
+a.button-save-submit {
+    background-color: #7954ab;
+    color: #FFF;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    border: 2px solid #7954ab;
+}
+
 </style>
+
+
+<script type="text/javascript">
+// http://stackoverflow.com/questions/46155/validate-email-address-in-javascript
+function validateEmail(email) {
+    var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(email);
+}
+
+$(".button-save-submit").click(function(){
+    var webhookUrl = "https://hooks.zapier.com/hooks/catch/1461995/466lgu/";
+
+    var data = {};
+    data.email = $("save-email").val();
+    data.subscribe = $('.checkbox-save').is(":checked").toString();
+    data.title = document.title.split("|")[0]; // Get the portion of the title before the pipe, or if no pipe returns the whole title
+    data.url = window.location.href;
+
+    if(!validateEmail(email)){
+        $(".error-message").text("That email is invalid.").show();
+    }
+
+    $.ajax({
+        type: "POST",
+        url: webhookUrl,
+        data: JSON.stringify(data),
+        dataType: "json",
+        success: function(data){
+            $(".error-message").hide();
+            $(".success-message").text("Thanks! All done.").show();
+        },
+        failure: function(errMsg) {
+            $(".success-message").hide();
+            $(".error-message").text("There was an error.").show();
+        }
+    });
+});
+</script>
+

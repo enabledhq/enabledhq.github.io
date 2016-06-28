@@ -20,7 +20,7 @@ http://placehold.it/1000x550
     <div class="post-author-name">by {{ author.name }}</div>
     <div class="post-time"><i class="fa fa-clock-o"></i> {{ page.date | date: "%b %-d, %Y" }}</div>
     <br>
-    <!-- <a href="#save-overlay"> -->
+    <a href="#save-overlay">
     <div class="post-header-read">
     <i class="fa fa-paper-plane"></i>
     {% if words < 360 %}
@@ -29,7 +29,7 @@ http://placehold.it/1000x550
       {{ words | divided_by:180 }} Minutes
     {% endif %}
     </div>
-    <!-- </a> -->
+    </a>
   </div>
 </div>
 
@@ -62,9 +62,7 @@ http://placehold.it/1000x550
 
 {% include sticky-footer.html %}
 
-{% comment %}
 {% include save-overlay.html overlayid="save-overlay"%}
-{% endcomment %}
 <script>
 // Blockquote twitter sharing
 $('blockquote').each(function (index, value){

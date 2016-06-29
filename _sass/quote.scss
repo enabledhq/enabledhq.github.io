@@ -1,3 +1,28 @@
+/* Styles related to inline quotes, block quotes, and non twitter quotes */
+
+/* Block quote styles */
+/* ------------------- */
+blockquote p {
+    font-size: 36px;
+    font-style: italic;
+    line-height: 140%;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 0.5em;
+}
+
+blockquote {
+    color: $brand-color;
+    text-align: center;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+blockquote:before, blockquote:after {
+    content: '';
+}
+
 .arrow_box {
 	width: 16px;
 	margin: 0 auto;
@@ -48,7 +73,6 @@
 	color: white;
 	background: $arrow-box-hover-color;
 	border: 4px solid $arrow-box-hover-color;
-
 }
 
 .quote-link:hover .arrow_box:after {
@@ -60,6 +84,9 @@
 	border-color: rgba(85, 172, 238, 0);
 	border-bottom-color: $arrow-box-hover-color;
 }
+
+/* Inline quote styles */
+/* ------------------- */
 
 .inline-quote-link {
 	color: $text-color;
@@ -80,6 +107,13 @@
 	background-size: 20px 20px;
 }
 
+.twitter-inline-button {
+    color: #FFF;
+    cursor: pointer;
+    font-size: 24px;
+    text-align: center;
+}
+
 .twitter-text-icon {
 	margin-left: 5px;
 	display: inline-block;
@@ -87,4 +121,16 @@
 	height: 20px;
 	background: url(/images/ic_inlinetweet_normal.svg);
 	background-size: 20px 20px;
+}
+
+/* Non twitter quote styles */
+/* ------------------- */
+
+.non-twitter-quote {
+	padding: 0 15px;
+	color: #b1b1b1;
+	border-left: 10px solid $brand-color;
+	line-height: 50px;
+	font-size: 30px;
+	font-weight: 200;
 }

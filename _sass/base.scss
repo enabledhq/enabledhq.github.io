@@ -24,38 +24,6 @@ article img {
     width: 100%;
 }
 
-div.work-image {
-    background-position: center center;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 200px;
-}
-
-div.work-text h4 {
-    line-height: 30px;
-    min-height: 70px;
-}
-
-/* Image caption style */
-img + em {
-    font-style: normal;
-    font-size: 0.8em;
-}
-
-.blog-index-description {
-    font-family: 'Roboto Slab', serif;
-    color: #9a9a9a;
-    line-height: 130%;
-}
-
-.content-container {
-    padding: 15px;
-    width: 100%;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', serif;
     margin-top: 0.5em;
@@ -63,24 +31,6 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
     line-height: 1em;
     color: #565656
-}
-
-
-blockquote p {
-    font-size: 36px;
-    font-style: italic;
-    line-height: 140%;
-    font-family: 'Roboto Condensed', sans-serif;
-    margin-bottom: 0.5em;
-}
-
-blockquote {
-    color: $brand-color;
-    text-align: center;
-
-    > :last-child {
-        margin-bottom: 0;
-    }
 }
 
 pre,
@@ -107,14 +57,19 @@ pre {
     }
 }
 
-blockquote:before, blockquote:after {
-    content: '';
+/* Image caption style */
+img + em {
+    font-style: normal;
+    font-size: 0.8em;
+    font-family: 'lato', serif;
 }
 
-div.post-meta.work-postby {
-    margin: 0;
-    margin-top: 50px;
-    width: auto;
+.content-container {
+    padding: 15px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .spacer {
@@ -123,6 +78,51 @@ div.post-meta.work-postby {
     margin-left: 5px;
     margin-right: 5px;
 }
+
+.blog-index-description {
+    font-family: 'Roboto Slab', serif;
+    color: #9a9a9a;
+    line-height: 130%;
+}
+
+a.btn {
+    margin: 0 25px 15px 30px;
+}
+
+.clearfix:after {
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.post-content h2 {
+    margin: 0.83em 0;
+    font-size: 26px;
+    color: #636363;
+    font-family: 'lato', serif;
+    font-weight: bold;
+}
+
+.post-content h2 + p {
+    margin-top: 0.5em;
+}
+
+#content-holder {
+    background-color: #fbfafa;
+}
+
+.text-red {
+    color: #f6364d !important;
+}
+
+.post-content strong {
+    color: #636363;
+}
+
+/* Related posts styles */
+/* -------------------*/
 
 .related-posts-container {
     padding-top: 20px;
@@ -144,7 +144,6 @@ div.post-meta.work-postby {
     font-size: 30px;
 }
 
-
 .post-content::first-letter {
     color: $brand-color;
     font-weight: bold;
@@ -158,6 +157,34 @@ div.post-meta.work-postby {
 .related-posts ul.three-columns {
     margin: 0;
 }
+
+div.work-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+}
+
+div.work-text h4 {
+    line-height: 30px;
+    min-height: 70px;
+}
+
+
+div.work-postby {
+    margin-top: 10px;
+    display: inline-block;
+    width: auto;
+}
+
+.work-text p {
+    margin-top: 0;
+    min-height: 90px;
+}
+
+/* Hero banner styles */
+/* -------------------*/
+
 
 .post-header-banner {
     min-height: 550px;
@@ -225,19 +252,24 @@ div.post-meta.work-postby {
     margin-right: 6px;
 }
 
+.post-header-read:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+}
+
+
+div.post-meta.work-postby {
+    margin: 0;
+    margin-top: 50px;
+    width: auto;
+}
+
 .post-author-name {
     margin-top: 7px;
 }
 
 .post-time {
     margin-top: 7px;
-}
-
-.twitter-inline-button {
-    color: #FFF;
-    cursor: pointer;
-    font-size: 24px;
-    text-align: center;
 }
 
 .author-image {
@@ -249,68 +281,3 @@ div.post-meta.work-postby {
     background-position: 0 0;
     border-radius: 50%;
 }
-
-
-/*div#footer-buttons {
-    padding: 30px 0 0 0;
-}*/
-
-a.btn {
-    margin: 0 25px 15px 30px;
-}
-
-.clearfix:after {
-    content: ".";
-    clear: both;
-    display: block;
-    height: 0;
-    visibility: hidden;
-}
-
-div.work-postby {
-    margin-top: 10px;
-    display: inline-block;
-    width: auto;
-}
-
-.post-content h2 {
-    margin-top: 50px;
-    font-size: 26px;
-    color: #636363;
-    font-family: 'Roboto Slab', serif;
-    margin-bottom: 0;
-}
-
-.post-content h2 + p {
-    margin-top: 0.5em;
-}
-
-#content-holder {
-    background-color: #fbfafa;
-}
-
-.text-red {
-    color: #f6364d !important;
-}
-
-.post-content strong {
-    color: #636363;
-}
-
-.work-text p {
-    margin-top: 0;
-    min-height: 90px;
-}
-
-.non-twitter-quote {
-  padding: 0 15px;
-  color: #b1b1b1;
-  border-left: 10px solid #9966cc;
-  line-height: 50px;
-  font-size: 30px;
-  font-weight: 200;
-}
-
-/*ul.three-columns li {
-    height: 550px;
-}*/

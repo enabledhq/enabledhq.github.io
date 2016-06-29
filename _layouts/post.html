@@ -22,12 +22,12 @@ http://placehold.it/1000x550
     <br>
     <a href="#save-overlay">
     <div class="post-header-read">
-    <i class="fa fa-paper-plane"></i>
-    {% if words < 360 %}
-      1 Minute
-    {% else %}
-      {{ words | divided_by:180 }} Minutes
-    {% endif %}
+      <i class="fa fa-paper-plane"></i>
+      {% if words < 360 %}
+        1 Minute
+      {% else %}
+        {{ words | divided_by:180 }} Minutes
+      {% endif %}
     </div>
     </a>
   </div>

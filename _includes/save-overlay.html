@@ -101,17 +101,20 @@ function validateEmail(email) {
 $(".button-save-submit").click(function(){
     var webhookUrl = "https://hooks.zapier.com/hooks/catch/1461995/466lgu/";
 
+    // Extract the data from the form and page.
     var data = {};
     data.email = $(".save-email").val();
     data.subscribe = $('.checkbox-save').is(":checked").toString();
     data.title = document.title.split("|")[0]; // Get the portion of the title before the pipe, or if no pipe returns the whole title
     data.url = document.location.href.match(/(^[^#]*)/)[0];
 
+    // Make sure the supplied email is valid.
     if(!validateEmail(data.email)){
         $(".error-message").text("That email is invalid.").show();
         return;
     }
 
+    // Post the data off to the webhook.
     $.ajax({
         type: "POST",
         url: webhookUrl,

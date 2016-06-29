@@ -105,7 +105,7 @@ $(".button-save-submit").click(function(){
     data.email = $(".save-email").val();
     data.subscribe = $('.checkbox-save').is(":checked").toString();
     data.title = document.title.split("|")[0]; // Get the portion of the title before the pipe, or if no pipe returns the whole title
-    data.url = window.location.href;
+    data.url = document.location.href.match(/(^[^#]*)/)[0];
 
     if(!validateEmail(data.email)){
         $(".error-message").text("That email is invalid.").show();

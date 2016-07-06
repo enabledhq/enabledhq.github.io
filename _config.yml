@@ -40,6 +40,11 @@ prose:
           element: "textarea"
           label: "Description"
           placeholder: "Enter Post Description"
+      - name: "meta-description"
+        field:
+          element: "textarea"
+          label: "Meta Description"
+          placeholder: "Enter Meta Description (for search results)"
       - name: "author"
         field:
           element: "select"

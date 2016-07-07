@@ -35,7 +35,7 @@ Other key definitional terms for platforms:
 # Different platform flavours
 Now let’s dive into some key characteristics of platforms. 
 
-> Quick recap: A platform facilitates the exchange of value between two or more groups of participants, often consumers and producers. 
+> A platform facilitates the exchange of value between two or more groups of participants, often consumers and producers. 
 
 
 ## Gamification
@@ -55,8 +55,8 @@ These are aimed at encouraging power users, thereby increasing the platform’s 
 If a platform facilitates social selling, it allows integration so that users can leverage their social connections, build their own “brands,” and even sell directly through social networks such as Facebook, Twitter etc. 
 For example, **Etsy** – the marketplace for handcrafted and vintage items – integrates with a commerce platform to make posts on social networks shoppable.  
 
-
-Source: Website Magazine
+![Etsy Shoppost]({{site.baseurl}}/images/img_platform_etsyshoppost.png)
+*Source: [Website Magazine](http://www.websitemagazine.com/content/blogs/ecommerce/archive/2014/12/17/social-commerce-for-etsy-merchants.aspx)*
 
 “Me-tailing” is the next step for retailing, which involves hyper-personalisation. **Domino’s** cites their Pizza Mogul initiative as an example. Here, me-tailing means giving consumers control over how they want to personalise their pizza as well as their own related marketing campaigns. 
 
@@ -75,14 +75,15 @@ Social networks lend themselves naturally to building communities, but product/s
 
 That is when user-generated content comes into play. Examples: stories created by users about users in Airbnb’s [Community Center](https://community.airbnb.com/t5/Community-Center/ct-p/community-center); discussions on Etsy’s Community [Forum](https://www.etsy.com/au/forums/?ref=ftr)s.
 
-
-Source: Airbnb
+![Airbnb user stories ]({{site.baseurl}}/images/img_platform_airbnbcommunity.png)
+*Source: [Airbnb](https://www.airbnb.com.au/stories)*
 
 
 # Determining the suitable flavours
 Simply adding equal quantities of all flavours and stirring is more likely to create a potluck soup than an appealing pie. To truly make it work, we need to understand the core elements of a platform, as illustrated in the following diagram.
 
-Source: Marketing Journal
+![Platform ecosystem ]({{site.baseurl}}/images/img_platform_elements.jpg)
+*Source: [Marketing Journal](http://www.marketingjournal.org/the-platform-revolution-an-interview-with-geoffrey-parker-and-marshall-van-alstyne/)*
 
 Analysing the players in a platform ecosystem will help you decide which flavours your platform business should have. 
 
@@ -93,6 +94,7 @@ Only after this has been fulfilled should you think about making your platform o
 
 For instance, Airbnb primarily caters to **physiological** needs with temporary shelter offered by users. To be a dominant player in this space, Airbnb also makes sure their users feel **safe** (ID checks), **included** (tagline: “Belong anywhere”), **esteemed** (Superhost badges), and possibly **self-actualised** (well travelled and helping fellow travellers). 
 
+![Maslow's hierarchy of needs technology]({{site.baseurl}}/images/img_platform_Maslow.png)
 
 It is also a good idea to consider the needs of the two groups of participants separately if they are distinctly different. Here are some other issues to examine, keeping in mind the “flavours” discussed in the previous section: 
 
@@ -118,7 +120,7 @@ Building everything from scratch requires a huge upfront commitment. Consider th
 Arguably the fastest option among the three. It leverages what’s already out there works for platforms that focus on initial traction and speed rather than the uniqueness of the value proposition.
 A mix of custom software and cloud/integrator services: 
 This option attempts to mitigate the shortcomings of the two above. You still have the ability to build proprietary functions on the platform while leveraging ready-made infrastructure or platform components.
-
+___
 Another aspect of technology is how digitally focused you want your platform to be. In other words, are the user interactions mainly online? If not, how do you weave tangible and intangible, or physical and digital elements together? 
 For instance, the Pizza Mogul platform by **Domino’s** not only provides an online medium, but also integrates with the physical supply chain. For pure digital players, such as YouTube, the technology considerations will be different in some ways. 
 
@@ -130,9 +132,10 @@ This is the anchor to keep your feet on the ground. Platforms and all the associ
 
 As discussed at the start, it is not wise to apply the logic of pipes to [platforms](http://www.wired.com/insights/2013/10/why-business-models-fail-pipes-vs-platforms/). Whether it is product design, user acquisition, or monetisation, businesses fail when they try to apply traditional thinking to a new way of doing things. Both start-ups and established companies can fall into the same trap. 
 
-It gets more complicated as you consider multiple sides of platforms, which may involve conflict resolution. As shown in the diagram below, the **Android** platform has to address the needs of multiple groups of participants. Whether all should be treated equally is also the question to consider. 
+It gets more complicated as you consider multiple sides of platforms, which may involve conflict resolution. As shown in the diagram below, the **Android** platform has to address the needs of multiple groups of participants. Whether all should be treated equally is also the question to consider.
 
-Source: SlideShare
+![Android multi-sided platform]({{site.baseurl}}/images/img_platform_androidecosystem.jpg)
+*Source: [SlideShare](http://www.slideshare.net/andreasc/vision-mobile-digital-winners)*
 
 Moving from the old to the new is daunting, as it might involve self-disruption. If you already have an existing business, it might be worth building synergy and momentum rather than worrying about brand cannibalisation. **Domino’s** has experienced unprecedented growth following the introduction of [Pizza Mogul](http://ausfoodnews.com.au/2015/02/11/dominos-attributes-record-profits-to-innovations-and-new-initiatives.html). If Domino’s had been more concerned about the new platform eating into the sales of their own pizzas, would they be here today? 
 

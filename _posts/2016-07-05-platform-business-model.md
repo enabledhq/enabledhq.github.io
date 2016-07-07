@@ -135,7 +135,7 @@ Arguably the fastest option among the three. It leverages what’s already out t
 
 This option attempts to mitigate the shortcomings of the two above. You still have the ability to build proprietary functions on the platform while leveraging ready-made infrastructure or platform components.
 
-___
+> As with any technology-related product, there is a trade-off between control and flexibility.
 
 Another aspect of technology is how digitally focused you want your platform to be. In other words, are the user interactions mainly online? If not, how do you weave tangible and intangible, or physical and digital elements together? 
 For instance, the Pizza Mogul platform by **Domino’s** not only provides an online medium, but also integrates with the physical supply chain. For pure digital players, such as YouTube, the technology considerations will be different in some ways. 

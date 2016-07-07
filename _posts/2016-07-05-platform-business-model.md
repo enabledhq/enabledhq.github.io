@@ -81,7 +81,7 @@ Users can also contribute capital, as with **Kickstarter**, or talent, as with *
 
 ## Community building
 
-Social networks lend themselves naturally to building communities, but product/service exchange platforms takeit to another level as they have highly engaged user groups that share common interests. 
+Social networks lend themselves naturally to building communities, but product/service exchange platforms take it to another level as they have highly engaged user groups that share common interests. 
 
 That is when user-generated content comes into play. Examples: stories created by users about users in Airbnb’s [Community Center](https://community.airbnb.com/t5/Community-Center/ct-p/community-center); discussions on Etsy’s Community [Forum](https://www.etsy.com/au/forums/?ref=ftr)s.
 

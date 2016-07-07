@@ -21,6 +21,8 @@ The success of platforms such as Airbnb and Uber has sparked a platform boom. Su
 # A primer on platforms
 There is a clear distinction between platforms and pipes as business models. With pipes, firms create value and push them down to customers. Examples include all traditional manufacturing businesses, media companies and even education systems. 
 
+![Pipe vs platform business model]({{site.baseurl}}/images/img_platformpipe.png)
+<center>*Difference between pipes and platforms.*</center>
 
 A platform is an environment generally owned by a company, but their customers almost become suppliers (creating their own products/businesses) by adding additional value to the the company’s own products and then selling or sharing them with other customers. 
 
@@ -32,6 +34,10 @@ Other key definitional terms for platforms:
 
 # Different platform flavours
 Now let’s dive into some key characteristics of platforms. 
+
+> Quick recap: A platform facilitates the exchange of value between two or more groups of participants, often consumers and producers. 
+
+
 ## Gamification
 Applying game elements to non-game contexts, companies hope to encourage desirable behaviours from either employees or customers.
 With regards to platforms, gamification can manifest itself through:

@@ -6,7 +6,9 @@ title: 'Can you mix and match your way to a platform business model? '
 author: linh
 main-category: innovation
 categories:
+  - innovation
   - technology
+  - entrepreneurship
 meta-keywords: >-
   Business models, Platform business, Platform model, Platform business model,
   Airbnb business model, Uber business model

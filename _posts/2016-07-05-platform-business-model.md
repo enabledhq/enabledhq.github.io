@@ -29,7 +29,7 @@ The success of platforms such as Airbnb and Uber has sparked a platform boom. Su
 # A primer on platforms
 There is a clear distinction between platforms and pipes as business models. With pipes, firms create value and push them down to customers. Examples include all traditional manufacturing businesses, media companies and even education systems. 
 
-![Pipe vs platform business model]({{site.baseurl}}/images/img_platformpipe.png)
+![Platforms vs. pipes business models]({{site.baseurl}}/images/img_platform_pipe.png)
 *Difference between pipes and platforms.*
      
 A platform is an environment generally owned by a company, but their customers almost become suppliers (creating their own products/businesses) by adding additional value to the the company’s own products and then selling or sharing them with other customers. 

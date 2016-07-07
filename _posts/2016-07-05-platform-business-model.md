@@ -132,7 +132,9 @@ Building everything from scratch requires a huge upfront commitment. Consider th
 Arguably the fastest option among the three. It leverages what’s already out there works for platforms that focus on initial traction and speed rather than the uniqueness of the value proposition.
 
 ### A mix of custom software and cloud/integrator services:
+
 This option attempts to mitigate the shortcomings of the two above. You still have the ability to build proprietary functions on the platform while leveraging ready-made infrastructure or platform components.
+
 ___
 
 Another aspect of technology is how digitally focused you want your platform to be. In other words, are the user interactions mainly online? If not, how do you weave tangible and intangible, or physical and digital elements together? 

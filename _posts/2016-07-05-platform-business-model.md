@@ -140,9 +140,9 @@ This option attempts to mitigate the shortcomings of the two above. You still ha
 > As with any technology-related product, there is a trade-off between control and flexibility.
 
 Another aspect of technology is how digitally focused you want your platform to be. In other words, are the user interactions mainly online? If not, how do you weave tangible and intangible, or physical and digital elements together? 
-For instance, the Pizza Mogul platform by **Domino’s** not only provides an online medium, but also integrates with the physical supply chain. For pure digital players, such as YouTube, the technology considerations will be different in some ways. 
+For instance, the Pizza Mogul platform by **Domino’s** not only provides an online medium, but also integrates with the physical supply chain. For pure digital players, such as **YouTube**, the technology considerations will be different in some ways. 
 
-Linking to the human perspective above, if you want your platform to cater to more than one level of needs, integration with other specialised platforms might be the answer. For example, users can order an Uber through Facebook’s Messenger; eBay sellers and buyers enjoy the protection and convenience of PayPal. 
+Linking to the human perspective above, if you want your platform to cater to more than one level of needs, integration with other specialised platforms might be the answer. For example, users can order an **Uber** through **Facebook**’s Messenger; **eBay** sellers and buyers enjoy the protection and convenience of **PayPal**. 
 
 Another thing to remember is technology “tends to become a higher priority as a [platform](http://searchcio.techtarget.com/feature/Open-source-adaptable-infrastructure-key-to-Etsy-platform-business-model) scales and matures.”
 
@@ -156,6 +156,6 @@ It gets more complicated as you consider multiple sides of platforms, which may 
 ![Android multi-sided platform]({{site.baseurl}}/images/img_platform_androidecosystem.jpg)
 *Source: [SlideShare](http://www.slideshare.net/andreasc/vision-mobile-digital-winners)*
 
-Moving from the old to the new is daunting, as it might involve self-disruption. If you already have an existing business, it might be worth building synergy and momentum rather than worrying about brand cannibalisation. **Domino’s** has experienced unprecedented growth following the introduction of [Pizza Mogul](http://ausfoodnews.com.au/2015/02/11/dominos-attributes-record-profits-to-innovations-and-new-initiatives.html). If Domino’s had been more concerned about the new platform eating into the sales of their own pizzas, would they be here today? 
+Moving from the old to the new is daunting, as it might involve self-disruption. If you already have an existing business, it might be worth building synergy and momentum rather than worrying about brand cannibalisation. **Domino’s** has experienced unprecedented growth following the introduction of [Pizza Mogul](http://ausfoodnews.com.au/2015/02/11/dominos-attributes-record-profits-to-innovations-and-new-initiatives.html). If **Domino’s** had been more concerned about the new platform eating into the sales of their own pizzas, would they be here today? 
 
 At the end of the day, examining your own business strengths and resources will help determine whether your platform is part of a bigger corporate strategy, or a business in itself.

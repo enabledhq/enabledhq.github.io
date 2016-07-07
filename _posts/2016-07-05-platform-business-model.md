@@ -131,7 +131,7 @@ Building everything from scratch requires a huge upfront commitment. Consider th
 - There is no suitable ready-made components on the market
 
 ### Using platform components available through open source:
-Arguably the fastest option among the three. It leverages what’s already out there works for platforms that focus on initial traction and speed rather than the uniqueness of the value proposition.
+Arguably the fastest option among the three as it leverages what’s already out there. It works for platforms that focus on initial traction and speed rather than the uniqueness of the value proposition.
 
 ### A mix of custom software and cloud/integrator services:
 

@@ -22,8 +22,8 @@ The success of platforms such as Airbnb and Uber has sparked a platform boom. Su
 There is a clear distinction between platforms and pipes as business models. With pipes, firms create value and push them down to customers. Examples include all traditional manufacturing businesses, media companies and even education systems. 
 
 ![Pipe vs platform business model]({{site.baseurl}}/images/img_platformpipe.png)
-<center>*Difference between pipes and platforms.*</center>
-
+*Difference between pipes and platforms.*
+     
 A platform is an environment generally owned by a company, but their customers almost become suppliers (creating their own products/businesses) by adding additional value to the the company’s own products and then selling or sharing them with other customers. 
 
 Other key definitional terms for platforms:
@@ -45,7 +45,9 @@ With regards to platforms, gamification can manifest itself through:
 ### Leaderboards: 
 Games are inherently competitive. Companies can tap people’s desire to display their achievements by incorporating a ranking system into their platforms. For instance, Pizza Mogul by **Domino’s** incentivises pizza producers by awarding bonuses to top-selling “Moguls” each week.
 
-Source: HBS
+![Pizza Mogul leaderboard ]({{site.baseurl}}/images/img_platform_pizzamogul.jpg)
+*Source: [HBS](https://digit.hbs.org/submission/dominos-pizza-mogul-crowdsourcing-pizzas-via-social-media/)*
+
 ### Milestone-specific rewards:
 These are aimed at encouraging power users, thereby increasing the platform’s credibility. For instance, **Uber** drivers earn bonuses after driving certain numbers of trips; **Airbnb** hosts enjoy exclusive perks and higher revenue potential by striving to be [Superhosts](https://www.airbnb.com.au/superhost). 
 

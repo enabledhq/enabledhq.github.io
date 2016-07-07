@@ -33,8 +33,8 @@ A platform is an environment generally owned by a company, but their customers a
 
 Other key definitional terms for platforms:
 
-- There must be direct interactions between consumers and suppliers - not to be confused with reselling business practices, where the middleman buys from suppliers and resells it to consumers.
-- There can be more than two groups of participants, i.e. a multi-sided platform. Example: LinkedIn facilitates exchanges among job seekers, recruiters and advertisers.
+- There must be _direct_ interactions between consumers and suppliers - not to be confused with reselling business practices, where the middleman buys from suppliers and resells it to consumers.
+- There can be _more than two_ groups of participants, i.e. a multi-sided platform. Example: **LinkedIn** facilitates exchanges among job seekers, recruiters and advertisers.
 
 
 # Different platform flavours
@@ -58,6 +58,7 @@ These are aimed at encouraging power users, thereby increasing the platform’s 
 
 ## Social selling and “Me-tailing”
 If a platform facilitates social selling, it allows integration so that users can leverage their social connections, build their own “brands,” and even sell directly through social networks such as Facebook, Twitter etc. 
+
 For example, **Etsy** – the marketplace for handcrafted and vintage items – integrates with a commerce platform to make posts on social networks shoppable.  
 
 ![Etsy Shoppost]({{site.baseurl}}/images/img_platform_etsyshoppost.png)
@@ -75,7 +76,9 @@ Other ways to apply me-tailing in platforms:
 Used as a way to show appreciation for user input, crowdsourcing has helped companies like **Domino’s** utilise “free” product ideas. Only after a few months of the [Pizza Mogul](https://digit.hbs.org/submission/dominos-pizza-mogul-crowdsourcing-pizzas-via-social-media/)’s launch, Domino’s attracted 30k moguls, more than 100k pizza designs, and 5k user-generated promotional videos. Thus, Domino’s has not only crowdsourced new menu items, but also sales and marketing resources.
 
 Users can also contribute capital, as with **Kickstarter**, or talent, as with **Freelancer**. The caveat? Sometimes, too many cooks spoil the broth. 
+
 ## Community building
+
 Social networks lend themselves naturally to building communities, but product/service exchange platforms takeit to another level as they have highly engaged user groups that share common interests. 
 
 That is when user-generated content comes into play. Examples: stories created by users about users in Airbnb’s [Community Center](https://community.airbnb.com/t5/Community-Center/ct-p/community-center); discussions on Etsy’s Community [Forum](https://www.etsy.com/au/forums/?ref=ftr)s.
@@ -118,6 +121,7 @@ There is a debate about whether to build platforms from scratch. As with any tec
 However, if you want to benefit from the first-mover advantage, or lower up-front costs and shorten time to market, there are other options besides fully custom-built software. Let’s go through each of them. 
 
 ### Custom-built platform:
+
 Building everything from scratch requires a huge upfront commitment. Consider this option if:
 
 - You have enough resources 

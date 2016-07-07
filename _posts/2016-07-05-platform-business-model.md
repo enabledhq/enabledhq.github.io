@@ -16,6 +16,10 @@ meta-description: >-
   factors.
 hero-banner: /images/Blog_Header_platform.png
 thumbnail-image: /images/img_platform_thumb.jpg
+description: >-
+  The success of platforms such as Airbnb & Uber has sparked a new business
+  model boom. Let’s discuss different platform flavours and other crucial
+  factors.
 ---
 The success of platforms such as Airbnb and Uber has sparked a platform boom. Suddenly, start-ups as well as established players want a piece of this lucrative pie. But it’s not just a matter of following recipes accurately. To succeed, businesses need to understand the different flavours and ways to combine them, so that the “pie” will satisfy an appetite.
 
@@ -110,24 +114,30 @@ It is also a good idea to consider the needs of the two groups of participants s
 
 ## Technology perspective
 There is a debate about whether to build platforms from scratch. As with any technology-related product, there is a trade-off between control and flexibility. 
+
 However, if you want to benefit from the first-mover advantage, or lower up-front costs and shorten time to market, there are other options besides fully custom-built software. Let’s go through each of them. 
+
 ### Custom-built platform:
 Building everything from scratch requires a huge upfront commitment. Consider this option if:
+
 - You have enough resources 
 - There is a clear competitive advantage from having control over everything
 - There is no suitable ready-made components on the market
 
 ### Using platform components available through open source:
 Arguably the fastest option among the three. It leverages what’s already out there works for platforms that focus on initial traction and speed rather than the uniqueness of the value proposition.
-A mix of custom software and cloud/integrator services: 
+
+### A mix of custom software and cloud/integrator services:
 This option attempts to mitigate the shortcomings of the two above. You still have the ability to build proprietary functions on the platform while leveraging ready-made infrastructure or platform components.
 ___
+
 Another aspect of technology is how digitally focused you want your platform to be. In other words, are the user interactions mainly online? If not, how do you weave tangible and intangible, or physical and digital elements together? 
 For instance, the Pizza Mogul platform by **Domino’s** not only provides an online medium, but also integrates with the physical supply chain. For pure digital players, such as YouTube, the technology considerations will be different in some ways. 
 
 Linking to the human perspective above, if you want your platform to cater to more than one level of needs, integration with other specialised platforms might be the answer. For example, users can order an Uber through Facebook’s Messenger; eBay sellers and buyers enjoy the protection and convenience of PayPal. 
 
 Another thing to remember is technology “tends to become a higher priority as a [platform](http://searchcio.techtarget.com/feature/Open-source-adaptable-infrastructure-key-to-Etsy-platform-business-model) scales and matures.”
+
 ## Business perspective
 This is the anchor to keep your feet on the ground. Platforms and all the associated cool flavours might entice everyone to jump onto the bandwagon. And before too long, new businesses without proper strategies will fail. 
 

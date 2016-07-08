@@ -93,7 +93,7 @@ That is when user-generated content comes into play. Examples: stories created b
 # Determining the suitable flavours
 Simply adding equal quantities of all flavours and stirring is more likely to create a potluck soup than an appealing pie. To truly make it work, we need to understand the core elements of a platform, as illustrated in the following diagram.
 
-![Platform ecosystem ]({{site.baseurl}}/images/img_platform_elements.jpg)
+![Platform ecosystem]({{site.baseurl}}/images/img_platform_elements.png)
 *Source: [Marketing Journal](http://www.marketingjournal.org/the-platform-revolution-an-interview-with-geoffrey-parker-and-marshall-van-alstyne/)*
 
 Analysing the players in a platform ecosystem will help you decide which flavours your platform business should have. 

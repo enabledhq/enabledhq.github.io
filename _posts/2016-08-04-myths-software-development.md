@@ -134,6 +134,7 @@ Lots of small regular updates to a solid foundation is better than developing a 
 Using the lean approach, it is better to get a Minimum Viable Product (MVP) out in the market, collect feedback and improve on it. After all, you don’t know what “perfect” looks like till people start using the software. 
 
 _______________
+
 ## Stay tuned for the next article where we discuss how to increase the success rate of software development.
 
 ![Myths in software development]({{site.baseurl}}/images/img_myth_software.png)

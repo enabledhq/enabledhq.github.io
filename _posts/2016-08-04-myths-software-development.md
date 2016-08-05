@@ -9,14 +9,14 @@ meta-keywords: >-
   Software developer, Software development, software methodologies, Agile
   development, software development myths
 meta-description: >-
-  People may think software development is similar to building a house from a
-  plan, which is a linear process. But how do nerdy code crunchers really work?
+  People may think software development is like building a house from a plan,
+  which is a linear process. But how do nerdy code crunchers really work?
 hero-banner: /images/Blog_header_myth_software.png
 thumbnail-image: /images/img_myth_thumb.png
 short-link: 'http://bit.ly/2aCstsE'
 description: >-
-  People may think software development is similar to building a house from a
-  plan, which is a linear process. But how do nerdy code crunchers really work?
+  People may think software development is like building a house from a plan,
+  which is a linear process. But how do nerdy code crunchers really work?
 ---
 Accountants see things in numbers. Lawyers scrutinise every word you say. Rock stars do drugs. We have a set of expectations that are sometimes stereotypical, or even unfounded, for each profession.
 

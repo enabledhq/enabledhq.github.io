@@ -11,6 +11,7 @@ meta-keywords: >-
 meta-description: >-
   People might think software development is similar to building a house from a
   plan, which is a linear process. But how do nerdy code crunchers really work?
+hero-banner: images/Blog_header_myth_software.png
 ---
 Accountants see things in numbers. Lawyers scrutinise every word you say. Rock stars do drugs. We have a set of expectations that are sometimes stereotypical, or even unfounded, for each profession.
 
@@ -120,6 +121,7 @@ The cost of not doing them soon exceeds the cost of doing them. Later on, people
 Lots of small regular updates to a solid foundation is better than developing a monolithic large piece of software and releasing it all at once.
 
 Using the lean approach, it is better to get a Minimum Viable Product (MVP) out in the market, collect feedback and improve on it. After all, you don’t know what “perfect” looks like till people start using the software. 
+![Myths in software development]({{site.baseurl}}/images/img_myth_software.png)
 
 _______________
 > Stay tuned for the next article where we discuss how to increase the success rate of software development.

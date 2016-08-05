@@ -36,6 +36,8 @@ Following from the first myth, people use common economics principles to manage 
 
 The famous Brooks’ law (from [The Mythical Man-Month](https://archive.org/details/mythicalmanmonth00fred)) states software projects are “complex engineering endeavours” and it takes time for people added later to a project to become truly productive.
 
+> The purpose of software development is creating something people have never seen before
+
 #Myth 3: It’s all about coding
 
 This goes for both people hiring software developers as employees and those engaging with developers as service providers.
@@ -80,6 +82,8 @@ Some questions to consider before dragging resources further:
 
 The best technology is desirable to many, as it seems to guarantee success. But there is a risk of over-serving your customers. If they only need a Toyota Camry, and you spend efforts developing them a Ferrari, there is no real value added after all. 
 
+![myths in software development ]({{site.baseurl}}/images/img_myth_software1.jpg)
+
 To succeed, there are other factors to consider besides technology, e.g. user needs, interaction & user experience design, business return.
  
 #Myth 8: Releasing the software product means that the project has come to an end
@@ -103,6 +107,8 @@ You might also end up with programmers who compete instead of collaborating and 
 
 _We’ve also written a post about what to look for when choosing [software developers](http://blog.enabled.com.au/hiring-devs-dos-donts/) here._
 
+> Software development provides the most value when it is treated as a living project.
+
 #Myth 10: Software can be bug-free
 
 To put things in perspective, consider the [rocket launching software](http://www.fastcompany.com/28121/they-write-right-stuff):
@@ -123,7 +129,10 @@ The cost of not doing them soon exceeds the cost of doing them. Later on, people
 Lots of small regular updates to a solid foundation is better than developing a monolithic large piece of software and releasing it all at once.
 
 Using the lean approach, it is better to get a Minimum Viable Product (MVP) out in the market, collect feedback and improve on it. After all, you don’t know what “perfect” looks like till people start using the software. 
-![Myths in software development]({{site.baseurl}}/images/img_myth_software.png)
 
 _______________
-> Stay tuned for the next article where we discuss how to increase the success rate of software development.
+## Stay tuned for the next article where we discuss how to increase the success rate of software development.
+
+![Myths in software development]({{site.baseurl}}/images/img_myth_software.png)
+
+

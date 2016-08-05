@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-08-04 11:35 +0930'
-published: false
+published: true
 title: 10 Myths in Software Development to Debunk Now
 author: linh
 main-category: technology
@@ -134,5 +134,3 @@ _______________
 ## Stay tuned for the next article where we discuss how to increase the success rate of software development.
 
 ![Myths in software development]({{site.baseurl}}/images/img_myth_software.png)
-
-

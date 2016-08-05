@@ -11,8 +11,8 @@ meta-keywords: >-
 meta-description: >-
   People might think software development is similar to building a house from a
   plan, which is a linear process. But how do nerdy code crunchers really work?
-hero-banner: images/Blog_header_myth_software.png
-thumbnail-image: images/img_mythsoftware_thumb.png
+hero-banner: /images/Blog_header_myth_software.png
+thumbnail-image: /images/img_mythsoftware_thumb.png
 short-link: 'http://bit.ly/2aCstsE'
 description: >-
   People might think software development is similar to building a house from a

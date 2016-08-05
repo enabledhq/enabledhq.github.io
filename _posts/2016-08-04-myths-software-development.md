@@ -12,14 +12,13 @@ meta-description: >-
   People might think software development is similar to building a house from a
   plan, which is a linear process. But how do nerdy code crunchers really work?
 hero-banner: images/Blog_header_myth_software.png
-thumbnail-image: images/img_myth_software_thumb.png
+thumbnail-image: images/img_mythsoftware_thumb.png
 short-link: 'http://bit.ly/2aCstsE'
 description: >-
   People might think software development is similar to building a house from a
   plan, which is a linear process. But how do nerdy code crunchers really work?
 ---
 Accountants see things in numbers. Lawyers scrutinise every word you say. Rock stars do drugs. We have a set of expectations that are sometimes stereotypical, or even unfounded, for each profession.
-
 
 Although we can’t speak on behalf of accountants, lawyers and rock stars, we can for software developers. Read on for an insider’s view of how “nerdy and geeky code crunchers” really work.
 

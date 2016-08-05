@@ -20,6 +20,7 @@ description: >-
 ---
 Accountants see things in numbers. Lawyers scrutinise every word you say. Rock stars do drugs. We have a set of expectations that are sometimes stereotypical, or even unfounded, for each profession.
 
+
 Although we can’t speak on behalf of accountants, lawyers and rock stars, we can for software developers. Read on for an insider’s view of how “nerdy and geeky code crunchers” really work.
 
 # Myth 1: Software development is a predictable process

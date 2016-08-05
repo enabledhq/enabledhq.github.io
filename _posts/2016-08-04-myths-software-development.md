@@ -108,7 +108,7 @@ Using the wrong KPIs to motivate programmers can hurt over the long run. For ins
 
 You might also end up with programmers who compete instead of collaborating and helping each other grow.
 
-_We’ve also written a post about what to look for when choosing [software developers](http://blog.enabled.com.au/hiring-devs-dos-donts/) here._
+We’ve also written a post about what to look for when choosing [software developers](http://blog.enabled.com.au/hiring-devs-dos-donts/) here.
 
 > Software development provides the most value when it is treated as a living project.
 

@@ -3,6 +3,17 @@ layout: post
 date: '2016-08-08 16:54 +0930'
 published: false
 title: How NDIS glitch gives software supplier a bad name
+author: grant
+main-category: technology
+meta-keywords: >-
+  Software developer, Software development, software development myths, NDIS,
+  software glitch, software supplier
+meta-description: >-
+  Instances like the NDIS system glitch are not helping to fend off
+  misperceptions and negative publicity about software development supplier.
+description: >-
+  Instances like the NDIS system glitch are not helping to fend off
+  misperceptions and negative publicity about software development supplier.
 ---
 A software glitch in the recently revamped Australian Government’s NDIS Payment Portal, has prevented disability support providers from claiming payments owed to them by the national fund. It is approaching the two-month mark and the Government is still working on a fix.
 

@@ -31,6 +31,10 @@ You need to account for uncertainty, e.g. feature creep, external market factors
 
 For instance, Microsoft’s Windows Vista took 5 years to develop, even though it was only intended to be a minor upgrade from Windows XP.
 
+![software development myths]({{site.baseurl}}/images/img_myth_software2.png)
+*DILBERT © 2016 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
+
+
 # Myth 2: Adding more people will speed production up
 
 Although we can’t see, touch or smell software, people sometimes assume a normal supply chain would apply.
@@ -41,6 +45,10 @@ The famous Brooks’ law (from [The Mythical Man-Month](https://archive.org/deta
 
 > The purpose of software development is creating something people have never seen before
 
+![myths software development]({{site.baseurl}}/images/img_myth_software3.png)
+*DILBERT © 2010 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
+
+
 # Myth 3: It’s all about coding
 
 This goes for both people hiring software developers as employees and those engaging with developers as service providers.
@@ -48,6 +56,10 @@ This goes for both people hiring software developers as employees and those enga
 Having highly skilled programmers with vast experience in their trade is great, but don’t overlook other important non-tech criteria. Time management, communications skills, and a bit of commercial awareness never hurt.
 
 About programming as a whole, people think it only requires mathematical/logical skills. In fact, software development can be an art, especially at high-level architecture. Thus, developers can experience writer’s block or moments of inspiration, just like novelists and artists.  
+
+![myths software development]({{site.baseurl}}/images/img_myth_software4.png)
+*DILBERT © 2010 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
+
 
 # Myth 4: There is a silver bullet software development methodology
 
@@ -59,6 +71,10 @@ Beware of anyone who reinforces this myth. The four most common software develop
 - **Scrum/Kanban**: specific practices within Agile rather than a methodology in themselves.
 
 In reality, you always have to balance the triangle: time – money – functionality. That means the best way to minimise trade-offs is to apply the best bits from each methodology/practice.
+
+![myths software development]({{site.baseurl}}/images/img_myth_software5.png)
+*DILBERT © 2007 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
+
 
 # Myth 5: Certificates (badges) prove high quality
 
@@ -80,6 +96,10 @@ Some questions to consider before dragging resources further:
 - **User experience**: Will this truly benefit end-users?
 - **Technology**: Will this require significant changes on an architectural level?
 - **Business**: Will the benefits outweigh the costs?
+
+![myths software development]({{site.baseurl}}/images/img_myth_software.png)
+*DILBERT © 2011 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
+
 
 # Myth 7: You should strive to get the most superior technology 
 

@@ -38,7 +38,7 @@ In my opinion, the more likely truth is bad project management, with the fault s
 ![National Disability Insurance Scheme software]({{site.baseurl}}/images/img_ndis.png)
 *Source: [Project Smart](https://www.projectsmart.co.uk/introduction-to-project-management.php)*
 
-Software development is a relatively new field compared to other business services and processes, e.g. manufacturing. Hence, it takes time for people to truly understand the complexity surrounding technology projects. Unfortunately, instances like the NDIS system glitch seem to introduce/reinforce misperceptions and generalisations. 
+Software development is a relatively new field compared to other business services and processes, e.g. manufacturing. Hence, it takes time for people to truly understand the complexity surrounding technology projects. Unfortunately, instances like the NDIS system glitch seem to introduce/reinforce misperceptions and generalisations (some of which we've 
 
 _Check out our recent post on misperceptions about [software development](http://blog.enabled.com.au/myths-software-development/) here._
 
@@ -61,7 +61,7 @@ Unfortunately, some answers they find can suggest that developers make their cre
 
 In reality, the scope of software development is quite nebulous and even very good work by both client and developer doesn’t ensure that a vision is easily achieved.
 
-I can tell you from my experience, we love to complete a project. There is more joy and more opportunity in efficiently completed projects than extending projects by squeezing remaining drops of resources from our clients.
+I can tell you from my experience, we love to complete a project. There is more **joy** and more **opportunity** in efficiently completed projects than extending projects by squeezing remaining drops of resources from our clients.
 
 Instead, our hope is to release a project and only return to it when it is enjoying good take-up and yielding returns so that our clients can invest these into additional development phases.
 

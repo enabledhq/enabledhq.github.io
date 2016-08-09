@@ -55,7 +55,7 @@ Understandably so, budgets may be on the verge of being exceeded as early mover 
 
 It is the frustration of moving towards the oasis of a releasable product, yet during these times feels more like a mirage always at the edge of the horizon.
 
-Concerned clients might take to forums seeking an answer to the question “Will my app ever be finished?”
+Concerned clients might take to forums seeking an answer to the question “_Will my app ever be finished?_”
 ![NDIS software glitch]({{site.baseurl}}/images/ndis2.png)
 Unfortunately, some answers they find can suggest that developers make their cream by extending projects infinitum in order to charge more. Sadly, it is possible that some may have legitimately experienced this practice, but when clients receive this information it can be unfairly projected on the honest developer.
 

@@ -97,15 +97,13 @@ Some questions to consider before dragging resources further:
 - **Technology**: Will this require significant changes on an architectural level?
 - **Business**: Will the benefits outweigh the costs?
 
-![myths software development]({{site.baseurl}}/images/img_myth_software.png)
+![myths software development]({{site.baseurl}}/images/img_myth_software6.png)
 *DILBERT © 2011 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
 
 
 # Myth 7: You should strive to get the most superior technology 
 
 The best technology is desirable to many, as it seems to guarantee success. But there is a risk of over-serving your customers. If they only need a Toyota Camry, and you spend efforts developing them a Ferrari, there is no real value added after all. 
-
-![myths in software development ]({{site.baseurl}}/images/img_myth_software1.jpg)
 
 To succeed, there are other factors to consider besides technology, e.g. user needs, interaction & user experience design, business return.
  
@@ -157,4 +155,4 @@ _______________
 
 ## Stay tuned for the next article where we discuss how to increase the success rate of software development.
 
-![Myths in software development]({{site.baseurl}}/images/img_myth_software.png)
+

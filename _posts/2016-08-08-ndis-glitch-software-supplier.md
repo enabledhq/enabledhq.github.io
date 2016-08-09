@@ -17,6 +17,8 @@ description: >-
 short-link: 'http://bit.ly/2aBwNoG'
 hero-banner: /images/Blog_Header_ndis.png
 thumbnail-image: /images/img_ndis_thumb.png
+categories:
+  - technology
 ---
 A software glitch in the recently revamped Australian Government’s NDIS Payment Portal, has prevented disability support providers from claiming payments owed to them by the national fund. It is approaching the two-month mark and the Government is still working on a fix.
 

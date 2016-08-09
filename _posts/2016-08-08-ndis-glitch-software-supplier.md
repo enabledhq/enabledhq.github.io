@@ -52,7 +52,7 @@ It is the frustration of moving towards the oasis of a releasable product, yet d
 
 Concerned clients might take to forums seeking an answer to the question “will my app ever be finished?”
 
-![ndis software glitch]({{site.baseurl}}/images/img_ndis2.jpg)
+![ndis software glitch]({{site.baseurl}}/images/img_ndis2.png)
 
 Unfortunately, some answers they find can suggest that developers make their cream by extending projects infinitum in order to charge more. Sadly, it is possible that some may have legitimately experienced this practice, but when clients receive this information it can be unfairly projected on the honest developer.
 

@@ -17,6 +17,8 @@ short-link: 'http://bit.ly/2aCstsE'
 description: >-
   People may think software development is like building a house from a plan,
   which is a linear process. How do nerdy code crunchers really work?
+categories:
+  - technology
 ---
 Accountants see things in numbers. Lawyers scrutinise every word you say. Rock stars do drugs. We have a set of expectations that are sometimes stereotypical, or even unfounded, for each profession.
 
@@ -161,4 +163,3 @@ _______________
 ## Stay tuned for the next article where we discuss how to increase the success rate of software development.
 
 ![myths software development]({{site.baseurl}}/images/img_myth_software.png)
-

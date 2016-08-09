@@ -17,11 +17,8 @@ description: >-
 ---
 A software glitch in the recently revamped Australian Government’s NDIS Payment Portal, has prevented disability support providers from claiming payments owed to them by the national fund. It is approaching the two-month mark and the Government is still working on a fix.
 
-
-
-
-
-Different parties involved in the NDIS 
+![software glitch NDIS]({{site.baseurl}}/images/img_ndis1.png)
+*Different parties involved in the NDIS*
 
 Although Enabled has no involvement with the new NDIS platform, some of our team members have partners working for these support providers.  This gives us a reasonable view of the glitch from the providers side, which is now being described by the media as a debacle.
 
@@ -34,6 +31,7 @@ I have heard them say: “Software development companies intentionally cause the
 In my opinion, the more likely truth is bad project management, with the fault shared by both the Government and Software supplier. The poor result is often caused by combining too much with too little in too little time. 
 
 ![National Disability Insurance Scheme software]({{site.baseurl}}/images/img_ndis.png)
+*Source: [Project Smart](https://www.projectsmart.co.uk/introduction-to-project-management.php)*
 
 Software development is a relatively new field compared to other business services and processes, e.g. manufacturing. Hence, it takes time for people to truly understand the complexity surrounding technology projects. Unfortunately, instances like the NDIS system glitch seem to introduce/reinforce misperceptions and generalisations. 
 
@@ -54,6 +52,8 @@ It is the frustration of moving towards the oasis of a releasable product, yet d
 
 Concerned clients might take to forums seeking an answer to the question “will my app ever be finished?”
 
+![ndis software glitch]({{site.baseurl}}/images/img_ndis2.jpg)
+
 Unfortunately, some answers they find can suggest that developers make their cream by extending projects infinitum in order to charge more. Sadly, it is possible that some may have legitimately experienced this practice, but when clients receive this information it can be unfairly projected on the honest developer.
 
 In reality, the scope of software development is quite nebulous and even very good work by both client and developer doesn’t ensure that a vision is easily achieved.
@@ -70,5 +70,3 @@ So to summarise:
 - This job can take the form of a second phase because our client realised success
 - Or a satisfied client with a successful job will tell a friend and grow our client base
 - The closer we take a client to their limit, the less likely that any of these can happen.
-
-

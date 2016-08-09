@@ -2,7 +2,7 @@
 layout: post
 date: '2016-08-08 16:54 +0930'
 published: true
-title: How NDIS glitch gives software supplier a bad name
+title: How NDIS Glitch Gives Software Supplier a Bad Name
 author: grant
 main-category: technology
 meta-keywords: >-

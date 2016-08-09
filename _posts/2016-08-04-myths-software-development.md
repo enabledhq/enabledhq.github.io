@@ -31,6 +31,7 @@ You need to account for uncertainty, e.g. feature creep, external market factors
 
 For instance, Microsoft’s Windows Vista took 5 years to develop, even though it was only intended to be a minor upgrade from Windows XP.
 
+
 ![software development myths]({{site.baseurl}}/images/img_myth_software2.png)
 *DILBERT © 2016 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
 
@@ -57,6 +58,7 @@ Having highly skilled programmers with vast experience in their trade is great, 
 
 About programming as a whole, people think it only requires mathematical/logical skills. In fact, software development can be an art, especially at high-level architecture. Thus, developers can experience writer’s block or moments of inspiration, just like novelists and artists.  
 
+
 ![myths software development]({{site.baseurl}}/images/img_myth_software4.png)
 *DILBERT © 2010 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
 
@@ -71,6 +73,7 @@ Beware of anyone who reinforces this myth. The four most common software develop
 - **Scrum/Kanban**: specific practices within Agile rather than a methodology in themselves.
 
 In reality, you always have to balance the triangle: time – money – functionality. That means the best way to minimise trade-offs is to apply the best bits from each methodology/practice.
+
 
 ![myths software development]({{site.baseurl}}/images/img_myth_software5.png)
 *DILBERT © 2007 Scott Adams. Used By permission of UNIVERSAL UCLICK. All rights reserved.*
@@ -103,7 +106,9 @@ Some questions to consider before dragging resources further:
 
 # Myth 7: You should strive to get the most superior technology 
 
-The best technology is desirable to many, as it seems to guarantee success. But there is a risk of over-serving your customers. If they only need a Toyota Camry, and you spend efforts developing them a Ferrari, there is no real value added after all. 
+The best technology is desirable to many, as it seems to guarantee success. But there is a risk of over-serving your customers. 
+
+If they only need a Toyota Camry, and you spend efforts developing them a Ferrari, there is no real value added after all. 
 
 To succeed, there are other factors to consider besides technology, e.g. user needs, interaction & user experience design, business return.
  

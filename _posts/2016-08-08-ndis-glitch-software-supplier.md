@@ -14,6 +14,7 @@ meta-description: >-
 description: >-
   Instances like the NDIS system glitch are not helping to fend off
   misperceptions and negative publicity about software development supplier.
+short-link: 'http://bit.ly/2aBwNoG'
 ---
 A software glitch in the recently revamped Australian Government’s NDIS Payment Portal, has prevented disability support providers from claiming payments owed to them by the national fund. It is approaching the two-month mark and the Government is still working on a fix.
 
@@ -51,9 +52,7 @@ Understandably so, budgets may be on the verge of being exceeded as early mover 
 It is the frustration of moving towards the oasis of a releasable product, yet during these times feels more like a mirage always at the edge of the horizon.
 
 Concerned clients might take to forums seeking an answer to the question “will my app ever be finished?”
-
-![ndis software glitch]({{site.baseurl}}/images/img_ndis2.png)
-
+![NDIS software glitch]({{site.baseurl}}/images/img_ndis2.png)
 Unfortunately, some answers they find can suggest that developers make their cream by extending projects infinitum in order to charge more. Sadly, it is possible that some may have legitimately experienced this practice, but when clients receive this information it can be unfairly projected on the honest developer.
 
 In reality, the scope of software development is quite nebulous and even very good work by both client and developer doesn’t ensure that a vision is easily achieved.

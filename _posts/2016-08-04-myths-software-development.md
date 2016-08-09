@@ -115,8 +115,8 @@ That means loss of potential revenue and other unrealised opportunities for the 
 
 Software development provides the most value when it is treated as a living project.
 
-- Long-term strategy: suitable roadmap should be put together in the first place
-- After-release support:  consider updates as technology, the business and users evolve
+- **Long-term strategy**: suitable roadmap should be put together in the first place
+- **After-release support**:  consider updates as technology, the business and users evolve
 
 # Myth 9: Using common KPIs will result in better performance  
 

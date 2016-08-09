@@ -155,4 +155,5 @@ _______________
 
 ## Stay tuned for the next article where we discuss how to increase the success rate of software development.
 
-![img_myth_software.png]({{site.baseurl}}/images/img_myth_software.png)
+![myths software development]({{site.baseurl}}/images/img_myth_software.png)
+

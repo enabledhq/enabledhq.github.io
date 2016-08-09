@@ -53,7 +53,7 @@ Understandably so, budgets may be on the verge of being exceeded as early mover 
 
 It is the frustration of moving towards the oasis of a releasable product, yet during these times feels more like a mirage always at the edge of the horizon.
 
-Concerned clients might take to forums seeking an answer to the question “will my app ever be finished?”
+Concerned clients might take to forums seeking an answer to the question “Will my app ever be finished?”
 ![NDIS software glitch]({{site.baseurl}}/images/ndis2.png)
 Unfortunately, some answers they find can suggest that developers make their cream by extending projects infinitum in order to charge more. Sadly, it is possible that some may have legitimately experienced this practice, but when clients receive this information it can be unfairly projected on the honest developer.
 
@@ -63,7 +63,7 @@ I can tell you from my experience, we love to complete a project. There is more 
 
 Instead, our hope is to release a project and only return to it when it is enjoying good take-up and yielding returns so that our clients can invest these into additional development phases.
 
-We also understand that developing the app is only the start, our clients need resources left to take the next step. Milking them is one way to ensure that repeat business is made impossible.
+We also understand that developing the app is only the start, our clients need resources left to take the next step. Milking them is one way to ensure that repeat business is made _impossible_.
 
 So to summarise:
 

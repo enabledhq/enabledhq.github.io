@@ -31,7 +31,7 @@ My sympathies are definitely with these support providers, who by this time woul
 
 Across the years, I have had plenty to say about the State and National Government’s disappointing IT procurement practices, but there is a new sentiment shared between NDIS support providers which I want to discuss here. 
 
-I have heard them say: “Software development companies intentionally cause these issues so that they can go on charging the government to make more money from the job!”
+I have heard them say: “> Software development companies intentionally cause these issues so that they can go on charging the government to make more money from the job!”
 
 In my opinion, the more likely truth is bad project management, with the fault shared by both the Government and Software supplier. The poor result is often caused by combining too much with too little in too little time. 
 

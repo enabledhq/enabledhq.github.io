@@ -2,7 +2,7 @@
 layout: post
 date: '2016-08-08 16:54 +0930'
 published: true
-title: How NDIS Glitch Gives Software Supplier a Bad Name
+title: How NDIS Glitch Gives Software Suppliers a Bad Name
 author: grant
 main-category: technology
 meta-keywords: >-
@@ -10,10 +10,10 @@ meta-keywords: >-
   software glitch, software supplier
 meta-description: >-
   Instances like the NDIS system glitch are not helping to fend off
-  misperceptions and negative publicity about software development supplier.
+  misperceptions and negative publicity about software development suppliers.
 description: >-
   Instances like the NDIS system glitch are not helping to fend off
-  misperceptions and negative publicity about software development supplier.
+  misperceptions and negative publicity about software development suppliers.
 short-link: 'http://bit.ly/2aBwNoG'
 hero-banner: /images/Blog_Header_ndis.png
 thumbnail-image: /images/img_ndis_thumb.png

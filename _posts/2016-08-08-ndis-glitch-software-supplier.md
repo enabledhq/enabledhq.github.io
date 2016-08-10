@@ -35,7 +35,7 @@ I have heard them say: _“Software development companies intentionally cause th
 
 In my opinion, the more likely truth is bad project management, with the fault shared by both the Government and Software supplier. The poor result is often caused by combining too much with too little in too little time. 
 
-![National Disability Insurance Scheme software]({{site.baseurl}}/images/img_ndis.png)
+![NDIS project management]({{site.baseurl}}/images/img_ndis_projectmgnt.png)
 *Source: [Project Smart](https://www.projectsmart.co.uk/introduction-to-project-management.php)*
 
 Software development is a relatively new field compared to other business services and processes, e.g. manufacturing. Hence, it takes time for people to truly understand the complexity surrounding technology projects. Unfortunately, instances like the NDIS system glitch seem to introduce/reinforce misperceptions and generalisations.

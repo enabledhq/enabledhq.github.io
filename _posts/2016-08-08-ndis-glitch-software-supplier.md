@@ -22,7 +22,7 @@ categories:
 ---
 A software glitch in the recently revamped Australian Government’s [NDIS Payment Portal](http://www.abc.net.au/news/2016-07-28/ndis-%27teething-problems%27-hit-system-and-online-payments/7667292), has prevented disability support providers from claiming payments owed to them by the national fund. It is approaching the two-month mark and the Government is still working on a fix.
 
-![software glitch NDIS]({{site.baseurl}}/images/img_ndis1.png)
+![NDIS software glitch ]({{site.baseurl}}/images/img_ndis_diagram.png)
 *Different parties involved in the NDIS*
 
 Although Enabled has no involvement with the new [NDIS platform](http://www.abc.net.au/news/2016-08-06/ndis-computer-glitches-to-be-reviewed/7697178), some of our team members have partners working for these support providers.  This gives us a reasonable view of the glitch from the providers side, which is now being described by the media as a debacle.

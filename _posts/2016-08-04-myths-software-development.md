@@ -86,6 +86,7 @@ In reality, you always have to balance the triangle: time – money – function
 As with various professions, people sometimes measure credibility by the number of certificates individuals or organisations hold. This conventional way of thinking doesn’t translate very well into the software realm.
 
 One, it might be very easy to get such certificates without having to prove proficiency.
+
 Two, real project examples are better indicators of quality.
 
 Three, when already excellent in their craft, developers find it hard to justify the amount of time spent on getting certified instead of doing actual work.

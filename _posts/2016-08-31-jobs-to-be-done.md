@@ -107,12 +107,10 @@ The start-up has secured a $3.5 million [seed investment](http://venturebeat.com
 **The jobs to be done**
 
 Functional
-
--For buyers: can finally get rare finds or items that are impossible to buy where you live
--For travellers: make use of spare luggage allowance while earning extra money
+- For buyers: can finally get rare finds or items that are impossible to buy where you live
+- For travellers: make use of spare luggage allowance while earning extra money
 
 Emotional
-
 - For buyers: sentiments from getting items you’ve always longed for
 - For travellers: helping other people
 
@@ -132,5 +130,5 @@ There is a very compelling job story behind Grabr which stems from a unique situ
 
 Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If they could safeguard their business like Airbnb and Uber, Grabr stands a good chance of becoming a disruptive force.
  
- *Disclaimer: We’re not affiliated, endorsed by or in any way connected with any of the products mentioned here.
+_*Disclaimer: We’re not affiliated, endorsed by or in any way connected with any of the products mentioned here._
 

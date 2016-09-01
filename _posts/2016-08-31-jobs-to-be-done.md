@@ -5,6 +5,13 @@ published: false
 title: 'Next Time You Want to Build/Improve Your Product, Consider This'
 hero-banner: images/Blog_Header_JTBD.png
 thumbnail-image: images/img_jtbd_thumb.png
+description: >-
+  Learn the basics of Jobs-to-be-done as a framework to evaluate product
+  innovation and keep you on the right track, with real life examples included.
+meta-description: >-
+  Learn the basics of Jobs-to-be-done as a framework to evaluate product
+  innovation and keep you on the right track, real life examples included.
+author: linh
 ---
 A device that lets you “smell the Internet” via the websites or emails you read. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 

@@ -10,7 +10,7 @@ The truth is: [DigiScents](http://www.startupover.com/en/20-million-burning-smel
 
 # Introducing Jobs to Be Done
 
-Now imagine yourself in this scenario: You have an idea for a product, or a product upgrade. Doesn’t matter if it’s a physical or a software product.
+Now imagine yourself in this scenario: You are embarking on a new product development journey for a physical or software solution.
 
 (Optional steps: You conduct a market/persona research to confirm your hunch that “this would work.” Some focus group participants even give you what seems to be valuable insight into the features they want.)
 
@@ -21,15 +21,19 @@ Then comes the hard truth. One of these can happen:
 - You fail to reap commercial success and burn your budget
 - You fail to attract funding after building a prototype
 
-Now assuming you have had adequate support in other areas, e.g. marketing, sales, management, what you miss is the answer to this one critical question: “What are your potential customers trying to achieve?” (Or “What are their jobs to be done?”)
+Even if you have had adequate support in other areas, e.g. marketing, sales, management, what you miss is the answer to this one critical question: “What are your potential customers trying to achieve?” (Or “What are their jobs to be done?”)
 
 # Basic Tenets of Jobs to Be Done
 
-This framework is popularised by Harvard Business School Professor - Clayton Christensen and has been around for nearly 30 years. However, it is one of the concepts that is prone to misunderstanding, just as Disruptive Innovation (which we have discussed in this [blog post](http://blog.enabled.com.au/mass-disruption/)).
+This framework is popularised by Harvard Business School Professor - Clayton Christensen and has been around for nearly 30 years. However, it is just another of his concepts that is prone to misunderstanding, just as _Disruptive Innovation_ (which we have discussed in this [blog post](http://blog.enabled.com.au/mass-disruption/)).
 
-One of the most common questions people have about Jobs-to-be-done is: “How does this differ from the established user research methods?”
+One  of the most common misunderstandings people have about Jobs-to-be-done is that it does not really differ from the established user research methods.
 
-We attempt to give you a broad overview between the two approaches in the table below.
+We attempt to give you a broad comparison between the two approaches in the table below.
+
+![Jobs to be done vs. User research]({{site.baseurl}}/images/img_jtbd_table.png)
+
+As you can see, Jobs-to-be-done goes further by allowing you to step into your customer's shoes and work backwards to a solution. This will help increase the success rate of your product innovation.
 
 ## Not just about functions
 
@@ -131,4 +135,3 @@ There is a very compelling job story behind Grabr which stems from a unique situ
 Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If they could safeguard their business like Airbnb and Uber, Grabr stands a good chance of becoming a disruptive force.
  
 _*Disclaimer: We’re not affiliated, endorsed by or in any way connected with any of the products mentioned here._
-

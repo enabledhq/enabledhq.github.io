@@ -3,8 +3,8 @@ layout: post
 date: '2016-08-31 17:32 +0930'
 published: false
 title: 'Next Time You Want to Build/Improve Your Product, Consider This'
-hero-banner: images/Blog_Header_JTBD.png
-thumbnail-image: images/img_jtbd_thumb.png
+hero-banner: /images/Blog_Header_JTBD.png
+thumbnail-image: /images/img_jtbd_thumb.png
 description: >-
   Learn the basics of Jobs-to-be-done as a framework to evaluate product
   innovation and keep you on the right track, with real life examples included.
@@ -29,7 +29,7 @@ The truth is: [DigiScents](http://www.startupover.com/en/20-million-burning-smel
 
 Now imagine yourself in this scenario: You are embarking on a new product development journey for a physical or software solution.
 
-(Optional steps: You conduct a market/persona research to confirm your hunch that “this would work.” Some focus group participants even give you what seems to be valuable insight into the features they want.)
+(_Optional steps_: You conduct a market/persona research to confirm your hunch that “this would work.” Some focus group participants even give you what seems to be valuable insight into the features they want.)
 
 You’re so sure this is going to be a successful launch that the production phase seems like a tiny final hurdle.
 
@@ -38,7 +38,7 @@ Then comes the hard truth. One of these can happen:
 - You fail to reap commercial success and burn your budget
 - You fail to attract funding after building a prototype
 
-Even if you have had adequate support in other areas, e.g. marketing, sales, management, what you miss is the answer to this one critical question: “What are your potential customers trying to achieve?” (Or “What are their jobs to be done?”)
+Even if you have had adequate support in other areas, e.g. marketing, sales, management, what you miss is the answer to this one critical question: “**What are your potential customers trying to achieve?**” (Or “What are their jobs to be done?”)
 
 # Basic Tenets of Jobs to Be Done
 

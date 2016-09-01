@@ -124,6 +124,8 @@ Another non-consumption market could be health-conscious people who find the pro
 
 We think overall it’s an innovative product that attempts to provide that missing link in the health wearables market. It could well be the case that the real revenue would come from personalised supplements rather than the hardware.
 
+> With the Jobs-to-be-done framework, you might identify competition in places you’ve never thought of before.
+
 ## 2. Peer-to-peer platform for buying things around the world
 
 **What is it?**
@@ -161,6 +163,6 @@ _We also wrote about platform as a business model and its flavours in another [b
 
 There is a very compelling job story behind Grabr which stems from a unique situational factor (Remember the formula Persona + motivation + situation + expected outcome = Product?)  
 
-Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If they could safeguard their business like Airbnb and Uber, Grabr stands a good chance of becoming a disruptive force.
+Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If Grabr could safeguard their business like Airbnb and Uber, they stand a good chance of becoming a disruptive force.
  
 _*Disclaimer: We’re not affiliated, endorsed by or in any way connected with any of the products mentioned here._

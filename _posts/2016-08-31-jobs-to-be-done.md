@@ -19,6 +19,7 @@ categories:
   - innovation
   - entrepreneurship
 main-category: innovation
+short-link: 'http://bit.ly/2csxFSM'
 ---
 A device that lets you “smell the Internet” via the websites or emails you read. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 

@@ -21,7 +21,7 @@ categories:
 main-category: innovation
 short-link: 'http://bit.ly/2csxFSM'
 ---
-A device that lets you “smell the Internet” via the websites or emails you read. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
+A device that lets you “smell the Internet” via the websites you visit. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 
 The truth is: [DigiScents](http://www.startupover.com/en/20-million-burning-smell-like-just-ask-digiscents/)’ iSmell and [Facebook’](http://www.businessinsider.com.au/biggest-product-failures-in-business-history-2014-7#2013--facebook-home-22)s Home are considered one of the biggest product flops in the last few decades. It’s not that the products weren’t technologically good, or had inadequate financial support. It’s because there was little consideration to the user needs.
 
@@ -42,7 +42,7 @@ Even if you have had adequate support in other areas, e.g. marketing, sales, man
 
 # Basic Tenets of Jobs to Be Done
 
-This framework is popularised by Harvard Business School Professor - Clayton Christensen and has been around for nearly 30 years. However, it is just another of his concepts that is prone to misunderstanding, just as _Disruptive Innovation_ (which we have discussed in this [blog post](http://blog.enabled.com.au/mass-disruption/)).
+This framework is popularised by Harvard Business School Professor - [Clayton Christensen](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/) and has been around for nearly 30 years. However, it is just another of his concepts that is prone to misunderstanding, just as _Disruptive Innovation_ (which we have discussed in this [blog post](http://blog.enabled.com.au/mass-disruption/)).
 
 One  of the most common misunderstandings people have about Jobs-to-be-done is that it does not really differ from the established user research methods.
 
@@ -74,7 +74,7 @@ Consider competition in the following scenarios:
 - To do the same job, in a different manner, e.g. earphones vs. stereo speakers
 - To do two conflicting jobs, e.g. credit cards vs. savings accounts
 
-## Non-consumption
+## Spot the real opportunities (Non-consumption)
 
 This notion is closely related to _[Disruptive Innovation](http://blog.enabled.com.au/mass-disruption/)_; in a sense that customers are not consuming existing products, because they are either too complex or expensive for the job to be done.
 

@@ -32,6 +32,7 @@ One  of the most common misunderstandings people have about Jobs-to-be-done is t
 We attempt to give you a broad comparison between the two approaches in the table below.
 
 ![Jobs to be done vs. User research]({{site.baseurl}}/images/img_jtbd_table.png)
+*How Jobs-to-be-done differs from established user research*
 
 As you can see, Jobs-to-be-done goes further by allowing you to step into your customer's shoes and work backwards to a solution. This will help increase the success rate of your product innovation.
 
@@ -40,6 +41,11 @@ As you can see, Jobs-to-be-done goes further by allowing you to step into your c
 [Jobs-to-be-done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) not only uncovers functional benefits but also emotional and social aspects.
 
 For instance, people might “hire” Facebook for the functional job of connecting with those across different geographies; the emotional job of being able to feel less lonely; the social job of being seen in favourable light.
+
+We don’t make purchase decisions purely based on features or functions. A lot of marketing/advertising has been designed to tug at our heartstrings, or appeal to our nature as social creatures. So why would you not include those jobs in your analysis?
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BJwX9MhgGCT/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">To improve the success of your next #innovation keep this in mind. Even Steve Jobs had to learn this the hard way. #customerexperience #userexperience #productdesign #productinnovation #innovative</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Enabled Solutions (@enabledhq) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-08-31T02:11:40+00:00">Aug 30, 2016 at 7:11pm PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 ## Know the real competitors
 
@@ -59,9 +65,9 @@ For instance, online learning has proliferated in response to the non-consumptio
 
 ## Jobs can evolve over time
 
-Jobs are not hard-and-fast rules. As customers use the product, new jobs might come up, or the existing job might expand.
+Jobs are not hard-and-fast rules. As a product is used,  the existing job might expand, or customers may discover it solves other jobs they have never needed solving before.
 
-Facebook’s original job was to connect fellow students at Harvard University. Now, Facebook is connecting people from everywhere around the world.
+Facebook’s original job was to connect fellow students at Harvard University. Now, Facebook is a tool people use to broadcast their own social standing or emotional conditions to their group of contacts.
 
 # Applying Jobs to Predict Success of Innovations
 
@@ -80,15 +86,16 @@ Made by [STYR Labs](https://styr.com/#/home), the combo consists of:
 - A wireless scale that measures other stats such as body fat percentage and bone mass
 - ustomised multivitamins delivered to your door
 
+![STYR Labs personal health kit]({{site.baseurl}}/images/img_jtbd_styr.png)
+*Source: [STYR Labs](https://styr.com/#/home)*
+
 **The jobs to be done**
 
-This is where it gets tricky because the product has several components, which might be used to accomplish different jobs.
+Individually each of the components could be used to accomplish different jobs but since we want to uncover the rationale behind the STYR combo, let’s consider it as a whole.
 
-Since we want to uncover the rationale behind the STYR combo, let’s consider it as a whole.
-
-- Functional: linking users’ nutritional intake with fitness tracking
-- Emotional: peace of mind from self-monitoring and personalised supplements  
-- Social: being seen as healthy; saving time to engage in more social activities
+- _Functional_: linking users’ nutritional intake with fitness tracking, allowing them to know they are taking their supplement with intention, tailored to their specific needs. 
+- _Emotional_: peace of mind from self-monitoring and personalised supplements, that they are getting enough of the nutrients they need and not too much of those they do not.  
+- _Social_: being seen as healthy; saving time to engage in more social activities
 
 **Non-consumption**
 
@@ -104,25 +111,30 @@ We think overall it’s an innovative product that attempts to provide that miss
 
 **What is it?**
 
-[Grabr](https://grabr.io/about) is a peer-to-peer shopping and delivery platform. It connects users seeking unique items around the world with travellers heading their way. Grabr charges buyers service fees and gives travellers commissions.
+[Grabr](https://grabr.io/about) is a peer-to-peer shopping and delivery platform. It connects users seeking unique items around the world with travellers heading their way. Buyers post requests for items and choose how much they pay travellers from those who respond. Grabr earns money on each transaction with a service fee charged to the buyers.  
 
 The start-up has secured a $3.5 million [seed investment](http://venturebeat.com/2016/08/25/grabr-takes-in-3-5-million-to-let-you-get-that-korean-cream-without-international-delivery-fees/) and has attracted over 50,000 users in around a year of operation.
 
+![Peer to peer platform Grabr]({{site.baseurl}}/images/img_jtbd_grabr.png)
+*Source: [Grabr](https://grabr.io/about)*
+
 **The jobs to be done**
 
-Functional
+_Functional_
 - For buyers: can finally get rare finds or items that are impossible to buy where you live
 - For travellers: make use of spare luggage allowance while earning extra money
 
-Emotional
+_Emotional_
 - For buyers: sentiments from getting items you’ve always longed for
 - For travellers: helping other people
 
-Social: Break down barriers between countries, meet locals from different cultures
+_Social_: Break down barriers between countries, meet locals from different cultures
 
 **Non-consumption**
 
-People who find the process of hunting for rare, unique items on the existing channels too complex: local forums (e.g. Gumtree), personal friend network of friends and families, social media, eBay.
+People who find the process of hunting for rare, unique items on the existing channels too complex: local forums (e.g. Gumtree), personal network of friends and families, social media, eBay. 
+
+Or it could be impossible for people to get the job done. For instance, you can’t search online for items outside the digital environment altogether, e.g. antiques. Another example is legal restrictions that prevent overseas art buyers from getting what they want directly. But they can have someone in the country of origin buy the artwork and bring it over. 
 
 **Verdict**
 

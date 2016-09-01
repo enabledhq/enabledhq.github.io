@@ -101,7 +101,7 @@ Made by [STYR Labs](https://styr.com/#/home), the combo consists of:
 - An activity tracker (users can also use other trackers such as FitBit, JawBone if they already own one)
 - A mobile app that analyses data from the activity tracker and recommends personalised nutritional supplements
 - A wireless scale that measures other stats such as body fat percentage and bone mass
-- ustomised multivitamins delivered to your door
+- Customised multivitamins delivered to your door
 
 ![STYR Labs personal health kit]({{site.baseurl}}/images/img_jtbd_styr.png)
 *Source: [STYR Labs](https://styr.com/#/home)*
@@ -130,7 +130,7 @@ We think overall it’s an innovative product that attempts to provide that miss
 
 **What is it?**
 
-[Grabr](https://grabr.io/about) is a peer-to-peer shopping and delivery platform. It connects users seeking unique items around the world with travellers heading their way. Buyers post requests for items and choose how much they pay travellers from those who respond. Grabr earns money on each transaction with a service fee charged to the buyers.  
+[Grabr](https://grabr.io/about) is a peer-to-peer shopping and delivery platform. It connects users seeking unique items around the world with travellers heading their way. Buyers post requests for items and choose how much they pay based on bids of travellers. Grabr earns money on each transaction with a service fee charged to the buyers.  
 
 The start-up has secured a $3.5 million [seed investment](http://venturebeat.com/2016/08/25/grabr-takes-in-3-5-million-to-let-you-get-that-korean-cream-without-international-delivery-fees/) and has attracted over 50,000 users in around a year of operation.
 
@@ -140,10 +140,12 @@ The start-up has secured a $3.5 million [seed investment](http://venturebeat.com
 **The jobs to be done**
 
 _Functional_
+
 - For buyers: can finally get rare finds or items that are impossible to buy where you live
 - For travellers: make use of spare luggage allowance while earning extra money
 
 _Emotional_
+
 - For buyers: sentiments from getting items you’ve always longed for
 - For travellers: helping other people
 
@@ -161,8 +163,8 @@ The platform has a lot of potential. It has the different flavours of a successf
 
 _We also wrote about platform as a business model and its flavours in another [blog post](http://blog.enabled.com.au/platform-business-model/)._
 
-There is a very compelling job story behind Grabr which stems from a unique situational factor (Remember the formula Persona + motivation + situation + expected outcome = Product?)  
+There is a very compelling job story behind Grabr which stems from a unique situational factor (Remember the formula **Persona + motivation + situation + expected outcome = Product**?)  
 
 Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If Grabr could safeguard their business like Airbnb and Uber, they stand a good chance of becoming a disruptive force.
  
-_*Disclaimer: We’re not affiliated, endorsed by or in any way connected with any of the products mentioned here._
+_*Disclaimer: We’re not affiliated, endorsed by or in any way connected with the products mentioned here._

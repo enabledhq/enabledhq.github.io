@@ -12,6 +12,13 @@ meta-description: >-
   Learn the basics of Jobs-to-be-done as a framework to evaluate product
   innovation and keep you on the right track, real life examples included.
 author: linh
+meta-keywords: >-
+  Product innovation, new product development, Jobs to be done, jobs-to-be-done,
+  disruptive innovation, user research, product development
+categories:
+  - innovation
+  - entrepreneurship
+main-category: innovation
 ---
 A device that lets you “smell the Internet” via the websites or emails you read. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 

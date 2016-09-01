@@ -3,6 +3,8 @@ layout: post
 date: '2016-08-31 17:32 +0930'
 published: false
 title: 'Next Time You Want to Build/Improve Your Product, Consider This'
+hero-banner: images/Blog_Header_JTBD.png
+thumbnail-image: images/img_jtbd_thumb.png
 ---
 A device that lets you “smell the Internet” via the websites or emails you read. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 

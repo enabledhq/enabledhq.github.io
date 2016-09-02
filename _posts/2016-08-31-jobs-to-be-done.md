@@ -6,11 +6,13 @@ title: Why Traditional User Research Is Not Enough to Build a Great Product
 hero-banner: /images/Blog_Header_JTBD.png
 thumbnail-image: /images/img_jtbd_thumb.png
 description: >-
-  Learn the basics of Jobs-to-be-done as a framework to evaluate product
-  innovation and keep you on the right track, with real life examples included.
+  Learn about Jobs-to-be-done as an alternative to traditional user research to
+  evaluate product innovation & keep you on the right track, real life examples
+  included.
 meta-description: >-
-  Learn the basics of Jobs-to-be-done as a framework to evaluate product
-  innovation and keep you on the right track, real life examples included.
+  Learn about Jobs-to-be-done as an alternative to traditional user research to
+  evaluate product innovation & keep you on the right track, real life examples
+  included.
 author: linh
 meta-keywords: >-
   Product innovation, new product development, Jobs to be done, jobs-to-be-done,
@@ -112,9 +114,9 @@ Made by [STYR Labs](https://styr.com/#/home), the combo consists of:
 
 Individually each of the components could be used to accomplish different jobs but since we want to uncover the rationale behind the STYR combo, let’s consider it as a whole.
 
-- _Functional_: linking users’ nutritional intake with fitness tracking, allowing them to know they are taking their supplement with intention, tailored to their specific needs. 
-- _Emotional_: peace of mind from self-monitoring and personalised supplements, that they are getting enough of the nutrients they need and not too much of those they do not.  
-- _Social_: being seen as healthy; saving time to engage in more social activities
+- _Functional:_ linking users’ nutritional intake with fitness tracking, allowing them to know they are taking their supplement with intention, tailored to their specific needs. 
+- _Emotional:_ peace of mind from self-monitoring and personalised supplements, that they are getting enough of the nutrients they need and not too much of those they do not.  
+- _Social:_ being seen as healthy; saving time to engage in more social activities
 
 **Non-consumption**
 

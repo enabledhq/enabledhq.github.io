@@ -6,9 +6,8 @@ title: Why Traditional User Research Is Not Enough to Build a Great Product
 hero-banner: /images/Blog_Header_JTBD.png
 thumbnail-image: /images/img_jtbd_thumb.png
 description: >-
-  Learn about Jobs-to-be-done as an alternative to traditional user research to
-  evaluate product innovation & keep you on the right track, real life examples
-  included.
+  Learn about the alternative to traditional user research to evaluate product
+  innovation & keep you on the right track, real life examples included.
 meta-description: >-
   Learn about Jobs-to-be-done as an alternative to traditional user research to
   evaluate product innovation & keep you on the right track, real life examples

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-09-02 17:32 +0930'
-published: false
+published: true
 title: Why Traditional User Research Is Not Enough to Build a Great Product
 hero-banner: /images/Blog_Header_JTBD.png
 thumbnail-image: /images/img_jtbd_thumb.png

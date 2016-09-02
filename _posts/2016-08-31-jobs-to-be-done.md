@@ -24,7 +24,7 @@ short-link: 'http://bit.ly/2csxFSM'
 ---
 A device that lets you “smell the Internet” via the websites you visit. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 
-The truth is: [DigiScents](http://www.startupover.com/en/20-million-burning-smell-like-just-ask-digiscents/)’ iSmell and [Facebook’](http://www.businessinsider.com.au/biggest-product-failures-in-business-history-2014-7#2013--facebook-home-22)s Home are considered one of the biggest product flops in the last few decades. It’s not that the products weren’t technologically good, or had inadequate financial support. It’s because there was little consideration to the user needs.
+The truth is: [DigiScents](http://www.startupover.com/en/20-million-burning-smell-like-just-ask-digiscents/)’ iSmell and [Facebook’](http://www.businessinsider.com.au/biggest-product-failures-in-business-history-2014-7#2013--facebook-home-22)s Home are considered two of the biggest product flops in the last few decades. It’s not that the products weren’t technologically good, or had inadequate financial support. It’s because there was little consideration to the user needs.
 
 # Introducing Jobs to Be Done
 

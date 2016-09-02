@@ -78,7 +78,9 @@ Consider competition in the following scenarios:
 
 This notion is closely related to _[Disruptive Innovation](http://blog.enabled.com.au/mass-disruption/)_; in a sense that customers are not consuming existing products, because they are either too complex or expensive for the job to be done.
 
-For instance, online learning has proliferated in response to the non-consumption of expensive, highly structured higher education courses.
+For instance, online learning has proliferated due to the non-consumption of traditional university courses. Two market segments exhibit this. One is people who think university degrees offer too much more than their needs. The other is those who can’t afford the expensive courses.
+
+Hence, online learning has disrupted traditional higher education offerings by making education more accessible to those who are not consuming the latter. 
 
 ## Jobs can evolve over time
 

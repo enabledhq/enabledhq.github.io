@@ -166,7 +166,7 @@ The platform has a lot of potential. It has the different flavours of a successf
 
 _We also wrote about platform as a business model and its flavours in another [blog post](http://blog.enabled.com.au/platform-business-model/)._
 
-There is a very compelling job story behind Grabr which stems from a unique situational factor (Remember the formula **Persona + motivation + situation + expected outcome = Product**?)  
+There is a very compelling job story behind Grabr which stems from a unique situational factor (Remember the formula **Persona + motivation + situation + expected outcome = Product** ?)  
 
 Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If **Grabr** could safeguard their business like Airbnb and Uber, they stand a good chance of becoming a disruptive force.
  

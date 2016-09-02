@@ -59,7 +59,7 @@ As you can see, Jobs-to-be-done goes further by allowing you to step into your c
 
 [Jobs-to-be-done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) not only uncovers functional benefits but also emotional and social aspects.
 
-For instance, people might “hire” Facebook for the functional job of connecting with those across different geographies; the emotional job of being able to feel less lonely; the social job of being seen in favourable light.
+For instance, people might “hire” **Facebook** for the functional job of connecting with those across different geographies; the emotional job of being able to feel less lonely; the social job of being seen in favourable light.
 
 We don’t make purchase decisions purely based on features or functions. A lot of marketing/advertising has been designed to tug at our heartstrings, or appeal to our nature as social creatures. So why would you not include those jobs in your analysis?
 
@@ -88,7 +88,7 @@ Hence, online learning has disrupted traditional higher education offerings by m
 
 Jobs are not hard-and-fast rules. As a product is used,  the existing job might expand, or customers may discover it solves other jobs they have never needed solving before.
 
-Facebook’s original job was to connect fellow students at Harvard University. Now, Facebook is a tool people use to broadcast their own social standing or emotional conditions to their group of contacts.
+Facebook’s original job was to connect fellow students at Harvard University. Now, **Facebook **is a tool people use to broadcast their own social standing or emotional conditions to their group of contacts.
 
 # Applying Jobs to Predict Success of Innovations
 
@@ -112,7 +112,7 @@ Made by [STYR Labs](https://styr.com/#/home), the combo consists of:
 
 **The jobs to be done**
 
-Individually each of the components could be used to accomplish different jobs but since we want to uncover the rationale behind the STYR combo, let’s consider it as a whole.
+Individually each of the components could be used to accomplish different jobs but since we want to uncover the rationale behind the **STYR** combo, let’s consider it as a whole.
 
 - _Functional:_ linking users’ nutritional intake with fitness tracking, allowing them to know they are taking their supplement with intention, tailored to their specific needs. 
 - _Emotional:_ peace of mind from self-monitoring and personalised supplements, that they are getting enough of the nutrients they need and not too much of those they do not.  
@@ -134,7 +134,7 @@ We think overall it’s an innovative product that attempts to provide that miss
 
 **What is it?**
 
-[Grabr](https://grabr.io/about) is a peer-to-peer shopping and delivery platform. It connects users seeking unique items around the world with travellers heading their way. Buyers post requests for items and choose how much they pay based on bids of travellers. Grabr earns money on each transaction with a service fee charged to the buyers.  
+[Grabr](https://grabr.io/about) is a peer-to-peer shopping and delivery platform. It connects users seeking unique items around the world with travellers heading their way. Buyers post requests for items and choose how much they pay based on bids of travellers. **Grabr** earns money on each transaction with a service fee charged to the buyers.  
 
 The start-up has secured a $3.5 million [seed investment](http://venturebeat.com/2016/08/25/grabr-takes-in-3-5-million-to-let-you-get-that-korean-cream-without-international-delivery-fees/) and has attracted over 50,000 users in around a year of operation.
 
@@ -153,7 +153,7 @@ _Emotional_
 - For buyers: sentiments from getting items you’ve always longed for
 - For travellers: helping other people
 
-_Social_: Break down barriers between countries, meet locals from different cultures
+_Social:_ Break down barriers between countries, meet locals from different cultures
 
 **Non-consumption**
 
@@ -169,6 +169,6 @@ _We also wrote about platform as a business model and its flavours in another [b
 
 There is a very compelling job story behind Grabr which stems from a unique situational factor (Remember the formula **Persona + motivation + situation + expected outcome = Product**?)  
 
-Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If Grabr could safeguard their business like Airbnb and Uber, they stand a good chance of becoming a disruptive force.
+Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If **Grabr** could safeguard their business like Airbnb and Uber, they stand a good chance of becoming a disruptive force.
  
 _*Disclaimer: We’re not affiliated, endorsed by or in any way connected with the products mentioned here._

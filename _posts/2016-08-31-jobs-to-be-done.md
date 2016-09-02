@@ -87,7 +87,7 @@ Hence, online learning has disrupted traditional higher education offerings by m
 
 Jobs are not hard-and-fast rules. As a product is used,  the existing job might expand, or customers may discover it solves other jobs they have never needed solving before.
 
-Facebook’s original job was to connect fellow students at Harvard University. Now, **Facebook ** is a tool people use to broadcast their own social standing or emotional conditions to their group of contacts.
+Facebook’s original job was to connect fellow students at Harvard University. Now, **Facebook** is a tool people use to broadcast their own social standing or emotional conditions to their group of contacts.
 
 # Applying Jobs to Predict Success of Innovations
 

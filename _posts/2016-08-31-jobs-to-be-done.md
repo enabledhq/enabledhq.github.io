@@ -118,9 +118,9 @@ Individually each of the components could be used to accomplish different jobs b
 
 **Non-consumption**
 
-Potential users could be people who want a complete health monitoring solution (tracker, app & scale) that is less expensive than existing offerings such as the [Under Armour HealthBox](http://au.pcmag.com/under-armour-healthbox/41630/review/under-armour-healthbox). However, users might end up mixing and matching products from different brands to bring the costs down.
+Potential users could be people who want personalised health and diet advice/monitoring without having to fork out a lot of money for dieticians or personal trainers.  
 
-Another non-consumption market could be health-conscious people who find the process of analysing their nutritional requirements, buying and keeping track of supplements intake too complex.
+Another non-consumption market could be health-conscious people who find the process of analysing their nutritional requirements, buying and keeping track of supplements intake too complex. 
 
 **Verdict**
 

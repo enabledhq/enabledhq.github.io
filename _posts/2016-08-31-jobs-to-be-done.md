@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-08-31 17:32 +0930'
-published: false
+published: true
 title: 'Next Time You Want to Build/Improve Your Product, Consider This'
 hero-banner: /images/Blog_Header_JTBD.png
 thumbnail-image: /images/img_jtbd_thumb.png

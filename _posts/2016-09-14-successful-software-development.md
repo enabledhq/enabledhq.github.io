@@ -18,6 +18,8 @@ description: >-
   Software development projects don't have to be stressful. Follow these steps
   to improve the chance of a successful software product launch.
 short-link: 'blog.enabled.com.au/successful-software-development '
+hero-banner: /images/Blog_header_success_software.png
+thumbnail-image: /images/img_success_software_thumb.png
 ---
 Previously, we discussed some popular myths and misperceptions people have about [software development](http://blog.enabled.com.au/myths-software-development/). Now, let’s take it further by talking about how you can make the most out of your software projects. 
 
@@ -137,7 +139,7 @@ Keep track of roles and responsibilities but don’t over-document everything. F
 Sometimes, visual/graphical representation does a better job than word documents. For example, here at Enabled, we often use app maps and wireframes to document the development process.
 
 ![app map example software]({{site.baseurl}}/images/img_success_software_AppMap.png)
-*Example of an app map we did for our client (click [here](blog.enabled.com.au/img_success_software_AppMap_full.png) for complete image)*
+*Example of an app map we did for our client (click [here](blog.enabled.com.au/images/img_success_software_AppMap_full.png) for complete image)*
 
 ## Communication style 
 

@@ -158,6 +158,7 @@ That said, the most effective communication:
 ## Don’t over-staff
 We’ve mentioned [Brook’s Law](http://blog.enabled.com.au/myths-software-development/) in our previous post but it’s worth noting it again here. If you need a lot of people, get them BEFORE the project starts. 
 
+
 ![brook's law software development]({{site.baseurl}}/images/img_success_software_brook.png)
 *Source: [Quora](https://www.quora.com/Can-C++-be-used-for-a-solo-developer-or-does-it-need-a-lot-of-developers-to-make-a-good-program-that-can-be-sold-Does-it-have-any-dependencies)*
 
@@ -168,7 +169,7 @@ Let’s briefly look at the different kinds of software testing:
 - End-to-end testing tests a fully integrated system as if a user was using it.
 - Staging environments allow changes to be heavily tested by users before deploying into a production environment for general use.
 
-**Note:** Developers should not be testers in the project they are working on, as their familiarity with the software may skew the results (similar to how writers have proofreaders/editors). Also, depending on the project’s complexity, role specialisation can increase efficiency. 
+**Note:** Developers should _not_ be testers in the project they are working on, as their familiarity with the software may skew the results (similar to how writers have proofreaders/editors). Also, depending on the project’s complexity, role specialisation can increase efficiency. 
 
 # What If You Want to Change Something?
 

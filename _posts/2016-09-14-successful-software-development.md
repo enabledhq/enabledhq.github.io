@@ -17,7 +17,7 @@ meta-description: >-
 description: >-
   Software development projects don't have to be stressful. Follow these steps
   to improve the chance of a successful software product launch.
-short-link: 'blog.enabled.com.au/successful-software-development '
+short-link: 'http://bit.ly/2cdQlDw'
 hero-banner: /images/Blog_header_success_software.png
 thumbnail-image: /images/img_success_software_thumb.png
 ---

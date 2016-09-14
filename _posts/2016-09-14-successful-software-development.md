@@ -55,7 +55,7 @@ Consider today's biggest social networking site and how it started out. “Thefa
 
 # Software Project Estimates
 
-As mentioned in the previous post, one of the most prevalent myths in software development is you can get a 100% accurate time estimate. 
+As mentioned in the previous post, one of the most prevalent myths in [software development](http://blog.enabled.com.au/myths-software-development/) is you can get a 100% accurate time estimate. 
 
 There are two reasons (which we’ll go into more details shortly): 
 
@@ -63,9 +63,10 @@ There are two reasons (which we’ll go into more details shortly):
 - Issues from internal and external environments
 
 ## The coastline paradox
-How long do you think the Australian coastline is? Is it around 12,500km or 25,700km? The wide discrepancy is due to the different approaches used to measure the coastline. As you go deeper into the level of detail - or use a shorter ruler - the coastline length gets longer. 
+How long do you think the Australian coastline is? Is it around 12,500km or 25,700km? The wide discrepancy is due to the different approaches used to measure the [coastline](http://www.richannel.org/the-coastline-paradox). As you go deeper into the level of detail - or use a shorter ruler - the coastline length gets longer. 
 
-_Source: Dick Whitaker
+![software development estimates coastline]({{site.baseurl}}/images/img_success_software_coast.png)
+*Source: [Dick Whitaker](http://passingparade-2009.blogspot.com.au/2009/08/australian-coastline-how-long-is-it.html)*
 
 What does this have to do with software project estimates? 
 If you want to get a rough estimate that doesn’t take long to do, you might discard the important details that will come into the picture later on. 

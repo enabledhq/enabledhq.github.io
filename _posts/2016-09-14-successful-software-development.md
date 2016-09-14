@@ -2,7 +2,7 @@
 layout: post
 date: '2016-09-14 13:54 +0930'
 published: true
-title: 'How to increase the success rate of software development '
+title: 'How to Increase The Success Rate of Software Development '
 meta-keywords: >-
   software projects, Software developer, Software development, project
   management, jobs to be done, software development myths, software development

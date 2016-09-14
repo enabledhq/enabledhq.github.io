@@ -56,6 +56,7 @@ Essentially, you should be able to articulate your answer to the question: “Wh
 This is a multi-faceted question in the [Jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/) approach to product innovation, which we’ve covered in a previous blog post.
 
 Hence, identifying this “job” needs input from both sides, as it will help determine:
+
 - Scope 
 - Functionality 
 - Budget 

@@ -30,7 +30,8 @@ In addition to the key pointers we’ve outlined in this post (_[Dos and Don’t
 We as humans are drawn to those who are similar to us and share the same values. In the context of professional recruitment, there is a potential bias as we tend to choose people who reinforce our worldview (or [selective exposure](https://www.boundless.com/communications/textbooks/boundless-communications-textbook/methods-of-persuasive-speaking-15/getting-the-most-out-of-a-persuasive-speech-75/expect-selective-exposure-291-5774/)). 
 
 On the other hand, you might flinch on hearing shortlisted developers challenge your concept in an attempt to expand your worldview. 
-![choosing software developer ]({{site.baseurl}}/images/img_success_software_exposure.jpg)
+
+![selective exposure ]({{site.baseurl}}/images/img_success_software_exposure.png)
 *Source: [Wake Forest University](http://cloud.lib.wfu.edu/blog/com100spring2014/2014/02/17/cognitive-dissonance-theory-selective-exposure-2/)*
 
 Sometimes it is a line between your rational thinking and their outrageous fiction. But sometimes, it is between your comfort zone and their innovative approach that could make your software project much better. 

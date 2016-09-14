@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-09-14 13:54 +0930'
-published: false
+published: true
 title: 'How to increase the success rate of software development '
 meta-keywords: >-
   software projects, Software developer, Software development, project

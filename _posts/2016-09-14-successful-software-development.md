@@ -31,7 +31,7 @@ We as humans are drawn to those who are similar to us and share the same values.
 
 On the other hand, you might flinch on hearing shortlisted developers challenge your concept in an attempt to expand your worldview. 
 
-![selective exposure ]({{site.baseurl}}/images/img_success_software_exposure.png)
+![selective exposure]({{site.baseurl}}/images/img_success_software_exposure.png)
 *Source: [Wake Forest University](http://cloud.lib.wfu.edu/blog/com100spring2014/2014/02/17/cognitive-dissonance-theory-selective-exposure-2/)*
 
 Sometimes it is a line between your rational thinking and their outrageous fiction. But sometimes, it is between your comfort zone and their innovative approach that could make your software project much better. 
@@ -90,6 +90,7 @@ If you want to get a rough estimate that doesn’t take long to do, you might di
 
 ## Factors that could make project deviate from estimates 
 The table below contains examples of factors within and outside of your business that could stretch your project timeline. 
+
 ![factors affecting software dev estimates]({{site.baseurl}}/images/img_success_software_factors.png)
 
 ## Best practices
@@ -140,7 +141,7 @@ Keep track of roles and responsibilities but don’t over-document everything. F
 Sometimes, visual/graphical representation does a better job than word documents. For example, here at Enabled, we often use app maps and wireframes to document the development process.
 
 ![app map example software]({{site.baseurl}}/images/img_success_software_AppMap.png)
-*Example of an app map we did for our client (click [here](https://www.blog.enabled.com.au/images/img_success_software_AppMap_full.png) for complete image)*
+*Example of an app map we did for our client (click [here](http://blog.enabled.com.au/images/img_success_software_AppMap_full.png) for complete image)*
 
 ## Communication style 
 

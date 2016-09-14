@@ -122,8 +122,8 @@ Keep track of roles and responsibilities but don’t over-document everything. F
 
 Sometimes, visual/graphical representation does a better job than word documents. For example, here at Enabled, we often use app maps and wireframes to document the development process.
 
-
-*Example of an app map we did for our client (not the complete version)*
+![app map example software]({{site.baseurl}}/images/img_success_software_AppMap.png)
+*Example of an app map we did for our client (click [here](blog.enabled.com.au/img_success_software_AppMap_full.png) for complete image)*
 
 ## Communication style 
 

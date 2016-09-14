@@ -139,7 +139,7 @@ Keep track of roles and responsibilities but don’t over-document everything. F
 Sometimes, visual/graphical representation does a better job than word documents. For example, here at Enabled, we often use app maps and wireframes to document the development process.
 
 ![app map example software]({{site.baseurl}}/images/img_success_software_AppMap.png)
-*Example of an app map we did for our client (click [here](blog.enabled.com.au/images/img_success_software_AppMap_full.png) for complete image)*
+*Example of an app map we did for our client (click [here](https://www.blog.enabled.com.au/images/img_success_software_AppMap_full.png) for complete image)*
 
 ## Communication style 
 
@@ -163,6 +163,7 @@ We’ve mentioned [Brook’s Law](http://blog.enabled.com.au/myths-software-deve
 
 # Testing
 Let’s briefly look at the different kinds of software testing:
+
 - [Automated unit testing](http://collaboration.csc.ncsu.edu/laurie/Papers/Unit_testing_cameraReady.pdf) increases development cost by 30-50% but reduces the number of bugs by up to 90%. This is done throughout the project, not just towards the end. 
 - End-to-end testing tests a fully integrated system as if a user was using it.
 - Staging environments allow changes to be heavily tested by users before deploying into a production environment for general use.

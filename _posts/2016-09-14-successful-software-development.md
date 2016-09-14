@@ -116,6 +116,7 @@ To implement a lean approach, do a bulk of the discovery and invention upfront, 
 Make sure all important stakeholders are included early, then increasingly reduce the amount of influence these stakeholders are allowed to have across the project. This is to minimise bureaucracy as well as empower project personnel to achieve the project vision.
 
 # Project Management
+
 ## Accountability
 Keep track of roles and responsibilities but don’t over-document everything. For example, you don’t want to implement the US Department of Defense documentation style: 25,000 lines of [software](http://www.stevemcconnell.com/sgcrib.htm) code could easily require 5000 – 10,000 pages of paperwork.
 
@@ -126,7 +127,7 @@ Sometimes, visual/graphical representation does a better job than word documents
 
 ## Communication style 
 
-It is both common sense and good project management to have periodic review and re-estimation. Remember the “coastline paradox” mentioned earlier? As you gain a better understanding of what you’re dealing with, subsequent estimates might be more accurate. 
+It is both common sense and good project management to have periodic review and re-estimation. Remember the “**coastline paradox**” mentioned earlier? As you gain a better understanding of what you’re dealing with, subsequent estimates might be more accurate. 
 
 In the worst case, over-communication is better than under-communication. Why? Because having to undo the hard work already put in, or risk having cost overrun is a much bigger problem.
 That said, the most effective communication:
@@ -139,9 +140,10 @@ That said, the most effective communication:
 - Fosters team spirit across different organisations/teams
 
 ## Don’t over-staff
-We’ve mentioned Brook’s Law in our previous post but it’s worth noting it again here. If you need a lot of people, get them BEFORE the project starts. 
+We’ve mentioned [Brook’s Law](http://blog.enabled.com.au/myths-software-development/) in our previous post but it’s worth noting it again here. If you need a lot of people, get them BEFORE the project starts. 
 
-*Source: Quora*
+![brook's law software development]({{site.baseurl}}/images/img_success_software_brook.png)
+*Source: [Quora](https://www.quora.com/Can-C++-be-used-for-a-solo-developer-or-does-it-need-a-lot-of-developers-to-make-a-good-program-that-can-be-sold-Does-it-have-any-dependencies)*
 
 # Testing
 Let’s briefly look at the different kinds of software testing:

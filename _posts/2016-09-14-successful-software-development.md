@@ -30,7 +30,7 @@ Once you have chosen the right developer, it’s important to start building tru
 ![empathy in software development]({{site.baseurl}}/images/img_success_software_empathy.png)
 *Source: [Limebridge](http://www.limebridge.com.au/cartoons/empathy)* 
 
-Moreover, from a practical point of view, repeat business is always better for developers, which means there is more in it for them to complete your project successfully than dragging it out for extra charges. 
+Moreover, from a practical point of view, repeat business is always better for developers, which means there is more in it for them to [complete your project](http://thegbuffer.com/in-the-milking-shed-2/) successfully than dragging it out for extra charges. 
 
 # Identifying The “Job”
 
@@ -38,7 +38,7 @@ This is where you create a shared sense of purpose, not only between your softwa
 
 Essentially, you should be able to articulate your answer to the question: “What job would people use your software to accomplish?” 
 
-This is a multi-faceted question in the Jobs-to-be-done approach to product innovation, which we’ve covered in a previous blog post.
+This is a multi-faceted question in the [Jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/) approach to product innovation, which we’ve covered in a previous blog post.
 
 Hence, identifying this “job” needs input from both sides, as it will help determine:
 - Scope 
@@ -48,9 +48,10 @@ Hence, identifying this “job” needs input from both sides, as it will help d
 
 **Note:** Sometimes, the original job changes as users discover new ways to use your product. So does that mean it’s pointless to uncover what they want to achieve with your software in the first place? The answer is no. 
 
-Consider the biggest social networking site and how it started out. “Thefacebook” was well used and loved before users extended it to other purposes, e.g. broadcasting their own emotions and activities to their social circles.  
+Consider today's biggest social networking site and how it started out. “Thefacebook” was well used and loved before users extended it to other purposes, e.g. broadcasting their own emotions and activities to their social circles.  
 
-_Facebook’s original “job” - Source: thejournal.ie
+![facebook jobs to be done]({{site.baseurl}}/images/img_success_software_facebook.png)
+*Facebook’s original “job” - Source: [thejournal.ie](http://www.thejournal.ie/happy-birthday-facebook-heres-how-you-looked-eight-years-ago-345946-Feb2012/)*
 
 # Software Project Estimates
 

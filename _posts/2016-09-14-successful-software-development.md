@@ -4,8 +4,20 @@ date: '2016-09-14 13:54 +0930'
 published: false
 title: 'How to increase the success rate of software development '
 meta-keywords: >-
-  Software developer, Software development, project management, jobs to be
-  done,
+  software projects, Software developer, Software development, project
+  management, jobs to be done, software development myths, software development
+  project
+main-category: technology
+categories:
+  - technology
+author: grant
+meta-description: >-
+  Software development projects don't have to be stressful. Follow these steps
+  to improve the chance of a successful software product launch.
+description: >-
+  Software development projects don't have to be stressful. Follow these steps
+  to improve the chance of a successful software product launch.
+short-link: 'blog.enabled.com.au/successful-software-development '
 ---
 Previously, we discussed some popular myths and misperceptions people have about [software development](http://blog.enabled.com.au/myths-software-development/). Now, let’s take it further by talking about how you can make the most out of your software projects. 
 
@@ -105,7 +117,7 @@ Referencing the often quoted book - [Waltzing with Bears: Managing Risk on Softw
 - Monitor and re-evaluate the list of risks regularly (at least at each deliverable milestone). Execute contingencies as they are triggered.
 - Add new risks are they become apparent
 
-_It’s better to consider estimates as guidelines rather than hard-and-fast rules._
+>It’s better to consider software estimates as guidelines rather than hard-and-fast rules.
 
 # Don’t try to make the perfect product (or Don’t "gold-plate")
 Borrowing from the lean methodology, once you’ve identified the Minimum Viable Product (MVP), try not to over serve and waste budget/time on things that customers will not value. 
@@ -181,6 +193,8 @@ Security updates, bug fixing and regular maintenance ensure a smooth performance
 
 Additionally, having a [Service Level Agreement](http://www.cio.com/article/2438284/outsourcing/sla-definitions-and-solutions.html) (SLA) with your developer gives you peace of mind that technical issues are ironed out as soon as they crop up. 
 
+>Small milestones and constant renegotiation improve communication and help share the risk to give a better outcome for everyone.
+
 ## Enhancement 
 This is how you prepare to take your software product to the next level, grab market share or fend off disruptors. Consider product improvements with information gathered from:
 
@@ -190,8 +204,4 @@ This is how you prepare to take your software product to the next level, grab ma
 
 Slack - the enterprise messaging app that went from $0 to $1B - is a result of serious commitment to product enhancement. 
 
-They weave customer support and [product development](https://growthhackers.com/growth-studies/slack-fastest-growing-b2b-saas-business-ever) into their strategy. “Slack responds to around 8,000 Zendesk help tickets and an additional 10,000 tweets per month” and more importantly, learns from them. 
-
-
-
-
+They weave customer support and [product development](https://growthhackers.com/growth-studies/slack-fastest-growing-b2b-saas-business-ever) into their strategy. “Slack responds to around 8,000 Zendesk help tickets and an additional 10,000 tweets per month” and more importantly, learns from them.

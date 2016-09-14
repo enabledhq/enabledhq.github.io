@@ -75,7 +75,7 @@ If you want to get a rough estimate that doesn’t take long to do, you might di
 
 ## Factors that could make project deviate from estimates 
 The table below contains examples of factors within and outside of your business that could stretch your project timeline. 
-
+![factors affecting software dev estimates]({{site.baseurl}}/images/img_success_software_factors.png)
 
 ## Best practices
 Given the above, it’s better to consider estimates as guidelines rather than hard-and-fast rules. Sometimes, the efforts spent on coming up with estimates can eat into valuable development time. 
@@ -93,7 +93,7 @@ Following from the previous section, identifying risks help you account for erro
 
 **Note**: Decide if your project’s potential value outweighs the risks. If not, then re-evaluate the goals.
 
-Referencing the often quoted book - Waltzing with Bears: Managing Risk on Software Projects -  we’d like to point out the key action items:
+Referencing the often quoted book - [Waltzing with Bears: Managing Risk on Software Projects](https://www.amazon.com/exec/obidos/ASIN/0932633609/theatlanticsyste) -  we’d like to point out the key action items:
 
 - Identify, track and label risks
 - Find trigger conditions for each risk
@@ -117,14 +117,17 @@ Make sure all important stakeholders are included early, then increasingly reduc
 
 # Project Management
 ## Accountability
-Keep track of roles and responsibilities but don’t over-document everything. For example, you don’t want to implement the US Department of Defense documentation style: 25,000 lines of software code could easily require 5000 – 10,000 pages of paperwork.
+Keep track of roles and responsibilities but don’t over-document everything. For example, you don’t want to implement the US Department of Defense documentation style: 25,000 lines of [software](http://www.stevemcconnell.com/sgcrib.htm) code could easily require 5000 – 10,000 pages of paperwork.
 
 Sometimes, visual/graphical representation does a better job than word documents. For example, here at Enabled, we often use app maps and wireframes to document the development process.
 
-Example of an app map we did for our client (not the complete version)
+
+*Example of an app map we did for our client (not the complete version)*
 
 ## Communication style 
+
 It is both common sense and good project management to have periodic review and re-estimation. Remember the “coastline paradox” mentioned earlier? As you gain a better understanding of what you’re dealing with, subsequent estimates might be more accurate. 
+
 In the worst case, over-communication is better than under-communication. Why? Because having to undo the hard work already put in, or risk having cost overrun is a much bigger problem.
 That said, the most effective communication:
 
@@ -148,8 +151,11 @@ Staging environments allow changes to be heavily tested by users before deployin
 Note: Developers should not be testers in the project they are working on, as their familiarity with the software may skew the results (similar to how writers have proofreaders/editors). Also, depending on the project’s complexity, role specialisation can increase efficiency. 
 
 # What If You Want to Change Something?
-Change requests and how to minimise disruptions 
+
+## Change requests and how to minimise disruptions 
+
 Consider dividing the project into sprints - short fixed feature milestones. Then evaluate and change after each milestone. 
+
 **Note**: Regardless of the scale, it’s crucial to assess any impact of change and obtain appropriate approval.
 
 - Small changes that don’t have significant impacts on solution architecture: can add up over time and derail the project if not controlled properly.

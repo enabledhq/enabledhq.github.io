@@ -105,8 +105,10 @@ Referencing the often quoted book - [Waltzing with Bears: Managing Risk on Softw
 - Monitor and re-evaluate the list of risks regularly (at least at each deliverable milestone). Execute contingencies as they are triggered.
 - Add new risks are they become apparent
 
+_It’s better to consider estimates as guidelines rather than hard-and-fast rules._
+
 # Don’t try to make the perfect product (or Don’t "gold-plate")
-Borrowing from the lean methodology, once you’ve identified the Minimum Viable Product (MVP), try not to over serve and waste budget/ time on things that customers will not value. 
+Borrowing from the lean methodology, once you’ve identified the Minimum Viable Product (MVP), try not to over serve and waste budget/time on things that customers will not value. 
 
 An example is spending your energy on nice-to-have features, such as social sharing function for a corporate time tracking app. 
 

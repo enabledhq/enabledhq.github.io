@@ -161,6 +161,6 @@ Using the lean approach, it is better to get a Minimum Viable Product (MVP) out 
 
 _______________
 
-## Stay tuned for the next article where we discuss how to increase the success rate of software development.
+## Read the next article in this series where we discuss how to increase the success rate of [software development](http://blog.enabled.com.au/successful-software-development/).
 
 ![myths software development]({{site.baseurl}}/images/img_myth_software.png)

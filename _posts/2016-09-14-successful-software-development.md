@@ -31,7 +31,7 @@ We as humans are drawn to those who are similar to us and share the same values.
 
 On the other hand, you might flinch on hearing shortlisted developers challenge your concept in an attempt to expand your worldview. 
 
-![selective exposure ]({{site.baseurl}}/images/img_success_software_exposure.jpg)
+![selective exposure]({{site.baseurl}}/images/img_success_software_exposure.png)
 *Source: [Wake Forest University](http://cloud.lib.wfu.edu/blog/com100spring2014/2014/02/17/cognitive-dissonance-theory-selective-exposure-2/)*
 
 Sometimes it is a line between your rational thinking and their outrageous fiction. But sometimes, it is between your comfort zone and their innovative approach that could make your software project much better. 

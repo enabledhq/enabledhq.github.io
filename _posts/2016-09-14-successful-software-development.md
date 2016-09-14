@@ -147,10 +147,11 @@ We’ve mentioned [Brook’s Law](http://blog.enabled.com.au/myths-software-deve
 
 # Testing
 Let’s briefly look at the different kinds of software testing:
-Automated unit testing increases development cost by 30-50% but reduces the number of bugs by up to 90%. This is done throughout the project, not just towards the end. 
-End-to-end testing tests a fully integrated system as if a user was using it.
-Staging environments allow changes to be heavily tested by users before deploying into a production environment for general use. 
-Note: Developers should not be testers in the project they are working on, as their familiarity with the software may skew the results (similar to how writers have proofreaders/editors). Also, depending on the project’s complexity, role specialisation can increase efficiency. 
+- [Automated unit testing](http://collaboration.csc.ncsu.edu/laurie/Papers/Unit_testing_cameraReady.pdf) increases development cost by 30-50% but reduces the number of bugs by up to 90%. This is done throughout the project, not just towards the end. 
+- End-to-end testing tests a fully integrated system as if a user was using it.
+- Staging environments allow changes to be heavily tested by users before deploying into a production environment for general use.
+
+**Note:** Developers should not be testers in the project they are working on, as their familiarity with the software may skew the results (similar to how writers have proofreaders/editors). Also, depending on the project’s complexity, role specialisation can increase efficiency. 
 
 # What If You Want to Change Something?
 
@@ -161,22 +162,22 @@ Consider dividing the project into sprints - short fixed feature milestones. The
 **Note**: Regardless of the scale, it’s crucial to assess any impact of change and obtain appropriate approval.
 
 - Small changes that don’t have significant impacts on solution architecture: can add up over time and derail the project if not controlled properly.
-- Big changes: refer back to Jobs-to-be-done. Would this help the user solve anything?
+- Big changes: refer back to [Jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/). Would this help the user solve anything?
 
 ## Say no to new ideas towards the end of project 
 If you have considered all the factors mentioned in the above sections, last-minute changes are highly unlikely. 
 
-However, if “The Sudden Go-Live Realisation” hits you, resist the urge to ask for changes that could potentially break the system if rushed. In fact, last-minute changes are among the top 10 reasons that software has bugs. 
+However, if “[The Sudden Go-Live Realisation](https://www.projectsmart.co.uk/the-sudden-realisation-my-projects-going-live.php)” hits you, resist the urge to ask for changes that could potentially break the system if rushed. In fact, [last-minute changes](http://www.softwaretestingclass.com/top-10-reasons-why-there-are-bugs-defects-in-software/) are among the top 10 reasons that software has bugs. 
 
 Consider moving those changes to the next phase after gathering enough user feedback. This would help you stay within your desired time frame for the current project, as well as refine your new ideas for the next project.
 
 # Looking Into The Future
-Does a software release mean the project is done and dusted? Not necessarily. The best software is something that receives constant care. Even if you are not a technology company, the fact that “software is eating the world” means you need to keep improving in order to remain indispensable to customers.
+Does a software release mean the project is done and dusted? Not necessarily. The best software is something that receives constant care. Even if you are not a technology company, the fact that “[software is eating the world](https://techcrunch.com/2016/06/07/software-is-eating-the-world-5-years-later/)” means you need to keep improving in order to remain indispensable to customers.
 
 ## Maintenance
 Security updates, bug fixing and regular maintenance ensure a smooth performance of your software product - just like how you take your car for a log book service. 
 
-Additionally, having a Service Level Agreement (SLA) with your developer gives you peace of mind that technical issues are ironed out as soon as they crop up. 
+Additionally, having a [Service Level Agreement](http://www.cio.com/article/2438284/outsourcing/sla-definitions-and-solutions.html) (SLA) with your developer gives you peace of mind that technical issues are ironed out as soon as they crop up. 
 
 ## Enhancement 
 This is how you prepare to take your software product to the next level, grab market share or fend off disruptors. Consider product improvements with information gathered from:
@@ -187,7 +188,7 @@ This is how you prepare to take your software product to the next level, grab ma
 
 Slack - the enterprise messaging app that went from $0 to $1B - is a result of serious commitment to product enhancement. 
 
-They weave customer support and product development into their strategy. “Slack responds to around 8,000 Zendesk help tickets and an additional 10,000 tweets per month” and more importantly, learns from them. 
+They weave customer support and [product development](https://growthhackers.com/growth-studies/slack-fastest-growing-b2b-saas-business-ever) into their strategy. “Slack responds to around 8,000 Zendesk help tickets and an additional 10,000 tweets per month” and more importantly, learns from them. 
 
 
 

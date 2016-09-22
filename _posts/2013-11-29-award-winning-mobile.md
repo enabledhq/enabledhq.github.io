@@ -33,7 +33,6 @@ For the 2013 release of iCat, the opportunity was taken to rebuild the app from 
 “Since choosing Enabled as our mobile application developer, we haven’t looked back. Their expertise and creativity took our initial concept to a new level, and the end result was incredibly well received by our target users. The work they do for us in particular iCat has been one of the most well received software launches we’ve experienced.”
 <em>Anthony Locke, Marketing Systems Manager, Clipsal by Schneider Electric</em>
 </div>
-<br />
 
 ![](/images/award_mixxitathome.jpg)
 
@@ -45,7 +44,6 @@ Taking out a Gold Award at POPAI - Marketing at Retail Awards, the Mixxit@Home k
 “The response has been overwhelming, with feedback from retailers and consumers proving extremely positive. Some stores are recording up to 40% uplift in sales on products featured in the Mixxit@Home unit”
 <em>John Murphy, CCA MD of Beverages.</em>
 </div>
-<br />
 
 ![](/images/award_cloudclinic.jpg)
 

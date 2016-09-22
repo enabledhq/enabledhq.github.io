@@ -82,4 +82,4 @@ Western Australia Housing
 
 The app designed for Western Australia’s Housing Department also received a special commendation in the SAimX awards. Western Australian Housing engaged Enabled to replace their aging PDA based system with a fully integrated and real time inspection iOS application for the assessment of government provided housing. Now in the field, their inspectors enjoy use of the app on the perfectly portioned iPad mini, and feedback has been positive from the ground through to the top level management.
 
-For more details on some of our work, head to our [Case Studies](https://enabled.com.au/our-work) section.
+For more details on some of our work, head to our [Case Studies](https://enabled.com.au/ourwork) section.

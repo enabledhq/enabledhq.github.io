@@ -60,13 +60,20 @@ Moreover, businesses only ever undergo [digital transformation](https://www.theg
 
 "Businesses don't transform by choice because it is expensive and risky." They do it when there is no other option.
 
-Xerox is a good example of successful digital transformation and the importance of acting fast before your old model is completely dry of profit. 
+Xerox is a good example of successful [digital transformation](https://www.innosight.com/insight/how-xerox-jumpstarts-transformation-through-dreaming-sessions/) and the importance of acting fast before your old model is completely dry of profit. 
+
 It went from a hardware-focused company to one who derives around 60% of its revenue from digital services. 
-Problem
+
+**Problem**
+
 Xerox’s margins and market share were suffering due to competition from Asia. By 2000, Xerox’s more complicated, expensive line of copiers and printers resulted in net losses of $273 million. 
-Action
-Essentially, what Xerox did was acting before the disruption to its core copier and printer business became too big.
+
+**Action**
+
+Essentially, what Xerox did was acting before the [disruption](https://www.innosight.com/insight/two-routes-to-resilience/) to its core copier and printer business became too big.
+
 They adopted a dual transformation path. 
+
 Repositioning the core business to adapt to the changing environment:
 Machines that could match competitors’ offerings in terms of price and simplicity, yet outsmart them in terms of technology. 
 Branching out into a separate digital offering that will eventually be the main source of growth:

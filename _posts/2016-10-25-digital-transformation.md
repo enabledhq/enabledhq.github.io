@@ -130,13 +130,13 @@ Sometimes, they need to go against their corporate instincts and:
 - Undergo a full blown digital transformation
 - Cannibalise their core business to make way for something new
 
-Understandably, this is hard for established companies. But it doesn’t mean impossible. Remember Xerox and the dual transformation path? The incumbent can fix their position in their existing turf, while starting something new on the side that may result in self-disruption. 
+Understandably, this is hard for established companies. But it doesn’t mean impossible. Remember **Xerox** and the dual transformation path? The incumbent can fix their position in their existing turf, while starting something new on the side that may result in self-disruption. 
 
 **Back to the story of print media**
 
 Newspapers initially put themselves online (digital makeover) yet they did not develop a different business model. They could have gotten rid of selling ads, given all their journalists freedom to specialise in niche topic areas and allowed people to subscribe to each of them. i.e. run a blogging network. 
 
-German media company Axel Springer wasn’t satisfied with just a digital makeover like a lot of traditional newspapers. 
+German media company **Axel Springer** wasn’t satisfied with just a digital makeover like a lot of traditional newspapers. 
 
 From 2005, the business started acquiring new [digital properties](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/an-incumbents-guide-to-digital-disruption) and moved to online classifieds.  Moreover, it also divested some of its biggest [print media](http://fortune.com/2015/10/01/who-is-axel-springer/) products, accounting for 15% of its sales in 2013. Today, the media company derives 70% of its EBITDA from digital. Now that’s truly digital transformation. 
 

@@ -35,19 +35,31 @@ The truth is: there is a high chance that when somebody says “digital transfor
 
 Now let’s look beyond the surface level and see if the proposed activity is truly transformative. 
 
-Digital dress-up or digitisation 
+## Digital dress-up or digitisation
+
 This is like putting on fashionable clothes to look more impressive. In this case, the “clothes” are cool digital technologies. 
+
 Activities such as building a website for your business where none exists, making an online store that lets people browse products and create orders without payment or other integrations. 
-Digital makeover 
+
+## Digital makeover 
+
 This maintains what the business is doing but seeks to do it better by leveraging digital. Similar to when a person gets a makeover, it doesn’t necessarily change who they are underneath. 
+
 Examples: 
-A marketing department rolling out a new data analytics platform that allows the company to customise content and target readers more precisely.
-An IT division upgrading their systems to the cloud to reduce maintenance costs and improve efficiency. 
-A word of caution: If the business is already sick, a digital makeover might only extend its life by a few more years; or worse, it could be a case of throwing money after bad.
-Digital transformation
+
+- A marketing department rolling out a new data analytics platform that allows the company to customise content and target readers more precisely.
+- An IT division upgrading their systems to the cloud to reduce maintenance costs and improve efficiency.
+
+**A word of caution**: If the business is already sick, a digital makeover might only extend its life by a few more years; or worse, it could be a case of throwing money after bad.
+
+## Digital transformation
+
 To be a truly transformative exercise, change needs to happen to the business model, processes and people as well.
-Moreover, businesses only ever undergo digital transformation when they have failed to evolve, when competitors are following too close, when market shifts throw everything into chaos. 
+
+Moreover, businesses only ever undergo [digital transformation](https://www.theguardian.com/media-network/media-network-blog/2013/nov/21/digital-transformation) when they have failed to evolve, when competitors are following too close, when market shifts throw everything into chaos. 
+
 "Businesses don't transform by choice because it is expensive and risky." They do it when there is no other option.
+
 Xerox is a good example of successful digital transformation and the importance of acting fast before your old model is completely dry of profit. 
 It went from a hardware-focused company to one who derives around 60% of its revenue from digital services. 
 Problem

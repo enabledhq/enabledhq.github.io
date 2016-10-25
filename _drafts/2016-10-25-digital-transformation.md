@@ -87,17 +87,25 @@ And what could have happened if Xerox had stopped at only digital dress-up or ma
 ![Xerox digital transformation]({{site.baseurl}}/images/img_digitrans_xerox.png)
 
 All of those measures would have been sufficient to keep Xerox going for a while, before competitors come in with a better business model, and disrupt the incumbent by unbundling or decoupling (which we’ll discuss later). 
-Summary 
+
+## Summary 
+
 To recap, next time someone says they can offer “Digital Transformation,” check if their proposal:
-Goes beyond technology and considers the human and business side of things 
-Doesn’t present the issue through a single lens, e.g. marketing or IT 
-Digital disruption 
+
+- Goes beyond technology and considers the human and business side of things 
+- Doesn’t present the issue through a single lens, e.g. marketing or IT
+
+# Digital disruption 
+
 Businesses tend not to consider digital transformation before it is too late, i.e. when digital disruption is inevitable. 
-In another blog post, we’ve said: disruption occurs “when a business creates or employs a technology in a new way, forming a business model that provides an edge over competitors.” 
+
+In another blog post, we’ve said: disruption occurs “when a business creates or employs a technology in a new way, forming a [business model](http://blog.enabled.com.au/mass-disruption/) that provides an edge over competitors.” 
+
 As startups and established companies are often put on two opposing sides, let’s look at a typical journey of how digital disruption affects both. 
  
+![Digital disruption economics]({{site.baseurl}}/images/img_digitrans_supplydemand.png)
+*Source: [McKinsey](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-economic-essentials-of-digital-strategy)* 
 
-Source: McKinsey
 To put this graph into context, consider the story of Netflix and Blockbuster. Back in 2000, the then start-up Netflix proposed to become the incumbent’s online service provider with a 49% equity price tag. Blockbuster declined, focusing on opening new retail stores and entering new markets instead. 
 Meanwhile, Netflix gained traction with its mail-based DVD rental service, before shifting its focus to online streaming a decade later. The incumbent – Blockbuster – was comfortable with a 45% market share in 2003, before going out of business seven years later. 
 Another example of disruption with a more digital focus is Amazon and Borders. In 1995, Amazon made its debut as an online book store, and over time, has moved to e-books and an all-you-can-get e-store nowadays. Borders with hundreds of bookstores globally was late to the digital world, while overinvesting in physical stores and CD sales. The incumbent ceased its operations in 2011. 

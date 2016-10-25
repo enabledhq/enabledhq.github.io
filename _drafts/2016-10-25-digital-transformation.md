@@ -185,18 +185,27 @@ Next, **decoupling** is the “separation of consumption activities that traditi
 
 In the diagram below, disruptors separate the non-value creating portion from consumption activities and only focus on the value creating portion. 
 
-Why watch ads when you can watch uninterrupted TV shows on TiVo? Why pay for games when you can play Zynga games for free on social media sites? Why listens to songs you don’t like on the radio when you can use Pandora for personalised playlists? 
+Why watch ads when you can watch uninterrupted TV shows on **TiVo**? Why pay for games when you can play **Zynga** games for free on social media sites? Why listens to songs you don’t like on the radio when you can use **Pandora** for personalised playlists? 
 
-img_
+![digital disruption examples decoupling]({{site.baseurl}}/images/img_digitrans_decoupling.png)
+
 *Source: [European Business Review](http://www.europeanbusinessreview.com/the-decoupling-effect-of-digital-disruptors/)*
 
-While there are plenty of ways competitors can sneak up on you, there are also numerous routes you can take. If it calls for a digital transformation with potential self-disruption, just remember: “Companies rarely die from moving too fast, and they frequently die from moving too slowly.”
+While there are plenty of ways competitors can sneak up on you, there are also numerous routes you can take. If it calls for a digital transformation with potential self-disruption, just remember: “Companies rarely die from moving too fast, and they frequently die from moving [too slowly](https://media.netflix.com/en/company-blog/an-explanation-and-some-reflections).”
+
 ***
 
-Two executives walk into a bar and wanted to drink away their pain of being digitally disrupted. “What do you recommend, bartender?” – They ask. “Could I interest you in our new Buzzword menu?” “Sure.” 
+Two executives walk into a bar and wanted to drink away their pain of being digitally disrupted.
+“What do you recommend, bartender?” – They ask. “Could I interest you in our new Buzzword menu?” “Sure.” 
+
 “Customer experience with a hint of customer-centricity?” 
+
 The executives raise their eyebrows slightly. 
+
 “How about Customer-led innovation served with Agile culture?” Subtle nodding ensues. 
+
 Determined to wow the executives, the bartender plays his last card: “Digital transformation.”
+
 “We’ll have one each please,” the executives then raise a toast to each other. 
-“Works every time” – The bartender thinks to himself. 
+
+“Works every time” – The bartender thinks to himself.

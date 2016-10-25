@@ -153,7 +153,7 @@ The framework below from McKinsey gives you 6 areas where threats can be turned 
 
 To make it easier to digest, let’s look at some examples of companies disrupting industries through the Supply/Demand lens.
 
-**Undistorted demand: **
+**Undistorted demand:**
 
 - iTunes lets customers buy individual songs rather than whole albums  
 - Travel sites like Expedia makes it easier to book trips anytime anywhere

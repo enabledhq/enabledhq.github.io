@@ -103,31 +103,46 @@ In another blog post, we’ve said: disruption occurs “when a business creates
 
 As startups and established companies are often put on two opposing sides, let’s look at a typical journey of how digital disruption affects both. 
  
-![Digital disruption economics]({{site.baseurl}}/images/img_digitrans_supplydemand.png)
-*Source: [McKinsey](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-economic-essentials-of-digital-strategy)* 
 
 To put this graph into context, consider the story of Netflix and Blockbuster. Back in 2000, the then start-up Netflix proposed to become the incumbent’s online service provider with a 49% equity price tag. Blockbuster declined, focusing on opening new retail stores and entering new markets instead. 
+
 Meanwhile, Netflix gained traction with its mail-based DVD rental service, before shifting its focus to online streaming a decade later. The incumbent – Blockbuster – was comfortable with a 45% market share in 2003, before going out of business seven years later. 
+
 Another example of disruption with a more digital focus is Amazon and Borders. In 1995, Amazon made its debut as an online book store, and over time, has moved to e-books and an all-you-can-get e-store nowadays. Borders with hundreds of bookstores globally was late to the digital world, while overinvesting in physical stores and CD sales. The incumbent ceased its operations in 2011. 
-Self-disruption
+
+## Self-disruption
+
 To survive in a volatile environment, companies heading towards the top of the S-curve of the incumbent’s model (as shown in the graph above) should not rest on their laurels. 
+
 Sometimes, they need to go against their corporate instincts and:
-Undergo a full blown digital transformation
-Cannibalise their core business to make way for something new
+
+- Undergo a full blown digital transformation
+- Cannibalise their core business to make way for something new
+
 Understandably, this is hard for established companies. But it doesn’t mean impossible. Remember Xerox and the dual transformation path? The incumbent can fix their position in their existing turf, while starting something new on the side that may result in self-disruption. 
-Back to the story of print media
+
+**Back to the story of print media**
+
 Newspapers initially put themselves online (digital makeover) yet they did not develop a different business model. They could have gotten rid of selling ads, given all their journalists freedom to specialise in niche topic areas and allowed people to subscribe to each of them. i.e. run a blogging network. 
+
 German media company Axel Springer wasn’t satisfied with just a digital makeover like a lot of traditional newspapers. 
+
 From 2005, the business started acquiring new digital properties and moved to online classifieds.  Moreover, it also divested some of its biggest print media products, accounting for 15% of its sales in 2013. Today, the media company derives 70% of its EBITDA from digital. Now that’s truly digital transformation. 
 
-How do you identify threats and opportunities? 
+# How do you identify threats and opportunities? 
+
 Once you have opened up to the possibility of disruption, the next step is to formulate a strategy. It would help detect digital disruption early on and make pre-emptive moves. 
-Supply and demand lens 
+
+## Supply and demand lens 
+
 The framework below from McKinsey gives you 6 areas where threats can be turned into opportunities. It looks at how supply and demand would be changed when disruption is ripe. 
 
-How vulnerable are you to digital disruption? Source: McKinsey
+![Digital disruption economics]({{site.baseurl}}/images/img_digitrans_supplydemand.png)
+*How vulnerable are you to digital disruption? Source: [McKinsey](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-economic-essentials-of-digital-strategy)* 
+
 To make it easier to digest, let’s look at some examples of companies disrupting industries through the Supply/Demand lens.
-Undistorted demand: 
+
+**Undistorted demand: **
 iTunes lets customers buy individual songs rather than whole albums  
 Travel sites like Expedia makes it easier to book trips anytime anywhere 
 Unconstrained supply:

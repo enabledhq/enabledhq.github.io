@@ -13,20 +13,28 @@ meta-description: >-
   self-disrupt?
 ---
 
-For those who haven’t seen House of Cards (a Netflix’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:
+For those who haven’t seen House of Cards (a **Netflix**’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:
 “Twitter, blogs, enriched media, they’re all surface, they’re all fads.” 
-He believes the newspaper’s only way to survive is to stick to the tradition, to hard news. In reality (and in the TV series too), print media is not doing so great. On the other hand, digital media, especially non-news outlets, has been thriving.  
+
+He believes the newspaper’s only way to survive is to stick to the tradition, to hard news. In reality (and in the TV series too), [print media](http://www.journalism.org/2016/06/15/newspapers-fact-sheet/) is not doing so great. On the other hand, digital media, especially non-news outlets, has been thriving.  
+
 As you will see throughout the article, those who refuse to adapt, will fall behind. And those that embrace digital transformation (such as the one bringing you House of Cards) will leap forward. But what exactly does a digital transformation involve? 
-Clearing up the confusion 
+
+# Clearing up the confusion 
+
 So much content has been floating around these days about “Digital Transformation” and it seems like a magic bullet. It sparks FOMO (fear of missing out) which propels people to jump on the bandwagon without fully understanding it. 
+
 These are a few typical sentiments people have for digital transformation:
-Sceptical
-Scared/Confused
-It-is-not-gonna-happen-to-us
-Follow the herd  
+
+- Sceptical
+- Scared/Confused
+- It-is-not-gonna-happen-to-us
+- Follow the herd
+ 
 The truth is: there is a high chance that when somebody says “digital transformation,” they mean something else. By sharpening your understanding of this muddled area, you’re better equipped to tell fact from hype, and make better decisions for your company’s future.  
+
 Now let’s look beyond the surface level and see if the proposed activity is truly transformative. 
-Let’s go over the different names that often get lumped into digital transformation.
+
 Digital dress-up or digitisation 
 This is like putting on fashionable clothes to look more impressive. In this case, the “clothes” are cool digital technologies. 
 Activities such as building a website for your business where none exists, making an online store that lets people browse products and create orders without payment or other integrations. 

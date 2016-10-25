@@ -74,17 +74,17 @@ Essentially, what Xerox did was acting before the [disruption](https://www.innos
 
 They adopted a dual transformation path. 
 
-Repositioning the core business to adapt to the changing environment:
+_1. Repositioning the core business to adapt to the changing environment:_
+
 Machines that could match competitors’ offerings in terms of price and simplicity, yet outsmart them in terms of technology. 
-Branching out into a separate digital offering that will eventually be the main source of growth:
+
+_2. Branching out into a separate digital offering that will eventually be the main source of growth:_
+
 Xerox Global Services was formed to handle document management and other back-office processes for large organisations. 
+
 And what could have happened if Xerox had stopped at only digital dress-up or makeover? 
-Digital dress-up
-Digital makeover
-Upgrading the website to take online orders, send email reminders to customers for maintenance etc. 
-Getting a full digital marketing stack which can automate many processes, analyse customer data, bid for ad spots around the Internet.  
-Offering customers the option to have their copies saved in a digital form.
-Upgrading to the cloud to reduce costs and help with the Managed Print Services 
+
+
 
 All of those measures would have been sufficient to keep Xerox going for a while, before competitors come in with a better business model, and disrupt the incumbent by unbundling or decoupling (which we’ll discuss later). 
 Summary 

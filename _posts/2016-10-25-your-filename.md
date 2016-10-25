@@ -2,7 +2,15 @@
 layout: post
 date: '2016-10-25 15:58 +1030'
 published: false
-title: ''
+title: Untitled
+description: >-
+  Companies tend to delay digital transformation before it’s too late due to
+  digital disruption. But what is it & how can you disrupt others or
+  self-disrupt?
+meta-description: >-
+  Companies tend to delay digital transformation before it’s too late due to
+  digital disruption. But what is it & how can you disrupt others or
+  self-disrupt?
 ---
 
 For those who haven’t seen House of Cards (a Netflix’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:

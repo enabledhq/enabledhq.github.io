@@ -11,6 +11,14 @@ meta-description: >-
   Companies tend to delay digital transformation before it’s too late due to
   digital disruption. But what is it & how can you disrupt others or
   self-disrupt?
+author: linh
+main-category: innovation
+categories:
+  - innovation
+  - technology
+meta-keywords: >-
+  Transformation, digital business transformation, digital transformation,
+  digital transformation framework, digital transformation strategy
 ---
 
 For those who haven’t seen House of Cards (a **Netflix**’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:

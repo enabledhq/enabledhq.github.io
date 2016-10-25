@@ -110,7 +110,7 @@ To put this graph into context, consider the story of **Netflix** and **Blockbus
 
 Meanwhile, **Netflix** gained traction with its mail-based DVD rental service, before shifting its focus to online streaming a decade later. The incumbent – **Blockbuster** – was comfortable with a 45% market share in 2003, before going out of business seven years later. 
 
-Another example of disruption with a more digital focus is Amazon and Borders. In 1995, Amazon made its debut as an online book store, and over time, has moved to e-books and an all-you-can-get e-store nowadays. Borders with hundreds of bookstores globally was late to the digital world, while overinvesting in physical stores and CD sales. The incumbent ceased its operations in 2011. 
+Another example of disruption with a more digital focus is **Amazon** and **Borders**. In 1995, **Amazon** made its debut as an online book store, and over time, has moved to e-books and an all-you-can-get e-store nowadays. **Borders** with hundreds of bookstores globally was late to the digital world, while overinvesting in physical stores and CD sales. The incumbent ceased its operations in 2011. 
 
 ## Self-disruption
 
@@ -129,7 +129,7 @@ Newspapers initially put themselves online (digital makeover) yet they did not d
 
 German media company Axel Springer wasn’t satisfied with just a digital makeover like a lot of traditional newspapers. 
 
-From 2005, the business started acquiring new digital properties and moved to online classifieds.  Moreover, it also divested some of its biggest print media products, accounting for 15% of its sales in 2013. Today, the media company derives 70% of its EBITDA from digital. Now that’s truly digital transformation. 
+From 2005, the business started acquiring new [digital properties](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/an-incumbents-guide-to-digital-disruption) and moved to online classifieds.  Moreover, it also divested some of its biggest [print media](http://fortune.com/2015/10/01/who-is-axel-springer/) products, accounting for 15% of its sales in 2013. Today, the media company derives 70% of its EBITDA from digital. Now that’s truly digital transformation. 
 
 # How do you identify threats and opportunities? 
 
@@ -145,32 +145,51 @@ The framework below from McKinsey gives you 6 areas where threats can be turned 
 To make it easier to digest, let’s look at some examples of companies disrupting industries through the Supply/Demand lens.
 
 **Undistorted demand: **
-iTunes lets customers buy individual songs rather than whole albums  
-Travel sites like Expedia makes it easier to book trips anytime anywhere 
-Unconstrained supply:
-Airbnb lets consumers become suppliers, or opens up lodging supply
-New market:
-Sites like comparethemarket.com removes the middleman such as brokerage  
-New value proposition:
-Domino’s pizza delivery tracking gives real-time insights 
-BeerDroid offers connectivity for home beer brewing hobbyists via a mobile app
-Reimagined business system:
-Dropbox transformed storage from a (hardware) product to a digital service 
-Hyperscaling platforms:
-Amazon’s Kindle Direct Publishing connects authors directly with readers 
+
+- iTunes lets customers buy individual songs rather than whole albums  
+- Travel sites like Expedia makes it easier to book trips anytime anywhere
+
+**Unconstrained supply:**
+
+- Airbnb lets consumers become suppliers, or opens up lodging supply
+
+**New market:**
+
+- Sites like comparethemarket.com removes the middleman such as brokerage  
+
+**New value proposition:**
+
+- Domino’s pizza delivery tracking gives real-time insights
+- [BeerDroid](https://enabled.com.au/casestudy-BrewArt) offers connectivity for home beer brewing hobbyists via a mobile app
+
+**Reimagined business system:**
+
+- Dropbox transformed storage from a (hardware) product to a digital service 
+
+**Hyperscaling [platforms](http://blog.enabled.com.au/platform-business-model/):**
+
+- Amazon’s Kindle Direct Publishing connects authors directly with readers 
  
-Unbundling and decoupling lens 
+## Unbundling and decoupling lens 
+
 Another way to spot threats and opportunities is by looking at how competitors may unbundle or decouple the components of your products.
-Unbundling, in a similar vein with “Undistorted demand” mentioned above, allows consumers to only buy what they want. 
+
+**Unbundling**, in a similar vein with “Undistorted demand” mentioned above, allows consumers to only buy what they want. 
+
 Take a look at the picture below which shows how various disruptors have unbundled the services of a traditional bank. Essentially, they zoom in on a specific consumer need (e.g. wealth management) and try to do it better. 
 
-Source: CB Insights
+![how disruptors unbundle a bank ]({{site.baseurl}}/images/img_digitrans_unbundling.png)
+*Source: [CB Insights](https://www.cbinsights.com/blog/disrupting-banking-fintech-startups/)*
 
-Next, decoupling is the “separation of consumption activities that traditionally go together, hand-in-hand.”
+Next, **decoupling** is the “separation of consumption activities that traditionally go together, hand-in-hand.”
+
 In the diagram below, disruptors separate the non-value creating portion from consumption activities and only focus on the value creating portion. 
+
 Why watch ads when you can watch uninterrupted TV shows on TiVo? Why pay for games when you can play Zynga games for free on social media sites? Why listens to songs you don’t like on the radio when you can use Pandora for personalised playlists? 
 
-Source: European Business Review
+img_
+*Source: [European Business Review](http://www.europeanbusinessreview.com/the-decoupling-effect-of-digital-disruptors/)*
+
 While there are plenty of ways competitors can sneak up on you, there are also numerous routes you can take. If it calls for a digital transformation with potential self-disruption, just remember: “Companies rarely die from moving too fast, and they frequently die from moving too slowly.”
 ***
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-10-25 15:58 +1030'
-published: false
+published: true
 title: Putting Transformation Back to Digital Transformation
 description: >-
   Companies tend to delay digital transformation before it’s too late due to

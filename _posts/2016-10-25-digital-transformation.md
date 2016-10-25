@@ -205,7 +205,9 @@ While there are plenty of ways competitors can sneak up on you, there are also n
 ***
 
 Two executives walk into a bar and wanted to drink away their pain of being digitally disrupted.
-“What do you recommend, bartender?” – They ask. “Could I interest you in our new Buzzword menu?” “Sure.” 
+“What do you recommend, bartender?” – They ask. “Could I interest you in our new Buzzword menu?”
+
+“Sure.” 
 
 “Customer experience with a hint of customer-centricity?” 
 

@@ -23,6 +23,7 @@ hero-banner: /images/Blog_header_Digitrans.png
 thumbnail-image: /images/img_digitrans_thumb.png
 ---
 For those who haven’t seen House of Cards (a **Netflix**’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:
+
 “Twitter, blogs, enriched media, they’re all surface, they’re all fads.” 
 
 He believes the newspaper’s only way to survive is to stick to the tradition, to hard news. In reality (and in the TV series too), [print media](http://www.journalism.org/2016/06/15/newspapers-fact-sheet/) is not doing so great. On the other hand, digital media, especially non-news outlets, has been thriving.  

@@ -197,7 +197,6 @@ In the diagram below, disruptors separate the non-value creating portion from co
 Why watch ads when you can watch uninterrupted TV shows on **TiVo**? Why pay for games when you can play **Zynga** games for free on social media sites? Why listens to songs you don’t like on the radio when you can use **Pandora** for personalised playlists? 
 
 ![digital disruption examples decoupling]({{site.baseurl}}/images/img_digitrans_decoupling.png)
-
 *Source: [European Business Review](http://www.europeanbusinessreview.com/the-decoupling-effect-of-digital-disruptors/)* 
 
 While there are plenty of ways competitors can sneak up on you, there are also numerous routes you can take. If it calls for a digital transformation with potential self-disruption, just remember: “Companies rarely die from moving too fast, and they frequently die from moving [too slowly](https://media.netflix.com/en/company-blog/an-explanation-and-some-reflections).”

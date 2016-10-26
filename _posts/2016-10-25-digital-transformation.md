@@ -65,7 +65,7 @@ Examples:
 
 To be a truly transformative exercise, change needs to happen to the business model, processes and people as well.
 
-"Businesses don't transform by choice because it is expensive and risky." 
+> "Businesses don't transform by choice because it is expensive and risky." 
 
 So much is the effort required that businesses only ever undergo [digital transformation](https://www.theguardian.com/media-network/media-network-blog/2013/nov/21/digital-transformation) when they have failed to evolve, when competitors are following too close, when market shifts throw everything into chaos. 
 

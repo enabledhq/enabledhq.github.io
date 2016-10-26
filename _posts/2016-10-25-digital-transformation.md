@@ -65,13 +65,16 @@ Examples:
 
 To be a truly transformative exercise, change needs to happen to the business model, processes and people as well.
 
-"Businesses don't transform by choice because it is expensive and risky." They do it when there is no other option.
+"Businesses don't transform by choice because it is expensive and risky." 
 
-Businesses only ever undergo [digital transformation](https://www.theguardian.com/media-network/media-network-blog/2013/nov/21/digital-transformation) when they have failed to evolve, when competitors are following too close, when market shifts throw everything into chaos. 
+So much is the effort required that businesses only ever undergo [digital transformation](https://www.theguardian.com/media-network/media-network-blog/2013/nov/21/digital-transformation) when they have failed to evolve, when competitors are following too close, when market shifts throw everything into chaos. 
 
 **Xerox** is a good example of successful [digital transformation](https://www.innosight.com/insight/how-xerox-jumpstarts-transformation-through-dreaming-sessions/) and the importance of acting fast before your old model is completely dry of profit. 
 
-It went from a hardware-focused company to one who derives around 60% of its revenue from digital services. 
+It went from a hardware-focused company to one who derives more than half of its revenue from digital services. 
+
+![digital transformation xerox ]({{site.baseurl}}/images/img_digitrans_xerox.jpg)
+*Source: [Wall Street Journal](http://www.wsj.com/articles/xerox-plans-to-split-in-two-1454015527)*
 
 **Problem**
 

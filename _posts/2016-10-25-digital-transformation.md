@@ -101,8 +101,8 @@ All of those measures would have been sufficient to keep Xerox going for a while
 
 To recap, next time someone says they can offer “Digital Transformation,” check if their proposal:
 
+- Doesn’t just present the issue through a single lens, e.g. marketing or IT
 - Goes beyond technology and considers the human and business side of things 
-- Doesn’t present the issue through a single lens, e.g. marketing or IT
 
 # Digital disruption 
 
@@ -136,7 +136,7 @@ Understandably, this is hard for established companies. But it doesn’t mean im
 
 Newspapers initially put themselves online (digital makeover) yet they did not develop a different business model. They could have gotten rid of selling ads, given all their journalists freedom to specialise in niche topic areas and allowed people to subscribe to each of them. i.e. run a blogging network. 
 
-German media company **Axel Springer** wasn’t satisfied with just a digital makeover like a lot of traditional newspapers. 
+Or the complete opposite direction could also yield tremendous opportunity. German media company **Axel Springer** wasn’t satisfied with just a digital makeover. 
 
 From 2005, the business started acquiring new [digital properties](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/an-incumbents-guide-to-digital-disruption) and moved to online classifieds.  Moreover, it also divested some of its biggest [print media](http://fortune.com/2015/10/01/who-is-axel-springer/) products, accounting for 15% of its sales in 2013. Today, the media company derives 70% of its EBITDA from digital. Now that’s truly digital transformation. 
 
@@ -198,7 +198,7 @@ Why watch ads when you can watch uninterrupted TV shows on **TiVo**? Why pay for
 
 ![digital disruption examples decoupling]({{site.baseurl}}/images/img_digitrans_decoupling.png)
 
-*Source: [European Business Review](http://www.europeanbusinessreview.com/the-decoupling-effect-of-digital-disruptors/)*
+*Source: [European Business Review](http://www.europeanbusinessreview.com/the-decoupling-effect-of-digital-disruptors/)* 
 
 While there are plenty of ways competitors can sneak up on you, there are also numerous routes you can take. If it calls for a digital transformation with potential self-disruption, just remember: “Companies rarely die from moving too fast, and they frequently die from moving [too slowly](https://media.netflix.com/en/company-blog/an-explanation-and-some-reflections).”
 

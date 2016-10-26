@@ -41,7 +41,7 @@ These are a few typical sentiments people have for digital transformation:
 - It-is-not-gonna-happen-to-us
 - Follow the herd
  
-The truth is: there is a high chance that when somebody says “digital transformation,” they mean something else. By sharpening your understanding of this muddled area, you’re better equipped to tell fact from hype, and make better decisions for your company’s future.  
+**The truth is**: there is a high chance that when somebody says “digital transformation,” they mean something else. By sharpening your understanding of this muddled area, you’re better equipped to tell fact from hype, and make better decisions for your company’s future.  
 
 Now let’s look beyond the surface level and see if the proposed activity is truly transformative. 
 

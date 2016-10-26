@@ -69,7 +69,7 @@ To be a truly transformative exercise, change needs to happen to the business mo
 
 Businesses only ever undergo [digital transformation](https://www.theguardian.com/media-network/media-network-blog/2013/nov/21/digital-transformation) when they have failed to evolve, when competitors are following too close, when market shifts throw everything into chaos. 
 
-Xerox is a good example of successful [digital transformation](https://www.innosight.com/insight/how-xerox-jumpstarts-transformation-through-dreaming-sessions/) and the importance of acting fast before your old model is completely dry of profit. 
+**Xerox** is a good example of successful [digital transformation](https://www.innosight.com/insight/how-xerox-jumpstarts-transformation-through-dreaming-sessions/) and the importance of acting fast before your old model is completely dry of profit. 
 
 It went from a hardware-focused company to one who derives around 60% of its revenue from digital services. 
 
@@ -79,7 +79,7 @@ Xerox’s margins and market share were suffering due to competition from Asia. 
 
 **Action**
 
-Essentially, what Xerox did was acting before the [disruption](https://www.innosight.com/insight/two-routes-to-resilience/) to its core copier and printer business became too big.
+Essentially, what **Xerox** did was acting before the [disruption](https://www.innosight.com/insight/two-routes-to-resilience/) to its core copier and printer business became too big.
 
 They adopted a dual transformation path. 
 

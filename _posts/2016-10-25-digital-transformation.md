@@ -113,7 +113,7 @@ In another blog post, we’ve said: disruption occurs “when a business creates
 As startups and established companies are often put on two opposing sides, let’s look at a typical journey of how digital disruption affects both. 
  
 ![digital disruption timeline ]({{site.baseurl}}/images/img_digitrans_disruption.png)
-*Source: [McKinSey](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/an-incumbents-guide-to-digital-disruption)*
+*Source: [McKinsey](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/an-incumbents-guide-to-digital-disruption)*
 
 To put this graph into context, consider the story of **Netflix** and **Blockbuster**. Back in 2000, the then start-up **Netflix** proposed to become the incumbent’s online service provider with a 49% equity price tag. **Blockbuster** declined, focusing on opening new retail stores and entering new markets instead. 
 

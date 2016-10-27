@@ -209,5 +209,5 @@ While there are plenty of ways competitors can sneak up on you, there are also n
 
 ***
 
-![digital transformation executives comic]({{site.baseurl}}/images/img_digitrans_comic1.png)
-Click to [enlarge](http://blog.enabled.com.au/images/img_digitrans_comic1.png)
+![digital transformation executives bar]({{site.baseurl}}/images/img_digitrans_comic.png)
+Click to [enlarge](http://blog.enabled.com.au/images/img_digitrans_comic.png)

@@ -210,3 +210,4 @@ While there are plenty of ways competitors can sneak up on you, there are also n
 ***
 
 ![digital transformation bar comic]({{site.baseurl}}/images/img_digitrans_comic.png)
+[Click to enlarge](https://blog.enabled.com.au/images/img_digitrans_comic.png)

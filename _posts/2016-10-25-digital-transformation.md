@@ -209,19 +209,4 @@ While there are plenty of ways competitors can sneak up on you, there are also n
 
 ***
 
-Two executives walk into a bar and wanted to drink away their pain of being digitally disrupted.
-“What do you recommend, bartender?” – They ask. “Could I interest you in our new Buzzword menu?”
-
-“Sure.” 
-
-“Customer experience with a hint of customer-centricity?” 
-
-The executives raise their eyebrows slightly. 
-
-“How about Customer-led innovation served with Agile culture?” Subtle nodding ensues. 
-
-Determined to wow the executives, the bartender plays his last card: “Digital transformation.”
-
-“We’ll have one each please,” the executives then raise a toast to each other. 
-
-“Works every time” – The bartender thinks to himself.
+![digital transformation bar comic]({{site.baseurl}}/images/img_digitrans_comic.png)

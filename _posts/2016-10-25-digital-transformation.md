@@ -97,7 +97,7 @@ Xerox Global Services was formed to handle document management and other back-of
 
 And what could have happened if Xerox had stopped at only digital dress-up or makeover? 
 
-![Xerox digital transformation]({{site.baseurl}}/images/img_digitrans_xerox.png)
+![Xerox digital transformation]({{site.baseurl}}/images/img_digitrans_xerox.png){: .center-image }
 
 All of those measures would have been sufficient to keep Xerox going for a while, before competitors come in with a better business model, and disrupt the incumbent by unbundling or decoupling (which we’ll discuss later). 
 

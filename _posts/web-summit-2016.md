@@ -9,10 +9,11 @@ categories:
   - innovation
   - technology
 meta-keywords: 'web summit, web summit 2016, web summit lisbon'
+hero-banner: images/img_WebSummitSign.png
 ---
 The city was a perfect location for this year’s Web Summit, an elaborate web of detailed mosaic cobblestone streets, an apt metaphor for the hyper connectedness of the online world. Its friendly citizens ready to share their culture (and public transport) were generous hosts to the 53,000 attendees from over 150 countries.
 
-The main purpose of Enabled’s visit to Web Summit was to support our partnering client Actionable.co in the promotion of their recently released corprate learning platform. Beyond this, we were also curious to see what people cared about in the field of technology. 
+The main purpose of Enabled’s visit to Web Summit was to support our partnering client [Actionable.co](https://actionable.co/) in the promotion of their recently released corprate learning platform. Beyond this, we were also curious to see what people cared about in the field of technology. 
 
 # Event setup 
 
@@ -22,7 +23,7 @@ Entry to the exhibition site flowed well and we were even treated to a fresh Pas
 
 Besides being the largest I have attended, on the surface, the summit looked similar to most conferences. The exhibition halls were divided up into large and small spaces. Each hall housed 2 main stages: one dedicated to a topic stream; and a more intimate stage allocated to the Pitch competition and technology demos.
 
-Despite several larger players, the majority of the exhibitors were all in the startup space.
+Despite several [larger players](https://websummit.net/partner-with-us), the majority of the exhibitors were all in the startup space.
 
 # The ultimate purpose
 
@@ -59,7 +60,7 @@ Learn more about this [case study](https://www.ideo.com/case-study/elevating-bus
 
 ## Des Traynor - Intercom - Keeping your product relevant
 
-Take-away: I already understood that Intercom was a considerable user of JTBD techniques (which we wrote about here) both in their product development but also in their marketing communication. Des’ presentation did indeed profiled how important JTBD is to maintaining a position in the market. 
+Take-away: I already understood that Intercom was a considerable user of Jobs To Be Done  techniques (which we wrote about [here](http://blog.enabled.com.au/jobs-to-be-done/)) both in their product development but also in their marketing communication. Des’ presentation did indeed profiled how important JTBD is to maintaining a position in the market. 
 
 He explained the myth that starting up is the hard part, but rather, it is harder to maintain market position. Too many mature companies start focusing on enriching product features or worse, optimisation, to attempt to make the business more profitable. This draws attention to the business itself rather than the problem (job) which it initially set out to solve. Take your eyes off the problem and soon a competitor will be solving it better.
 
@@ -71,7 +72,7 @@ This level of experience even goes as far as the work environment. Consider trea
 
 ## Joseph Gordon-Levitt - The difference between a crowd and community
 
-Take-away: Joseph profiled HitRecord where the website’s community work on each other’s projects. When these projects reach commercialisation, each of its contributors are fairly paid a cut. This shows crowdsourcing does not need to only be a win for the community’s owner.
+Take-away: Joseph profiled [HitRecord](https://www.hitrecord.org/) where the website’s community work on each other’s projects. When these projects reach commercialisation, each of its contributors are fairly paid a cut. This shows crowdsourcing does not need to only be a win for the community’s owner.
 
 ## Gary Vaynerchuk - Vaynermedia - Afraid to fail because of other people’s opinions
 
@@ -87,8 +88,8 @@ We met a number of exhibitors who were sponsored startups of larger corporations
 These enlightened companies understand it is better to own a bit of a disrupting startup, than be the prey of a new business model from an unknown competitor. While this practice makes tremendous sense over there, it is presently alien to most Australian corporations. 
 
 ## Quick example
-MiniBrew is a very similar product to BrewArt, yet culturally so different as they were released by a small startup vs. a larger corporate (Coopers). 
+[MiniBrew](https://www.minibrew.io/) is a very similar product to [BrewArt](https://store.brewart.com/), yet culturally so different as they were released by a small startup vs. a larger corporate (Coopers). 
 
-Netherlands-based MiniBrew is much more community-orientated, winning fans before a saleable product exists (successful campaign on Indiegogo). Meanwhile, Australia-based Coopers with a traditional product release, was secretive until the launch, with a bias towards traditional retail partners. 
+Netherlands-based MiniBrew is much more community-orientated, winning fans before a saleable product exists (successful campaign on [Indiegogo](https://www.indiegogo.com/projects/minibrew-brew-fresh-craft-beer-anytime-anywhere-food#/)). Meanwhile, Australia-based Coopers with a traditional product release, was secretive until the launch, with a bias towards traditional retail partners. 
 
 Which will come out on top? Time will tell.

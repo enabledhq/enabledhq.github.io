@@ -15,6 +15,9 @@ The city was a perfect location for this year’s Web Summit, an elaborate web o
 
 The main purpose of Enabled’s visit to Web Summit was to support our partnering client [Actionable.co](https://actionable.co/) in the promotion of their recently released corprate learning platform. Beyond this, we were also curious to see what people cared about in the field of technology. 
 
+![web summit actionable.co]({{site.baseurl}}/images/img_websummit_Pitching.jpg)
+*Our partnering client explaining what the Actionable platform is  
+
 # Event setup 
 
 The event itself was very well managed, with a registration booth greeting us at the airport guiding us to the transport options, including prepaid public transport tickets to see the week through. 
@@ -40,6 +43,7 @@ Speaker Gary Vaynerchuk (whose talk I’ll profile later) even pinpointed the fa
 
 His extreme reason was the rising suicide rate amongst the startup community. Although failure is meant to be permitted (even glamorised), it is not for everyone. Hence, starting a business is hard and should be left to the tenacious. These 2 levels before ‘Start’ are sensible and should be strictly adopted across the startup community.
 
+
 # Presentation highlights
 
 In our opinion, the presentation content was sometimes hit-and-miss. We appreciated that the best talks were not too promotional; and that they had the most impact when covering a case study or learnings the company had been through (seems to be good advice for any content marketer). 
@@ -47,6 +51,8 @@ In our opinion, the presentation content was sometimes hit-and-miss. We apprecia
 Watching talks in the main auditorium was generally more rewarding as the topics were mixed rather than filtered to a single topic stream. 
 
 _Side note: this is good example of the shortfall of FaceBook’s timeline algorithms which seek to show us only what we are interested in._
+
+![web summit opening]({{site.baseurl}}/images/img_WebSummit_Opening.jpg)
 
 Here are the talks that we found most interesting. 
 

@@ -11,6 +11,8 @@ url: "http://blog.enabled.com.au"
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-feed
 
 permalink: /:title/
 

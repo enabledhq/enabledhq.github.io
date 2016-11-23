@@ -9,7 +9,7 @@ short-link: 'http://bit.ly/21nFyHa'
 author: grant
 hero-banner: /images/Blog_Header_howtohire.jpg
 thumbnail-image: /images/img_howtohire_thumb.jpg
-image: ‘//blog.enabled.com.au/images/img_howtohire_thumb.jpg’
+image: //blog.enabled.com.au/images/img_howtohire_thumb.jpg
 description: >-
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the

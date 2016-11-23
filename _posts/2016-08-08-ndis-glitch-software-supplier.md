@@ -16,7 +16,7 @@ description: >-
   misperceptions and negative publicity about software development suppliers.
 short-link: 'http://bit.ly/2aBwNoG'
 hero-banner: /images/Blog_Header_ndis.png
-image: ‘//blog.enabled.com.au/images/Blog_Header_ndis.png’
+image: //blog.enabled.com.au/images/Blog_Header_ndis.png
 thumbnail-image: /images/img_ndis_thumb.png
 categories:
   - technology

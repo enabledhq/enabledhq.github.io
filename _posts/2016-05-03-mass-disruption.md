@@ -9,6 +9,7 @@ short-link: 'http://bit.ly/1XYewIH'
 author: grant
 hero-banner: /images/Blog_Header_weapons.jpg
 thumbnail-image: /images/img_weapons_thumb.jpg
+image: ‘//blog.enabled.com.au/images/img_weapons_thumb.jpg’
 description: >-
   Understanding how disruptive innovation happens is key to being able to avoid
   it, or have the opportunity to disrupt others.

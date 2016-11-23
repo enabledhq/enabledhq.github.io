@@ -20,6 +20,7 @@ description: >-
 short-link: 'http://bit.ly/2cdQlDw'
 hero-banner: /images/Blog_header_success_software.png
 thumbnail-image: /images/img_success_software_thumb.png
+image: ‘//blog.enabled.com.au/images/img_success_software_thumb.png’
 ---
 Previously, we discussed some popular myths and misperceptions people have about [software development](http://blog.enabled.com.au/myths-software-development/). Now, let’s take it further by talking about how you can make the most out of your software projects. 
 

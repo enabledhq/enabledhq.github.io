@@ -3,7 +3,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-
+  {% feed_meta %}
+  
   {% if page.meta-description %}
   <meta name="description" content="{{ page.meta-description | escape }}" />
   {% else %}

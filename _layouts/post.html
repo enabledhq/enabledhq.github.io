@@ -3,6 +3,7 @@ layout: default
 ---
 {% assign author = site.data.people[page.author] %}
 {% assign words = content | number_of_words %}
+<img src="{{site.url}}{{site.baseurl}}{{page.thumbnail-image}})" id="thumbnail-hidden" class="hidden"/>
 <div class="post-header-banner" style="background-image:url(
 {% if page.hero-banner %}
 {{ page.hero-banner }}

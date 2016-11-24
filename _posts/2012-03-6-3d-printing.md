@@ -7,7 +7,7 @@ categories:
   - technology
 short-link: 'http://bit.ly/1Q6DkeC'
 author: dylan
-hero-banner: '/images/Blog_Header_3D.jpg
+hero-banner: /images/Blog_Header_3D.jpg
 image: /images/img_3d_thumb.jpg
 description: >-
   3D Printing is being touted as the next Industrial Revolution. It will

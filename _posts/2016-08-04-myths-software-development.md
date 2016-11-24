@@ -12,7 +12,7 @@ meta-description: >-
   People may think software development is like building a house from a plan,
   which is a linear process. But how do nerdy code crunchers really work?
 hero-banner: /images/Blog_header_myth_software.png
-thumbnail-image: /images/img_myth_thumb.png
+image: /images/img_myth_thumb.png
 short-link: 'http://bit.ly/2aCstsE'
 description: >-
   People may think software development is like building a house from a plan,
@@ -20,7 +20,6 @@ description: >-
 categories:
   - technology
 ---
-![10 Myths in Software Development to Debunk Now]({{site.baseurl}}/images/img_myth_thumb.png){:class="hidden"}
 
 Accountants see things in numbers. Lawyers scrutinise every word you say. Rock stars do drugs. We have a set of expectations that are sometimes stereotypical, or even unfounded, for each profession.
 

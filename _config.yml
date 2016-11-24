@@ -113,7 +113,7 @@ prose:
           element: "text"
           label: "Hero Banner"
           placeholder: "Enter image URL (e.g., images/my_image.jpg)"
-      - name: "thumbnail-image"
+      - name: "image"
         field:
           element: "text"
           label: "Thumbnail"

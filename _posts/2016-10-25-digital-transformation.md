@@ -20,9 +20,8 @@ meta-keywords: >-
   Transformation, digital business transformation, digital transformation,
   digital transformation framework, digital transformation strategy
 hero-banner: /images/Blog_header_Digitrans.png
-thumbnail-image: /images/img_digitrans_thumb.png
+image: /images/img_digitrans_thumb.png
 ---
-![Putting Transformation Back to Digital Transformation]({{site.baseurl}}/images/img_digitrans_thumb.png){:class="hidden"}
 For those who haven’t seen House of Cards (a **Netflix**’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:
 
 “Twitter, blogs, enriched media, they’re all surface, they’re all fads.” 

@@ -1,7 +1,7 @@
 {% assign author = site.data.people[include.post.author] %}
 <li class="{% if include.include_mix %}mix{%endif%} {{ include.post.categories | join: ' ' }}">
   <div class="work-info">
-    <a href="{{ include.post.url | prepend: site.baseurl }}"><div class="work-image" style="background-image: url('{% if include.post.thumbnail-image %}{{include.post.thumbnail-image}}{% else %}http://placehold.it/350x350{% endif %}');"></div></a>
+    <a href="{{ include.post.url | prepend: site.baseurl }}"><div class="work-image" style="background-image: url('{% if include.post.image %}{{include.post.image}}{% else %}http://placehold.it/350x350{% endif %}');"></div></a>
     <div class="work-text">
       <a href="{{ include.post.url | prepend: site.baseurl }}"><h4 class="text-red">{{ include.post.title }}</h4></a>
       <p>{{ include.post.description }}</p>

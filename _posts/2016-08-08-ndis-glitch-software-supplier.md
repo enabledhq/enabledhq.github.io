@@ -16,11 +16,10 @@ description: >-
   misperceptions and negative publicity about software development suppliers.
 short-link: 'http://bit.ly/2aBwNoG'
 hero-banner: /images/Blog_Header_ndis.png
-thumbnail-image: /images/img_ndis_thumb.png
+image: /images/img_ndis_thumb.png
 categories:
   - technology
 ---
-![How NDIS Glitch Gives Software Suppliers a Bad Name]({{site.baseurl}}/images/Blog_Header_ndis.png){:class="hidden"}
 A software glitch in the recently revamped Australian Government’s [NDIS Payment Portal](http://www.abc.net.au/news/2016-07-28/ndis-%27teething-problems%27-hit-system-and-online-payments/7667292), has prevented disability support providers from claiming payments owed to them by the national fund. It is approaching the two-month mark and the Government is still working on a fix.
 
 ![NDIS software glitch]({{site.baseurl}}/images/img_ndis_diagram.png)

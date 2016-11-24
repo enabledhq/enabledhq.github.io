@@ -8,7 +8,7 @@ categories:
 short-link: 'http://bit.ly/1Q6DkeC'
 author: dylan
 hero-banner: '/images/Blog_Header_3D.jpg
-thumbnail-image: /images/img_3d_thumb.jpg
+image: /images/img_3d_thumb.jpg
 description: >-
   3D Printing is being touted as the next Industrial Revolution. It will
   transform object manufacturing in the same way the desktop printer has to
@@ -21,8 +21,6 @@ meta-keywords: >-
   printing, 3d printer
 published: true
 ---
-
-![What is 3D Printing]({{site.baseurl}}/images/img_3d_thumb.jpg){:class="hidden"}
 
 I recently attended the [RiAUS 3D printing information day and workshop](http://riaus.org.au/programs-and-events/3d-printing-the-next-industrial-revolution/) and wanted to share some thoughts on the subject.
 

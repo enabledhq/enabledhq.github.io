@@ -12,12 +12,12 @@ hero-banner: /images/Blog_Header_howtohire.jpg
 image: /images/img_howtohire_thumb.jpg
 meta-keywords: >-
   software developer, software development, app developer, app development,
-  agile development,
+  agile development
 description: >-
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the
   start.
-meta-description: >
+meta-description: >-
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the
   start.

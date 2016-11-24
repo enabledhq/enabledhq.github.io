@@ -10,11 +10,12 @@ categories:
 short-link: 'http://bit.ly/1UatHbl'
 hero-banner: /images/Blog_Header_winning.jpg
 image: /images/img_winning_thumb.jpg
-meta-keywords: 'mobile application development, software development, app development'
+meta-keywords: >-
+  mobile application development, software development, app development
 description: >-
   Mobile application development is not just about getting the coding right, but
   also the user experience and business implication.
-meta-description: >
+meta-description: >-
   Mobile application development is not just about getting the coding right, but
   also the user experience and business implication.
 excerpt: >-

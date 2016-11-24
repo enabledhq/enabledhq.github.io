@@ -16,7 +16,7 @@ meta-keywords: >-
 description: >-
   Understanding how disruptive innovation happens is key to being able to avoid
   it, or have the opportunity to disrupt others.
-meta-description: >
+meta-description: >-
   Understanding how disruptive innovation happens is key to being able to avoid
   it, or have the opportunity to disrupt others.
 excerpt: >-

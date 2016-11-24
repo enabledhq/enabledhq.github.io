@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Award Winning Mobile Application Development'
 date: '2013-11-29 15:30:00 +0930'
+title: 'Award Winning Mobile Application Development'
 published: true
 author: linh
 main-category: technology

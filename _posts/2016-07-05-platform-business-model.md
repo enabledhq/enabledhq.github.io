@@ -18,7 +18,7 @@ meta-description: >-
   factors.
 hero-banner: /images/Blog_Header_platform.jpg
 thumbnail-image: /images/img_platform_thumb.jpg
-image: //blog.enabled.com.au/images/img_platform_thumb.jpg
+imageurl: //blog.enabled.com.au/images/img_platform_thumb.jpg
 description: >-
   The success of platforms such as Airbnb & Uber has sparked a new business
   model boom. Let’s discuss different platform flavours and other crucial

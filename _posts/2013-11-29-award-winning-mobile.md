@@ -9,7 +9,7 @@ short-link: 'http://bit.ly/1UatHbl'
 author: linh
 hero-banner: /images/Blog_Header_winning.jpg
 thumbnail-image: /images/img_winning_thumb.jpg
-image: //blog.enabled.com.au/images/img_winning_thumb.jpg
+imageurl: //blog.enabled.com.au/images/img_winning_thumb.jpg
 description: >-
   Mobile application development is not just about getting the coding right, but
   also the user experience and business implication.

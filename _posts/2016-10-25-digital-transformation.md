@@ -21,7 +21,7 @@ meta-keywords: >-
   digital transformation framework, digital transformation strategy
 hero-banner: /images/Blog_header_Digitrans.png
 thumbnail-image: /images/img_digitrans_thumb.png
-image: //blog.enabled.com.au/images/img_digitrans_thumb.png
+imageurl: //blog.enabled.com.au/images/img_digitrans_thumb.png
 ---
 For those who haven’t seen House of Cards (a **Netflix**’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:
 

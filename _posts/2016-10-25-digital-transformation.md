@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-10-25 15:58 +1030'
-title: Putting Transformation Back to Digital Transformation
+title: 'Putting Transformation Back to Digital Transformation'
 published: true
 author: linh
 main-category: innovation

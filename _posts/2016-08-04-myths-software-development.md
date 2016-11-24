@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-08-04 11:35 +0930'
-title: 10 Myths in Software Development to Debunk Now
+title: '10 Myths in Software Development to Debunk Now'
 published: true
 author: linh
 main-category: technology

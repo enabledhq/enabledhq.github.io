@@ -89,24 +89,36 @@ More importantly, Cadbury might have already planned to make this chocolate flav
 In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below.
  
 
+## Consumer preferences evolution
 
-Consumer preferences evolution
-Consumers increasingly value experiences over physical goods, which gives rise to experiential buying. Now that doesn’t mean you’re doomed if you make physical products. It means adding to the product by creating a memorable buying experience.
+Consumers increasingly value [experiences](http://adage.com/article/digitalnext/consumers-experiences-things/299994/) over physical goods, which gives rise to experiential buying. Now that doesn’t mean you’re doomed if you make physical products. It means adding to the product by creating a memorable buying experience.
+
 Pre-commerce does it by:
-“Providing a sense of belonging that goes beyond the thrill of possession.” Think about how crowdfunding or community-led invention platforms (e.g. Quirky)  make consumers feel they’re part of a community/movement.
-Injecting status into the buying experience, focusing on messages like “the newest,” “the first,” “I help launch it.”
-Tapping on the increasing demand for new trends and novel products. Studies have shown how novelty “motivates the brain to explore, seeking a reward.”
-Market evaluation tool
-Pre-commerce allows innovators to test their product-market fit with a Minimum Viable Product (MVP) equivalent. Since consumers would only back projects they like, it helps makers accelerate innovation, ditch waste and tweak offerings along the way.
+
+- “Providing a [sense of belonging](http://trendwatching.com/trends/presumers/) that goes beyond the thrill of possession.” Think about how crowdfunding or community-led invention platforms (e.g. [Quirky](http://www.quirky.com/))  make consumers feel they’re part of a community/movement.
+- Injecting status into the buying experience, focusing on messages like “the newest,” “the first,” “I help launch it.”
+- Tapping on the increasing demand for new trends and novel products. Studies have shown how [novelty](https://www.eurekalert.org/pub_releases/2006-08/cp-pns072706.php) “motivates the brain to explore, seeking a reward.”
+
+## Market evaluation too
+
+[Pre-commerce](https://www.fastcoexist.com/1681686/the-rise-of-pre-commerce) allows innovators to test their product-market fit with a Minimum Viable Product (MVP) equivalent. Since consumers would only back projects they like, it helps makers accelerate innovation, ditch waste and tweak offerings along the way.
+
 Depends on the sources you read, the failure rates of new products (not launched through crowdfunding) range from 40-80%. For crowdfunding, those rates range from 40-90%.
+
 On the surface, you may think it indicates similar chances of success but the risks could be reduced with pre-commerce. Would you rather pour millions into a product to learn a lesson, or one-hundredth of that amount?
+
 Examples of failed launches involving big money: Coca-Cola C2, Pepsi Blue, Colgate Simply White.
-Supply chain and finance
+
+## Supply chain and finance
+
 Recent changes in technology have helped bring down product development costs, lower barriers to entry and remove geographical restrictions for market exposure. Pre-commerce fits neatly into this landscape.
+
 Moreover, by being able to gauge demand before mass production allows for more accurate financial forecasting and less inventory risk.
-Innovators don’t need to deploy a business model purely based on pre-commerce to reap this benefit. For instance, Moda Operandi, a pre-tail fashion start-up, combines pre-commerce with e-commerce. The core business is about letting women pre-order fashion pieces straight off the runway via limited time online sales.
+
+Innovators don’t need to deploy a business model purely based on pre-commerce to reap this benefit. For instance, Moda Operandi, a pre-tail fashion start-up, combines [pre-commerce](https://www.businessoffashion.com/articles/intelligence/moda-operandi-raises-36-million-expands-from-pre-commerce-to-e-commerce) with e-commerce. The core business is about letting women pre-order fashion pieces straight off the runway via limited time online sales.
 
 Source: Moda Operandi
+
 The company plans to expand leveraging “the sales data it collects from its 'pre-tail' business to inform its traditional retail buys, mitigating inventory risk by injecting an element of science into buying decisions that have traditionally been driven more by intuition than hard data.”
 Others have also pointed to a new commerce pipeline that could become more prominent in the future: moving from pre-tail to e-tail and then retail.
 Quick summary

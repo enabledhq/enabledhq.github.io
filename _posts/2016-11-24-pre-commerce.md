@@ -76,6 +76,7 @@ While most campaigns on platforms like Kickstarter employ social media to trigge
 
 Remember Cadbury’s vegemite chocolate? While the whole campaign had some pre-commerce flavours (as the vegemite chocolate actually got manufactured), it was mostly a “[marketing thing](http://www.adnews.com.au/news/vegemite-flavoured-chocolate-is-a-thing-a-marketing-thing).”
 
+![cadbury chocpluswhat]({{site.baseurl}}/images/img_pretail_cadbury.png)
 *A tweet from Cadbury back in 2015 to promote their campaign*
 
 Why? Because unless those people who joined the social media conversation around hashtag #ChocPlusWhat put in $2 to get the vegemite chocolate first when it came out, they were only giving Cadbury their two cents on the matter.
@@ -99,7 +100,7 @@ Pre-commerce does it by:
 - Injecting status into the buying experience, focusing on messages like “the newest,” “the first,” “I help launch it.”
 - Tapping on the increasing demand for new trends and novel products. Studies have shown how [novelty](https://www.eurekalert.org/pub_releases/2006-08/cp-pns072706.php) “motivates the brain to explore, seeking a reward.”
 
-## Market evaluation too
+## Market evaluation tool
 
 [Pre-commerce](https://www.fastcoexist.com/1681686/the-rise-of-pre-commerce) allows innovators to test their product-market fit with a Minimum Viable Product (MVP) equivalent. Since consumers would only back projects they like, it helps makers accelerate innovation, ditch waste and tweak offerings along the way.
 

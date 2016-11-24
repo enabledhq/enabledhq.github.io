@@ -3,7 +3,6 @@ layout: default
 ---
 {% assign author = site.data.people[page.author] %}
 {% assign words = content | number_of_words %}
-<img src="{{site.url}}{{site.baseurl}}{{page.thumbnail-image}})" id="thumbnail-hidden" class="hidden"/>
 <div class="post-header-banner" style="background-image:url(
 {% if page.hero-banner %}
 {{ page.hero-banner }}
@@ -38,6 +37,7 @@ http://placehold.it/1000x550
 <article>
   <div class="content-container">
     <div class="post-content">
+      <img src="{{site.url}}{{site.baseurl}}{{page.thumbnail-image}})" id="thumbnail-hidden" class="hidden"/>
       {{ content }}
     </div>
   </div>

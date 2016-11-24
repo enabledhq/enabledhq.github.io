@@ -136,39 +136,41 @@ getting direct feedback from potential customers fosters innovation and eliminat
 
 Recently, Tesla has caused a stir with their Model 3’s pre-order number nearing 400,000. The graph below shows that just one day after the official unveil event, Model 3 pre-orders already outnumbered Tesla’s previous model deliveries. 
 
-*Source: Statista*
+![tesla model 3 order pretail]({{site.baseurl}}/images/img_pretail_teslamodel3.jpg)
+*Source: [Statista](https://infographic.statista.com/normal/chartoftheday_4586_tesla_deliveries_and_pre_orders_n.jpg)*
 
-Surprisingly, allowing pre-orders for the more affordable Model 3 has increased demand for its Model S too. In other words, pre-commerce can result in demand on top of demand.
+Surprisingly, allowing pre-orders for the more affordable Model 3 has increased demand for its Model S too. In other words, [pre-commerce](http://finance.yahoo.com/news/analyst-claims-tesla-model-3-205421911.html) can result in demand on top of demand.
 
-As the most innovative company in the world ranked by Forbes, Tesla’s R&D intensity is roughly triple that of most traditional car manufacturers. This heavy spending has been almost mirrored by their financial losses from 2010 to 2015. 
+As the most [innovative](http://www.forbes.com/companies/tesla-motors/) company in the world ranked by Forbes, Tesla’s [R&D intensity](https://www.statista.com/chart/6312/r-d-spending-tesla-vs-carmakers/) is roughly triple that of most traditional car manufacturers. This heavy spending has been almost mirrored by their financial losses from 2010 to 2015. 
 
-Tesla was finally able to report its first net quarterly profit and a positive $100 million cash flow this year. Pre-commerce has helped Tesla significantly reduced the costs of launching model 3, so much so that it does not require any new capital raise.
+Tesla was finally able to report its first [net quarterly profit](http://www.reuters.com/article/us-tesla-results-idUSKCN12Q2QW) and a positive $100 million [cash flow](https://electrek.co/2016/08/05/tesla-model-3-reservations-400000-cash-flow-customer-deposits/) this year. Pre-commerce has helped Tesla significantly reduced the costs of launching model 3, so much so that it does not require any new capital raise.
 
 ## How pre-commerce ticks all the boxes for Tesla
 
-Experience of being part of the Early Adopters group
+- Experience of being part of the Early Adopters group
 
-In Australia, people lined up to pre-order Model 3 “despite not knowing what it will look like, how it'll drive, or even how much it'll cost.” They might even have to wait longer as the left-driving countries will get the car first. This goes to show experience trumps physical goods. 
+In Australia, people lined up to pre-order [Model 3](http://www.gizmodo.com.au/2016/03/heres-the-aussie-queue-for-teslas-model-3/) “despite not knowing what it will look like, how it'll drive, or even how much it'll cost.” They might even have to wait longer as the left-driving countries will get the car first. This goes to show experience trumps physical goods. 
 
-Testing the market before heavy R&D / manufacturing
+- Testing the market before heavy R&D / manufacturing
 
-Clearly a lower end model has lured in more consumers from the “entry-level luxury” segment as they have shown explicit interest by giving Tesla money in advance. 
+Clearly a lower end model has lured in more consumers from the “[entry-level luxury](http://www.afr.com/technology/teslas-model-3-set-to-conquer-lowend-luxury-20160322-gnoxwj)” segment as they have shown explicit interest by giving Tesla money in advance. 
 
-New source of financing the enterprise
+- New source of financing the enterprise
 
 No new capital required after around 6 months of taking pre-orders.
 
-Matching the demand expected, not under or over-supplying 
+- Matching the demand expected, not under or over-supplying 
 
 With information about the high demand, Tesla has put together plans to ramp up production capacity.
 
-Locking advantage over competitors
+- Locking advantage over competitors
 
-Being the pioneer in the electric vehicle category, Tesla has managed to dominate the large luxury car market, which includes non-electric vehicles. Now who says they’re not on track to do the same in the small luxury market? 
+Being the pioneer in the electric vehicle category, Tesla has managed to dominate the [large luxury car](http://www.bloomberg.com/news/features/2016-03-22/how-tesla-model-3-can-complete-its-take-over-of-the-u-s-luxury-market) market, which includes non-electric vehicles. Now who says they’re not on track to do the same in the small luxury market? 
 
 Moreover, those who have prepaid are more likely to go through with the purchase and less likely to buy something that catches their eye in the meantime.
 
-*Tesla 3 pre-order queue in Australia. Source: MarketWatch*
+![tesla 3 australia]({{site.baseurl}}/images/img_pretail_teslaqueue.jpg)
+*Tesla 3 pre-order queue in Australia. Source: [MarketWatch](http://www.marketwatch.com/story/people-queue-around-the-world-for-a-tesla-model-3-they-havent-seen-2016-03-31)*
 
 # The start-up vs. incumbent debate
 There is a fear, especially among large corporations, that pre-commerce would reveal their strategic plan for everyone to see. While understandable, it doesn’t really help in a world of increasing connectedness and speedy spread of information.

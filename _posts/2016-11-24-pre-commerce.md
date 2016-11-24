@@ -8,7 +8,8 @@ main-category: entrepreneurship
 categories:
   - innovation
   - entrepreneurship
-excerpt: >- add same text as description
+excerpt: >-
+  add same text as description
 ---
 Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 

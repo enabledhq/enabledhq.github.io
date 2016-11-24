@@ -1,8 +1,8 @@
 ---
 layout: post
 date: '2016-09-14 13:54 +0930'
-published: true
 title: 'How to Increase The Success Rate of Software Development'
+published: true
 author: grant
 main-category: technology
 categories:

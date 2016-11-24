@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How To Choose Software Developers: Dos and Don''ts'
-date: 'Tue Jun 07 2016 09:30:00 GMT+0930 (ACST)'
+date: '2016-06-07 9:30:00 +0930'
 published: true
 main-category: technology
 categories:

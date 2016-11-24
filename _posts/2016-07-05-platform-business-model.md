@@ -1,8 +1,8 @@
 ---
 layout: post
 date: '2016-07-07 13:09 +0930'
-published: true
 title: 'Can You Mix and Match Your Way to a Platform Business Model? '
+published: true
 author: linh
 main-category: innovation
 categories:

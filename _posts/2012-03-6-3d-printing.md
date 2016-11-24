@@ -1,8 +1,8 @@
 ---
 layout: post
+title: What is 3D Printing?
 date: '2012-03-6 15:30:00 +0930'
 published: true
-title: What is 3D Printing?
 main-category: technology
 categories:
   - technology

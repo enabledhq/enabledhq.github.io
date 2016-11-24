@@ -1,8 +1,8 @@
 ---
 layout: post
 date: '2016-09-02 17:32 +0930'
-published: true
 title: Why Traditional User Research Is Not Enough to Build a Great Product
+published: true
 author: linh
 categories:
   - innovation

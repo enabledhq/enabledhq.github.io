@@ -11,17 +11,18 @@ Launch week: everything seemed to go according to my predictions until one compe
 
 ***
 
-The story I just told you is about my virtual company on marketing simulation platform Markstrat during my university course on strategic marketing.
+The story I just told you is about my virtual company on marketing simulation platform [Markstrat](http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/) during my university course on strategic marketing.
 
 For those who haven’t heard of Markstrat, it is a simulation game where you control the fate of your company while competing with your classmates’ companies.
 
-A screen in the game. Source: StratX Simulations
+![pretail precommerce markstrat]({{site.baseurl}}/images/img_pretail_markstrat.jpg)
+*A screen in the game. Source: [StratX Simulations](http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/)*
 
 Now, technical limitations aside, recent trends in commerce has prompted me to think about what I could have done in Markstrat. What if I had been able to apply “pre-commerce” in this simulated environment?
 
-What is pre-commerce?
+# What is pre-commerce?
 
-Pre-commerce is a product development method which allows new product ideas/prototypes to be mass produced only when they have reached an initial threshold of buy-in from investors/consumers.
+Pre-commerce is a product development method which allows new product **ideas/prototypes** to be mass produced **only** when they have reached an **initial threshold of buy-in** from investors/consumers.
 
 Essentially, pre-commerce: 
 - Taps into upfront investments from consumers, either in terms of capital or expertise
@@ -31,6 +32,7 @@ Quick examples:
 - Tesla’s model 3 pre-order
 - VR gaming headset Oculus Rift funded through Kickstarter
 - Other examples shown in the graph below
+![crowdfunding precommerce]({{site.baseurl}}/images/img_pretail_topcrowdfunding.jpg)
 
 Source: Forbes
 
@@ -50,9 +52,13 @@ However, if you wait till the concept is established enough to be included in te
 
 
 How pre-commerce is different from other forms of commerce
+
 To understand a new concept, it is equally useful to consider what it is not. 
+
 Don’t get mixed up with social commerce
+
 There is a prevalent viewpoint that sees pre-commerce – or participatory commerce, or pre-tail – as a trend within social commerce.
+
 This is odd, because social commerce is defined as the coming together of retailers and social networks to bring customers a better online buying experience. The most common tactic is integrating the “buy button” into a company’s social media presence, as shown below.
 
 Source: AWG

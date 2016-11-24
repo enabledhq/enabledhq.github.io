@@ -18,13 +18,14 @@ meta-description: >-
   factors.
 hero-banner: /images/Blog_Header_platform.jpg
 thumbnail-image: /images/img_platform_thumb.jpg
-imageurl: //blog.enabled.com.au/images/img_platform_thumb.jpg
 description: >-
   The success of platforms such as Airbnb & Uber has sparked a new business
   model boom. Let’s discuss different platform flavours and other crucial
   factors.
 short-link: 'http://bit.ly/29pgajG'
 ---
+![Can You Mix and Match Your Way to a Platform Business Model]({{site.baseurl}}/images/img_platform_thumb.jpg){:class="hidden"}
+
 The success of platforms such as Airbnb and Uber has sparked a platform boom. Suddenly, start-ups as well as established players want a piece of this lucrative pie. But it’s not just a matter of following recipes accurately. To succeed, businesses need to understand the different flavours and ways to combine them, so that the “pie” will satisfy an appetite.
 
 # A primer on platforms

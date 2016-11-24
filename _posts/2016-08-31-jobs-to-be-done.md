@@ -5,7 +5,6 @@ published: true
 title: Why Traditional User Research Is Not Enough to Build a Great Product
 hero-banner: /images/Blog_Header_JTBD.png
 thumbnail-image: /images/img_jtbd_thumb.png
-imageurl: //blog.enabled.com.au/images/img_jtbd_thumb.png
 description: >-
   Learn about the alternative to traditional user research to evaluate product
   innovation & keep you on the right track, real life examples included.
@@ -23,6 +22,7 @@ categories:
 main-category: innovation
 short-link: 'http://bit.ly/2csxFSM'
 ---
+![Why Traditional User Research Is Not Enough to Build a Great Product]({{site.baseurl}}/images/img_jtbd_thumb.png){:class="hidden"}
 A device that lets you “smell the Internet” via the websites you visit. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 
 The truth is: [DigiScents](http://www.startupover.com/en/20-million-burning-smell-like-just-ask-digiscents/)’ iSmell and [Facebook’](http://www.businessinsider.com.au/biggest-product-failures-in-business-history-2014-7#2013--facebook-home-22)s Home are considered two of the biggest product flops in the last few decades. It’s not that the products weren’t technologically good, or had inadequate financial support. It’s because there was little consideration to the user needs.

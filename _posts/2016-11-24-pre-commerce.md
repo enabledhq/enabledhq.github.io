@@ -63,28 +63,29 @@ This is odd, because [social commerce](https://www.yotpo.com/blog/the-4-most-pow
 ![social commerce]({{site.baseurl}}/images/img_pretail_buybutton.jpg)
 *Source: [AWG](http://awgadvertising.com/coffee-with-cart-924-recap/)*
 
-Also, check out this list of social commerce definitions for your reference.
-It’s more accurate and even beneficial to make pre-commerce a category of its own because it involves more than just the selling mechanisms.
-Pre-commerce touches other areas of the business, from product innovation (concept, ideation), supply chain management, to marketing and sales.
-Social commerce
-Pre-commerce
-Trying to expand the reach, increase revenue for existing products
-Also hoping to build awareness, but the main objective is product development
-Present-oriented
-Future-oriented
-Main technology enabler: social networks
-A mixture of enablers, such as crowdfunding platforms, owned media (company’s website), mass media, social networks
-Differences between the two
-Does it work like a Marketing stunt?
-While most campaigns on platforms like Kickstarter employ social media to trigger the viral effect, pre-commerce is not a short-term, quick-win kind of tactic.
-Remember Cadbury’s vegemite chocolate? While the whole campaign had some pre-commerce flavours (as the vegemite chocolate actually got manufactured), it was mostly a “marketing thing.”
+_Also, check out this list of [social commerce definitions](http://heidicohen.com/what-is-social-commerc/) for your reference._
 
-A tweet from Cadbury back in 2015 to promote their campaign
+It’s more accurate and even beneficial to make pre-commerce a category of its own because it involves more than just the selling mechanisms.
+
+Pre-commerce touches other areas of the business, from product innovation (concept, ideation), supply chain management, to marketing and sales.
+
+*Differences between the two*
+
+## Does it work like a Marketing stunt?
+While most campaigns on platforms like Kickstarter employ social media to trigger the viral effect, pre-commerce is not a short-term, quick-win kind of tactic.
+
+Remember Cadbury’s vegemite chocolate? While the whole campaign had some pre-commerce flavours (as the vegemite chocolate actually got manufactured), it was mostly a “[marketing thing](http://www.adnews.com.au/news/vegemite-flavoured-chocolate-is-a-thing-a-marketing-thing).”
+
+*A tweet from Cadbury back in 2015 to promote their campaign*
+
 Why? Because unless those people who joined the social media conversation around hashtag #ChocPlusWhat put in $2 to get the vegemite chocolate first when it came out, they were only giving Cadbury their two cents on the matter.
+
 More importantly, Cadbury might have already planned to make this chocolate flavour and the campaign’s purposes were to:
-1.     Stir excitement/debate/curiosity pre-launch
-2.     Cause a short-term sales surge
-3.     Cause a brand uplift (either short or long-term)  
+
+1. Stir excitement/debate/curiosity pre-launch
+1. Cause a short-term sales surge
+1. Cause a brand uplift (either short or long-term)
+
 In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below.
  
 

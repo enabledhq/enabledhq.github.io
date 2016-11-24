@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-06-07 9:30:00 +0930'
+date: '2016-06-07 9:30 +0930'
 title: 'How To Choose Software Developers: Dos and Don''ts'
 published: true
 main-category: technology

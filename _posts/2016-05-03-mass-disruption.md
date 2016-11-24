@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-05-03 15:30:00 +0930'
+date: '2016-05-03 15:30 +0930'
 title: 'Weapons of Mass Disruption: Scary and Accessible'
 published: true
 main-category: innovation

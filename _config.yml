@@ -50,7 +50,7 @@ prose:
       - name: "excerpt"
         field:
           element: "textarea"
-          label: "Summary"
+          label: "Summary (RSS/enabled.com.au)"
           placeholder: "Enter Summary/Excerpt (for enabled.com.au and RSS feed)"
       - name: "author"
         field:

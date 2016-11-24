@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Weapons of Mass Disruption: Scary and Accessible'
+published: true
 date: '2016-05-03 15:30:00 +0930'
 main-category: innovation
 categories:
@@ -9,16 +10,18 @@ short-link: 'http://bit.ly/1XYewIH'
 author: grant
 hero-banner: /images/Blog_Header_weapons.jpg
 image: /images/img_weapons_thumb.jpg
+meta-keywords: >-
+  disruptive innovation examples, disruptive technology, digital disruption,
+  business innovation, disruptive innovation, business disruption
 description: >-
   Understanding how disruptive innovation happens is key to being able to avoid
   it, or have the opportunity to disrupt others.
 meta-description: >
   Understanding how disruptive innovation happens is key to being able to avoid
   it, or have the opportunity to disrupt others.
-meta-keywords: >-
-  disruptive innovation examples, disruptive technology, digital disruption,
-  business innovation, disruptive innovation, business disruption
-published: true
+excerpt: >-
+  Understanding how disruptive innovation happens is key to being able to avoid
+  it, or have the opportunity to disrupt others.
 ---
 
 There is much fear attached to the concept of Disruption especially when the term is used as a battle cry by digital start-ups as they wage their war against the tyranny of traditional business.

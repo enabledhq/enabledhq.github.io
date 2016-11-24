@@ -3,8 +3,17 @@ layout: post
 date: '2016-09-02 17:32 +0930'
 published: true
 title: Why Traditional User Research Is Not Enough to Build a Great Product
+author: linh
+categories:
+  - innovation
+  - entrepreneurship
+main-category: innovation
+short-link: 'http://bit.ly/2csxFSM'
 hero-banner: /images/Blog_Header_JTBD.png
 image: /images/img_jtbd_thumb.png
+meta-keywords: >-
+  Product innovation, new product development, Jobs to be done, jobs-to-be-done,
+  disruptive innovation, user research, product development
 description: >-
   Learn about the alternative to traditional user research to evaluate product
   innovation & keep you on the right track, real life examples included.
@@ -12,15 +21,10 @@ meta-description: >-
   Learn about Jobs-to-be-done as an alternative to traditional user research to
   evaluate product innovation & keep you on the right track, real life examples
   included.
-author: linh
-meta-keywords: >-
-  Product innovation, new product development, Jobs to be done, jobs-to-be-done,
-  disruptive innovation, user research, product development
-categories:
-  - innovation
-  - entrepreneurship
-main-category: innovation
-short-link: 'http://bit.ly/2csxFSM'
+excerpt: >-
+  Learn about Jobs-to-be-done as an alternative to traditional user research to
+  evaluate product innovation & keep you on the right track, real life examples
+  included.
 ---
 A device that lets you “smell the Internet” via the websites you visit. A mobile app that lets you see and react to your Facebook newsfeed stories right on your phone’s home screen. Sound like good ideas right?
 

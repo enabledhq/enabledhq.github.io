@@ -2,6 +2,7 @@
 layout: post
 title: 'How To Choose Software Developers: Dos and Don''ts'
 date: 'Tue Jun 07 2016 09:30:00 GMT+0930 (ACST)'
+published: true
 main-category: technology
 categories:
   - technology
@@ -9,6 +10,9 @@ short-link: 'http://bit.ly/21nFyHa'
 author: grant
 hero-banner: /images/Blog_Header_howtohire.jpg
 image: /images/img_howtohire_thumb.jpg
+meta-keywords: >-
+  software developer, software development, app developer, app development,
+  agile development,
 description: >-
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the
@@ -17,10 +21,10 @@ meta-description: >
   Finding good software and app developers is hard, building long-term
   relationships with them is even harder. Here’s how to get in right from the
   start.
-meta-keywords: >-
-  software developer, software development, app developer, app development,
-  agile development,
-published: true
+excerpt: >-
+  Finding good software and app developers is hard, building long-term
+  relationships with them is even harder. Here’s how to get in right from the
+  start.
 ---
 
 Technology projects can be daunting. The complexity, the unexpected issues, and if you’re unlucky, cost overruns. It might be tempting to blame technology - something that is intangible and difficult to explain. But it starts, and ends with people.

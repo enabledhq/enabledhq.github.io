@@ -3,6 +3,16 @@ layout: post
 date: '2016-10-25 15:58 +1030'
 published: true
 title: Putting Transformation Back to Digital Transformation
+author: linh
+main-category: innovation
+categories:
+  - innovation
+  - technology
+hero-banner: /images/Blog_header_Digitrans.png
+image: /images/img_digitrans_thumb.png
+meta-keywords: >-
+  Transformation, digital business transformation, digital transformation,
+  digital transformation framework, digital transformation strategy
 description: >-
   Companies tend to delay digital transformation before it’s too late due to
   digital disruption. But what is it & how can you disrupt others or
@@ -11,16 +21,10 @@ meta-description: >-
   Companies tend to delay digital transformation before it’s too late due to
   digital disruption. But what is it & how can you disrupt others or
   self-disrupt?
-author: linh
-main-category: innovation
-categories:
-  - innovation
-  - technology
-meta-keywords: >-
-  Transformation, digital business transformation, digital transformation,
-  digital transformation framework, digital transformation strategy
-hero-banner: /images/Blog_header_Digitrans.png
-image: /images/img_digitrans_thumb.png
+excerpt: >-
+  Companies tend to delay digital transformation before it’s too late due to
+  digital disruption. But what is it & how can you disrupt others or
+  self-disrupt?
 ---
 For those who haven’t seen House of Cards (a **Netflix**’s original TV series), there is a scene where just before getting fired, the Washington Herald’s chief editor says:
 

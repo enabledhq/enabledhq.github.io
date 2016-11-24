@@ -9,6 +9,9 @@ categories:
   - innovation
   - technology
   - entrepreneurship
+short-link: 'http://bit.ly/29pgajG'
+hero-banner: /images/Blog_Header_platform.jpg
+image: /images/img_platform_thumb.jpg
 meta-keywords: >-
   Business models, Platform business, Platform model, Platform business model,
   Airbnb business model, Uber business model
@@ -16,13 +19,14 @@ meta-description: >-
   The success of platforms such as Airbnb & Uber has sparked a new business
   model boom. Let’s discuss different platform flavours and other crucial
   factors.
-hero-banner: /images/Blog_Header_platform.jpg
-image: /images/img_platform_thumb.jpg
 description: >-
   The success of platforms such as Airbnb & Uber has sparked a new business
   model boom. Let’s discuss different platform flavours and other crucial
   factors.
-short-link: 'http://bit.ly/29pgajG'
+excerpt: >-
+  The success of platforms such as Airbnb & Uber has sparked a new business
+  model boom. Let’s discuss different platform flavours and other crucial
+  factors.
 ---
 
 The success of platforms such as Airbnb and Uber has sparked a platform boom. Suddenly, start-ups as well as established players want a piece of this lucrative pie. But it’s not just a matter of following recipes accurately. To succeed, businesses need to understand the different flavours and ways to combine them, so that the “pie” will satisfy an appetite.

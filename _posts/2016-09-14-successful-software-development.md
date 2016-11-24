@@ -2,24 +2,27 @@
 layout: post
 date: '2016-09-14 13:54 +0930'
 published: true
-title: 'How to Increase The Success Rate of Software Development '
+title: 'How to Increase The Success Rate of Software Development'
+author: grant
+main-category: technology
+categories:
+  - technology
+short-link: 'http://bit.ly/2cdQlDw'
+hero-banner: /images/Blog_header_success_software.png
+image: /images/img_success_software_thumb.png
 meta-keywords: >-
   software projects, Software developer, Software development, project
   management, jobs to be done, software development myths, software development
   project
-main-category: technology
-categories:
-  - technology
-author: grant
 meta-description: >-
   Software development projects don't have to be stressful. Follow these steps
   to improve the chance of a successful software product launch.
 description: >-
   Software development projects don't have to be stressful. Follow these steps
   to improve the chance of a successful software product launch.
-short-link: 'http://bit.ly/2cdQlDw'
-hero-banner: /images/Blog_header_success_software.png
-image: /images/img_success_software_thumb.png
+excerpt: >-
+  Software development projects don't have to be stressful. Follow these steps
+  to improve the chance of a successful software product launch.
 ---
 Previously, we discussed some popular myths and misperceptions people have about [software development](http://blog.enabled.com.au/myths-software-development/). Now, let’s take it further by talking about how you can make the most out of your software projects. 
 

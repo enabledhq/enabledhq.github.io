@@ -3,6 +3,11 @@ layout: post
 date: '2016-11-24 17:26 +1030'
 published: false
 title: Why You Should Care About Pre-Commerce Now
+author: linh
+main-category: entrepreneurship
+categories:
+  - innovation
+  - entrepreneurship
 ---
 Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 

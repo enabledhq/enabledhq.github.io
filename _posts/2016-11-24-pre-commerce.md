@@ -175,7 +175,7 @@ Moreover, those who have prepaid are more likely to go through with the purchase
 # The start-up vs. incumbent debate
 There is a fear, especially among large corporations, that pre-commerce would reveal their strategic plan for everyone to see. While understandable, it doesn’t really help in a world of increasing connectedness and speedy spread of information.
 
-A potential scenario is when information about new product development is leaked, which gives fast followers time to get their product to market right behind yours. 
+A potential scenario is when information about new [product development](http://qz.com/771727/chinas-factories-in-shenzhen-can-copy-products-at-breakneck-speed-and-its-time-for-the-rest-of-the-world-to-get-over-it/) is leaked, which gives fast followers time to get their product to market right behind yours. 
 
 Pre-commerce actually works out better for established brands in this case. If your idea/prototype is already out in the marketplace, supporters will defend your company against copycats. Why?
 
@@ -185,6 +185,6 @@ Pre-commerce actually works out better for established brands in this case. If y
 ## Final thoughts
 Social media, direct-to-consumer platforms, business model innovations etc. have helped start-ups disrupt incumbents everywhere. Whether pre-commerce would do the same remains to be seen but if we’re to learn one thing in hindsight, embrace change before it overwhelms you.
 
-In fact, some forward-looking incumbents have already accepted the fact that “it’s better to own a bit of a disrupting startup than be the prey of a new business model from an unknown competitor.” This is captured during Enabled’s recent trip to Lisbon to attend the Web Summit. 
+In fact, some forward-looking incumbents have already accepted the fact that “it’s better to own a bit of a disrupting startup than be the prey of a new business model from an unknown competitor.” This is captured during Enabled’s recent trip to Lisbon to attend the [Web Summit](http://blog.enabled.com.au/web-summit-2016/). 
 
-Remember: “What separates your brand and company from a world of innovative independent designers is only a semi-permeable membrane.”
+Remember: “What separates your brand and company from a world of [innovative](https://www.fastcoexist.com/1681686/the-rise-of-pre-commerce) independent designers is only a semi-permeable membrane.”

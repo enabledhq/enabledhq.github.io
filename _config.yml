@@ -47,6 +47,11 @@ prose:
           element: "textarea"
           label: "Meta Description"
           placeholder: "Enter Meta Description (for search results)"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Summary"
+          placeholder: "Enter Summary/Excerpt (for enabled.com.au and RSS feed)"
       - name: "author"
         field:
           element: "select"

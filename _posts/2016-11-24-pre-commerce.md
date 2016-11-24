@@ -117,45 +117,72 @@ Moreover, by being able to gauge demand before mass production allows for more a
 
 Innovators don’t need to deploy a business model purely based on pre-commerce to reap this benefit. For instance, Moda Operandi, a pre-tail fashion start-up, combines [pre-commerce](https://www.businessoffashion.com/articles/intelligence/moda-operandi-raises-36-million-expands-from-pre-commerce-to-e-commerce) with e-commerce. The core business is about letting women pre-order fashion pieces straight off the runway via limited time online sales.
 
-Source: Moda Operandi
+![pretail moda operandi]({{site.baseurl}}/images/img_pretail_moda.png)
+*Source: [Moda Operandi](https://www.modaoperandi.com/trunkshows)*
 
 The company plans to expand leveraging “the sales data it collects from its 'pre-tail' business to inform its traditional retail buys, mitigating inventory risk by injecting an element of science into buying decisions that have traditionally been driven more by intuition than hard data.”
-Others have also pointed to a new commerce pipeline that could become more prominent in the future: moving from pre-tail to e-tail and then retail.
-Quick summary
-Pre-commerce enables a direct-to-consumer model by fostering a closed feedback loop which results in:
-Marketing efficiency: marketing focuses on social mechanisms (rather than broadcast) as they have increasingly become the main source of product discovery.
-Margin efficiency: cutting down on the middlemen like physical retailers or distributors.
-Product efficiency: presenting MVPs and getting direct feedback from potential customers fosters innovation and eliminates guesswork.
-The fascinating case of Tesla
+
+Others have also pointed to a new [commerce pipeline](http://www.forbes.com/sites/scotthartley/2012/09/07/pre-tailing_commerce/#5dbe5b5b326d) that could become more prominent in the future: moving from pre-tail to e-tail and then retail.
+
+## Quick summary
+Pre-commerce enables a [direct-to-consumer](http://www.mediapost.com/publications/article/285381/cpg-and-the-lure-of-direct-to-consumer.html?print) model by fostering a closed feedback loop which results in:
+
+- **Marketing efficiency**: marketing focuses on social mechanisms (rather than broadcast) as they have increasingly become the main source of product discovery.
+- **Margin efficiency**: cutting down on the middlemen like physical retailers or distributors.
+- **Product efficiency**: presenting MVPs and
+getting direct feedback from potential customers fosters innovation and eliminates guesswork.
+
+# The fascinating case of Tesla
+
 Recently, Tesla has caused a stir with their Model 3’s pre-order number nearing 400,000. The graph below shows that just one day after the official unveil event, Model 3 pre-orders already outnumbered Tesla’s previous model deliveries. 
 
-Source: Statista
-
+*Source: Statista*
 
 Surprisingly, allowing pre-orders for the more affordable Model 3 has increased demand for its Model S too. In other words, pre-commerce can result in demand on top of demand.
+
 As the most innovative company in the world ranked by Forbes, Tesla’s R&D intensity is roughly triple that of most traditional car manufacturers. This heavy spending has been almost mirrored by their financial losses from 2010 to 2015. 
+
 Tesla was finally able to report its first net quarterly profit and a positive $100 million cash flow this year. Pre-commerce has helped Tesla significantly reduced the costs of launching model 3, so much so that it does not require any new capital raise.
-How pre-commerce ticks all the boxes for Tesla
+
+## How pre-commerce ticks all the boxes for Tesla
+
 Experience of being part of the Early Adopters group
+
 In Australia, people lined up to pre-order Model 3 “despite not knowing what it will look like, how it'll drive, or even how much it'll cost.” They might even have to wait longer as the left-driving countries will get the car first. This goes to show experience trumps physical goods. 
+
 Testing the market before heavy R&D / manufacturing
+
 Clearly a lower end model has lured in more consumers from the “entry-level luxury” segment as they have shown explicit interest by giving Tesla money in advance. 
+
 New source of financing the enterprise
+
 No new capital required after around 6 months of taking pre-orders.
+
 Matching the demand expected, not under or over-supplying 
+
 With information about the high demand, Tesla has put together plans to ramp up production capacity.
+
 Locking advantage over competitors
+
 Being the pioneer in the electric vehicle category, Tesla has managed to dominate the large luxury car market, which includes non-electric vehicles. Now who says they’re not on track to do the same in the small luxury market? 
+
 Moreover, those who have prepaid are more likely to go through with the purchase and less likely to buy something that catches their eye in the meantime.
 
-Tesla 3 pre-order queue in Australia. Source: MarketWatch
-The start-up vs. incumbent debate
+*Tesla 3 pre-order queue in Australia. Source: MarketWatch*
+
+# The start-up vs. incumbent debate
 There is a fear, especially among large corporations, that pre-commerce would reveal their strategic plan for everyone to see. While understandable, it doesn’t really help in a world of increasing connectedness and speedy spread of information.
+
 A potential scenario is when information about new product development is leaked, which gives fast followers time to get their product to market right behind yours. 
+
 Pre-commerce actually works out better for established brands in this case. If your idea/prototype is already out in the marketplace, supporters will defend your company against copycats. Why?
-They’re paying for the experience rather than the physical goods. This goes back to the experiential buying trend.
-You already have a brand name and an engaged fan club (look at Tesla). 
-Final thoughts
+
+- They’re paying for the experience rather than the physical goods. This goes back to the experiential buying trend.
+- You already have a brand name and an engaged fan club (look at Tesla). 
+
+## Final thoughts
 Social media, direct-to-consumer platforms, business model innovations etc. have helped start-ups disrupt incumbents everywhere. Whether pre-commerce would do the same remains to be seen but if we’re to learn one thing in hindsight, embrace change before it overwhelms you.
+
 In fact, some forward-looking incumbents have already accepted the fact that “it’s better to own a bit of a disrupting startup than be the prey of a new business model from an unknown competitor.” This is captured during Enabled’s recent trip to Lisbon to attend the Web Summit. 
+
 Remember: “What separates your brand and company from a world of innovative independent designers is only a semi-permeable membrane.”

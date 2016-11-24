@@ -32,17 +32,17 @@ Quick examples:
 - Tesla’s model 3 pre-order
 - VR gaming headset Oculus Rift funded through Kickstarter
 - Other examples shown in the graph below
+
 ![crowdfunding precommerce]({{site.baseurl}}/images/img_pretail_topcrowdfunding.jpg)
+*Source: [Forbes](http://www.forbes.com/sites/wilschroter/2014/04/16/top-10-business-crowdfunding-campaigns-of-all-time/#31eb6d3f203d)*
 
-Source: Forbes
-
-How it could have played out for me
+# How it could have played out for me
 
 Back to my Markstrat adventure, I could have organised a campaign around my new product on a Kickstarter-ish platform. Instead of worrying about what my competitors were doing, I could have focused on building a community of early supporters, collecting feedback and fine-tuning my new product to best match their needs. 
 
 Now my competitor could also have copied my move. But they wouldn’t have been the first-to-market. Potential simulation scenarios for this imaginary Markstrat feature:
 
-- My campaign reached 34% of buy-in first - the tipping point which improved my success rate to 99%. First mover advantage: check.
+- My campaign reached 34% of buy-in first - the [tipping point](https://a16z.com/2016/09/17/beyond-crowdfunding/) which improved my success rate to 99%. First mover advantage: check.
 - My competitor’s campaign reached 34% first. To compete, I would need to either amplify my communications, leapfrog their technology, or go niche. Fast follower: maybe.
 - No campaign reached 34%. Re-evaluation in order: technology might be too new and takes time to get used to; latent demand; plus other things mentioned in the second bullet point.
 
@@ -50,18 +50,19 @@ We’re not here to discuss feature improvements for Markstrat, but what pre-com
 
 However, if you wait till the concept is established enough to be included in textbooks, or a simulation game, you might have already missed the boat. 
 
-
-How pre-commerce is different from other forms of commerce
+# How pre-commerce is different from other forms of commerce
 
 To understand a new concept, it is equally useful to consider what it is not. 
 
-Don’t get mixed up with social commerce
+## Don’t get mixed up with social commerce
 
-There is a prevalent viewpoint that sees pre-commerce – or participatory commerce, or pre-tail – as a trend within social commerce.
+There is a prevalent viewpoint that sees pre-commerce – or participatory commerce, or pre-tail – as a trend within [social commerce](http://mashable.com/2013/05/10/social-commerce-definition/#KNFqSDeZZkqg).
 
-This is odd, because social commerce is defined as the coming together of retailers and social networks to bring customers a better online buying experience. The most common tactic is integrating the “buy button” into a company’s social media presence, as shown below.
+This is odd, because [social commerce](https://www.yotpo.com/blog/the-4-most-powerful-social-commerce-trends/) is defined as the coming together of retailers and social networks to bring customers a better online buying experience. The most common tactic is integrating the “buy button” into a company’s social media presence, as shown below.
 
-Source: AWG
+![social commerce]({{site.baseurl}}/images/img_pretail_buybutton.jpg)
+*Source: [AWG](http://awgadvertising.com/coffee-with-cart-924-recap/)*
+
 Also, check out this list of social commerce definitions for your reference.
 It’s more accurate and even beneficial to make pre-commerce a category of its own because it involves more than just the selling mechanisms.
 Pre-commerce touches other areas of the business, from product innovation (concept, ideation), supply chain management, to marketing and sales.

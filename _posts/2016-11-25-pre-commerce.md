@@ -76,6 +76,8 @@ We’re not here to discuss feature improvements for Markstrat, but what pre-com
 
 However, if you wait till the concept is established enough to be included in textbooks, or a simulation game, you might have already missed the boat. 
 
+> Pre-commerce allows new product ideas/prototypes to be mass produced only when they have reached an initial threshold of buy-in from investors/consumers.
+
 # How pre-commerce is different from other forms of commerce
 
 To understand a new concept, it is equally useful to consider what it is not. 

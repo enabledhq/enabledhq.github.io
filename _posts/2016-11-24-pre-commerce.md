@@ -1,15 +1,14 @@
 ---
 layout: post
 date: '2016-11-24 17:26 +1030'
-title: 'Why You Should Care About Pre-Commerce Now'
+title: Why You Should Care About Pre-Commerce Now
 published: false
 author: linh
 main-category: entrepreneurship
 categories:
   - innovation
   - entrepreneurship
-excerpt: >-
-  add same text as description
+excerpt: add same text as description
 ---
 Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 
@@ -95,7 +94,9 @@ More importantly, Cadbury might have already planned to make this chocolate flav
 1. Cause a brand uplift (either short or long-term)
 
 In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below.
- 
+
+![product life cycle pre commerce]({{site.baseurl}}/images/img_pretail_PLC.png)
+*How pre-commerce affects sales & profits (dotted lines)*
 
 ## Consumer preferences evolution
 

@@ -94,6 +94,7 @@ It’s more accurate, and even beneficial, to make pre-commerce a category of it
 
 Pre-commerce touches other areas of the business, from product innovation (concept & ideation), supply chain management, to marketing and sales.
 
+![social commerce precommerce]({{site.baseurl}}/images/img_pretail_socialcommerce.png)
 *Differences between the two*
 
 ## Does it work like a Marketing stunt?

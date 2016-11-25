@@ -22,6 +22,8 @@ meta-description: >-
   Tesla’s Model 3 pre-orders have proved the power of pre-commerce in the
   product development process. How is it different from traditional commerce?
 short-link: 'https://goo.gl/8j67CE'
+hero-banner: /images/Blog_header_pretail.png
+image: /images/img_pretail_thumb.png
 ---
 Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 

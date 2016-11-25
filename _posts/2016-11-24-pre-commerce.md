@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-11-24 17:26 +1030'
+date: '2016-11-25 17:26 +1030'
 title: Why You Should Care About Pre-Commerce Now
 published: false
 author: linh
@@ -8,7 +8,19 @@ main-category: entrepreneurship
 categories:
   - innovation
   - entrepreneurship
-excerpt: add same text as description
+excerpt: >-
+  Tesla’s Model 3 pre-orders have proved the power of pre-commerce in the
+  product development process. How is it different from traditional commerce?
+meta-keywords: >-
+  Precommerce, pretail, crowdfunding, crowdsourcing, what is precommerce, what
+  is pretail, precommerce definition, social commerce, product development,
+  product development process, new product development process
+description: >-
+  Tesla’s Model 3 pre-orders have proved the power of pre-commerce in the
+  product development process. How is it different from traditional commerce?
+meta-description: >-
+  Tesla’s Model 3 pre-orders have proved the power of pre-commerce in the
+  product development process. How is it different from traditional commerce?
 ---
 Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 

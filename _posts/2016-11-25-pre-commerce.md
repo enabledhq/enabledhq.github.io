@@ -167,6 +167,8 @@ Pre-commerce enables a [direct-to-consumer](http://www.mediapost.com/publication
 - **Product efficiency**: presenting MVPs and
 getting direct feedback from potential customers fosters innovation and eliminates guesswork.
 
+> What separates your brand and company from a world of innovative independent designers is only a semi-permeable membrane.
+
 # The fascinating case of Tesla
 
 Recently, Tesla has caused a stir with their Model 3’s pre-order number nearing 400,000. The graph below shows that just one day after the official unveil event, Model 3 pre-orders already outnumbered Tesla’s previous model deliveries. 

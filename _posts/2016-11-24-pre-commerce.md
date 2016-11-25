@@ -108,6 +108,8 @@ Pre-commerce does it by:
 - Injecting status into the buying experience, focusing on messages like “the newest,” “the first,” “I help launch it.”
 - Tapping on the increasing demand for new trends and novel products. Studies have shown how [novelty](https://www.eurekalert.org/pub_releases/2006-08/cp-pns072706.php) “motivates the brain to explore, seeking a reward.”
 
+<a href="https://www.statista.com/chart/1962/kickstarter-pledges-by-country/" title="Infographic: These Countries Account For 85% of Total Kickstarter Pledges | Statista"><img src="https://infographic.statista.com/normal/chartoftheday_1962_Kickstarter_pledges_by_country_n.jpg" alt="Infographic: These Countries Account For 85% of Total Kickstarter Pledges | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a><br />You will find more statistics at <a href="https://www.statista.com/">Statista</a>
+
 ## Market evaluation tool
 
 [Pre-commerce](https://www.fastcoexist.com/1681686/the-rise-of-pre-commerce) allows innovators to test their product-market fit with a Minimum Viable Product (MVP) equivalent. Since consumers would only back projects they like, it helps makers accelerate innovation, ditch waste and tweak offerings along the way.

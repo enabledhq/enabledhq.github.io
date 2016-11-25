@@ -2,7 +2,7 @@
 layout: post
 date: '2016-11-25 17:26 +1030'
 title: Why You Should Care About Pre-Commerce Now
-published: false
+published: true
 author: linh
 main-category: entrepreneurship
 categories:

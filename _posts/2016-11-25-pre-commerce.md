@@ -28,6 +28,7 @@ image: /images/img_pretail_thumb.png
 Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 
 I remember trying to reap the first mover advantage for my company so much that I was determined to outspend my competitors on R&D (and get that info by purchasing market intelligence).
+
 Launch week: everything seemed to go according to my predictions until one competitor figured out the formulas of the whole system and basically took over the “game” (Think cheat codes for The Sims).
 
 ***
@@ -98,7 +99,7 @@ Pre-commerce touches other areas of the business, from product innovation (conce
 *Differences between the two*
 
 ## Does it work like a Marketing stunt?
-While most campaigns on platforms like Kickstarter employ social media to trigger the viral effect, pre-commerce is not a short-term, quick-win kind of tactic.
+While most campaigns on platforms like Kickstarter employ social media to trigger the viral effect, pre-commerce is **not** a short-term, quick-win kind of tactic.
 
 Remember Cadbury’s vegemite chocolate? While the whole campaign had some pre-commerce flavours (as the vegemite chocolate actually got manufactured), it was mostly a “[marketing thing](http://www.adnews.com.au/news/vegemite-flavoured-chocolate-is-a-thing-a-marketing-thing).”
 

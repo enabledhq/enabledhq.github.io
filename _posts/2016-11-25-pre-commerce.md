@@ -121,6 +121,10 @@ In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying 
 ![product life cycle pre commerce]({{site.baseurl}}/images/img_pretail_PLC.png)
 *How pre-commerce affects sales & profits (dotted lines)*
 
+# How pre-commerce lets you get ahead of competition
+
+A powerful product development engine, fueled by evolutions in consumer preferences for innovative products and community engagement; as well as lower entry barriers for new product development.
+
 ## Consumer preferences evolution
 
 Consumers increasingly value [experiences](http://adage.com/article/digitalnext/consumers-experiences-things/299994/) over physical goods, which gives rise to experiential buying. Now that doesn’t mean you’re doomed if you make physical products. It means adding to the product by creating a memorable buying experience.

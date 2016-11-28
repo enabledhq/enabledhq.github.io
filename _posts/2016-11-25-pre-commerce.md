@@ -123,7 +123,7 @@ In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying 
 
 # How pre-commerce lets you get ahead of competition
 
-A powerful product development engine, fueled by evolutions in consumer preferences for innovative products and community engagement; as well as lower entry barriers for new product development.
+It is a powerful product development engine, fueled by evolutions in **consumer** preferences for **innovative** products and community engagement; as well as **lower entry barriers** for new product development.
 
 ## Consumer preferences evolution
 

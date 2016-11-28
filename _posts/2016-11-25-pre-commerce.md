@@ -129,7 +129,7 @@ Pre-commerce does it by:
 
 - “Providing a [sense of belonging](http://trendwatching.com/trends/presumers/) that goes beyond the thrill of possession.” Think about how crowdfunding or community-led invention platforms (e.g. [Quirky](http://www.quirky.com/))  make consumers feel they’re part of a community/movement.
 - Injecting status into the buying experience, focusing on messages like “the newest,” “the first,” “I help launch it.”
-- Tapping on the increasing demand for new trends and novel products. Studies have shown how [novelty](https://www.eurekalert.org/pub_releases/2006-08/cp-pns072706.php) “motivates the brain to explore, seeking a reward.”
+- Tapping the increasing demand for new trends and novel products. Studies have shown how [novelty](https://www.eurekalert.org/pub_releases/2006-08/cp-pns072706.php) “motivates the brain to explore, seeking a reward.”
 
 ![kickstarter stats crowdfunding]({{site.baseurl}}/images/img_pretail_kickstarter.jpg)
 *Source: [Statista](https://www.statista.com/chart/1962/kickstarter-pledges-by-country/)*

@@ -116,10 +116,10 @@ More importantly, Cadbury might have already planned to make this chocolate flav
 1. Cause a short-term sales surge
 1. Cause a brand uplift (either short or long-term)
 
-In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below.
+In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below. (Note: Refresh page to restart animation)
 
 ![precommerce product life cycle]({{site.baseurl}}/images/img_pretail_PreCommGraph5.gif)
-*How pre-commerce affects sales and profits compared with traditional commerce (Refresh page to restart animation)*
+*How pre-commerce affects sales and profits compared with traditional commerce*
 
 # How pre-commerce lets you get ahead of competition
 

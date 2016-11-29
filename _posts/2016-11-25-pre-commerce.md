@@ -29,7 +29,7 @@ Based on true events: I remember pouring heavy capital from my “cash cow” in
 
 I remember trying to reap the first mover advantage for my company so much that I was determined to outspend my competitors on R&D (and get that info by purchasing market intelligence).
 
-Launch week: everything seemed to go according to my predictions until one competitor figured out the formulas of the whole system and basically took over the “game” (Think cheat codes for The Sims).
+Launch week: everything seemed to go according to my predictions until one competitor figured out the formulas of the whole system and basically took over the “game”.
 
 ***
 

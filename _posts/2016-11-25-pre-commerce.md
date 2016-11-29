@@ -25,7 +25,7 @@ short-link: 'https://goo.gl/8j67CE'
 hero-banner: /images/Blog_header_pretail.png
 image: /images/img_pretail_thumb.png
 ---
-Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
+I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 
 I remember trying to reap the first mover advantage for my company so much that I was determined to outspend my competitors on R&D (and get that info by purchasing market intelligence).
 

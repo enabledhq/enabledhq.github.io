@@ -119,7 +119,7 @@ More importantly, Cadbury might have already planned to make this chocolate flav
 In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below.
 
 ![precommerce product life cycle]({{site.baseurl}}/images/img_pretail_PreCommGraph5.gif)
-*How pre-commerce affects sales & profits*
+*How pre-commerce affects sales and profits compared with traditional commerce*
 
 # How pre-commerce lets you get ahead of competition
 

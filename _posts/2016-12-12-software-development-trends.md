@@ -3,6 +3,10 @@ layout: post
 date: '2016-12-12 12:47 +1030'
 published: false
 title: 'Q & A: Software development trends and collaboration'
+author: dylan
+main-category: technology
+categories:
+  - technology
 ---
 I managed to “ambush” our CTO and collected his thoughts on some of the most pressing issues in software development. There’s a lot going on beneath and between the lines of codes you see on screen. As someone with a non-tech background, I got to hear stories from the other side, which is important for anyone wishing to boost collaboration. 
 

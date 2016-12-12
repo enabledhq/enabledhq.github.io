@@ -74,16 +74,23 @@ The containerization of web services. Docker, one such option for [containerizat
 ![software development docker adoption]({{site.baseurl}}/images/img_qasoftware_docker.png)
 *Source: [Datadog](https://www.datadoghq.com/docker-adoption/)*
 
-Also, [Windows Server](https://www.docker.com/microsoft) now supports it, and all cloud services (including Amazon’s AWS, Microsoft Azure) have hosted Docker solutions. This signals much more software development will be deployed through Docker.
+Moreover, [Windows Server](https://www.docker.com/microsoft) now supports it, and all cloud services (including Amazon’s AWS, Microsoft Azure) have hosted Docker solutions. This signals much more software development will be deployed through Docker.
 
 Enabled builds all of its web software on Docker, which has greatly improved the quality and time to market of products for our clients.
 
-## How will it impact product development best practices at our company?
+Also interesting is the move to microservices - “an approach to building software that shifts away from large monolithic applications toward small, loosely coupled and composable autonomous pieces.” 
+
+Essentially, this helps increase the productivity of software developers, while decreasing the time-to-market for clients. With container technologies (like Docker) becoming more prominent, microservices has started to make practical sense for more companies. 
+
+![microservices tools docker]({{site.baseurl}}/images/img_qasoftware_microservices.png)
+*Tools to ease transition towards microservices. Source: [TechCrunch](https://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/)*
+
+## How will these impact product development best practices at our company?
  
 Containerization will allow us to create reproducible environments that can be hosted on any cloud service that our clients need, allowing us to be more agile and help our clients by producing quality services to the timeframes they desire. 
 
 Docker lets us use the same productive toolchain for single host deployments through to large scale cloud services.
  
-_*This article is edited based on the insights from our CTO Dylan Sale._
+_*This article is edited based on the insights from our CTO Dylan Sale. Follow him on [Twitter](https://twitter.com/dylansale)_
 
 

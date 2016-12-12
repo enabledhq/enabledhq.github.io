@@ -91,6 +91,8 @@ Containerization will allow us to create reproducible environments that can be h
 
 Docker lets us use the same productive toolchain for single host deployments through to large scale cloud services.
  
+Microservices present appealing benefits, especially when you think about how Amazon, Netflix, Dropbox and so on have cut development lead times by as much as 75%. We surely are going to watch the space and work with our clients to see if there’s a potential use case for microservices. 
+
 _*This article is edited based on the insights from our CTO Dylan Sale. Follow him on [Twitter](https://twitter.com/dylansale)_
 
 

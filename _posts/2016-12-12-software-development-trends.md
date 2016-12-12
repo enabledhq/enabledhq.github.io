@@ -6,7 +6,6 @@ title: 'Q & A: Software development trends and collaboration'
 ---
 I managed to “ambush” our CTO and collected his thoughts on some of the most pressing issues in software development. There’s a lot going on beneath and between the lines of codes you see on screen. As someone with a non-tech background, I got to hear stories from the other side, which is important for anyone wishing to boost collaboration. 
 
-
 Before we dive in, here’s some background information about Dylan. Overseeing our projects, he acts as a bridge between the technical and business side of things. And have I mentioned that he started learning about programming at the age of eight?
 
 # 1. Bridging the Gap Between Software Developers and Project Managers
@@ -15,10 +14,11 @@ Before we dive in, here’s some background information about Dylan. Overseeing 
  
 Software developers need to understand the business context of the software they are building to produce the best solution to a problem. 
 
-
 There are many constraints on software: human, technology, business factors. Sometimes the best technical solution is warranted, but other times a less technically correct, but still functional solution produces the best outcome.
  
 Alternatively, from a Manager’s perspective, it is good to understand exactly what you are asking of your developers to be able to get the best out of them, but still fulfil the demands of the business.
+
+_Check out our blog post on how to choose [good software developers](http://blog.enabled.com.au/hiring-devs-dos-donts/) for long-term partnership here_
  
 ## What are some challenges that exist between software developers and project managers?  
 
@@ -29,7 +29,7 @@ How would these challenges impact an organisation?
  
 The difference in focus between developers and managers can cause friction and an overall loss of morale among software developers or distrust from managers. As soon as there’s a communication breakdown, micromanagement would kick in. 
 
-Ultimately, productivity is affected and the outcomes decline in quality, leading to an environment of increased process and the driving away of talented developers.
+Ultimately, productivity is affected and the outcomes decline in quality, leading to an environment of increased process and the driving away of [talented developers](http://blog.enabled.com.au/hiring-devs-dos-donts/).
  
 ## What advice do you have for simple changes that engineers can make in their communication/collaboration styles? What about Project Managers?
  
@@ -38,7 +38,9 @@ Engineers and Developers should be aware that sometimes technical debt is a good
 Creating software quickly with a little bit of likely debt means you test the waters and find areas where the business can succeed. Just like the financial kind, technical debt needs to be paid off over time. Otherwise, it can compound and take the whole software solution (and business in many cases) down. 
 
 Talking about it, and making sure that everyone is aware of the debt being taken on - is a great way for people to understand that sometimes a lower quality solution that gets to market on time is better than one that is perfect but late.
- 
+
+> Sometimes the best technical solution is warranted, but other times a less technically correct, but still functional solution produces the best outcome. 
+
 Managers can help this process by giving the software developers information about:
 
 - Context of the business including the opportunities and limits

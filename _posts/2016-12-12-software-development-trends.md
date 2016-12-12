@@ -80,6 +80,6 @@ Containerization will allow us to create reproducible environments that can be h
 
 Docker lets us use the same productive toolchain for single host deployments through to large scale cloud services.
  
- 
+
 
 

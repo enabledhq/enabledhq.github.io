@@ -7,6 +7,7 @@ author: linh
 main-category: technology
 categories:
   - technology
+hero-banner: /images/Blog_header_qasoftware.png
 ---
 I managed to “ambush” our CTO and collected his thoughts on some of the most pressing issues in software development. There’s a lot going on beneath and between the lines of codes you see on screen. As someone with a non-tech background, I got to hear stories from the other side, which is important for anyone wishing to boost collaboration. 
 

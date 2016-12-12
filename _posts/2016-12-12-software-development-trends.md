@@ -3,7 +3,7 @@ layout: post
 date: '2016-12-12 12:47 +1030'
 published: false
 title: 'Q & A: Software development trends and collaboration'
-author: dylan
+author: linh
 main-category: technology
 categories:
   - technology
@@ -84,6 +84,6 @@ Containerization will allow us to create reproducible environments that can be h
 
 Docker lets us use the same productive toolchain for single host deployments through to large scale cloud services.
  
-
+_*This article is edited based on the insights from our CTO Dylan Sale._
 
 

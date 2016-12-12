@@ -8,6 +8,7 @@ main-category: technology
 categories:
   - technology
 hero-banner: /images/Blog_header_qasoftware.png
+image: /images/img_qasoftware_thumb.png
 ---
 I managed to “ambush” our CTO and collected his thoughts on some of the most pressing issues in software development. There’s a lot going on beneath and between the lines of codes you see on screen. As someone with a non-tech background, I got to hear stories from the other side, which is important for anyone wishing to boost collaboration. 
 
@@ -92,7 +93,9 @@ Containerization will allow us to create reproducible environments that can be h
 
 Docker lets us use the same productive toolchain for single host deployments through to large scale cloud services.
  
-Microservices present appealing benefits, especially when you think about how Amazon, Netflix, Dropbox and so on have cut development lead times by as much as 75%. We surely are going to watch the space and work with our clients to see if there’s a potential use case for microservices. 
+Microservices present appealing benefits, especially when you think about how Amazon, Netflix, Dropbox and so on have cut development lead times by as much as 75%. 
+
+We surely are going to watch the space and work with our clients to help the transition to microservices if applicable.  
 
 _*This article is edited based on the insights from our CTO Dylan Sale. Follow him on [Twitter](https://twitter.com/dylansale)_
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-12-12 12:47 +1030'
-published: false
+published: true
 title: 'Q & A: Software development trends and collaboration'
 author: linh
 main-category: technology

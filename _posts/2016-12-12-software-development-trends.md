@@ -12,7 +12,17 @@ image: /images/img_qasoftware_thumb.png
 meta-keywords: >-
   software development, software, software projects, project management,
   microservices, docker, containerization, software development trends, software
-  developers, project manager, technical debt
+  developers, project manager, technical debt, enterprise software, bottom up
+  innovation
+excerpt: >-
+  Our CTO’s thoughts on software development trends & pressing issues in project
+  management. There’s a lot going on beneath the lines of codes on screen.
+meta-description: >-
+  Our CTO’s thoughts on software development trends & pressing issues in project
+  management. There’s a lot going on beneath the lines of codes on screen.
+description: >-
+  Our CTO’s thoughts on software development trends & pressing issues in project
+  management. There’s a lot going on beneath the lines of codes on screen.
 ---
 I managed to “ambush” our CTO and collected his thoughts on some of the most pressing issues in software development. There’s a lot going on beneath and between the lines of codes you see on screen. As someone with a non-tech background, I got to hear stories from the other side, which is important for anyone wishing to boost collaboration. 
 
@@ -24,7 +34,7 @@ Before we dive in, here’s some background information about Dylan. Overseeing 
  
 Software developers need to understand the business context of the software they are building to produce the best solution to a problem. 
 
-There are many constraints on software: human, technology, business factors. Sometimes the best technical solution is warranted, but other times a less technically correct, but still functional solution produces the best outcome.
+There are many constraints on enterprise software: human, technology, business factors. Sometimes the best technical solution is warranted, but other times a less technically correct, but still functional solution produces the best outcome.
  
 Alternatively, from a Manager’s perspective, it is good to understand exactly what you are asking of your developers to be able to get the best out of them, but still fulfil the demands of the business.
 

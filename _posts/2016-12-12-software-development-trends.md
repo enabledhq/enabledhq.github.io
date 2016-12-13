@@ -37,7 +37,7 @@ Software developers need to understand the business context of the software they
 
 There are many constraints on enterprise software: human, technology, business factors. Sometimes the best technical solution is warranted, but other times a less technically correct, but still functional solution produces the best outcome.
  
-Alternatively, from a Manager’s perspective, it is good to understand exactly what you are asking of your developers to be able to get the best out of them, but still fulfil the demands of the business.
+Alternatively, from a Manager’s perspective, it is good to understand exactly what you are asking of your developers to be able to get the best out of them, but still fulfill the demands of the business.
 
 _Check out our blog post on how to choose [good software developers](http://blog.enabled.com.au/hiring-devs-dos-donts/) for long-term partnership here_
  
@@ -46,7 +46,8 @@ _Check out our blog post on how to choose [good software developers](http://blog
 Software developers tend to focus on building the best technical solutions and minimising technical debt in the systems they develop and maintain. This ensures that the future risk to the project is minimised and gives them a sense of pride over what they have accomplished. 
 
 Managers on the other hand, generally have to ensure that the needs of the business are being met in an effective and efficient way. 
-How would these challenges impact an organisation? 
+
+## How would these challenges impact an organisation? 
  
 The difference in focus between developers and managers can cause friction and an overall loss of morale among software developers or distrust from managers. As soon as there’s a communication breakdown, micromanagement would kick in. 
 
@@ -84,7 +85,7 @@ Personally, I think that if you want to attract talented individuals, having a l
  
 # 2.The Biggest Software Development Trends in 2017 and Beyond
  
-## What will be the biggest software development trends in 2017? Why is it important?
+## What will be the biggest software development trends in 2017? Why are they important?
  
 The containerization of web services and the continuing move to microservices. 
 
@@ -108,7 +109,7 @@ Essentially, this technology helps increase the productivity of software develop
 
 ## How will these impact product development best practices at our company?
  
-Containerization will allow us to create reproducible environments that can be installed on any hosting. This allows us to be more agile and produce a quality product within desired timeframes. 
+Containerization will allow us to create reproducible environments that can be installed on any hosting. This allows us to be more agile and produce a quality product within desired time frames. 
 
 Docker also lets us use the same productive toolchain on small single hosting solutions right through to large scaleable cloud services like AWS and Azure.
  

@@ -15,15 +15,15 @@ meta-keywords: >-
   agile development
 description: >-
   Finding good software and app developers is hard, building long-term
-  relationships with them is even harder. Here’s how to get in right from the
+  relationships with them is even harder. Here’s how to get it right from the
   start.
 meta-description: >-
   Finding good software and app developers is hard, building long-term
-  relationships with them is even harder. Here’s how to get in right from the
+  relationships with them is even harder. Here’s how to get it right from the
   start.
 excerpt: >-
   Finding good software and app developers is hard, building long-term
-  relationships with them is even harder. Here’s how to get in right from the
+  relationships with them is even harder. Here’s how to get it right from the
   start.
 ---
 Technology projects can be daunting. The complexity, the unexpected issues, and if you’re unlucky, cost overruns. It might be tempting to blame technology - something that is intangible and difficult to explain. But it starts, and ends with people.

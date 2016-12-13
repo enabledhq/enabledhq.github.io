@@ -1,20 +1,35 @@
 ---
 layout: post
-date: '2016-11-24 17:26 +1030'
-title: 'Why You Should Care About Pre-Commerce Now'
-published: false
+date: '2016-11-25 17:26 +1030'
+title: Why You Should Care About Pre-Commerce Now
+published: true
 author: linh
 main-category: entrepreneurship
 categories:
   - innovation
   - entrepreneurship
 excerpt: >-
-  add same text as description
+  Tesla’s Model 3 pre-orders have proved the power of pre-commerce in the
+  product development process. How is it different from traditional commerce?
+meta-keywords: >-
+  Precommerce, pretail, crowdfunding, crowdsourcing, what is precommerce, what
+  is pretail, precommerce definition, social commerce, product development,
+  product development process, new product development process
+description: >-
+  Tesla’s Model 3 pre-orders have proved the power of pre-commerce in the
+  product development process. How is it different from traditional commerce?
+meta-description: >-
+  Tesla’s Model 3 pre-orders have proved the power of pre-commerce in the
+  product development process. How is it different from traditional commerce?
+short-link: 'https://goo.gl/8j67CE'
+hero-banner: /images/Blog_header_pretail.png
+image: /images/img_pretail_thumb.png
 ---
-Based on true events: I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
+I remember pouring heavy capital from my “cash cow” into R&D for a new product in a new category. I remember the thrill and anxiety of launching into an unknown territory without much market information about consumer preferences, segments etc.
 
 I remember trying to reap the first mover advantage for my company so much that I was determined to outspend my competitors on R&D (and get that info by purchasing market intelligence).
-Launch week: everything seemed to go according to my predictions until one competitor figured out the formulas of the whole system and basically took over the “game” (Think cheat codes for The Sims).
+
+Launch week: everything seemed to go according to my predictions until one competitor figured out the formulas of the whole system and basically took over the “game”.
 
 ***
 
@@ -32,10 +47,12 @@ Now, technical limitations aside, recent trends in commerce has prompted me to t
 Pre-commerce is a product development method which allows new product **ideas/prototypes** to be mass produced **only** when they have reached an **initial threshold of buy-in** from investors/consumers.
 
 Essentially, pre-commerce: 
+
 - Taps into upfront investments from consumers, either in terms of capital or expertise
 - Applies to products not yet at the mass production stage
 
 Quick examples:
+
 - Tesla’s model 3 pre-order
 - VR gaming headset Oculus Rift funded through Kickstarter
 - Other examples shown in the graph below
@@ -45,17 +62,21 @@ Quick examples:
 
 # How it could have played out for me
 
-Back to my Markstrat adventure, I could have organised a campaign around my new product on a Kickstarter-ish platform. Instead of worrying about what my competitors were doing, I could have focused on building a community of early supporters, collecting feedback and fine-tuning my new product to best match their needs. 
+Back to my Markstrat adventure, I could have organised a campaign around my new product on a Kickstarter-ish platform. 
+
+Instead of worrying about what my competitors were doing, I could have focused on building a community of early supporters, collecting feedback and fine-tuning my new product to best match their needs. 
 
 Now my competitor could also have copied my move. But they wouldn’t have been the first-to-market. Potential simulation scenarios for this imaginary Markstrat feature:
 
-- My campaign reached 34% of buy-in first - the [tipping point](https://a16z.com/2016/09/17/beyond-crowdfunding/) which improved my success rate to 99%. First mover advantage: check.
-- My competitor’s campaign reached 34% first. To compete, I would need to either amplify my communications, leapfrog their technology, or go niche. Fast follower: maybe.
-- No campaign reached 34%. Re-evaluation in order: technology might be too new and takes time to get used to; latent demand; plus other things mentioned in the second bullet point.
+- **My campaign** reached 34% of buy-in first - the [tipping point](https://a16z.com/2016/09/17/beyond-crowdfunding/) which improved my success rate to 99%. First mover advantage: check.
+- **My competitor’s campaign** reached 34% first. To compete, I would need to either amplify my communications, leapfrog their technology, or go niche. Fast follower: maybe.
+- **No campaign** reached 34%. Re-evaluation in order: technology might be too new and takes time to get used to; latent demand; plus other things mentioned in the second bullet point.
 
 We’re not here to discuss feature improvements for Markstrat, but what pre-commerce is and its potential.
 
 However, if you wait till the concept is established enough to be included in textbooks, or a simulation game, you might have already missed the boat. 
+
+> Pre-commerce allows new product ideas/prototypes to be mass produced only when they have reached an initial threshold of buy-in from investors/consumers.
 
 # How pre-commerce is different from other forms of commerce
 
@@ -72,21 +93,22 @@ This is odd, because [social commerce](https://www.yotpo.com/blog/the-4-most-pow
 
 _Also, check out this list of [social commerce definitions](http://heidicohen.com/what-is-social-commerc/) for your reference._
 
-It’s more accurate and even beneficial to make pre-commerce a category of its own because it involves more than just the selling mechanisms.
+It’s more accurate, and even beneficial, to make pre-commerce a category of its own because it involves more than just the selling mechanisms.
 
-Pre-commerce touches other areas of the business, from product innovation (concept, ideation), supply chain management, to marketing and sales.
+Pre-commerce touches other areas of the business, from product innovation (concept & ideation), supply chain management, to marketing and sales.
 
+![social commerce precommerce]({{site.baseurl}}/images/img_pretail_socialcommerce.png)
 *Differences between the two*
 
 ## Does it work like a Marketing stunt?
-While most campaigns on platforms like Kickstarter employ social media to trigger the viral effect, pre-commerce is not a short-term, quick-win kind of tactic.
+While most campaigns on platforms like Kickstarter employ social media to trigger the viral effect, pre-commerce is **not** a short-term, quick-win kind of tactic.
 
 Remember Cadbury’s vegemite chocolate? While the whole campaign had some pre-commerce flavours (as the vegemite chocolate actually got manufactured), it was mostly a “[marketing thing](http://www.adnews.com.au/news/vegemite-flavoured-chocolate-is-a-thing-a-marketing-thing).”
 
 ![cadbury chocpluswhat]({{site.baseurl}}/images/img_pretail_cadbury.png)
 *A tweet from Cadbury back in 2015 to promote their campaign*
 
-Why? Because unless those people who joined the social media conversation around hashtag #ChocPlusWhat put in $2 to get the vegemite chocolate first when it came out, they were only giving Cadbury their two cents on the matter.
+Why? Because unless those people who joined the social media conversation around hashtag **#ChocPlusWhat** put in $2 to get the vegemite chocolate first when it came out, they were only giving Cadbury their two cents on the matter.
 
 More importantly, Cadbury might have already planned to make this chocolate flavour and the campaign’s purposes were to:
 
@@ -94,8 +116,14 @@ More importantly, Cadbury might have already planned to make this chocolate flav
 1. Cause a short-term sales surge
 1. Cause a brand uplift (either short or long-term)
 
-In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below.
- 
+In a marketing sense, pre-commerce shares purpose #1 and #3. But the underlying thinking is to jump in before the traditional product life cycle kicks in, as shown below. (Note: Refresh page to restart animation)
+
+![precommerce product life cycle]({{site.baseurl}}/images/img_pretail_PreCommGraph5.gif)
+*How pre-commerce affects sales and profits compared with traditional commerce*
+
+# How pre-commerce lets you get ahead of competition
+
+It is a powerful product development engine, fueled by evolutions in **consumer** preferences for **innovative** products and community engagement; as well as **lower entry barriers** for new product development.
 
 ## Consumer preferences evolution
 
@@ -105,15 +133,18 @@ Pre-commerce does it by:
 
 - “Providing a [sense of belonging](http://trendwatching.com/trends/presumers/) that goes beyond the thrill of possession.” Think about how crowdfunding or community-led invention platforms (e.g. [Quirky](http://www.quirky.com/))  make consumers feel they’re part of a community/movement.
 - Injecting status into the buying experience, focusing on messages like “the newest,” “the first,” “I help launch it.”
-- Tapping on the increasing demand for new trends and novel products. Studies have shown how [novelty](https://www.eurekalert.org/pub_releases/2006-08/cp-pns072706.php) “motivates the brain to explore, seeking a reward.”
+- Tapping the increasing demand for new trends and novel products. Studies have shown how [novelty](https://www.eurekalert.org/pub_releases/2006-08/cp-pns072706.php) “motivates the brain to explore, seeking a reward.”
+
+![kickstarter stats crowdfunding]({{site.baseurl}}/images/img_pretail_kickstarter.jpg)
+*Source: [Statista](https://www.statista.com/chart/1962/kickstarter-pledges-by-country/)*
 
 ## Market evaluation tool
 
 [Pre-commerce](https://www.fastcoexist.com/1681686/the-rise-of-pre-commerce) allows innovators to test their product-market fit with a Minimum Viable Product (MVP) equivalent. Since consumers would only back projects they like, it helps makers accelerate innovation, ditch waste and tweak offerings along the way.
 
-Depends on the sources you read, the failure rates of new products (not launched through crowdfunding) range from 40-80%. For crowdfunding, those rates range from 40-90%.
+Depends on the sources you read, the failure rates of new products (not launched through crowdfunding) range from **40-80%**. For crowdfunding, those rates range from **40-90%**.
 
-On the surface, you may think it indicates similar chances of success but the risks could be reduced with pre-commerce. Would you rather pour millions into a product to learn a lesson, or one-hundredth of that amount?
+On the surface, you may think it indicates similar chances of success but the risks could be reduced with pre-commerce. Would you rather pour **millions** into a product to learn a lesson, or one-hundredth of that amount?
 
 Examples of failed launches involving big money: Coca-Cola C2, Pepsi Blue, Colgate Simply White.
 
@@ -123,7 +154,7 @@ Recent changes in technology have helped bring down product development costs, l
 
 Moreover, by being able to gauge demand before mass production allows for more accurate financial forecasting and less inventory risk.
 
-Innovators don’t need to deploy a business model purely based on pre-commerce to reap this benefit. For instance, Moda Operandi, a pre-tail fashion start-up, combines [pre-commerce](https://www.businessoffashion.com/articles/intelligence/moda-operandi-raises-36-million-expands-from-pre-commerce-to-e-commerce) with e-commerce. The core business is about letting women pre-order fashion pieces straight off the runway via limited time online sales.
+Innovators don’t need to deploy a business model purely based on pre-commerce to reap this benefit. For instance, **Moda Operandi**, a pre-tail fashion start-up, combines [pre-commerce](https://www.businessoffashion.com/articles/intelligence/moda-operandi-raises-36-million-expands-from-pre-commerce-to-e-commerce) with e-commerce. The core business is about letting women pre-order fashion pieces straight off the runway via limited time online sales.
 
 ![pretail moda operandi]({{site.baseurl}}/images/img_pretail_moda.png)
 *Source: [Moda Operandi](https://www.modaoperandi.com/trunkshows)*
@@ -140,6 +171,8 @@ Pre-commerce enables a [direct-to-consumer](http://www.mediapost.com/publication
 - **Product efficiency**: presenting MVPs and
 getting direct feedback from potential customers fosters innovation and eliminates guesswork.
 
+> What separates your brand and company from a world of innovative independent designers is only a semi-permeable membrane.
+
 # The fascinating case of Tesla
 
 Recently, Tesla has caused a stir with their Model 3’s pre-order number nearing 400,000. The graph below shows that just one day after the official unveil event, Model 3 pre-orders already outnumbered Tesla’s previous model deliveries. 
@@ -155,23 +188,23 @@ Tesla was finally able to report its first [net quarterly profit](http://www.reu
 
 ## How pre-commerce ticks all the boxes for Tesla
 
-- Experience of being part of the Early Adopters group
+- _Experience of being part of the Early Adopters group_
 
 In Australia, people lined up to pre-order [Model 3](http://www.gizmodo.com.au/2016/03/heres-the-aussie-queue-for-teslas-model-3/) “despite not knowing what it will look like, how it'll drive, or even how much it'll cost.” They might even have to wait longer as the left-driving countries will get the car first. This goes to show experience trumps physical goods. 
 
-- Testing the market before heavy R&D / manufacturing
+- _Testing the market before heavy R&D / manufacturing_
 
 Clearly a lower end model has lured in more consumers from the “[entry-level luxury](http://www.afr.com/technology/teslas-model-3-set-to-conquer-lowend-luxury-20160322-gnoxwj)” segment as they have shown explicit interest by giving Tesla money in advance. 
 
-- New source of financing the enterprise
+- _New source of financing the enterprise_
 
 No new capital required after around 6 months of taking pre-orders.
 
-- Matching the demand expected, not under or over-supplying 
+- _Matching the demand expected, not under or over-supplying_ 
 
 With information about the high demand, Tesla has put together plans to ramp up production capacity.
 
-- Locking advantage over competitors
+- _Locking advantage over competitors_
 
 Being the pioneer in the electric vehicle category, Tesla has managed to dominate the [large luxury car](http://www.bloomberg.com/news/features/2016-03-22/how-tesla-model-3-can-complete-its-take-over-of-the-u-s-luxury-market) market, which includes non-electric vehicles. Now who says they’re not on track to do the same in the small luxury market? 
 
@@ -185,7 +218,7 @@ There is a fear, especially among large corporations, that pre-commerce would re
 
 A potential scenario is when information about new [product development](http://qz.com/771727/chinas-factories-in-shenzhen-can-copy-products-at-breakneck-speed-and-its-time-for-the-rest-of-the-world-to-get-over-it/) is leaked, which gives fast followers time to get their product to market right behind yours. 
 
-Pre-commerce actually works out better for established brands in this case. If your idea/prototype is already out in the marketplace, supporters will defend your company against copycats. Why?
+Pre-commerce actually works out **better** for established brands in this case. If your idea/prototype is already out in the marketplace, supporters will defend your company against copycats. Why?
 
 - They’re paying for the experience rather than the physical goods. This goes back to the experiential buying trend.
 - You already have a brand name and an engaged fan club (look at Tesla). 
@@ -196,3 +229,5 @@ Social media, direct-to-consumer platforms, business model innovations etc. have
 In fact, some forward-looking incumbents have already accepted the fact that “it’s better to own a bit of a disrupting startup than be the prey of a new business model from an unknown competitor.” This is captured during Enabled’s recent trip to Lisbon to attend the [Web Summit](http://blog.enabled.com.au/web-summit-2016/). 
 
 Remember: “What separates your brand and company from a world of [innovative](https://www.fastcoexist.com/1681686/the-rise-of-pre-commerce) independent designers is only a semi-permeable membrane.”
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tzuEnU36Fs2XMx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EnabledSolutions/why-you-should-care-about-precommerce-now" title="Why You Should Care About Pre-Commerce Now" target="_blank">Why You Should Care About Pre-Commerce Now</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/EnabledSolutions">Enabled </a></strong> </div>

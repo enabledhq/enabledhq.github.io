@@ -55,7 +55,7 @@ Managers can help this process by giving the software developers information abo
 By bringing them into the decision making process, managers can help developers internalise the need for compromise when required. Ultimately, trusting your team is a major component of creating a productive environment for developers.
  
 When failures of communication occur, managers should ask themselves: 
-**What context or information they could have provided that would have made it obvious to the developers that they were not going in the right direction from the outset.**
+"What context or information could I have provided that would have made it obvious to the developers that they were not going in the right direction from the outset?"
  
 ## What tips do you have for bridging gaps, and how have they helped collaboration at our company?
  
@@ -82,21 +82,34 @@ Enabled builds all of its web software on Docker, which has greatly improved the
 
 Also interesting is the move to microservices - “an approach to building software that shifts away from large monolithic applications toward small, loosely coupled and composable autonomous pieces.” 
 
-Essentially, this helps increase the productivity of software developers, while decreasing the time-to-market for clients. With container technologies (like Docker) becoming more prominent, microservices has started to make practical sense for more companies. 
+Think of microservices like specialised building blocks which can be assembled to do a great number of things.
+
+Essentially, this technology helps increase the productivity of software developers, while decreasing the time-to-market for clients. With container technologies (like Docker) becoming more prominent, microservices have started to make practical sense for more companies. 
 
 ![microservices tools docker]({{site.baseurl}}/images/img_qasoftware_microservices.png)
 *Tools to ease transition towards microservices. Source: [TechCrunch](https://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/)*
 
 ## How will these impact product development best practices at our company?
  
-Containerization will allow us to create reproducible environments that can be hosted on any cloud service that our clients need, allowing us to be more agile and help our clients by producing quality services to the timeframes they desire. 
+Containerization will allow us to create reproducible environments that can be installed on any hosting. This allows us to be more agile and produce a quality product within desired timeframes. 
 
-Docker lets us use the same productive toolchain for single host deployments through to large scale cloud services.
+Docker also lets us use the same productive toolchain on small single hosting solutions right through to large scaleable cloud services like AWS and Azure.
  
-Microservices present appealing benefits, especially when you think about how Amazon, Netflix, Dropbox and so on have cut development lead times by as much as 75%. 
+Microservices present appealing benefits when contrasted with legacy monolithic software packages. The latter generally claim to do all things but in reality, don’t excel in any. These monolithic packages also amass control making it difficult to extend functions or integrate with other software. 
 
-We surely are going to watch the space and work with our clients to help the transition to microservices if applicable.  
+![microservices SOA comparison]({{site.baseurl}}/images/img_qasoftware_SOA.png)
+Contrasting traditional approach with microservice. Source: [TechCrunch](https://techcrunch.com/2016/09/11/why-app-development-is-going-micro/)
 
-_*This article is edited based on the insights from our CTO Dylan Sale. Follow him on [Twitter](https://twitter.com/dylansale)_
+In contrast, microservices do one thing very well, and start with the assertion that they need to work well with other services to be useful at all. 
+
+Also, if a better microservice becomes available, it is simpler to swap the older one out. The same updating task would take much longer with a package like [Magento](http://www.techrepublic.com/article/how-one-e-commerce-giant-uses-microservices-and-open-source-to-scale-like-crazy/), as you “couldn't update anything without updating everything.”
+
+As an example, Amazon, Netflix and Dropbox, to name a few, all claim to have cut development lead times by as much as 75% through a microservice approach.
+
+We surely are going to watch the space and work with our clients to help the transition to microservices. 
+
+
+
+_*This article has been edited based on the insights from our CTO Dylan Sale. Follow him on [Twitter](https://twitter.com/dylansale)_
 
 

@@ -57,7 +57,7 @@ Ultimately, productivity is affected and the outcomes decline in quality, leadin
  
 Engineers and Developers should be aware that sometimes technical debt is a good thing - just like financial debt, which can be leveraged. 
 
-Creating software quickly with a little bit of likely debt means you test the waters and find areas where the business can succeed. Just like the financial kind, technical debt needs to be paid off over time. Otherwise, it can compound and take the whole software solution (and business in many cases) down. 
+Creating software quickly with a little bit of likely debt means you test the waters and find areas where the business can succeed. Just like the financial kind, technical debt **needs to be paid off** over time. Otherwise, it can compound and take the whole software solution (and business in many cases) down. 
 
 Talking about it, and making sure that everyone is aware of the debt being taken on - is a great way for people to understand that sometimes a lower quality solution that gets to market on time is better than one that is perfect but late.
 

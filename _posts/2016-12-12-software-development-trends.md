@@ -109,7 +109,7 @@ Essentially, this technology helps increase the productivity of software develop
 
 ## How will these impact product development best practices at our company?
  
-Containerization will allow us to create reproducible environments that can be installed on any hosting. This allows us to be more agile and produce a quality product within desired timeframes. 
+Containerization will allow us to create reproducible environments that can be installed on any hosting. This allows us to be more agile and produce a quality product within desired time frames. 
 
 Docker also lets us use the same productive toolchain on small single hosting solutions right through to large scaleable cloud services like AWS and Azure.
  

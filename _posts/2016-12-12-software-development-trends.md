@@ -85,7 +85,7 @@ Personally, I think that if you want to attract talented individuals, having a l
  
 # 2.The Biggest Software Development Trends in 2017 and Beyond
  
-## What will be the biggest software development trends in 2017? Why is it important?
+## What will be the biggest software development trends in 2017? Why are they important?
  
 The containerization of web services and the continuing move to microservices. 
 

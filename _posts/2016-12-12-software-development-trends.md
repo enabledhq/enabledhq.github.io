@@ -97,7 +97,7 @@ Moreover, [Windows Server](https://www.docker.com/microsoft) now supports it, an
 
 Enabled builds all of its web software on Docker, which has greatly improved the quality and time to market of products for our clients.
 
-Also interesting is the move to microservices - “an approach to building software that shifts away from large monolithic applications toward small, loosely coupled and composable autonomous pieces.” 
+Also interesting is the move to [microservices](https://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/) - “an approach to building software that shifts away from large monolithic applications toward small, loosely coupled and composable autonomous pieces.” 
 
 Think of microservices like specialised building blocks which can be assembled to do a great number of things.
 

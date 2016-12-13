@@ -23,6 +23,7 @@ meta-description: >-
 description: >-
   Our CTO’s thoughts on software development trends & pressing issues in project
   management. There’s a lot going on beneath the lines of codes on screen.
+short-link: 'https://goo.gl/YeXRrR'
 ---
 I managed to “ambush” our CTO and collected his thoughts on some of the most pressing issues in software development. There’s a lot going on beneath and between the lines of codes you see on screen. As someone with a non-tech background, I got to hear stories from the other side, which is important for anyone wishing to boost collaboration. 
 
@@ -121,7 +122,6 @@ Also, if a better microservice becomes available, it is simpler to swap the olde
 As an example, Amazon, Netflix and Dropbox, to name a few, all claim to have cut development lead times by as much as 75% through a microservice approach.
 
 We surely are going to watch the space and work with our clients to help the transition to microservices. 
-
 
 
 _*This article has been edited based on the insights from our CTO Dylan Sale. Follow him on [Twitter](https://twitter.com/dylansale)_

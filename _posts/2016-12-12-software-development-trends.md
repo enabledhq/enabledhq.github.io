@@ -115,7 +115,7 @@ Docker also lets us use the same productive toolchain on small single hosting so
 Microservices present appealing benefits when contrasted with legacy monolithic software packages. The latter generally claim to do all things but in reality, don’t excel in any. These monolithic packages also amass control making it difficult to extend functions or integrate with other software. 
 
 ![microservices SOA comparison]({{site.baseurl}}/images/img_qasoftware_SOA.png)
-Contrasting traditional approach with microservice. Source: [TechCrunch](https://techcrunch.com/2016/09/11/why-app-development-is-going-micro/)
+*Contrasting traditional approach with microservice. Source: [TechCrunch](https://techcrunch.com/2016/09/11/why-app-development-is-going-micro/)*
 
 In contrast, microservices do one thing very well, and start with the assertion that they need to work well with other services to be useful at all. 
 

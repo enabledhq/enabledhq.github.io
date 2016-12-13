@@ -53,6 +53,8 @@ The difference in focus between developers and managers can cause friction and a
 
 Ultimately, productivity is affected and the outcomes decline in quality, leading to an environment of increased process and the driving away of [talented developers](http://blog.enabled.com.au/hiring-devs-dos-donts/).
  
+> If you want to attract talented individuals, having a lot of restrictive processes won’t help.
+
 ## What advice do you have for simple changes that engineers can make in their communication/collaboration styles? What about Project Managers?
  
 Engineers and Developers should be aware that sometimes technical debt is a good thing - just like financial debt, which can be leveraged. 

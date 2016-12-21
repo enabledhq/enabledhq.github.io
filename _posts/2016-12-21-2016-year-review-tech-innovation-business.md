@@ -1,0 +1,144 @@
+---
+layout: post
+date: '2016-12-21 15:58 +1030'
+published: false
+title: '2016 Year Review - Tech, Innovation & Business'
+---
+We’re fast approaching the end of another interesting year. Despite the gloomy Year in Review released recently by Facebook, we’re optimistic that advances in technology are for the better. 
+Let’s look back at the top 10 talked about topics in the technology/business space. 
+1. Internet of Things 
+Wearables
+Technology surely is permeating more aspects of our lives, including our own body. Researchers have developed on-skin interfaces, such as this ring-watch combo that sees skin as an extension of a smartwatch interface. 
+
+
+Source: The Verge 
+What about tech that’s already in the mass market? Apple AirPods have laid a foundation for the next era of computing - voice computing. You just have to keep them in your ears. 
+
+Source: IB Times 
+Another thing that interfaces with your body is clothing. Enter the Internet-connected jacket that acts as a VIP pass to events and unlocks gifts at certain locations.  
+
+Source: Rochambeau
+Smart home tech 
+The tech giants all want a piece of this pie. Google launched Home in November, Apple’s iOS 10 has Home built in. But Amazon’s Alexa-enabled Echo is hailed as the leader so far, with voice-activated “skills” that form a massive library of 5,000+. 
+
+
+This year we’ve helped launch the world's first fully automated beer brewing system called BrewArt. 
+
+2. So Many Realities 
+If you haven’t been living under a rock, you probably have heard of Pokemon Go, which helped popularised Augmented Reality (AR). 
+
+Source: Pokemon Go 
+So much so that commentators said AR is bigger than VR (Virtual Reality), including Apple’s CEO Tim Cook. 
+Facebook, on the other hand, is betting on VR. Mark Zuckerberg gave a demo of social VR using the Oculus Rift, as a “proof of priority.” Plus the introduction of Facebook 360 photos to ease people into the tech. 
+
+Source: Wired
+Businesses have already taken advantage of these trends. For instance, Alibaba launched VR & AR shopping experiences for its annual Single’s Day - the world’s biggest online retail event. 
+
+We were among the first few in Australia to get our hands on an  Oculus Rift headset this year. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gVgMEE1CccU" frameborder="0" allowfullscreen></iframe>
+3. Artificial Intelligence  
+Learning to be more human
+Machines can now do a range of cognitively-demanding tasks which also vary in quality: paint pictures, compose music, write news articles, generate TED talks. 
+
+Moonage Daydream: art created by Deep Dream. Source: Guardian 
+But machines still have a long way to go to truly understand human conversations, they still need to learn sarcasm. 
+Transport  
+Amazon completed its first drone delivery in December this year. We can expect more drone delivery trials in other countries soon, provided the respective authorities give Amazon the green light. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vNySOrI2Ny8" frameborder="0" allowfullscreen></iframe> 
+
+Uber’s self-driving truck made its debut this October, delivering beer across Colorado. Truck drivers are here to stay (as least in the foreseeable future) since these autonomous trucks only work on highway. 
+
+Source: Wired
+Business use
+The rise of corporate chatbots has heated up competition between the big players, such as Slack, Facebook and Microsoft. Here at Enabled, we’ve experimented with building bots on Slack for internal use.
+
+Taco Bell’s bot on Slack. Source: CB Insights
+ 
+
+4. Cloud
+More companies are getting on the cloud, which has fuelled the war between the cloud providers shown below. Ahead in the pack is Amazon Web Services (AWS), who have scored big deals like Salesforce’s preferred vendor and VMware partnership.
+
+Source: Economist
+We’ve seen first-hand the benefit of scalability by building the system for our partner Actionable - a corporate learning platform. 
+5. Crowd economy
+The crowd economy is more than just crowdsourcing. Other elements include online communities, open innovation, mass collaboration and so on. 
+Facilitated by a number of things, such as technological advances, Internet penetration, consumer distrust in large institutions, economic recession etc., the crowd economy might well see the birth of more companies like Uber and Airbnb. 
+
+Number of sharing economy companies globally. More stats here. 
+We’ve written on the platform business model and pre-commerce, which fit the crowd economy. 
+
+6. “Software is eating the world”
+Software
+The saying back from 2011 still applies today. It also links with the crowd economy mentioned above from a business model standpoint. 
+
+Sectors up-ended by software so far. Source: Benedict Evans
+From a technical standpoint, the increasing prevalence of new infrastructure and technologies (e.g. cloud, API integrations, microservices) has allowed software-based businesses to cut down on development time and focus on their core/customer service. See the example of Uber’s app below.
+
+Source: TechCrunch
+Hardware 
+This year has also seen some interesting hardware launches or stories: Apple’s headphone jack-less iPhone 7, Macbook Pro + Touch Bar; Microsoft’s Surface Studio; Google’s first phone: Pixel; Samsung’s exploding Galaxy Note 7 debacle. 
+
+Source: TechRadar
+Or both?
+The tech giants are adopting the “Software plus hardware” mantra. In particular, Google - primarily a software company - has attempted to rectify “the asymmetric nature of its struggle vs. Apple” with the Pixel launch. Meanwhile, hardware-focused Samsung has dabbled into software with its Samsung Pay tech. 
+Don’t forget Snapchat’s Spectacles - the fun hardware that complements the already popular software. Snapchat also rebranded to Snap Inc., a camera company, for that matter. 
+
+Source: iTech Post 
+Our CTO has discussed the trends in software development here. 
+7. Disruption Disruption Disruption 
+Startups are sprouting everywhere, disrupting industries like marching armies. Large corporations frantically look to consulting houses, buzzword-filled conferences; or acquire stakes in startups. 
+We also captured the sentiments during our recent trip to the Web Summit in Lisbon.
+Why? 
+Product development costs have gone down, plus the growing crowd economy (See Section 5. Crowd economy).  
+How? 
+New businesses look for opportunities through the Supply - Demand lens, or the Unbundling - Decoupling lens. 
+
+We wrote about it here. 
+What now?
+To stay relevant, it comes down to solving the customer's problem, to tackling their job-to-be-done. And this is a relatively level playing field for both startups and large corporations. 
+“Take your eyes off the problem and soon a competitor will be solving it better.”
+8. Facebook 
+The social networking giant wants to become a one-stop shop for all your needs, or the ultimate platform. 
+Consolidation
+Now you can:
+Communicate with thousands of available chatbots on Facebook Messenger
+Order things online with conversational commerce, and even pay directly within the app in some cases
+Play games within Messenger 
+Buy and sell stuff in your local area with Marketplace (without having to go sites like Gumtree)
+
+China
+The tech giant still seems to struggle with this market. They even want to develop censorship software to appease the Chinese government. But to compete with WeChat, which is the one-stop shop/ultimate platform equivalent in China, Facebook has a long way to go. 
+
+We also discussed the platform business model in another blog post. 
+9. Ethics in tech/ Social enterprises/ Sustainability 
+Robots take over humans? 
+While only documented in sci-fi movies, the doomsday scenario seems more possible as technology continues to advance. That is why we need to design bots to be responsible not just responsive; and bring the global governance mechanisms to the same pace. 
+Fake news, real impact 
+The US election this year has brought up stories about how fake news stories on Facebook might have helped Trump win.   
+In response, Facebook has started partnering with news organisations to fact-check stories in an attempt to curb fake news.
+An interesting viewpoint sees fake news as a business model failure for incumbent media organisations (in addition to being bad for the world). The author thinks it is a disruptive innovation. 
+Calling for ethical practices 
+We know the power of tech. Software developers are often the last line of defence against unethical practices. 
+Think about the autonomous car. How do we program it to make split-second moral judgements? It’s time to revisit philosophy and ethics. 
+Or try making these moral decisions yourself with this website built by MIT. It’s puzzling for us humans, let alone machines. 
+
+Source: Moral Machine
+Social good 
+Are there too many first-world-problem innovations, and not enough of those that improve other parts of the world? 
+Nonetheless, there have been incredible social innovations this year, such as using VR to help patients relieve pain.  
+Over the past few years, we have developed a proof of concept for Mikonek - a social innovation aiming to help people in Vanuatu with better ship tracking information and thus, inter-island commerce. If you’re keen to know more about our endeavour, feel free to get in touch. 
+
+Mock app design
+For Earth 
+To increase food security, we have turned to sustainable food tech, such as automated farming, and tech that turns scraps into power for farming facilities. However, this could run into the the issue of job security for farmers. 
+Sustainable energy: Tesla’s SolarCity subsidiary can power an entire US island with a solar farm, and backup batteries that last for three days without sunlight. 
+
+Source: Computer World
+10. People of the year
+The annual Silicon Valley 100 list is here. 
+
+Source: Business Insider
+
+While these people have made the news globally in 2016, let’s not forget those closer to home. 
+So we’d like to thank our employees, clients, partners, families and friends - the people who made it happen in 2016, and in years to come. 
+

@@ -104,21 +104,21 @@ img + em {
 	
 }
 
-img.alignright + em{
+img.alignright ~ em{
     float: right;
 	display: block !important;
     margin: 1em 0;
 	width: 250px;
 }
 
-img.alignleft + em{
+img.alignleft ~ em{
     float: left;
 	display: block !important;
     margin:  margin: 1em 0;
 	width: 250px;
 }
 
-img.aligncenter + em{
+img.aligncenter ~ em{
     display: block !important;
     margin-left: auto;
     margin-right: auto;

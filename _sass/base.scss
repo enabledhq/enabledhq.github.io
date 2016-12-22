@@ -101,24 +101,28 @@ img + em {
     font-style: normal;
     font-size: 0.8em;
     font-family: 'lato', serif;
+	
 }
 
 img.alignright + em{
     float: right;
 	display: block !important;
     margin: 1em 0;
+	width: 250px;
 }
 
 img.alignleft + em{
     float: left;
 	display: block !important;
     margin:  margin: 1em 0;
+	width: 250px;
 }
 
 img.aligncenter + em{
     display: block !important;
     margin-left: auto;
     margin-right: auto;
+	width: 250px;
 }
 
 

@@ -22,16 +22,19 @@ article a:hover{
 
 article img {
   max-width: 100%;
+  display: block;
 }
 
 img.alignright {
     float: right;
+	display: inline-block;
     margin: 0 0 1em 1em;
 	width: auto;
 }
 
 img.alignleft {
     float: left;
+	display: inline-block;
     margin: 0 1em 1em 0;
 	width: auto;
 }

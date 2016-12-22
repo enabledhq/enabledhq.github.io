@@ -25,24 +25,21 @@ article img {
   display: block;
 }
 
-img.alignright,
-em.alignleft{
+img.alignright{
     float: right;
 	display: inline-block !important;
     margin: 0 0 1em 1em;
 	width: auto;
 }
 
-img.alignleft,
-em.alignleft {
+img.alignleft{
     float: left;
 	display: inline-block !important;
     margin: 0 1em 1em 0;
 	width: auto;
 }
 
-img.aligncenter, 
-em.aligncenter {
+img.aligncenter {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -105,6 +102,25 @@ img + em {
     font-size: 0.8em;
     font-family: 'lato', serif;
 }
+
+img.alignright + em{
+    float: right;
+	display: block !important;
+    margin: 1em 0;
+}
+
+img.alignleft + em{
+    float: left;
+	display: block !important;
+    margin:  margin: 1em 0;
+}
+
+img.aligncenter + em{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 .content-container {
     padding: 15px;

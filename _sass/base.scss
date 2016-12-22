@@ -26,7 +26,7 @@ article img {
 }
 
 img.alignright,
-figure.alignright{
+div.alignright{
     float: right;
 	display: inline-block !important;
     margin: 0 0 1em 1em;
@@ -34,7 +34,7 @@ figure.alignright{
 }
 
 img.alignleft,
-figure.alignleft{
+div.alignleft{
     float: left;
 	display: inline-block !important;
     margin: 0 1em 1em 0;
@@ -52,7 +52,7 @@ img.alignright:after{
 }
 
 img.aligncenter,
-figure.aligncenter{
+div.aligncenter{
     display: block;
     margin-left: auto;
     margin-right: auto;

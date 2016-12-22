@@ -111,6 +111,11 @@ img + em {
     font-style: normal;
     font-size: 0.8em;
     font-family: 'lato', serif;
+	min-width: 200px;
+    max-width: 100%;
+	display: table-cell;
+    word-wrap: break-word;
+    word-break: break-word;
 	
 }
 
@@ -118,21 +123,19 @@ img.alignright + em{
     float: right;
 	display: block !important;
     margin: 1em 0;
-	width: 300px;
+
 }
 
 img.alignleft + em{
     float: left;
 	display: block !important;
     margin: 1em 0;
-	width: 300px;
 }
 
 img.aligncenter + em{
     display: block !important;
     margin-left: auto;
     margin-right: auto;
-	width: 300px;
 	text-align: center;
 }
 

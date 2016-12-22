@@ -25,14 +25,16 @@ article img {
   display: block;
 }
 
-img.alignright{
+img.alignright,
+figure.alignright{
     float: right;
 	display: inline-block !important;
     margin: 0 0 1em 1em;
 	width: auto;
 }
 
-img.alignleft{
+img.alignleft,
+figure.alignleft{
     float: left;
 	display: inline-block !important;
     margin: 0 1em 1em 0;
@@ -49,7 +51,8 @@ img.alignright:after{
      height: 0;
 }
 
-img.aligncenter {
+img.aligncenter,
+figure.aligncenter{
     display: block;
     margin-left: auto;
     margin-right: auto;

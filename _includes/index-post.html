@@ -1,16 +1,13 @@
-{% capture authors %}
-{% for authorKey in include.post.author %}
-{% assign author = site.data.people[authorKey] %}
-{{ author.name }}, 
-{% endfor %}
-{% endcapture %}
 <li class="{% if include.include_mix %}mix{%endif%} {{ include.post.categories | join: ' ' }}">
   <div class="work-info">
     <a href="{{ include.post.url | prepend: site.baseurl }}"><div class="work-image" style="background-image: url('{% if include.post.image %}{{include.post.image}}{% else %}http://placehold.it/350x350{% endif %}');"></div></a>
     <div class="work-text">
       <a href="{{ include.post.url | prepend: site.baseurl }}"><h4 class="text-red">{{ include.post.title }}</h4></a>
       <p>{{ include.post.description }}</p>
-     <div class="work-postby"><span class="post-{{  author.shortname }}"></span><div class="post-name">{{ authors }}</div></div>
+{% for authorKey in include.post.author %}
+{% assign author = site.data.people[authorKey] %}      
+     <div class="work-postby"><span class="post-{{  author.shortname }}"></span><div class="post-name">{{ author.name }}</div></div>
+{% endfor %}
   </div>
 </li>
 

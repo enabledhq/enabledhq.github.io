@@ -3,7 +3,7 @@ layout: default
 ---
 {% capture authors %}
 {% for authorKey in page.author %}
-{% assign author = site.data.people[page.author] %}
+{% assign author = site.data.people[authorKey] %}
 {{ author.name }}, 
 {% endfor %}
 {% endcapture %}

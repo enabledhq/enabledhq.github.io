@@ -1,4 +1,6 @@
-{% assign author = site.data.people[page.author] %}
+{% for authorKey in page.author %}
+
+{% assign author = site.data.people[authorKey] %}
 
 <div class="author-container">
 	<h3 class="author-title">Author</h3>
@@ -13,3 +15,5 @@
 	</div>
 	<div class="clearfix"></div>
 </div>
+
+{% endfor %}

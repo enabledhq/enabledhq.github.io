@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
+{% capture authors %}
+{% for authorKey in page.author %}
 {% assign author = site.data.people[page.author] %}
+{{ author.name }}, 
+{% endfor %}
+{% endcapture %}
 {% assign words = content | number_of_words %}
 <div class="post-header-banner" style="background-image:url(
 {% if page.hero-banner %}
@@ -16,8 +21,8 @@ http://placehold.it/1000x550
   <div class="post-header-title"><h1>{{ page.title }}</h1></div>
   <div class="post-header-meta">
     <span class="author-image post-{{ author.shortname }}"></span>
-    <br>
-    <div class="post-author-name">by {{ author.name }}</div>
+    <br>    
+    <div class="post-author-name">by {{ authors }}</div>
     <div class="post-time"><i class="fa fa-clock-o"></i> {{ page.date | date: "%b %-d, %Y" }}</div>
     <br>
     <a href="#save-overlay">

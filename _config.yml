@@ -54,9 +54,9 @@ prose:
           placeholder: "Enter Summary/Excerpt (for enabled.com.au and RSS feed)"
       - name: "author"
         field:
-          element: "select"
-          label: "Author"
-          placeholder: "Choose author"
+          element: "multiselect"
+          label: "Authors"
+          placeholder: "Choose authors"
           value: grant
           options:
             - name: "Linh Dao"

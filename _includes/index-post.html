@@ -4,12 +4,6 @@
     <div class="work-text">
       <a href="{{ include.post.url | prepend: site.baseurl }}"><h4 class="text-red">{{ include.post.title }}</h4></a>
       <p>{{ include.post.description }}</p>
-      <div class="work-postby">
-{% for authorKey in include.post.author %}
-{% assign author = site.data.people[authorKey] %}      
-     <span class="post-{{  author.shortname }}"></span><div class="post-name">{{ author.name }}</div>
-{% endfor %}
-      </div>
   </div>
 </li>
 

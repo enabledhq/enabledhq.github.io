@@ -36,10 +36,10 @@ But do we know what we’re doing, or why we’re doing it?
 Here is an outline of what each section in this article talks about:
 
 1. [The rising power of consumers and why marketers need to take CX seriously](#consumerpower)
-1. The current CX maturity level and the traditional marketing thinking that brought marketers to this stage
-1. Why and how the traditional thinking persists when it comes to CX 
-1. The new way of thinking: useful tools and concepts for a more holistic CX approach
-1. How CX delivers financially and what marketing can do to take on a proactive role
+1. [The current CX maturity level and the traditional marketing thinking that brought marketers to this stage](#CXmaturity)
+1. [Why and how the traditional thinking persists when it comes to CX](#traditionalthinking) 
+1. [The new way of thinking: useful tools and concepts for a more holistic CX approach](#holisticCX)
+1. [How CX delivers financially and what marketing can do to take on a proactive role](#marketingrole)
 1. Frequently asked questions
 
 # <a name="consumerpower"></a> Customer experience is the brand 
@@ -64,7 +64,7 @@ They hold more power :
 - Competition between brands (partly due to the growing number of startups and new ventures) has given them more choices 
 - It’s increasingly easier for people to connect, collaborate and take collective action, to the point of us - consumers vs. them - corporations. Think of peer-to-peer platforms, consumer forums, online petitions and so on
 
-# How well are we “doing” CX? 
+# <a name="CXmaturity"></a> How well are we “doing” CX? 
 
 Does the following picture sound familiar to you? 
 The marketing department talks up a good game and customers buy the story, skyrocketing expectations of flawless delivery. The experience worsens as the customers are “handed down” to different departments like sales and customer support.
@@ -90,13 +90,13 @@ We assume we’re “[doing CX](https://econsultancy.com/blog/67168-so-what-exac
 
 Doing these can lead to risks such as a lack of linkage to other stages, or the marketing operations becoming too rigid and formulaic. 
 
-# Beware of these mentalities within marketing 
+# <a name="traditionalthinking"></a> Beware of these mentalities within marketing 
 
 Being stuck in the old ways hinders the progress of improving CX. 
 
-**Content-centric: ** focusing on creating content for the sake of it, and then try to find distribution channels
+**Content-centric:** focusing on creating content for the sake of it, and then try to find distribution channels
 
-**Channel-centric: ** focusing on touch points instead of overall journey (customer journey mapping is different from touchpoint mapping)
+**Channel-centric:** focusing on touch points instead of overall journey (customer journey mapping is different from touchpoint mapping)
 
 **Department-centric:** reluctant/unable to share data between sales, marketing, customer service
 
@@ -133,11 +133,11 @@ One way to deconstruct an “experience” is looking at its composition: enviro
 ![customer experience elements]({{site.baseurl}}/images/img_CXmar_environment.png)
 *Elements of experience plus examples. Source: [University of Amsterdam](http://dare.uva.nl/search?metis.record.id=359882)*
 
-The “encounter,” or “moments” are what we should focus on, because they symbolise the **present** – the time and place where the experience forms. As simple as it sounds, if you think about it, it’s a powerful realisation. We create the environment in anticipation of a **future**, we ask customers about their **past ** feelings, yet we don’t understand what they try to do **now**. 
+The “encounter,” or “moments” are what we should focus on, because they symbolise the **present** – the time and place where the experience forms. As simple as it sounds, if you think about it, it’s a powerful realisation. We create the environment in anticipation of a **future**, we ask customers about their **past** feelings, yet we don’t understand what they try to do **now**. 
 
 We don’t manage their experience, but we can at least manage their expectations of the experience. User-centric platforms (e.g. Uber, Airbnb) set the expectations for customers right from the start (not full-time taxi drivers; not fully fledged hotel services). 
 
-# Think beyond marketing
+# <a name="holisticCX"></a> Think beyond marketing
 
 We should strive to understand what customers want to do, more than who they are. 
 
@@ -181,7 +181,7 @@ Yet another approach is to map out a baseline journey while adding variations ba
 ![customer experience map]({{site.baseurl}}/images/img_CXmar_baseline.jpg)
 *Source: [Adaptive Path](http://adaptivepath.org/ideas/the-baseline-journey-3/)*
 
-# Marketing needs to take the initiative
+# <a name="marketingrole"></a> Marketing needs to take the initiative
 
 CX is not just a fluffy, feel-good concept. Though tricky to measure, superior CX drives superior revenue growth. There’s also [data](http://blogs.forrester.com/harley_manning/16-06-21-customer_experience_drives_revenue_growth_2016) to back it up, in addition to common sense (i.e. Why wouldn’t customers want to repurchase from a business they had a good experience with?). 
 

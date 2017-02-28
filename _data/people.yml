@@ -31,6 +31,17 @@ linh:
   small-image: /images/img_teamphotos_linh_sm.jpg
   large-image: /images/author/img_author_linh.jpg
   
+james:
+  name: James Hubbard
+  shortname: james
+  twitter: thejameshubbard
+  description-title: James Hubbard, CDO
+  description: >
+    As Chief Design Officer, James oversees Enabled’s design processes both from a functional and aesthetic perspective. He also plays a pivotal role in the innovation process as a client facing consultant to understand their needs and provide critical and creative thinking.   
+    <br>Follow James on <a class="author-link" href="https://twitter.com/thejameshubbard" target="_blank">Twitter</a>
+  small-image: /images/img_teamphotos_james_sm.jpg
+  large-image: /images/author/img_author_james.jpg
+  
 josh:
   name: Josh Rogers
   shortname: josh

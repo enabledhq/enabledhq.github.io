@@ -59,7 +59,7 @@ They are more demanding:
 They hold more power :
 
 - Competition between brands (partly due to the growing number of startups and new ventures) has given them more choices 
-- It’s increasingly easier for people to connect, collaborate and take collective action, to the point of us - consumers vs. them - corporations. Think of peer-to-peer platforms, consumer forums, online petitions and so on
+- It’s increasingly easier for people to connect, collaborate and take collective action, to the point of Us (consumers) vs. Them (corporations). Think of peer-to-peer platforms, consumer forums, online petitions and so on
 
 # <a name="CXmaturity"></a> How well are we “doing” CX? 
 

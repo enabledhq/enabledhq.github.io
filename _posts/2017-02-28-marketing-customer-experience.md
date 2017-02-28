@@ -34,7 +34,7 @@ Amazon’s CEO Jeff Bezos said: “If you make customers unhappy in the physical
 
 This is a cliche response to why CX is important, but it deserves the repetition because marketers (or any other profession) can sometimes get caught in their own bubble.
 
-![customer experience word of mouth]({{site.baseurl}}/img_CXmar_12ex.png)
+![customer experience word of mouth]({{site.baseurl}}/img_CXmar_12ex.png){:class="alignleft"}
  
 It’s not just the possibility of (negative) word of mouth that should drive the [CX engine](https://www.forbes.com/sites/danielnewman/2015/10/13/customer-experience-is-the-future-of-marketing/#1c457dc7193d). It’s also the realisation that customers are more demanding and hold more power, which can make or break a business. 
 

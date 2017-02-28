@@ -10,6 +10,7 @@ meta-keywords: >-
   experience map, customer experience 2017, CX management
 author:
   - linh
+  - james
 main-category: ux
 categories:
   - ux
@@ -20,12 +21,12 @@ But do we know what we’re doing, or why we’re doing it?
 
 Here is an outline of what each section in this article talks about:
 
-- The rising power of consumers and why marketers need to take CX seriously
-- The current CX maturity level and the traditional marketing thinking that brought marketers to this stage
-- Why and how the traditional thinking persists when it comes to CX 
-- The new way of thinking: useful tools and concepts for a more holistic CX approach
-- How CX delivers financially and what marketing can do to take on a proactive role
-- Frequently asked questions
+1. The rising power of consumers and why marketers need to take CX seriously
+1. The current CX maturity level and the traditional marketing thinking that brought marketers to this stage
+1. Why and how the traditional thinking persists when it comes to CX 
+1. The new way of thinking: useful tools and concepts for a more holistic CX approach
+1. How CX delivers financially and what marketing can do to take on a proactive role
+1. Frequently asked questions
 
 # Customer experience is the brand 
 

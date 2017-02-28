@@ -73,6 +73,8 @@ prose:
               value: colin
             - name: "Jarrod Swift"
               value: jarrod
+            - name: "James Hubbard"
+              value: james              
       - name: "main-category"
         field:
           element: "select"

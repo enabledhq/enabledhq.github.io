@@ -149,7 +149,7 @@ As marketers, we’ve all heard of [customer journey mapping](https://www.i-scoo
 - Help you work out opportunities to appeal to their emotional decision making process, among things like success points, persuasion points, and unconscious triggers to act
 - Look at not just customers, but also customers of your customers, end-users etc.
 
-What about the differences between the two? Some can argue jobs to be done is more useful in situations where the whole CX needs to be redesigned, while journey mapping is more about mapping out what’s already there and optimising the CX. 
+What about the differences between the two? Some can argue **jobs to be done** is more useful in situations where the whole CX needs to be redesigned, while **journey mapping** is more about mapping out what’s already there and optimising the CX. 
 
 Another tool we’ve stumbled on in marketing is **empathy map**. These are used to construct **buyer personas**. There’re also different types of [personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them): goal-directed, role-based, engaging, and fictional. 
 

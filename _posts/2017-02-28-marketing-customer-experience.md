@@ -15,6 +15,7 @@ main-category: ux
 categories:
   - ux
 hero-banner: /images/Blog_header_CXmar.png
+image: /images/img_CXmar_thumb.png
 ---
 Once upon a time, all marketers cared about was how to create a killer ad for a newspaper, magazine, and TV. Then came the Internet and all sorts of digital marketing tactics ensued. Fast track to the present, marketing appears to be shouldering things like digital transformation and customer experience (CX). 
 

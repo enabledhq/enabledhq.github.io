@@ -29,7 +29,7 @@ excerpt: >-
   Find out what marketing can do to spearhead a company-wide CX mentality in
   2017.
 ---
-Once upon a time, all marketers cared about was how to create a killer ad for a newspaper, magazine, and TV. Then came the Internet and all sorts of digital marketing tactics ensued. Fast track to the present, marketing appears to be shouldering things like digital transformation and customer experience (CX). 
+Once upon a time, all marketers cared about was how to create a killer ad for a newspaper, magazine, and TV. Then came the Internet and all sorts of digital marketing tactics ensued. Fast track to the present, marketing appears to be shouldering things like [digital transformation](http://blog.enabled.com.au/digital-transformation/) and customer experience (CX). 
 
 But do we know what we’re doing, or why we’re doing it? 
 

@@ -28,7 +28,7 @@ excerpt: >-
 ---
 Once upon a time, all marketers cared about was how to create a killer ad for a newspaper, magazine, and TV. Then came the Internet and all sorts of digital marketing tactics ensued. Fast track to the present, marketing appears to be shouldering things like [digital transformation](http://blog.enabled.com.au/digital-transformation/) and customer experience (CX). 
 
-But do we know what we’re doing, or why we’re doing it? 
+But do we know what we’re doing, or why we’re doing it?  
 
 Here is an outline of what each section in this article talks about:
 

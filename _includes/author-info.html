@@ -1,8 +1,6 @@
-{% for authorKey in page.author %}
-
-{% assign author = site.data.people[authorKey] %}
-
 <div class="author-container">
+{% for authorKey in page.author %}
+{% assign author = site.data.people[authorKey] %}
 	<h3 class="author-title">Written by</h3>
 	<hr class="author-hr">
 
@@ -14,6 +12,5 @@
 		{{author.description}}
 	</div>
 	<div class="clearfix"></div>
+{% endfor %}	
 </div>
-
-{% endfor %}

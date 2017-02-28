@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-02-28 10:27 +1030'
-published: false
+published: true
 title: Rethinking Marketing’s Role in Customer Experience
 meta-keywords: >-
   customer experience, consumer experience, customer journey mapping, cx
@@ -40,7 +40,7 @@ Here is an outline of what each section in this article talks about:
 1. [Why and how the traditional thinking persists when it comes to CX](#traditionalthinking) 
 1. [The new way of thinking: useful tools and concepts for a more holistic CX approach](#holisticCX)
 1. [How CX delivers financially and what marketing can do to take on a proactive role](#marketingrole)
-1. Frequently asked questions
+1. [Frequently asked questions](#faqs)
 
 # <a name="consumerpower"></a> Customer experience is the brand 
 
@@ -120,9 +120,9 @@ Marketers often forget that CX looks at factors in the purchasing journey from t
 
 The rising popularity of movements such as inbound and content marketing has proven the need for brands to step away from the “push” mode (and into the “pull” mode). A counterintuitive lesson is power sometimes comes from surrendering a bit of control on the brand’s part:
 
-Communications need to include a “service” flavour: help customers achieve their goals
-It’s less about behavioural tracking or being creepy (warning: retargeting marketing)
-There might be a need to transform marketing operation rather than improving and managing individual touch points
+- Communications need to include a “service” flavour: help customers achieve their goals
+- It’s less about behavioural tracking or being creepy (warning: retargeting marketing)
+- There might be a need to transform marketing operation rather than improving and managing individual touch points
 
 ## Who owns what?
 
@@ -213,7 +213,7 @@ To tackle CX at a strategic level, consider looking at it through three lenses a
 - Internal: use tech to enhance CX initiatives e.g. shared data/portal, internal communication, automated workflows 
 - External: give customers transparent data along the journey (e.g. progress bar, overall picture)
 
-# FAQs
+# <a name="faqs"></a> FAQs
 
 **Q: Where does CX start and end?**
 

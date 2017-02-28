@@ -16,6 +16,18 @@ categories:
   - ux
 hero-banner: /images/Blog_header_CXmar.png
 image: /images/img_CXmar_thumb.png
+description: >-
+  There’s more to customer experience beyond the marketing conversion funnel.
+  Find out what marketing can do to spearhead a company-wide CX mentality in
+  2017.
+meta-description: >-
+  There’s more to customer experience beyond the marketing conversion funnel.
+  Find out what marketing can do to spearhead a company-wide CX mentality in
+  2017.
+excerpt: >-
+  There’s more to customer experience beyond the marketing conversion funnel.
+  Find out what marketing can do to spearhead a company-wide CX mentality in
+  2017.
 ---
 Once upon a time, all marketers cared about was how to create a killer ad for a newspaper, magazine, and TV. Then came the Internet and all sorts of digital marketing tactics ensued. Fast track to the present, marketing appears to be shouldering things like digital transformation and customer experience (CX). 
 

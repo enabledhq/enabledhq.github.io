@@ -94,7 +94,9 @@ Doing these can lead to risks such as a lack of linkage to other stages, or the 
 Being stuck in the old ways hinders the progress of improving CX. 
 
 **Content-centric: ** focusing on creating content for the sake of it, and then try to find distribution channels
+
 **Channel-centric: ** focusing on touch points instead of overall journey (customer journey mapping is different from touchpoint mapping)
+
 **Department-centric:** reluctant/unable to share data between sales, marketing, customer service
 
 To bring things into perspective, let’s consider some familiar scenarios that marketers don’t want to admit being in:
@@ -130,7 +132,7 @@ One way to deconstruct an “experience” is looking at its composition: enviro
 ![customer experience elements]({{site.baseurl}}/images/img_CXmar_environment.png)
 *Elements of experience plus examples. Source: [University of Amsterdam](http://dare.uva.nl/search?metis.record.id=359882)*
 
-The “encounter,” or “moments” are what we should focus on, because they symbolise the **present** – the time and place where the experience forms. As simple as it sounds, if you think about it, it’s a powerful realisation. We create the environment in anticipation of a **future**, we ask customers about their **past **feelings, yet we don’t understand what they try to do **now**. 
+The “encounter,” or “moments” are what we should focus on, because they symbolise the **present** – the time and place where the experience forms. As simple as it sounds, if you think about it, it’s a powerful realisation. We create the environment in anticipation of a **future**, we ask customers about their **past ** feelings, yet we don’t understand what they try to do **now**. 
 
 We don’t manage their experience, but we can at least manage their expectations of the experience. User-centric platforms (e.g. Uber, Airbnb) set the expectations for customers right from the start (not full-time taxi drivers; not fully fledged hotel services). 
 
@@ -142,7 +144,7 @@ We should strive to understand what customers want to do, more than who they are
 
 This is where “Jobs-to-be-done” comes in. We’ve written about it in another blog post from a [product development](http://blog.enabled.com.au/jobs-to-be-done/) standpoint, but this concept is equally applicable to marketing and CX. 
 
-As marketers, we’ve all heard of [customer journey mapping](https://www.i-scoop.eu/customer-experience/customer-journey-mapping-understanding-customer/). If we look at the similarities, jobs to be done and customer journey mapping:
+As marketers, we’ve all heard of [customer journey mapping](https://www.i-scoop.eu/customer-experience/customer-journey-mapping-understanding-customer/). If we look at the similarities, both jobs to be done and customer journey mapping:
 
 - Combine actions, emotions, thoughts or functional, social, emotional jobs of customers
 - Show the importance of context and pain points

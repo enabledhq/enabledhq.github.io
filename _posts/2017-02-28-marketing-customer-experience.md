@@ -170,7 +170,7 @@ How do you know if it’s enough to just map out a generic/typical journey rathe
 
 To put things in perspective:
 
-- For those wishing to have their Internet installed at a new premise, they could care less about anything else than getting it done soon => consider [goal-based personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+- For those wishing to have their Internet installed at a new premise, they couldn't care less about anything else than getting it done soon => consider [goal-based personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
 - For those who identify with a particular user segment, either implicitly (a repeat user vs. a passer-by) or explicitly (Economy vs. Business class), there are opportunities to greatly enhance their CX, and also higher risks of shattering it due to expectations => consider engaging or fictional [personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
 
 Yet another approach is to map out a baseline journey while adding variations based on what each customer profile values, as shown in the diagram below. 

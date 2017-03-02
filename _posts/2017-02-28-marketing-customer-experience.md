@@ -151,6 +151,8 @@ As marketers, we’ve all heard of [customer journey mapping](https://www.i-scoo
 
 What about the differences between the two? Some can argue **jobs to be done** is more useful in situations where the whole CX needs to be redesigned, while **journey mapping** is more about mapping out what’s already there and optimising the CX. 
 
+> We should strive to understand what customers want to do, more than who they are.
+
 Another tool we’ve stumbled on in marketing is **empathy map**. These are used to construct **buyer personas**. There’re also different types of [personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them): goal-directed, role-based, engaging, and fictional. 
 
 We’re not here to discuss how to deploy them, but to illustrate the fact that buyer personas – or the knowledge of your customers – are only a part of the equation.  
@@ -209,6 +211,8 @@ To tackle CX at a strategic level, consider looking at it through three lenses a
 
 - Internal: use tech to enhance CX initiatives e.g. shared data/portal, internal communication, automated workflows 
 - External: give customers transparent data along the journey (e.g. progress bar, overall picture)
+
+> We don’t manage our customers' experience, but we can at least manage their expectations of the experience. 
 
 # <a name="faqs"></a> FAQs
 

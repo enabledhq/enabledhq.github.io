@@ -60,6 +60,10 @@
 .author-info-image:nth-child(n+1){
 	padding: 40px 20px 20px 20px;
 }
+
+.author-info-description:nth-child(n+1){
+	padding-top: 40px;
+}
 	
 
 @media (max-width: 820px) {

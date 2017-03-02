@@ -170,7 +170,7 @@ How do you know if it’s enough to just map out a generic/typical journey rathe
 
 To put things in perspective:
 
-- For those wishing to have their Internet installed at a new premise, they could care less about anything else than getting it done soon => consider [goal-based personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+- For those wishing to have their Internet installed at a new premise, they couldn't care less about anything else than getting it done soon => consider [goal-based personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
 - For those who identify with a particular user segment, either implicitly (a repeat user vs. a passer-by) or explicitly (Economy vs. Business class), there are opportunities to greatly enhance their CX, and also higher risks of shattering it due to expectations => consider engaging or fictional [personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
 
 Yet another approach is to map out a baseline journey while adding variations based on what each customer profile values, as shown in the diagram below. 
@@ -222,4 +222,4 @@ A: CX may be broader in a sense it covers both purchasers and users. On the othe
 
 **Q: Can a superior product be ruined by bad CX or can superior CX make up for a bad product?**
 
-A: Yes in the long run for the first scenario, and no in the long run for the second. The main thing is to think beyond the cycle of anyone in power, whether in business or government; or avoid corporate short-termism. There is data to show companies operating with a [long-term view](http://www.mckinsey.com/global-themes/long-term-capitalism/where-companies-with-a-long-term-view-outperform-their-peers?) outperform their peers.
+A: Yes, a superior product can be ruined by bad CX in the long run; and no, a bad product can't be saved by superior CX in the long run. The main thing is to think beyond the cycle of anyone in power, whether in business or government; or to avoid corporate short-termism. There is data to show companies operating with a [long-term view](http://www.mckinsey.com/global-themes/long-term-capitalism/where-companies-with-a-long-term-view-outperform-their-peers?) outperform their peers.

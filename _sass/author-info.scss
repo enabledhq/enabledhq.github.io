@@ -58,8 +58,9 @@
 	padding: 0;
 }
 
-.author-container .clearfix{
+.author-container .clearfloat{
     padding-top: 40px;
+	display: block;
 }
 
 @media (max-width: 820px) {

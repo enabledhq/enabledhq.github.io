@@ -55,7 +55,7 @@
     width: 580px;
     max-width: 100%;
     line-height: 36px;
-	padding-top: 0;
+	padding: 0;
 }
 
 .author-info-image:nth-of-type(n+2){
@@ -63,7 +63,7 @@
 }
 
 .author-info-description:nth-of-type(n+2){
-	padding-top: 40px;
+	padding: 40px 0 0 0;
 }
 	
 @media (max-width: 820px) {

@@ -57,7 +57,7 @@
     line-height: 36px;
 }
 
-.author-info-description ~ .clearfix:after {
+.author-container.clearfix:nth-child(1) {
 	margin-top: 30px;
 	display: block;
 }

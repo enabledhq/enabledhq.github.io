@@ -57,7 +57,7 @@
     line-height: 36px;
 }
 
-.author-container.author-info-image:nth-child(2) {
+.author-container .clearfix:nth-child(n+1) {
 	margin-top: 30px;
 	display: block;
 }

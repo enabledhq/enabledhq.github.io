@@ -210,9 +210,7 @@ To tackle CX at a strategic level, consider looking at it through three lenses a
 ## Technology
 
 - Internal: use tech to enhance CX initiatives e.g. shared data/portal, internal communication, automated workflows 
-- External: give customers transparent data along the journey (e.g. progress bar, overall picture)
-
-> We don’t manage our customers’ experience, but we can at least manage their expectations of the experience. 
+- External: give customers transparent data along the journey (e.g. progress bar, overall picture) 
 
 # <a name="faqs"></a> FAQs
 

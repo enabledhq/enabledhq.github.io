@@ -42,7 +42,7 @@ Online learning enabled by edtech players such as edX and Coursera can disrupt u
 - Targeting those pursuing professional learning with self-paced courses
 - Offering more vocational, modern, specific or just courses on subjects that you’d never find in university degrees (e.g. courses on 3D modelling, body language etc.)
 
-Once universities identify where they’re most vulnerable, they can whether they need to respond and if so, in what manner. 
+Once universities identify where they’re most vulnerable, they can decide whether they need to respond and if so, in what manner. 
 
 In the University of Adelaide’s case, [AdelaideX](https://www.edx.org/school/adelaidex) is the response. Now let’s analyse this move through the three lenses – human, technology, business. 
 

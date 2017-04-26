@@ -21,7 +21,7 @@ Whether MOOCs would be able to replace universities is another topic, the point 
 
 Before we go into what businesses can learn from the education sector, let’s look at the University of Adelaide as an example. 
 
-It was a refreshing moment when Kathy Pugh - edX’s vice-president of Educational Services – mentioned the impact of Adelaide University on this global platform. 
+It was a refreshing moment when [Kathy Pugh](https://www.edx.org/bio/kathy-pugh) - edX’s vice-president of Educational Services – mentioned the impact of Adelaide University on this global platform. 
 
 ![edX adelaide university digital disruption]({{site.baseurl}}/images/img_edudisrupt_edx.JPG)
 *University of Adelaide (highlighted in red square) featured prominently on edX’s website among the likes of MIT, Harvard and Berkeley 

@@ -9,7 +9,7 @@ meta-keywords: >-
   innovation in education, edtech, educational technology, technology in
   education
 ---
-Not long ago, I attended the seminar “The Digital Education Disruption” hosted at the University of Adelaide. The third oldest university in Australia had invited a speaker from one of the hottest edtech players in the world - edX. 
+Not long ago, I attended the seminar “The [Digital Education Disruption](https://blogs.adelaide.edu.au/adelaidex/2017/03/22/the-digital-education-disruption-kathy-pugh-edx/)” hosted at the University of Adelaide. The third oldest university in Australia had invited a speaker from one of the hottest edtech players in the world - edX. 
 
 One could relish the coming together of old and new, slow and fast, the disrupted and disruptor. Or is it really that binary? 
 

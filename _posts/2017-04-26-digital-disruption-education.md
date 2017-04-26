@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-04-26 15:03 +0930'
-published: false
+published: true
 title: 'If centuries-old universities are innovating, why aren’t businesses?'
 meta-keywords: >-
   digital disruption, disruptive technology, online learning, mooc, disruptive
@@ -102,5 +102,4 @@ Back to the education sector, Clayton Christensen who coined the term “[Disrup
 
 An example of an industry that has transformed through effective innovations is health care. “The health care industry didn’t have multi-billion-dollar companies 15 to 20 years ago. Now it does. We’re at the beginning of changing education. We think education will follow a similar path,” said an [edtech](https://www.cbinsights.com/blog/ed-tech-vc-ceo-commentary/) accelerator founder. 
 
-It’s evident that disruption is happening across the board. Are you taking the right action (if any)? 
-
+It’s evident that disruption is happening across the board. Are you taking the right action (if any)?

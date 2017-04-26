@@ -36,7 +36,8 @@ To respond to potential disruption effectively, the first step is understanding 
 
 In the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, the concept of “non-consumption” explains this. Universities need to reach those who’re not consuming their products because they think degrees are too expensive or complex. 
 
-- Online learning enabled by edtech players such as edX and Coursera can disrupt universities by:
+Online learning enabled by edtech players such as edX and Coursera can disrupt universities by:
+
 - Making knowledge more accessible and in many cases, free
 - Targeting those pursuing professional learning with self-paced courses
 - Offering more vocational, modern, specific or just courses on subjects that you’d never find in university degrees (e.g. courses on 3D modelling, body language etc.)

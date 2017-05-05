@@ -38,7 +38,9 @@ Armed with platform technology, some potential disruptors have emerged over the 
 
 Clayton Christensen - who coined the term “[Disruptive Innovation](http://blog.enabled.com.au/mass-disruption/)” - considers MOOCs a potentially [disruptive technology](http://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital) that can replace weak universities. Moreover, “**fifteen years from now more than half of the universities [in America] will be in bankruptcy.**”
 
-[MOOCs](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/) are “making everybody sit up and answer the following question: ‘How can I justify charging students $45,000 a year to attend large lectures when they can find better exemplars on the Internet?’”
+[MOOCs](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/) are making everybody sit up and answer the following question: 
+
+> "How can I justify charging students $45,000 a year to attend large lectures when they can find better exemplars on the Internet?"
 
 I can tell you that Universities are feeling the pinch of potential disruption from online learning. And they are doing something about it. 
 

@@ -42,6 +42,9 @@ I can tell you that Universities are feeling the pinch of potential disruption f
 
 This is reflected in “The [Digital Education Disruption](https://blogs.adelaide.edu.au/adelaidex/2017/03/22/the-digital-education-disruption-kathy-pugh-edx/)” - a seminar I attended at the University of Adelaide. The third oldest university in Australia had invited a speaker from one of the hottest edtech players in the world - edX. 
 
+![digital disruption education adelaide edx]({{site.baseurl}}/images/img_edudisrupt_edx1.jpg)
+*Digital education disruption seminar at the University of Adelaide*
+
 ## Quick overview of edX 
 
 This MOOC provider was actually founded by two prestigious universities Harvard and MIT in 2012. Supposedly, it was in response to the “[tsunami](http://www.thecrimson.com/article/2015/5/28/the-founders/)” of MOOCs predicted to revolutionise higher education. 
@@ -49,27 +52,27 @@ This MOOC provider was actually founded by two prestigious universities Harvard 
 Being both nonprofit and open-source, [edX](https://www.edx.org/about-us) partners with over 120 universities, nonprofits, and institutions around the world who host courses on their platform. The University of Adelaide is one of these partners. 
 
 ![edX MOOC platform stats]({{site.baseurl}}/images/img_edudisrupt_edx2.png)
-*edX platform stats
+*edX platform stats*
 
 The open-source technology behind edX is [Open edX](https://open.edx.org/about-open-edx), which enables educators and technologists to “build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere.” 
 
-Whether MOOCs would be able to replace universities is another topic, The jury is still out on the efficacy of MOOCs but it makes me wonder: if slow-moving, colossal bodies such as educational institutions are doing something to adapt to change, why wouldn’t businesses? 
+The jury is still out on the efficacy of MOOCs but it makes me wonder: if slow-moving, colossal bodies such as educational institutions are doing something to adapt to change, why wouldn’t businesses? 
 
 In this blog post, we’ll explore the narrative of digital disruption using the education sector as an example.  
 
 # How self-disruption becomes the answer to disruption  
 
-As mentioned above, edX came about when Ivy League colleges in America anticipated the information revolution was coming to education. 
+As mentioned above, edX came about when Ivy League colleges in America anticipated the [information revolution](https://www.theatlantic.com/business/archive/2012/05/the-big-idea-that-can-revolutionize-higher-education-mooc/256926/) was coming to education. 
 
 ## Exploring education through jobs to be done
 
 Before discussing disruption, let’s go back to the basics. Why do universities exist or what jobs do students “hire” universities for? 
 
-Using the Jobs to be done framework, we can list a few jobs as follows: 
+Using the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, we can list a few jobs as follows: 
 
-- Personal interactions with lecturers and fellow students 
+**- Personal interactions with lecturers and fellow students 
 - Knowledge itself and the process of acquiring knowledge
-- Job-readiness training 
+- Job-readiness training **
 
 To disrupt universities, MOOC providers need to help users do enough of these “jobs” better, and hence remove any motivation to attend a physical university. 
 
@@ -92,15 +95,16 @@ A faster, more flexible, and free way to try graduate level courses offered by u
 
 => Potentially doing job #2 better
 
-*edX’s three programs*
+![edX programs micromasters]({{site.baseurl}}/images/img_edudisrupt_edx3.png)
+*[edX](https://www.edx.org)’s three programs*
 
 Have you noticed job #1 hasn’t been addressed? But more on that later. 
 
 ## Why haven MOOCs been able to thrive?
 
-In a previous blog post on the Jobs to be done framework, we’ve said: “online learning has proliferated due to the non-consumption of traditional university courses.” 
+In a previous blog post on the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, we’ve said: “online learning has proliferated due to the non-consumption of traditional university courses.” 
 
-These non-consumers are people who think university degrees are too expensive or complex. Thus, online learning enabled by edtech players such as edX and lynda.com could disrupt universities by:
+These non-consumers are people who think university degrees are too _expensive_ or _complex_. Thus, online learning enabled by edtech players such as edX and lynda.com could disrupt universities by:
 
 - Making knowledge more accessible and in many cases, free
 - Targeting those pursuing professional learning with self-paced courses
@@ -110,42 +114,45 @@ These non-consumers are people who think university degrees are too expensive or
 
 This is when start-ups chip away market share from the incumbent by providing users just the bit they need, the bit they value most, instead of the whole package.
 
-*How start-ups unbundle services of a traditional bank. More in our blog post on digital transformation here.
+![digital transformation unbundling ]({{site.baseurl}}/images/img_digitrans_unbundling.png)
+*How start-ups unbundle services of a traditional bank. More in our blog post on [digital transformation](http://blog.enabled.com.au/digital-transformation/).*
 
-The unbundling trend has come to education. If we think of a university degree as a bundle, then the bundle contains: content + time + credit (certification). MOOCs unbundle education and let people pick and choose what they want. Examples of edX’s unbundling: 
+The unbundling trend has come to education. If we think of a university degree as a bundle, then the bundle contains: **content + time + credit** (certification). MOOCs unbundle education and let people pick and choose what they want. 
+
+Examples of edX’s unbundling: 
 
 - People can learn for free and pay when they want a certificate
 - People can pick the subjects they are interested in instead of full-fledged degrees 
 - MicroMasters in 6 months vs. full Masters degree in 18 months
- 
 
 ## edX as self-disruption 
 
 As you can see, the founding universities - Harvard and MIT - along with a bunch of prestigious universities have embarked on dual-path journey. On one hand, they still keep the existing business model based on selling the physical learning experience. On the other, they’ve dabbled into a new technology-enabled model based on MOOCs. 
 
-If you’re interested in the topic, we’ve also written about Xerox as a case of dual digital transformation in the business world. 
+If you’re interested in the topic, we’ve also written about Xerox as a case of dual-path [digital transformation](http://blog.enabled.com.au/digital-transformation/) in the business world. 
 
 # What are Australian universities doing to combat disruption? 
 
 Once universities identify where they’re most vulnerable, they can decide whether they need to respond and if so, in what manner. 
 
-In the University of Adelaide’s case, AdelaideX is the response. They decided to join forces with Harvard and MIT through edX. 
+In the University of Adelaide’s case, [AdelaideX](https://www.edx.org/school/adelaidex) is the response. They decided to join forces with Harvard and MIT through edX. 
 
 This is where the university puts up 16 online courses (as of today) for learners to either “audit” for free or pay to get a certificate in the end. With the exception of one MicroMasters program, AdelaideX offers introductory, stand-alone courses on subjects ranging from business to wine tasting.  
 
 It was a refreshing moment when Kathy Pugh - edX’s vice-president of Educational Services – mentioned the impact of Adelaide University on this global platform. 
 
-*University of Adelaide (highlighted in red square) featured prominently on edX’s website among the likes of MIT, Harvard and Berkeley 
+![digital disruption education adelaide edx]({{site.baseurl}}/images/img_edudisrupt_edxJPG.JPG)
+*University of Adelaide (highlighted in red square) featured prominently on edX’s website among the likes of MIT, Harvard and Berkeley*
 
-The AdelaideX initiative has seen some interesting initial results for the university, such as some high-rating courses, and commendation for instructors’ quality. We can’t say if this is enough to ward off disruption but let’s analyse this initiative through the three lenses – human, technology, business. 
+The [AdelaideX](https://www.edx.org/school/adelaidex) initiative has seen some interesting initial results for the university, such as some high-rating courses, and commendation for instructors’ quality. We can’t say if this is enough to ward off disruption but let’s analyse this initiative through the three lenses – human, technology, business. 
 
 ## Human factors
 
-It’s not pure chance that human-centred design has gained prominence over the years. The simple truth that many fail to realise is that users/ customers have the final say. On the danger of mature companies’ complacency: “Take your eyes off the problem and soon a competitor will be solving it better.”
+It’s not pure chance that human-centred design has gained prominence over the years. The simple truth that many fail to realise is that users/ customers have the final say. On the danger of mature companies’ [complacency](http://blog.enabled.com.au/web-summit-2016/): “Take your eyes off the problem and soon a competitor will be solving it better.”
 
 AdelaideX, among similar offerings from other universities, recognises the need for education to meet learners where they are instead of dictating the program structure or location of learning. 
 
-Interestingly, edX’s consortium of university partners have conducted research using data from their online learning platform. With the aim of improving course outcomes, the research is concerned with some very human-centred questions such as:
+Interestingly, edX’s consortium of university partners have conducted research using data from their [online learning](https://www.edx.org/about/research-pedagogy) platform. With the aim of improving course outcomes, the research is concerned with some very human-centred questions such as:
 
 - What motivates students to learn and persist?
 - What helps students retain knowledge?
@@ -155,25 +162,27 @@ Interestingly, edX’s consortium of university partners have conducted research
 
 The transparent course review and feedback system from users helps universities take user needs more seriously.
 
-*Reviews displayed on an AdelaideX course
+![adelaidex course review]({{site.baseurl}}/images/img_edudisrupt_adex.png)
+*Reviews displayed on an [AdelaideX](https://www.edx.org/course/essential-human-biology-cells-tissues-adelaidex-humbio101x-1) course*
 
 Nonetheless, human factors not only concern external users, but also internal stakeholders. During the panel discussion in the event I attended, it was evident that online courses have impacted the way lecturers teach as well. 
 
-It would be interesting to see how university lecturers compete with individual course instructors on platforms like Udemy, who are usually high-profile subject domain experts or industry veterans. 
+It would be interesting to see how university lecturers compete with individual course instructors on platforms like [Udemy](https://www.udemy.com/), who are usually high-profile subject domain experts or industry veterans. 
 
 ## Technology factors
 
-Back in 1858, John Henry Newman described a university in The Idea of a University as “a place for the communication and circulation of thought, by means of personal intercourse, through a wide extent of country.”
+Back in 1858, John Henry Newman described a university in [The Idea of a University](http://www.bartleby.com/28/2.html) as “a place for the communication and circulation of thought, by means of personal intercourse, through a wide extent of country.”
 
-Even with the advent of the Internet, this idea still holds true. In fact, this may be the trump card that could “save” brick-and-mortar universities (see Job #1 of a university’s jobs to be done mentioned above). 
+Even with the advent of the Internet, this idea still holds true. In fact, this may be the trump card that could “save” brick-and-mortar universities (see Job #1 of a university’s **jobs to be done** mentioned above). 
 
 That means, in responding to online learning, universities need to do more than just moving content found in textbooks to a digital platform. 
 
 Many Universities still have great instructors in the classroom can technology allow these teachers to scale what they’re doing?
 
-“If established institutions make judicious use of learning technology where it demonstrably helps students, they gain credibility to insist that most of what else they offer on campus is a qualitatively different experience—one that technology can’t replace” - MIT Technology Review.
+“If established institutions make judicious use of [learning technology](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/) where it demonstrably helps students, they gain credibility to insist that most of what else they offer on campus is a qualitatively different experience—one that technology can’t replace” - [MIT Technology Review](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/).
  
-*How technology helps scale access. Source: MIT Technology Review
+ ![education disruption moocs ]({{site.baseurl}}/images/img_edudisrupt_teaching.jpg)
+*How technology helps scale access. Source: [MIT Technology Review](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/)*
 
 ## Business factors
 
@@ -182,15 +191,19 @@ Some business benefits of programs like AdelaideX are:
 - New marketing and sales channel: reaching new market segments (previously non-consumers)
 - Branding awareness/goodwill: not only in terms of academic reputation, but also social impact (free courses for those who can’t afford degree education)
 
-It’s still too early to tell the ROI of AdelaideX, but as discussed at the event, it is viewed as a long-term investment which has many benefits you “can’t put a dollar value” on. Universities are hoping online courses - especially pathway programs like edX’s MicroMasters - can eventually convert learners into fee-paying students on campus. 
+It’s still too early to tell the ROI of AdelaideX, but as discussed at the event, it is viewed as a long-term investment which has many benefits you “can’t put a dollar value” on. 
 
-A report on online learning a few years ago echoed this sentiment: 
+Universities are hoping online courses - especially pathway programs like edX’s [MicroMasters](https://www.edx.org/micromasters) - can eventually convert learners into fee-paying students on campus. 
+
+A report on [online learning](http://www.smh.com.au/digital-life/digital-life-news/australian-universities-to-offer-free-classes-online-20130730-2qxyr.html) a few years ago echoed this sentiment: 
 
 > “It's not as if iTunes killed the Rolling Stones or going to a Rolling Stones concert, in fact maybe those are even more attractive now because you can buy a playlist on iTunes.”
 
 As an interesting figure I heard at the event, AdelaideX’s predicted conversion rate is 10%. And they have started working on strategies to nudge MOOC learners towards becoming University of Adelaide’s on-campus students.   
 
-*Australian universities on various MOOC platforms as of today
+![australia university mooc group of 8]({{site.baseurl}}/images/img_edudisrupt_g8.png)
+
+*Australian universities on various MOOC platforms as of today*
 
 # No one can afford to do nothing
 
@@ -202,7 +215,7 @@ Typically, universities are responding to the rise of online learning in three w
 
 I believe the same narrative applies in the corporate setting, where companies contemplate what to do in the face of digital disruption. Universities and corporations are similar in the sense that they are businesses. 
 
-As such, companies can choose to downplay the risk of becoming irrelevant, race to buy more tech, or take a more holistic approach to digital transformation. 
+As such, companies can choose to downplay the risk of becoming irrelevant, race to buy more tech, or take a more holistic approach to [digital transformation](http://blog.enabled.com.au/digital-transformation/). 
 
 Some starting questions to help determine the direction could be:
 
@@ -210,5 +223,4 @@ Some starting questions to help determine the direction could be:
 - Are there opportunities for competitors to go after those non-consumers? 
 - How do we give customers more of what they want and less (or none) of what they don’t?
 
-It’s evident that disruption is happening across the board. Are you taking the right action (if any)? 
-
+It’s evident that disruption is happening across the board. Are you taking the right action (if any)?

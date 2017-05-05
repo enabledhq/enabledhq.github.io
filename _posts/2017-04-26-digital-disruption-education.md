@@ -10,13 +10,13 @@ meta-keywords: >-
   education
 meta-description: >-
   Digital disruption is coming to education. How universities fight back: an
-  Adelaide uni joins force with a MOOC provider & what you can learn from this.
+  Adelaide uni joins force with a MOOC provider & what you can learn.
 description: >-
   Digital disruption is coming to education. How universities fight back: an
-  Adelaide uni joins force with a MOOC provider & what you can learn from this.
+  Adelaide uni joins force with a MOOC provider & what you can learn.
 excerpt: >-
   Digital disruption is coming to education. How universities fight back: an
-  Adelaide uni joins force with a MOOC provider & what you can learn from this.
+  Adelaide uni joins force with a MOOC provider & what you can learn.
 author:
   - linh
   - grant

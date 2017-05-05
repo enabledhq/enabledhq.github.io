@@ -34,7 +34,7 @@ The buzzword “disruption” in the business world is as ubiquitous as emojis a
 
 # Education disrupted
 
-Armed with platform technology, some potential disruptors have emerged over the last two decades - from series of YouTube videos (which is how [Khan Academy](https://www.khanacademy.org/) started), to more serious platforms such as [Lynda.com](https://www.lynda.com/), [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/). Together they have given rise to the Massive Open Online Courses (MOOCs) movement.
+Armed with platform technology, some potential disruptors have emerged over the last two decades - from series of YouTube videos (which is how [Khan Academy](https://www.khanacademy.org/) started), to more serious platforms such as [Lynda.com](https://www.lynda.com/) and [Coursera](https://www.coursera.org/). Together they have given rise to the Massive Open Online Courses (MOOCs) movement.
 
 Clayton Christensen - who coined the term “[Disruptive Innovation](http://blog.enabled.com.au/mass-disruption/)” - considers MOOCs a potentially [disruptive technology](http://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital) that can replace weak universities. Moreover, “**fifteen years from now more than half of the universities [in America] will be in bankruptcy.**”
 

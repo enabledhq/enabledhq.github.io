@@ -28,13 +28,13 @@ Digital disruption is coming to education. How universities fight back: >-
   this
 short-link: 'https://goo.gl/0XK2Ps'
 ---
-The buzzword “disruption” in the business world is as ubiquitous as emojis are in messages these days. It even feels clichéd to mention how Netflix disrupted DVD rentals, Airbnb disrupted hotels, and Uber disrupted taxis. But what about education, in particular higher education? As some of the most regimented institutions in society, can Universities be disrupted? 
+The buzzword “disruption” in the business world is as ubiquitous as emojis are in messages these days. It even feels clichéd to mention how **Netflix** disrupted DVD rentals, **Airbnb** disrupted hotels, and **Uber** disrupted taxis. But what about education, in particular higher education? As some of the most regimented institutions in society, can Universities be disrupted? 
 
 # Education disrupted
 
 Armed with platform technology, some potential disruptors have emerged over the last two decades - from series of YouTube videos (which is how [Khan Academy](https://www.khanacademy.org/) started), to more serious platforms such as [Lynda.com](https://www.lynda.com/), [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/). Together they have given rise to the Massive Open Online Courses (MOOCs) movement.
 
-Clayton Christensen - who coined the term “[Disruptive Innovation](http://blog.enabled.com.au/mass-disruption/)” - considers MOOCs a potentially [disruptive technology](http://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital) that can replace weak universities. Moreover, “fifteen years from now more than half of the universities [in America] will be in bankruptcy.”
+Clayton Christensen - who coined the term “[Disruptive Innovation](http://blog.enabled.com.au/mass-disruption/)” - considers MOOCs a potentially [disruptive technology](http://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital) that can replace weak universities. Moreover, “**fifteen years from now more than half of the universities [in America] will be in bankruptcy.**”
 
 [MOOCs](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/) are “making everybody sit up and answer the following question: ‘How can I justify charging students $45,000 a year to attend large lectures when they can find better exemplars on the Internet?’”
 
@@ -70,9 +70,9 @@ Before discussing disruption, let’s go back to the basics. Why do universities
 
 Using the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, we can list a few jobs as follows: 
 
-**- Personal interactions with lecturers and fellow students 
-- Knowledge itself and the process of acquiring knowledge
-- Job-readiness training **
+1. **Personal interactions with lecturers and fellow students 
+1. Knowledge itself and the process of acquiring knowledge
+1. Job-readiness training**
 
 To disrupt universities, MOOC providers need to help users do enough of these “jobs” better, and hence remove any motivation to attend a physical university. 
 
@@ -86,7 +86,8 @@ A faster, more flexible, and free way to try graduate level courses offered by u
 
 ### Professional Certificate
 
-“Series of courses designed by industry leaders and top universities to build and enhance critical professional skills needed to succeed in today's most in-demand fields.”
+“Series of courses designed by industry leaders and top universities to build and enhance critical professional skills needed to succeed in today's most in-demand fields.”\
+
 => Potentially doing job #3 better
 
 ### XSeries 
@@ -142,7 +143,7 @@ This is where the university puts up 16 online courses (as of today) for learner
 It was a refreshing moment when Kathy Pugh - edX’s vice-president of Educational Services – mentioned the impact of Adelaide University on this global platform. 
 
 ![digital disruption education adelaide edx]({{site.baseurl}}/images/img_edudisrupt_edxJPG.JPG)
-*University of Adelaide (highlighted in red square) featured prominently on edX’s website among the likes of MIT, Harvard and Berkeley*
+*University of Adelaide (highlighted in red square) featured prominently on edX’s website among the likes of MIT & Harvard*
 
 The [AdelaideX](https://www.edx.org/school/adelaidex) initiative has seen some interesting initial results for the university, such as some high-rating courses, and commendation for instructors’ quality. We can’t say if this is enough to ward off disruption but let’s analyse this initiative through the three lenses – human, technology, business. 
 
@@ -177,7 +178,7 @@ Even with the advent of the Internet, this idea still holds true. In fact, this 
 
 That means, in responding to online learning, universities need to do more than just moving content found in textbooks to a digital platform. 
 
-Many Universities still have great instructors in the classroom can technology allow these teachers to scale what they’re doing?
+Many universities still have great instructors in the classroom can technology allow these teachers to scale what they’re doing?
 
 “If established institutions make judicious use of [learning technology](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/) where it demonstrably helps students, they gain credibility to insist that most of what else they offer on campus is a qualitatively different experience—one that technology can’t replace” - [MIT Technology Review](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/).
  

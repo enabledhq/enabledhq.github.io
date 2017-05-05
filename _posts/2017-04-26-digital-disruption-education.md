@@ -84,19 +84,19 @@ edX’s attempt can be encapsulated in their three programs, or structured serie
 
 A faster, more flexible, and free way to try graduate level courses offered by universities for those wishing to advance their careers. “Students may apply to the university offering credit for the MicroMasters certificate and, if accepted, can pursue an accelerated and less expensive Master’s Degree.”
 
-=> Potentially doing job #2 and #3 better
+=> Potentially doing job **#2** and **#3** better
 
 ### Professional Certificate
 
 “Series of courses designed by industry leaders and top universities to build and enhance critical professional skills needed to succeed in today's most in-demand fields.”\
 
-=> Potentially doing job #3 better
+=> Potentially doing job **#3** better
 
 ### XSeries 
 
 “Created by world-renowned experts and top universities, XSeries programs provide a deep understanding of exciting and in-demand fields.”
 
-=> Potentially doing job #2 better
+=> Potentially doing job **#2** better
 
 ![edX programs micromasters]({{site.baseurl}}/images/img_edudisrupt_edx3.png)
 *[edX](https://www.edx.org)’s three programs*

@@ -107,7 +107,7 @@ Have you noticed job **#1** hasn’t been addressed? But more on that later.
 
 ## Why haven't MOOCs been able to thrive?
 
-In a previous blog post on the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, we’ve said: “online learning has proliferated due to the non-consumption of traditional university courses.” 
+In a previous blog post on the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, we’ve said: “online learning has proliferated due to the **non-consumption** of traditional university courses.” 
 
 These non-consumers are people who think university degrees are too _expensive_ or _complex_. Thus, online learning enabled by edtech players such as edX and lynda.com could disrupt universities by:
 

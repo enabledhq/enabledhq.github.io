@@ -22,6 +22,7 @@ author:
 main-category: innovation
 categories:
   - innovation
+  - technology
 Digital disruption is coming to education. How universities fight back: >-
   an Adelaide uni joins force with a MOOC provider & what you can learn from
   this

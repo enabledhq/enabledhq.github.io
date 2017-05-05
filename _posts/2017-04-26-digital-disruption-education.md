@@ -18,7 +18,6 @@ excerpt: >-
   Digital disruption is coming to education. How universities fight back: an
   Adelaide uni joins force with a MOOC provider & what you can learn.
 author:
-  - linh
   - grant
 main-category: innovation
 categories:

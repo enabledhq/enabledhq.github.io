@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-05-05 15:03 +0930'
-published: false
+published: true
 title: What you can learn from Universities’ response to digital disruption
 meta-keywords: >-
   digital disruption, disruptive technology, online learning, mooc, disruptive

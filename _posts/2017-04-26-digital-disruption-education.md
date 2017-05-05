@@ -90,7 +90,7 @@ A faster, more flexible, and free way to try graduate level courses offered by u
 
 ### Professional Certificate
 
-“Series of courses designed by industry leaders and top universities to build and enhance critical professional skills needed to succeed in today's most in-demand fields.”\
+“Series of courses designed by industry leaders and top universities to build and enhance critical professional skills needed to succeed in today's most in-demand fields.”
 
 => Potentially doing job **#3** better
 

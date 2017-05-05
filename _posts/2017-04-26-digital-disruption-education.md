@@ -183,7 +183,7 @@ Even with the advent of the Internet, this idea still holds true. In fact, this 
 
 That means, in responding to online learning, universities need to do more than just moving content found in textbooks to a digital platform. 
 
-Many universities still have great instructors in the classroom can technology allow these teachers to scale what they’re doing?
+Many universities still have great instructors in the classroom and technology could allow these teachers to scale what they’re doing.
 
 “If established institutions make judicious use of [learning technology](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/) where it demonstrably helps students, they gain credibility to insist that most of what else they offer on campus is a qualitatively different experience—one that technology can’t replace” - [MIT Technology Review](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/).
  

@@ -26,6 +26,7 @@ categories:
 Digital disruption is coming to education. How universities fight back: >-
   an Adelaide uni joins force with a MOOC provider & what you can learn from
   this
+short-link: 'https://goo.gl/0XK2Ps'
 ---
 The buzzword “disruption” in the business world is as ubiquitous as emojis are in messages these days. It even feels clichéd to mention how Netflix disrupted DVD rentals, Airbnb disrupted hotels, and Uber disrupted taxis. But what about education, in particular higher education? As some of the most regimented institutions in society, can Universities be disrupted? 
 
@@ -35,19 +36,22 @@ Armed with platform technology, some potential disruptors have emerged over the 
 
 Clayton Christensen - who coined the term “[Disruptive Innovation](http://blog.enabled.com.au/mass-disruption/)” - considers MOOCs a potentially [disruptive technology](http://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital) that can replace weak universities. Moreover, “fifteen years from now more than half of the universities [in America] will be in bankruptcy.”
 
-MOOCs are “making everybody sit up and answer the following question: ‘How can I justify charging students $45,000 a year to attend large lectures when they can find better exemplars on the Internet?’”
+[MOOCs](https://www.technologyreview.com/s/533406/what-are-moocs-good-for/) are “making everybody sit up and answer the following question: ‘How can I justify charging students $45,000 a year to attend large lectures when they can find better exemplars on the Internet?’”
 
 I can tell you that Universities are feeling the pinch of potential disruption from online learning. And they are doing something about it. 
 
-This is reflected in “The Digital Education Disruption” - a seminar I attended at the University of Adelaide. The third oldest university in Australia had invited a speaker from one of the hottest edtech players in the world - edX. 
+This is reflected in “The [Digital Education Disruption](https://blogs.adelaide.edu.au/adelaidex/2017/03/22/the-digital-education-disruption-kathy-pugh-edx/)” - a seminar I attended at the University of Adelaide. The third oldest university in Australia had invited a speaker from one of the hottest edtech players in the world - edX. 
 
 ## Quick overview of edX 
 
-This MOOC provider was actually founded by two prestigious universities Harvard and MIT in 2012. Supposedly, it was in response to the “tsunami” of MOOCs predicted to revolutionise higher education. 
+This MOOC provider was actually founded by two prestigious universities Harvard and MIT in 2012. Supposedly, it was in response to the “[tsunami](http://www.thecrimson.com/article/2015/5/28/the-founders/)” of MOOCs predicted to revolutionise higher education. 
 
-Being both nonprofit and open-source, edX partners with over 120 universities, nonprofits, and institutions around the world who host courses on their platform. The University of Adelaide is one of these partners. 
+Being both nonprofit and open-source, [edX](https://www.edx.org/about-us) partners with over 120 universities, nonprofits, and institutions around the world who host courses on their platform. The University of Adelaide is one of these partners. 
 
-The open-source technology behind edX is Open edX, which enables educators and technologists to “build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere.” 
+![edX MOOC platform stats]({{site.baseurl}}/images/img_edudisrupt_edx2.png)
+*edX platform stats
+
+The open-source technology behind edX is [Open edX](https://open.edx.org/about-open-edx), which enables educators and technologists to “build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere.” 
 
 Whether MOOCs would be able to replace universities is another topic, The jury is still out on the efficacy of MOOCs but it makes me wonder: if slow-moving, colossal bodies such as educational institutions are doing something to adapt to change, why wouldn’t businesses? 
 

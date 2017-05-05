@@ -74,8 +74,8 @@ Before discussing disruption, let’s go back to the basics. Why do universities
 Using the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, we can list a few jobs as follows: 
 
 **1. Personal interactions with lecturers and fellow students**
-**1. Knowledge itself and the process of acquiring knowledge**
-**1. Job-readiness training**
+**2. Knowledge itself and the process of acquiring knowledge**
+**3. Job-readiness training**
 
 To disrupt universities, MOOC providers need to help users do enough of these “jobs” better, and hence remove any motivation to attend a physical university. 
 

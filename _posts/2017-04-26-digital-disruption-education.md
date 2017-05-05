@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-04-26 15:03 +0930'
+date: '2017-05-05 15:03 +0930'
 published: false
 title: What you can learn from Universities’ response to digital disruption
 meta-keywords: >-
@@ -8,6 +8,24 @@ meta-keywords: >-
   innovation, jobs to be done, human centred design, digital transformation,
   innovation in education, edtech, educational technology, technology in
   education
+meta-description: >-
+  Digital disruption is coming to education. How universities fight back: an
+  Adelaide uni joins force with a MOOC provider & what you can learn from this.
+description: >-
+  Digital disruption is coming to education. How universities fight back: an
+  Adelaide uni joins force with a MOOC provider & what you can learn from this.
+excerpt: >-
+  Digital disruption is coming to education. How universities fight back: an
+  Adelaide uni joins force with a MOOC provider & what you can learn from this.
+author:
+  - linh
+  - grant
+main-category: innovation
+categories:
+  - innovation
+Digital disruption is coming to education. How universities fight back: >-
+  an Adelaide uni joins force with a MOOC provider & what you can learn from
+  this
 ---
 The buzzword “disruption” in the business world is as ubiquitous as emojis are in messages these days. It even feels clichéd to mention how Netflix disrupted DVD rentals, Airbnb disrupted hotels, and Uber disrupted taxis. But what about education, in particular higher education? As some of the most regimented institutions in society, can Universities be disrupted? 
 

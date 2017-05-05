@@ -72,9 +72,9 @@ Before discussing disruption, let’s go back to the basics. Why do universities
 
 Using the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, we can list a few jobs as follows: 
 
-1. **Personal interactions with lecturers and fellow students**
-1. **Knowledge itself and the process of acquiring knowledge**
-1. **Job-readiness training**
+**1. Personal interactions with lecturers and fellow students**
+**1. Knowledge itself and the process of acquiring knowledge**
+**1. Job-readiness training**
 
 To disrupt universities, MOOC providers need to help users do enough of these “jobs” better, and hence remove any motivation to attend a physical university. 
 
@@ -101,7 +101,7 @@ A faster, more flexible, and free way to try graduate level courses offered by u
 ![edX programs micromasters]({{site.baseurl}}/images/img_edudisrupt_edx3.png)
 *[edX](https://www.edx.org)’s three programs*
 
-Have you noticed job #1 hasn’t been addressed? But more on that later. 
+Have you noticed job **#1** hasn’t been addressed? But more on that later. 
 
 ## Why haven MOOCs been able to thrive?
 

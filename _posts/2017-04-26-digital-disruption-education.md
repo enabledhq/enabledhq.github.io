@@ -123,7 +123,7 @@ This is when start-ups chip away market share from the incumbent by providing us
 ![digital transformation unbundling ]({{site.baseurl}}/images/img_digitrans_unbundling.png)
 *How start-ups unbundle services of a traditional bank. More in our blog post on [digital transformation](http://blog.enabled.com.au/digital-transformation/).*
 
-The unbundling trend has come to education. If we think of a university degree as a bundle, then the bundle contains: **content + time + credit** (certification). MOOCs unbundle education and let people pick and choose what they want. 
+The unbundling trend has come to education. If we think of a university degree as a bundle, then the bundle contains: **experts + content + time + credit** (certification). MOOCs unbundle education and let people pick and choose what they want. 
 
 Examples of edX’s unbundling: 
 

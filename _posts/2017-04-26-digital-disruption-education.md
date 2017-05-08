@@ -114,7 +114,7 @@ These non-consumers are people who think university degrees are too _expensive_ 
 
 - Making knowledge more accessible and in many cases, free
 - Targeting those pursuing professional learning with self-paced courses
-- Offering more vocational, modern, specific or just courses on subjects that you’d never find in university degrees (e.g. courses on 3D modelling, body language etc.)
+- Offering more vocational, modern, specific or just courses on subjects that you’d never find in university degrees (e.g. courses on personal time management, understanding body language etc.)
 
 ## The age of unbundling 
 

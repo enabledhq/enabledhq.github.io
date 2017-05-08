@@ -208,7 +208,7 @@ A report on [online learning](http://www.smh.com.au/digital-life/digital-life-ne
 As an interesting figure I heard at the event, AdelaideX’s predicted conversion rate from online learners to on-campus students is 10%. Seeing the potential, they have started working on strategies to nudge these MOOC learners.   
 
 ![australia university mooc group of 8]({{site.baseurl}}/images/img_edudisrupt_g8.png)
-*Australian universities on various MOOC platforms as of today*
+*The alignment of Australian universities with respective MOOC platforms as of today*
 
 # No one can afford to do nothing
 

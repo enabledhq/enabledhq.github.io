@@ -205,7 +205,7 @@ A report on [online learning](http://www.smh.com.au/digital-life/digital-life-ne
 
 > “It's not as if iTunes killed the Rolling Stones or going to a Rolling Stones concert, in fact maybe those are even more attractive now because you can buy a playlist on iTunes.”
 
-As an interesting figure I heard at the event, AdelaideX’s predicted conversion rate is 10%. And they have started working on strategies to nudge MOOC learners towards becoming University of Adelaide’s on-campus students.   
+As an interesting figure I heard at the event, AdelaideX’s predicted conversion rate from online learners to on-campus students is 10%. Seeing the potential, they have started working on strategies to nudge these MOOC learners.   
 
 ![australia university mooc group of 8]({{site.baseurl}}/images/img_edudisrupt_g8.png)
 *Australian universities on various MOOC platforms as of today*

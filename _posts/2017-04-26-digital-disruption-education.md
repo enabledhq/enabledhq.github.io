@@ -101,10 +101,10 @@ A faster, more flexible, and free way to try graduate level courses offered by u
 
 => Potentially doing job **#2** better
 
+Have you noticed job **#1** hasn’t been addressed? But more on that later. 
+
 ![edX programs micromasters]({{site.baseurl}}/images/img_edudisrupt_edx3.png)
 *[edX](https://www.edx.org)’s three programs*
-
-Have you noticed job **#1** hasn’t been addressed? But more on that later. 
 
 ## Why have MOOCs been able to thrive?
 

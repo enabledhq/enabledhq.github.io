@@ -32,6 +32,9 @@ hero-banner: /images/Blog_header_edudisrupt.png
 ---
 The buzzword “disruption” in the business world is as ubiquitous as emojis are in messages these days. It even feels clichéd to mention how **Netflix** disrupted DVD rentals, **Airbnb** disrupted hotels, and **Uber** disrupted taxis. But what about education, in particular higher education? As some of the most regimented institutions in society, can Universities be disrupted? 
 
+<script type="text/javascript" src="//cdn.playbuzz.com/widget/feed.js"></script>
+<div class="pb_feed" data-embed-by="6698ded1-6131-4615-b2de-f2b9690f089a" data-item="ddc21f79-a5f2-4376-864b-673bea05f80d" data-version="2"></div>
+
 # Education disrupted
 
 Armed with platform technology, some potential disruptors have emerged over the last two decades - from series of YouTube videos (which is how [Khan Academy](https://www.khanacademy.org/) started), to more serious platforms such as [Lynda.com](https://www.lynda.com/) and [Coursera](https://www.coursera.org/). Together they have given rise to the Massive Open Online Courses (MOOCs) movement.

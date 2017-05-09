@@ -30,6 +30,8 @@ short-link: 'https://goo.gl/0XK2Ps'
 image: /images/img_edudisrupt_thumb.png
 hero-banner: /images/Blog_header_edudisrupt.png
 ---
+![digital disruption education]({{site.baseurl}}/images/img_edudisrupt.gif)
+
 The buzzword “disruption” in the business world is as ubiquitous as emojis are in messages these days. It even feels clichéd to mention how **Netflix** disrupted DVD rentals, **Airbnb** disrupted hotels, and **Uber** disrupted taxis. But what about education, in particular higher education? As some of the most regimented institutions in society, can Universities be disrupted? 
 
 # Education disrupted

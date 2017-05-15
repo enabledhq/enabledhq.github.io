@@ -1,9 +1,10 @@
 ---
 layout: post
 date: '2016-09-14 13:54 +0930'
-title: 'How to Increase The Success Rate of Software Development'
+title: How to Increase The Success Rate of Software Development
 published: true
-author: grant
+author:
+  - grant
 main-category: technology
 categories:
   - technology
@@ -217,3 +218,8 @@ Slack - the enterprise messaging app that went from $0 to $1B - is a result of s
 They weave customer support and [product development](https://growthhackers.com/growth-studies/slack-fastest-growing-b2b-saas-business-ever) into their strategy. “Slack responds to around 8,000 Zendesk help tickets and an additional 10,000 tweets per month” and more importantly, learns from them.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6ev7bbOWZHp747" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EnabledSolutions/how-to-increase-the-success-rate-of-software-development-66137423">
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

@@ -1,9 +1,10 @@
 ---
 layout: post
 date: '2016-08-08 16:54 +0930'
-title: 'How NDIS Glitch Gives Software Suppliers a Bad Name'
+title: How NDIS Glitch Gives Software Suppliers a Bad Name
 published: true
-author: grant
+author:
+  - grant
 main-category: technology
 categories:
   - technology
@@ -76,3 +77,8 @@ So to summarise:
 - This job can take the form of a second phase because our client realised success
 - Or a satisfied client with a successful job will tell a friend and grow our client base
 - The closer we take a client to their limit, the less likely that any of these can happen
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

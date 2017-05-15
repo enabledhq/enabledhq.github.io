@@ -3,7 +3,8 @@ layout: post
 date: '2016-07-07 13:09 +0930'
 title: 'Can You Mix and Match Your Way to a Platform Business Model? '
 published: true
-author: linh
+author:
+  - linh
 main-category: innovation
 categories:
   - innovation
@@ -165,3 +166,8 @@ It gets more complicated as you consider multiple sides of platforms, which may 
 Moving from the old to the new is daunting, as it might involve self-disruption. If you already have an existing business, it might be worth building synergy and momentum rather than worrying about brand cannibalisation. **Domino’s** has experienced unprecedented growth following the introduction of [Pizza Mogul](http://ausfoodnews.com.au/2015/02/11/dominos-attributes-record-profits-to-innovations-and-new-initiatives.html). If **Domino’s** had been more concerned about the new platform eating into the sales of their own pizzas, would they be here today? 
 
 At the end of the day, examining your own business strengths and resources will help determine whether your platform is part of a bigger corporate strategy, or a business in itself.
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

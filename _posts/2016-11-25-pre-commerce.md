@@ -3,7 +3,8 @@ layout: post
 date: '2016-11-25 17:26 +1030'
 title: Why You Should Care About Pre-Commerce Now
 published: true
-author: linh
+author:
+  - linh
 main-category: entrepreneurship
 categories:
   - innovation
@@ -231,3 +232,8 @@ In fact, some forward-looking incumbents have already accepted the fact that “
 Remember: “What separates your brand and company from a world of [innovative](https://www.fastcoexist.com/1681686/the-rise-of-pre-commerce) independent designers is only a semi-permeable membrane.”
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tzuEnU36Fs2XMx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EnabledSolutions/why-you-should-care-about-precommerce-now" title="Why You Should Care About Pre-Commerce Now" target="_blank">Why You Should Care About Pre-Commerce Now</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/EnabledSolutions">Enabled </a></strong> </div>
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

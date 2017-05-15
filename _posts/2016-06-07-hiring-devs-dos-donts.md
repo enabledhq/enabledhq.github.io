@@ -7,7 +7,8 @@ main-category: technology
 categories:
   - technology
 short-link: 'http://bit.ly/21nFyHa'
-author: grant
+author:
+  - grant
 hero-banner: /images/Blog_Header_howtohire.jpg
 image: /images/img_howtohire_thumb.jpg
 meta-keywords: >-
@@ -121,3 +122,8 @@ It is acceptable for a developer to ask for a deposit, this demonstrates your co
 
 __It is hard to get a personal meeting or get them on the phone__<br />
 No news is good news, unless you are asking for news then the opposite is true. Not being able to get a voice call with your developer from time to time could certainly be a warning sign, even when working with developers in other geographical locations. That said, you should also be sensitive to your developer by giving them room to operate. Too much communication can slow a development down.
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

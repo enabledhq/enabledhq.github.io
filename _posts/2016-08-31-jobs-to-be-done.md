@@ -1,9 +1,10 @@
 ---
 layout: post
 date: '2016-09-02 17:32 +0930'
-title: 'Why Traditional User Research Is Not Enough to Build a Great Product'
+title: Why Traditional User Research Is Not Enough to Build a Great Product
 published: true
-author: linh
+author:
+  - linh
 categories:
   - innovation
   - entrepreneurship
@@ -175,3 +176,8 @@ There is a very compelling job story behind Grabr which stems from a unique situ
 Nonetheless, safety and legal issues such as smuggling might become obstacles to growth, often due to the nature of a peer-to-peer platform. If **Grabr** could safeguard their business like Airbnb and Uber, they stand a good chance of becoming a disruptive force.
  
 _*Disclaimer: We’re not affiliated, endorsed by or in any way connected with the products mentioned here._
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

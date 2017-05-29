@@ -1,17 +1,17 @@
 ---
 layout: post
 date: '2013-11-29 15:30 +0930'
-title: 'Award Winning Mobile Application Development'
+title: Award Winning Mobile Application Development
 published: true
-author: linh
+author:
+  - linh
 main-category: technology
 categories:
   - technology
 short-link: 'http://bit.ly/1UatHbl'
 hero-banner: /images/Blog_Header_winning.jpg
 image: /images/img_winning_thumb.jpg
-meta-keywords: >-
-  mobile application development, software development, app development
+meta-keywords: 'mobile application development, software development, app development'
 description: >-
   Mobile application development is not just about getting the coding right, but
   also the user experience and business implication.
@@ -38,16 +38,6 @@ For the 2013 release of iCat, the opportunity was taken to rebuild the app from 
 <em>Anthony Locke, Marketing Systems Manager, Clipsal by Schneider Electric</em>
 </div>
 
-![](/images/award_mixxitathome.jpg)
-
-CCA Mixxit@Home Kiosk
----------------------
-Taking out a Gold Award at POPAI - Marketing at Retail Awards, the Mixxit@Home kiosk and App is a Point Of Sales tool for Coca-Cola Amatil. It aims to expand customers’ thoughts of what drinks to make at their next social occasion, with the side effect of expanding purchase of Coca-Cola Amatil’s range of spirits.
-
-<div class="non-twitter-quote">
-“The response has been overwhelming, with feedback from retailers and consumers proving extremely positive. Some stores are recording up to 40% uplift in sales on products featured in the Mixxit@Home unit”
-<em>John Murphy, CCA MD of Beverages.</em>
-</div>
 
 ![](/images/award_cloudclinic.jpg)
 

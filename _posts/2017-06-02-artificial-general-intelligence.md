@@ -63,11 +63,12 @@ Also known as: weak AI.
 
 This is the level of AI that humanity has achieved so far. It is the ability for a machine to reproduce a specific human behavior without consciousness. Basically, narrow AI is powerful in automating narrow/single tasks. Examples:
 
-- Playing chess or Go. The machine has beaten us to this one. 
+- Playing chess or Go. The [machine](https://techcrunch.com/2017/05/24/alphago-beats-planets-best-human-go-player-ke-jie/) has beaten us to this one. 
 - Voice assistants like Siri, Cortana, Alexa 
 - Self-driving car tech, which is actually a coordination of several narrow AIs
 
-*Google’s AlphaGo AI wins three-match series against the world’s best Go player. Source: TechCrunch*
+![AI beats GO champion]({{site.baseurl}}/images/img_AI_Go.jpg)
+*Google’s AlphaGo AI wins three-match series against the world’s best Go player. Source: [TechCrunch](https://techcrunch.com/2017/05/24/alphago-beats-planets-best-human-go-player-ke-jie/)*
 
 ### General AI
 
@@ -89,11 +90,12 @@ At this stage, the best results in our attempt to build an “AI brain” have b
 
 This technique was not very successful when it was first attempted due to the limited amount of data and computing power. But recent advances in cloud computing and the collection of enormous data sets have led to improving the state of the art in almost every field where Deep Learning has been applied.
 
-In many of these fields, the results are better than humans (e.g. cancer detection, big data sorting, stock market trading). Nonetheless, as mentioned above, Deep Learning is currently a problem-specific technology, and is not General AI. 
+In many of these fields, the results are better than humans (e.g. [cancer detection](http://www.deccanchronicle.com/technology/in-other-news/040317/googles-ai-is-now-detecting-cancer-with-deep-learning.html), big data sorting, stock market trading). Nonetheless, as mentioned above, Deep Learning is currently a problem-specific technology, and is not General AI. 
 
 There are some attempts to generalise it such as Neural Turing Machines and Differentiable Neural Computers, which are active areas of research.
 
-AI can reproduce Mona Lisa in the styles of Picasso, van Gogh, and Monet. Source: Gene Kogan
+![AI art picasso van gogh monet]({{site.baseurl}}/images/img_AI_art.jpg)
+*AI can reproduce Mona Lisa in the styles of Picasso, van Gogh, and Monet. Source: [Gene Kogan](http://genekogan.com/works/style-transfer/)*
 
 ## Different players in the AGI space
 
@@ -103,21 +105,21 @@ Many universities and researchers have contributed to Neural Networks and Deep L
 
 Google has applied Deep Learning to almost all of its products at this point - including understanding the intent of a search, recognising street numbers in Google Street View images, Google Now's voice recognition and improving Google Translate.
 
-OpenAI is a not-for-profit research firm being funded by people like Elon Musk that is attempting to ensure that any breakthroughs in AI that occur are available to everyone rather than siloed in any specific company.
+[OpenAI](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x) is a not-for-profit research firm being funded by people like Elon Musk that is attempting to ensure that any breakthroughs in AI that occur are available to everyone rather than siloed in any specific company.
 
 ## Major discoveries and breakthroughs in the last decade
 
 If you’re interested in digging deeper, below is a list of relevant research papers that show measurable progress in this field.
 
-AlexNet (2012) - The first Deep Learning paper that showed state-of-the-art performance, used to win the ImageNet Large-Scale Visual Recognition Challenge - an Olympics equivalent for computer vision.
+[AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (2012) - The first Deep Learning paper that showed state-of-the-art performance, used to win the ImageNet Large-Scale Visual Recognition Challenge - an Olympics equivalent for computer vision.
 
 After this, everyone in computer vision competitions started using Deep Learning and won successive challenges.
 
-For example, Google's Inception Net (2014) set another benchmark for image classification and detection in the aforementioned competition for the year 2014.
+For example, Google's [Inception](https://arxiv.org/abs/1409.4842) Net (2014) set another benchmark for image classification and detection in the aforementioned competition for the year 2014.
 
-Microsoft's ResNet (2015) provided a new architecture called the Deep Residual Network, which had 152 layers, 8 times deeper than a comparable network. 
+Microsoft's [ResNet](https://arxiv.org/abs/1512.03385) (2015) provided a new architecture called the Deep Residual Network, which had 152 layers, 8 times deeper than a comparable network. 
 
-Google DeepMind’s Neural Turing Machine is an attempt to create a “computer that mimics the short-term memory of the human brain.” This machine can store and retrieve its memory when learning a solution to a given problem.
+Google DeepMind’s [Neural Turing Machine](https://arxiv.org/pdf/1410.5401.pdf) is an attempt to create a “computer that mimics the short-term memory of the [human brain](https://www.technologyreview.com/s/532156/googles-secretive-deepmind-startup-unveils-a-neural-turing-machine/).” This machine can store and retrieve its memory when learning a solution to a given problem.
 
 ## Deep Learning has its challenges and limitations 
 
@@ -125,26 +127,28 @@ Deep Learning is not well understood. It is a very active area of research that 
 
 Most research activity is the result of researchers experimenting with ideas and reporting their results. The theory and mathematical models behind why this approach works so well and where it does not work well are still in a nascent stage.
 
-A concrete example of Deep Learning’s limitations is so-called "Adversarial Examples". This is a technique where an attacker can carefully craft small changes to images to make the machine confidently label them as anything the attacker chooses, while the image looks the same to a human.
+A concrete example of Deep Learning’s limitations is so-called "[Adversarial Examples](https://blog.openai.com/adversarial-example-research/)". This is a technique where an attacker can carefully craft small changes to images to make the machine confidently label them as anything the attacker chooses, while the image looks the same to a human.
 
-An adversarial input, overlaid on a typical image, can cause a machine to mislabel a panda as a gibbon. Source: OpenAI
+![adversarial example AI panda]({{site.baseurl}}/images/img_AI_adversarial.png)
+*An adversarial input, overlaid on a typical image, can cause a machine to mislabel a panda as a gibbon. Source: [OpenAI](https://blog.openai.com/adversarial-example-research/)*
 
 This could be used to fool face recognition systems into thinking that one person is another, for instance. Some researchers have equated these examples to "optical illusions" in humans. They think that these sorts of edge cases are always going to exist, but we need to understand what causes these issues and how to control them if we are going to rely on these systems in the future.
 
 # General AI is still a long way away
 
-Machine learning is only “at the beginning of the S-Curve,” as shown in the diagram below.
+[Machine learning](http://ben-evans.com/benedictevans/2017/4/24/ten-year-futures) is only “at the beginning of the S-Curve,” as shown in the diagram below.
 
-Source: a16z
+![machine learning s curve]({{site.baseurl}}/images/img_AI_Scurve.jpg)
+*Source: [a16z](https://www.slideshare.net/a16z/mobile-is-eating-the-world-20162017/34-34The_machine_learning_SCurveStill_in)*
 
-Our current Neural Network architectures have not reached human-level performance in general computing tasks. However, there are tools like Universe to help create training sets that can be used to train the AI to use a computer in the same way humans do. This includes tasks from using a web browser or email program to playing games.
+Our current Neural Network architectures have not reached human-level performance in general computing tasks. However, there are tools like [Universe](https://universe.openai.com) to help create training sets that can be used to train the AI to use a computer in the same way humans do. This includes tasks from using a web browser or email program to playing games.
 
 What about more complex tasks? The number of neurons and equivalent computations that happen in the human brain are on the order of several trillion computations per second. 
 
 Deep Learning may provide the algorithms that lead to general computation. But assuming a similar level of operations per second is required from an AI, our current hardware would need building-sized computers and have very high associated costs to get to human-level intelligence.
 
-For AI to become ubiquitous, we will need to continue to improve the density of computation and lower the power usage of computers. IBM have attempted to do this with their TrueNorth chip which runs neural networks on hardware that is thousands of times more power and heat-efficient than general purpose computers.
+For AI to become ubiquitous, we will need to continue to improve the density of computation and lower the power usage of computers. IBM have attempted to do this with their [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml)chip which runs neural networks on hardware that is thousands of times more power and heat-efficient than general purpose computers.
 
-Right now, “we don't have a computer that can function with the capabilities of a six year old, or even a three year old, and so we're very far from general intelligence.” 
+Right now, “we don't have a computer that can function with the capabilities of a six year old, or even a three year old, and so we're very far from [general intelligence](http://www.popsci.com.au/robots/artificial-intelligence/will-artificial-intelligence-ever-actually-match-up-to-the-human-brain-,452463#page-4).” 
 
-Would we achieve it someday? Technically, we can. But with a caveat: “We will never get to Super Intelligence if we don’t solve the societal issues around Narrow Artificial Intelligence.”
+Would we achieve it someday? Technically, we can. But with a caveat: “We will never get to Super Intelligence if we don’t solve the societal issues around [Narrow Artificial Intelligence](https://medium.com/snips-ai/how-my-research-in-ai-put-my-dad-out-of-a-job-1a4c80ede1b0).”

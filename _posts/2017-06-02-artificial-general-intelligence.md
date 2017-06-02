@@ -14,23 +14,29 @@ When it comes to Artificial Intelligence (AI), people’s responses vary: from �
 There’s some truth to all of these sentiments. 
 
 But there are also misperceptions and misinformation. It’s always useful to have a basic grasp of AI, because whether you like it or not, AI is already manifesting in many aspects of our lives. 
-For instance, you can now order Domino’s pizzas by talking to your phone. Plus, the pizza giant also says it is moving from a “mobile first” to an “AI first” philosophy. 
 
-Some “job-threatening” examples include KPMG’s deal to use IBM’s Watson supercomputer for financial audits, among similar moves by other Big Four accounting firms. 
+For instance, you can now order [Domino’s pizzas](https://www.dominos.com.au/druassist) by talking to your phone. Plus, the pizza giant also says it is moving from a “mobile first” to an “[AI first](http://www.news.com.au/finance/business/retail/dominos-rolls-out-voice-ordering/news-story/9092f5ca165cc8d28cac12a8366ba174)” philosophy. 
 
-Self-driving trucks and drones have led to the prediction that within the next two decades, there’s a 80% chance of professional drivers of road and rail vehicles being replaced. 
-If you’re still curious about your future job prospects, head to this website and input your profession to find out the risk level (Note: this is based on US data).
+Some “job-threatening” examples include KPMG’s deal to use IBM’s [Watson](http://www.afr.com/business/accounting/kpmg-signs-ibm-supercomputer-deal-to-help-not-replace-accountants-20160616-gpl63t) supercomputer for financial audits, among similar moves by other Big Four accounting firms. 
 
-Probability of automation for software developers. Source: Will Robots Take My Job
+Self-driving trucks and drones have led to the prediction that within the next two decades, there’s a 80% chance of [professional drivers](https://www.pwc.com.au/pdf/a-smart-move-pwc-stem-report-april-2015.pdf) of road and rail vehicles being replaced. 
+
+If you’re still curious about your future job prospects, head to this [website](https://willrobotstakemyjob.com/) and input your profession to find out the risk level (Note: this is based on US data).
+
+![job automation AI software developer]({{site.baseurl}}/images/img_AI_robotsjobs.png)
+*Probability of automation for software developers. Source: [Will Robots Take My Job](https://willrobotstakemyjob.com/)*
 
 Now onto even more alarming claims [cue scary organ music]. 
 
-Tesla’s CEO Elon Musk recently said without AI oversight, “we are summoning the demon.” 
-In fact, here is a graph summarising various thinkers and tech leaders’ views on AI, ranging from anxious (Not so fast)  to untroubled (Hit the gas).
+Tesla’s CEO [Elon Musk](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x) recently said without AI oversight, “we are summoning the demon.” 
 
-Photographs by Anders Lindén/Agent Bauer (Tegmark); by Jeff Chiu/A.P. Images (Page, Wozniak); by Simon Dawson/Bloomberg (Hassabis), Michael Gottschalk/Photothek (Gates), Niklas Halle’n/AFP (Hawking), Saul Loeb/AFP (Thiel), Juan Mabromata/AFP (Russell), David Paul Morris/Bloomberg (Altman), Tom Pilston/The Washington Post (Bostrom), David Ramos (Zuckerberg), all from Getty Images; by Frederic Neema/Polaris/Newscom (Kurzwell); by Denis Allard/Agence Réa/Redux (LeCun); Ariel Zambelich/ Wired (Ng); © Bobby Yip/Reuters/Zuma Press (Musk). 
+In fact, here is a graph summarising various thinkers and tech leaders’ views on [AI](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x), ranging from anxious (Not so fast)  to untroubled (Hit the gas).
+
+![AI tech leaders thinkers ]({{site.baseurl}}/images/img_AI_techleaders.png)
+*Photographs by Anders Lindén/Agent Bauer (Tegmark); by Jeff Chiu/A.P. Images (Page, Wozniak); by Simon Dawson/Bloomberg (Hassabis), Michael Gottschalk/Photothek (Gates), Niklas Halle’n/AFP (Hawking), Saul Loeb/AFP (Thiel), Juan Mabromata/AFP (Russell), David Paul Morris/Bloomberg (Altman), Tom Pilston/The Washington Post (Bostrom), David Ramos (Zuckerberg), all from Getty Images; by Frederic Neema/Polaris/Newscom (Kurzwell); by Denis Allard/Agence Réa/Redux (LeCun); Ariel Zambelich/ Wired (Ng); © Bobby Yip/Reuters/Zuma Press (Musk).* 
 
 If there’s any consolation for concerned citizens like us, we should understand that most advances in AI so far have been focused on solving specific problems, rather than general intelligence. 
+
 And it’s still a long way to go before we can emulate human-like intelligence. But first, let’s go over some fundamental concepts in this emerging field. 
 
 # Defining Artificial Intelligence & related terms

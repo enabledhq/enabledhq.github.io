@@ -12,17 +12,14 @@ image: /images/img_AI_thumb.png
 hero-banner: /images/Blog_Header_AI.png
 short-link: 'https://goo.gl/0BBN4c'
 meta-description: >-
-  What is artificial intelligence, general AI, machine learning among other
-  buzzwords? Here’s an overview of different terms & methods within this
-  emerging field.
+  What is artificial intelligence, general AI, machine learning etc.? Here’s an
+  overview of different terms & methods within this emerging field.
 description: >-
-  What is artificial intelligence, general AI, machine learning among other
-  buzzwords? Here’s an overview of different terms & methods within this
-  emerging field.
+  What is artificial intelligence, general AI, machine learning etc.? Here’s an
+  overview of different terms & methods within this emerging field.
 excerpt: >-
-  What is artificial intelligence, general AI, machine learning among other
-  buzzwords? Here’s an overview of different terms & methods within this
-  emerging field.
+  What is artificial intelligence, general AI, machine learning etc.? Here’s an
+  overview of different terms & methods within this emerging field.
 meta-keywords: >-
   General AI, artificial intelligence, artificial general intelligence, narrow
   AI, AI, super intelligence, super AI, machine learning, deep learning, what is

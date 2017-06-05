@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-06-02 14:40 +0930'
-published: false
+published: true
 title: 'Artificial General Intelligence : Too Much or Too Little Too Soon? '
 author:
   - dylan

@@ -168,7 +168,7 @@ What about more complex tasks? The number of neurons and equivalent computations
 
 Deep Learning may provide the algorithms that lead to general computation. But assuming a similar level of operations per second is required from an AI, our current hardware would need building-sized computers and have very high associated costs to get to human-level intelligence.
 
-For AI to become ubiquitous, we will need to continue to improve the density of computation and lower the power usage of computers. IBM have attempted to do this with their [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml)chip which runs neural networks on hardware that is thousands of times more power and heat-efficient than general purpose computers.
+For AI to become ubiquitous, we will need to continue to improve the density of computation and lower the power usage of computers. IBM have attempted to do this with their [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml) chip which runs neural networks on hardware that is thousands of times more power and heat-efficient than general purpose computers.
 
 Right now, “we don't have a computer that can function with the capabilities of a six year old, or even a three year old, and so we're very far from [general intelligence](http://www.popsci.com.au/robots/artificial-intelligence/will-artificial-intelligence-ever-actually-match-up-to-the-human-brain-,452463#page-4).” 
 

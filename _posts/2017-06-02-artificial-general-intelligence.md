@@ -23,6 +23,12 @@ excerpt: >-
   What is artificial intelligence, general AI, machine learning among other
   buzzwords? Here’s an overview of different terms & methods within this
   emerging field.
+meta-keywords: >-
+  General AI, artificial intelligence, artificial general intelligence, narrow
+  AI, AI, super intelligence, super AI, machine learning, deep learning, what is
+  AI, AI definition, strong AI, adversarial example, neural network, general
+  intelligence, computer vision, visual recognition, neural turing machine,
+  strong AI, automation, robots, AGI
 ---
 When it comes to Artificial Intelligence (AI), people’s responses vary: from “Terminator and Skynet are coming to kill us all” to “Will the bots take my jobs?” to “Awesome, now I can sit back and do the fun stuff while the bots take care of tedious tasks for me.”
 

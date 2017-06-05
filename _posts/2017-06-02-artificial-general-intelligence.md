@@ -63,7 +63,7 @@ Lately, AI, machine learning, and deep learning get thrown around as if they wer
 
 As the umbrella term, there is Artificial Intelligence (AI). It is a branch of computer science that tries to reproduce human behaviour in machines; or the ability for machines to reproduce human behaviour.
 
-![artificial intelligence definition]({{site.baseurl}}/images/img_AI_definition.jpg)
+![artificial intelligence definition]({{site.baseurl}}/images/img_AI_definition.jpg)![image-title-here](/path/to/image.jpg){:class="alignleft"}
 *How AI fits within other branches of computer science. Adapted from [PwC](http://usblogs.pwc.com/emerging-technology/a-look-at-machine-learning-infographic/)*
 
 One point to note here is, robots are not synonymous with AI. Think of robots as the physical structure carrying out the decisions made by the AI’s “mind.” 

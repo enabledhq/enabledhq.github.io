@@ -11,6 +11,18 @@ categories:
 image: /images/img_AI_thumb.png
 hero-banner: /images/Blog_Header_AI.png
 short-link: 'https://goo.gl/0BBN4c'
+meta-description: >-
+  What is artificial intelligence, general AI, machine learning among other
+  buzzwords? Here’s an overview of different terms & methods within this
+  emerging field.
+description: >-
+  What is artificial intelligence, general AI, machine learning among other
+  buzzwords? Here’s an overview of different terms & methods within this
+  emerging field.
+excerpt: >-
+  What is artificial intelligence, general AI, machine learning among other
+  buzzwords? Here’s an overview of different terms & methods within this
+  emerging field.
 ---
 When it comes to Artificial Intelligence (AI), people’s responses vary: from “Terminator and Skynet are coming to kill us all” to “Will the bots take my jobs?” to “Awesome, now I can sit back and do the fun stuff while the bots take care of tedious tasks for me.”
 

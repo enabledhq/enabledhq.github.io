@@ -150,7 +150,7 @@ Most research activity is the result of researchers experimenting with ideas and
 
 A concrete example of Deep Learning’s limitations is so-called "[Adversarial Examples](https://blog.openai.com/adversarial-example-research/)". This is a technique where an attacker can carefully craft small changes to images to make the machine confidently label them as anything the attacker chooses, while the image looks the same to a human.
 
-![adversarial example AI panda]({{site.baseurl}}/images/img_AI_adversarial.png)
+![adversarial example AI panda]({{site.baseurl}}/images/img_AI_adversarial.png){:class="aligncenter"}
 *An adversarial input, overlaid on a typical image, can cause a machine to mislabel a panda as a gibbon. Source: [OpenAI](https://blog.openai.com/adversarial-example-research/)*
 
 This could be used to fool face recognition systems into thinking that one person is another, for instance. Some researchers have equated these examples to "optical illusions" in humans. They think that these sorts of edge cases are always going to exist, but we need to understand what causes these issues and how to control them if we are going to rely on these systems in the future.
@@ -159,7 +159,7 @@ This could be used to fool face recognition systems into thinking that one perso
 
 [Machine learning](http://ben-evans.com/benedictevans/2017/4/24/ten-year-futures) is only “at the beginning of the S-Curve,” as shown in the diagram below.
 
-![machine learning s curve]({{site.baseurl}}/images/img_AI_Scurve.jpg)
+![machine learning s curve]({{site.baseurl}}/images/img_AI_Scurve.jpg){:class="aligncenter"}
 *Source: [a16z](https://www.slideshare.net/a16z/mobile-is-eating-the-world-20162017/34-34The_machine_learning_SCurveStill_in)*
 
 Our current Neural Network architectures have not reached human-level performance in general computing tasks. However, there are tools like [Universe](https://universe.openai.com) to help create training sets that can be used to train the AI to use a computer in the same way humans do. This includes tasks from using a web browser or email program to playing games.

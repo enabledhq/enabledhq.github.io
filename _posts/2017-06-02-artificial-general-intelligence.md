@@ -41,7 +41,7 @@ Self-driving trucks and drones have led to the prediction that within the next t
 
 If you’re still curious about your future job prospects, head to this [website](https://willrobotstakemyjob.com/) and input your profession to find out the risk level (Note: this is based on US data).
 
-![job automation AI software developer]({{site.baseurl}}/images/img_AI_robotsjobs.png)
+![will AI take my jobs software developer]({{site.baseurl}}/images/img_AI_robotsjobs.png){:class="aligncenter"}
 *Probability of automation for software developers. Source: [Will Robots Take My Job](https://willrobotstakemyjob.com/)*
 
 Now onto even more alarming claims [cue scary organ music]. 

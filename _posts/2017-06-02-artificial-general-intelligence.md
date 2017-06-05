@@ -173,3 +173,8 @@ For AI to become ubiquitous, we will need to continue to improve the density of 
 Right now, “we don't have a computer that can function with the capabilities of a six year old, or even a three year old, and so we're very far from [general intelligence](http://www.popsci.com.au/robots/artificial-intelligence/will-artificial-intelligence-ever-actually-match-up-to-the-human-brain-,452463#page-4).” 
 
 Would we achieve it someday? Technically, we can. But with a caveat: “We will never get to Super Intelligence if we don’t solve the societal issues around [Narrow Artificial Intelligence](https://medium.com/snips-ai/how-my-research-in-ai-put-my-dad-out-of-a-job-1a4c80ede1b0).”
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

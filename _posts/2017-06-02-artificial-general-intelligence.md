@@ -76,7 +76,7 @@ Next, within ML, we have Deep Learning. This technique uses layers of artificial
 
 ## Different characteristics of AI
 
-Now there are three names that you may hear a lot surround AI too. They essentially describe the levels or characteristics of AI. 
+Now there are three names that you may hear a lot surrounding AI too. They essentially describe the levels or characteristics of AI. 
 
 ### Narrow AI
 

@@ -51,7 +51,7 @@ Tesla’s CEO [Elon Musk](http://www.vanityfair.com/news/2017/03/elon-musk-billi
 In fact, here is a graph summarising various thinkers and tech leaders’ views on [AI](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x), ranging from anxious (Not so fast)  to untroubled (Hit the gas).
 
 ![AI tech leaders thinkers ]({{site.baseurl}}/images/img_AI_techleaders.png)
-*Photographs by Anders Lindén/Agent Bauer (Tegmark); by Jeff Chiu/A.P. Images (Page, Wozniak); by Simon Dawson/Bloomberg (Hassabis), Michael Gottschalk/Photothek (Gates), Niklas Halle’n/AFP (Hawking), Saul Loeb/AFP (Thiel), Juan Mabromata/AFP (Russell), David Paul Morris/Bloomberg (Altman), Tom Pilston/The Washington Post (Bostrom), David Ramos (Zuckerberg), all from Getty Images; by Frederic Neema/Polaris/Newscom (Kurzwell); by Denis Allard/Agence Réa/Redux (LeCun); Ariel Zambelich/ Wired (Ng); © Bobby Yip/Reuters/Zuma Press (Musk).* 
+*Source: [Vanity Fair](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x)* 
 
 If there’s any consolation for concerned citizens like us, we should understand that most advances in AI so far have been focused on solving specific problems, rather than general intelligence. 
 

@@ -2,7 +2,7 @@
 layout: post
 date: '2017-05-05 15:03 +0930'
 published: true
-title: What you can learn from Universities’ response to digital disruption
+title: What You Can Learn from Universities’ Response to Digital Disruption
 meta-keywords: >-
   digital disruption, disruptive technology, online learning, mooc, disruptive
   innovation, jobs to be done, human centred design, digital transformation,

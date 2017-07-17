@@ -19,14 +19,15 @@ To others, it is logical that a fast-moving world mandates we should keep up wit
 
 Here is an outline of what each section in this article talks about:
 
-1. [How and why older business concepts regain prominence](#oldconcepts)
-1. [Importance of customer centricity](#centricity)
-1. [Notoriety of startups abandoning the old](#abandon)
-1. [Lean startup methodology](#lean)
-1. [Link with customer centric characteristic of Jobs To Be Done framework](#jtbd)
-1. [Lean process & how a blind focus on MVP can destroy value](#mvp)
+1. How and why older business concepts regain prominence
+1. Notoriety of startups abandoning the old
+1. Lean startup methodology
+1. Importance of customer centricity
+1. Lean process & how a blind focus on MVP can destroy value
+1. Link with customer centric characteristic of Jobs To Be Done framework
+1. Big Bang Disruption or disruptive terrorism
 
-# # <a name="oldconcepts"></a> How and why older concepts regain prominence
+# How and why older concepts regain prominence
 
 There are certainly older concepts that need to be reassessed in the light of today’s market forces. 
 

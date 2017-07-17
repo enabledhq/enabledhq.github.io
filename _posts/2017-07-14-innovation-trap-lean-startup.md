@@ -2,7 +2,7 @@
 layout: post
 date: '2017-07-14 16:11 +0930'
 published: true
-title: 'The innovation trap (and antidote) from Lean Startup '
+title: 'The Innovation Trap (and Antidote) from Lean Startup '
 author:
   - grant
 main-category: entrepreneurship

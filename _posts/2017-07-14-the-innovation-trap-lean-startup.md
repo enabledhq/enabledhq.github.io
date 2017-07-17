@@ -9,6 +9,7 @@ main-category: entrepreneurship
 categories:
   - innovation
   - entrepreneurship
+hero-banner: /images/Blog_header_lean.png
 ---
 Media today is awash with stories of successful companies who are unprepared to make necessary changes to their business model and thus will remain locked in the past, hastening their pending demise.
 
@@ -39,7 +40,7 @@ Interestingly, some outcomes of Aggregation Theory recommend the customer (a rea
 As a prime example, we don’t apologise for Enabled’s use of [Human Centred Design](https://vimeo.com/106505300) (HCD) - a process brought into significant prominence during the 1980s by industrial design firm IDEO.  Or the [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) (JTBD) theory was coined by Harvard Business School professor Clayton Christensen in 2003 as a catch phrase for [Outcome-Driven Innovation](https://strategyn.com/tony-ulwick/) (ODI) by Tony Ulwick, who has been awarded innovation patents since late 1999.
 
 ![human centred design enabled ]({{site.baseurl}}/images/img_innovation.png)
-*Enabled's use of [HCD](https://enabled.com.au/services)*
+*Enabled's use of [Human Centred Design](https://enabled.com.au/services)*
 
 Both of these put the customer in the centre and seek to understand the needs that arise from the problems they face. Once these are understood, new business offerings are carefully aligned to these needs, creating clear value for the customer, leading to greater likelihood of market success.
 
@@ -156,6 +157,6 @@ The hope is that something will emerge which is immense and grows rapidly, takin
 Trouble is, just like an explosion, everything (including the disruptor) comes crashing down almost as fast as it went up. 
 
 ![big bang disruption]({{site.baseurl}}/images/img_lean_bigbang.gif)
-*Source: [Harvard Business Review](https://hbr.org/2013/03/big-bang-disruption)
+*Source: [Harvard Business Review](https://hbr.org/2013/03/big-bang-disruption)*
 
 This isn’t innovation. This is just disruptive terrorism and real innovative enterprises can only become collateral damage.

@@ -26,6 +26,7 @@ excerpt: >-
 The mantra nowadays: >-
   Move fast & break things. Is fast always good? Learn why Lean Startup & Jobs
   To Be Done should go together to avoid the innovation trap.
+short-link: goo.gl/oyv3td
 ---
 Media today is awash with stories of successful companies who are unprepared to make necessary changes to their business model and thus will remain locked in the past, hastening their pending demise.
 

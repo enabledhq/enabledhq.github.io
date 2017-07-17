@@ -12,8 +12,8 @@ categories:
 ---
 Media today is awash with stories of successful companies who are unprepared to make necessary changes to their business model and thus will remain locked in the past, hastening their pending demise.
 
-
-Graph demonstrating the speed of change 
+![lifespan s & p 500 companies]({{site.baseurl}}/images/img_lean_sp500.jpg)
+*Graph demonstrating the speed of change. Source: [Innosight](https://www.innosight.com/insight/creative-destruction-whips-through-corporate-america-an-innosight-executive-briefing-on-corporate-strategy/)
 
 To others, it is logical that a fast-moving world mandates we should keep up with the new to maintain a competitive position. However, the pursuit of shiny ideas can also lead to the abandonment of proven ideas which could still deliver meaningful value. 
 

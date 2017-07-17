@@ -10,6 +10,7 @@ categories:
   - innovation
   - entrepreneurship
 hero-banner: /images/Blog_header_lean.png
+image: /images/img_lean_thumb.png
 ---
 Media today is awash with stories of successful companies who are unprepared to make necessary changes to their business model and thus will remain locked in the past, hastening their pending demise.
 

@@ -27,6 +27,11 @@ The mantra nowadays: >-
   Move fast & break things. Is fast always good? Learn why Lean Startup & Jobs
   To Be Done should go together to avoid the innovation trap.
 short-link: goo.gl/oyv3td
+meta-keywords: >-
+  Lean startup, jobs to be done, innovation trap, human centred design, jobs to
+  be done framework, human centered design, customer centricity, mvp, minimum
+  viable product, lean canvas, lean stack, startups, lean startup methodology,
+  lean startup process, eric ries, Ash Maurya, disruption, big bang disruption
 ---
 Media today is awash with stories of successful companies who are unprepared to make necessary changes to their business model and thus will remain locked in the past, hastening their pending demise.
 

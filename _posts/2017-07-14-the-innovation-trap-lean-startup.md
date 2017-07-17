@@ -78,13 +78,15 @@ Ries also stated that “Success is not delivering a feature, it is learning how
 
 The first part of this quotation from the [Lean Startup principles](http://theleanstartup.com/principles) seems to back up a problem-centric process which would benefit from JTBD:
 
-“The first step is figuring out the problem that needs to be solved and then developing a minimum viable product (MVP) to begin the process of learning as quickly as possible.” 
+> “The first step is figuring out the problem that needs to be solved and then developing a minimum viable product (MVP) to begin the process of learning as quickly as possible.” 
 
 However, it is the second part of this statement which presents the danger to the practitioner, and is often the part which receives the most emphasis at innovation programs.
 
 ## The MVP obsession
 
-This is best explained by examining the lean process diagram from the same website:
+This is best explained by examining the [lean process](http://theleanstartup.com/principles) diagram from the same website:
+
+![lean startup process]({{site.baseurl}}/images/img_lean_method.jpg)
 
 - The first step in their cycle is to start with an idea then spend as little time as possible coding or building an MVP product. 
 - Second, this MVP is given to potential customers where feedback (data) is measured indicating their likes and dislikes.
@@ -100,26 +102,30 @@ However, too much store is placed in the hope that quick iterations of feedback 
 
 People are generally very happy to help you improve your idea, this does not mean they will become a customer. Often, feedback collected from less enthusiastic people - referred to as a false objection - signals they never really want to buy your product. 
 
-In this situation they simply pick a feature they know you cannot presently deliver, in order to escape what they feel is an interrogation process. (Future Article link to never let sales determine your features)
+In this situation they simply pick a feature they know you cannot presently deliver, in order to escape what they feel is an interrogation process.
 
 This is especially true of many innovation programs where Lean is used. Very little is done to help participants determine if their idea is solving a true problem, which if solved, represents real value for the person suffering from the problem. Rather, the emphasis is on this fast cycle of guess work, experimentation and necessary pivots based on the feedback collected.
-Better together 
-Entrepreneur Ash Maurya - whose book “Running Lean” is featured on the Lean Startup website - successfully combined the use of JTBD and Lean principles to enhance his product. 
 
-The Lean Canvas
+## Better together 
 
-You can read about the story of how Ash created the Lean Canvas based on the Business Model Canvas (a foundational tool often used in Lean Startup courses) to better serve entrepreneurs; and how he later used JTBD to enhance the Lean Canvas, expanding it into the Lean Stack.
+Entrepreneur Ash Maurya - whose book “[Running Lean](http://theleanstartup.com/the-lean-series)” is featured on the Lean Startup website - successfully combined the use of JTBD and Lean principles to enhance his product. 
+
+![lean canvas lean stack]({{site.baseurl}}/images/img_lean_canvas.png)
+*The Lean Canvas. Source: [Lean Stack](https://leanstack.com/is-one-page-business-model)*
+
+You can read about the story of how Ash created the [Lean Canvas](https://blog.leanstack.com/why-lean-canvas-vs-business-model-canvas-af62c0f250f0) based on the Business Model Canvas (a foundational tool often used in Lean Startup courses) to better serve entrepreneurs; and how he later used JTBD to enhance the Lean Canvas, expanding it into the [Lean Stack](https://jtbd.info/case-study-ash-and-lean-stack-d9af05c41532).
 
 The main lessons from Ash’s journey are:
-Start with the problem your users/customers face
-Resist the temptation to over-engineer the product by focusing on what customers hire the product for (their JTBD)
-Develop complementary products to help customers solve related jobs (e.g. Lean Canvas => Lean Stack)
+- Start with the problem your users/customers face
+- Resist the temptation to over-engineer the product by focusing on what customers hire the product for (their JTBD)
+- Develop complementary products to help customers solve related jobs (e.g. Lean Canvas => Lean Stack)
 
 Moreover, when asked about the Lean Startup and JTBD frameworks, this was his reply:
+![ash lean startup jobs to be done]({{site.baseurl}}/images/img_lean_ash.png)
 
-Interestingly, this Q & A happened through the customer messaging platform Intercom - another big proponent of JTBD. 
+Interestingly, this Q & A happened through the customer messaging platform [Intercom](https://www.intercom.com) - another big proponent of JTBD. 
 
-This is why Lean methods are not a replacement to JTBD and in typical use, it certainly isn’t better at determining if a real problem is being addressed. 
+This is why Lean methods are not a replacement to [JTBD](http://blog.enabled.com.au/jobs-to-be-done/) and in typical use, it certainly isn’t better at determining if a real problem is being addressed. 
 
 JTBD is indeed an excellent framing tool to find a starting point where ideas and solutions can emerge. This can then become the input into Lean methods and likely reduce the required cycles. 
 
@@ -127,7 +133,7 @@ Reducing these cycles is particularly important when used with larger companies 
 
 ## Putting human back at the centre
 
-The irony is that although HCD and JTBD have been around for some time already, they are only just gaining traction with the broad business community. 
+The irony is that although HCD and [JTBD](http://blog.enabled.com.au/jobs-to-be-done/) have been around for some time already, they are only just gaining traction with the broad business community. 
 
 The shift away from local markets with scarcity on the supply side towards massive global choice by consumers on the demand side, coupled with consumer social connectedness, is providing considerable motivation for businesses to understand the real people who are their customers. 
 

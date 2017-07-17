@@ -45,7 +45,7 @@ Here is an outline of what this article talks about:
 - Importance of customer centricity
 - Lean process & how a blind focus on MVP can destroy value
 - Link with customer centric characteristic of Jobs To Be Done framework
-- Big Bang Disruption or disruptive terrorism
+- Big Bang Disruption or disruptive terrorism?
 
 ---
 

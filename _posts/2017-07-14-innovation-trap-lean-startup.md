@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-07-14 16:11 +0930'
-published: true
+published: false
 title: 'The innovation trap (and antidote) from Lean Startup '
 author:
   - grant

@@ -37,15 +37,16 @@ Media today is awash with stories of successful companies who are unprepared to 
 
 To others, it is logical that a fast-moving world mandates we should keep up with the new to maintain a competitive position. However, the pursuit of shiny ideas can also lead to the abandonment of proven ideas which could still deliver meaningful value. 
 
-Here is an outline of what each section in this article talks about:
+- Here is an outline of what this article talks about:
+- How and why older business concepts regain prominence
+- Notoriety of startups abandoning the old
+- Lean startup methodology
+- Importance of customer centricity
+- Lean process & how a blind focus on MVP can destroy value
+- Link with customer centric characteristic of Jobs To Be Done framework
+- Big Bang Disruption or disruptive terrorism
 
-1. How and why older business concepts regain prominence
-1. Notoriety of startups abandoning the old
-1. Lean startup methodology
-1. Importance of customer centricity
-1. Lean process & how a blind focus on MVP can destroy value
-1. Link with customer centric characteristic of Jobs To Be Done framework
-1. Big Bang Disruption or disruptive terrorism
+---
 
 # How and why older concepts regain prominence
 

@@ -37,7 +37,8 @@ Media today is awash with stories of successful companies who are unprepared to 
 
 To others, it is logical that a fast-moving world mandates we should keep up with the new to maintain a competitive position. However, the pursuit of shiny ideas can also lead to the abandonment of proven ideas which could still deliver meaningful value. 
 
-- Here is an outline of what this article talks about:
+Here is an outline of what this article talks about:
+
 - How and why older business concepts regain prominence
 - Notoriety of startups abandoning the old
 - Lean startup methodology

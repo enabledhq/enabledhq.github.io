@@ -73,7 +73,7 @@ Although old techniques remain a driver of real innovation, an industry segment 
 
 Ironically, many players in this segment are unintentionally destroying value as quickly as they create it. Worse, some never ever start with a value proposition in the first place.
 
-I draw attention to this as I recently received criticism at our use of JTBD, and our instruction of our clients in these methods. The criticism, which I received, went something like: “**_those old concepts… You need to get current! We use Lean Startup_**”. 
+I draw attention to this as I recently received criticism at our use of JTBD, and our instruction of our clients in these methods. The criticism I received went something like: “**_those old concepts… You need to get current! We use Lean Startup_**”. 
 
 I don’t mind criticism as it is an avenue for learning. However, the inference of this statement is that Lean Startup replaces HCD and JTBD and is better by far. Is this stance valid?
 

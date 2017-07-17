@@ -183,6 +183,7 @@ Trouble is, just like an explosion, everything (including the disruptor) comes c
 *Source: [Harvard Business Review](https://hbr.org/2013/03/big-bang-disruption)*
 
 This isn’t innovation. This is just disruptive terrorism and real innovative enterprises can only become collateral damage.
+---
 
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>

@@ -74,7 +74,7 @@ Although old techniques remain a driver of real innovation, an industry segment 
 
 Ironically, many players in this segment are unintentionally destroying value as quickly as they create it. Worse, some never ever start with a value proposition in the first place.
 
-I draw attention to this as I recently received criticism at our use of JTBD, and our instruction of our clients in these methods. The criticism I received went something like: “**_those old concepts… You need to get current! We use Lean Startup_**”. 
+I draw attention to this as I recently received criticism at our use of Jobs To Be Done, and our instruction of our clients in these methods. The criticism I received went something like: “**_those old concepts… You need to get current! We use Lean Startup_**”. 
 
 I don’t mind criticism as it is an avenue for learning. However, the inference of this statement is that Lean Startup replaces HCD and JTBD and is better by far. Is this stance valid?
 
@@ -125,11 +125,11 @@ However, too much store is placed in the hope that quick iterations of feedback 
 
 > It is important to stress that problems worth solving are associated with a customer’s strong motivation to partake.
 
-People are generally very happy to help you improve your idea, this does not mean they will become a customer. Often, feedback collected from less enthusiastic people - referred to as a false objection - signals they never really want to buy your product. 
+People are generally very happy to help you improve your idea, this does not mean they will become a customer. Often, feedback collected from less enthusiastic people - referred to as a _false objection_ - signals they never really want to buy your product. 
 
 In this situation they simply pick a feature they know you cannot presently deliver, in order to escape what they feel is an interrogation process.
 
-This is especially true of many innovation programs where Lean is used. Very little is done to help participants determine if their idea is solving a true problem, which if solved, represents real value for the person suffering from the problem. Rather, the emphasis is on this fast cycle of guess work, experimentation and necessary pivots based on the feedback collected.
+This is especially true of many innovation programs where Lean is used. Very little is done to help participants determine if their idea is solving a true problem, which if solved, represents real value for the person suffering from the problem. Rather, the emphasis is on this fast cycle of _guess work_, experimentation and necessary pivots based on the feedback collected.
 
 ## Better together 
 
@@ -150,7 +150,7 @@ Moreover, when asked about the Lean Startup and JTBD frameworks, this was his re
 
 Interestingly, this Q & A happened through the customer messaging platform [Intercom](https://www.intercom.com) - another big proponent of JTBD. 
 
-This is why Lean methods are not a replacement to [JTBD](http://blog.enabled.com.au/jobs-to-be-done/) and in typical use, it certainly isn’t better at determining if a real problem is being addressed. 
+This is why Lean methods are not a replacement to [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) and in typical use, it certainly isn’t better at determining if a real problem is being addressed. 
 
 JTBD is indeed an excellent framing tool to find a starting point where ideas and solutions can emerge. This can then become the input into Lean methods and likely reduce the required cycles. 
 
@@ -158,7 +158,7 @@ Reducing these cycles is particularly important when used with larger companies 
 
 ## Putting human back at the centre
 
-The irony is that although HCD and [JTBD](http://blog.enabled.com.au/jobs-to-be-done/) have been around for some time already, they are only just gaining traction with the broad business community. 
+The irony is that although Human Centred Design and [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) have been around for some time already, they are only just gaining traction with the broad business community. 
 
 The shift away from local markets with scarcity on the supply side towards massive global choice by consumers on the demand side, coupled with consumer social connectedness, is providing considerable motivation for businesses to understand the real people who are their customers. 
 

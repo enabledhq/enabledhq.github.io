@@ -28,7 +28,8 @@ meta-keywords: >-
   Lean startup, jobs to be done, innovation trap, human centred design, jobs to
   be done framework, human centered design, customer centricity, mvp, minimum
   viable product, lean canvas, lean stack, startups, lean startup methodology,
-  lean startup process, eric ries, Ash Maurya, disruption, big bang disruption
+  lean startup process, eric ries, Ash Maurya, disruption, big bang disruption,
+  innovation program, business model canvas, lean startup and jobs to be done
 ---
 Media today is awash with stories of successful companies who are unprepared to make necessary changes to their business model and thus will remain locked in the past, hastening their pending demise.
 
@@ -190,4 +191,3 @@ This isn’t innovation. This is just disruptive terrorism and real innovative e
 <div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>
-

@@ -93,7 +93,7 @@ His rationale for Lean’s creation is that too many startups begin with an idea
 
 ## Customer centricity 
 
-From this perspective Lean methods does not preclude the use of at tool like JTBD. 
+From this perspective Lean methods does not preclude the use of tools like JTBD. 
 
 Rather they would almost mandate its use, especially as JTBD tries to identify problems and pains that people face, rather than starting with just a neat idea. It is important to stress that problems worth solving are associated with a customer's strong motivation to partake! 
 

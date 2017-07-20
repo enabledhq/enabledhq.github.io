@@ -185,6 +185,8 @@ Trouble is, just like an explosion, everything (including the disruptor) comes c
 
 This isn’t innovation. This is just disruptive terrorism and real innovative enterprises can only become collateral damage.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vkv856Yx9dxcfl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EnabledSolutions/the-innovation-trap-and-antidote-from-lean-startup" title="The Innovation Trap (and Antidote) from Lean Startup" target="_blank">The Innovation Trap (and Antidote) from Lean Startup</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/EnabledSolutions">Enabled </a></strong> </div>
+
 ---
 
 <!-- Change the width and height values to suit you best -->

@@ -150,7 +150,7 @@ Moreover, when asked about the Lean Startup and JTBD frameworks, this was his re
 
 Interestingly, this Q & A happened through the customer messaging platform [Intercom](https://www.intercom.com) - another big proponent of JTBD. 
 
-This is why Lean methods are not a replacement of [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) and in typical use, it certainly isn’t better at determining if a real problem is being addressed. 
+This is why Lean methods are not a replacement to [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) and in typical use, they certainly aren't better at determining if a real problem is being addressed. 
 
 JTBD is indeed an excellent framing tool to find a starting point where ideas and solutions can emerge. This can then become the input into Lean methods and likely reduce the required cycles. 
 

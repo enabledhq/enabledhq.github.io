@@ -135,7 +135,7 @@ This is especially true of many innovation programs where Lean is used. Very lit
 
 Entrepreneur Ash Maurya - whose book “[Running Lean](http://theleanstartup.com/the-lean-series)” is featured on the Lean Startup website - successfully combined the use of JTBD and Lean principles to enhance his product. 
 
-![lean canvas lean stack]({{site.baseurl}}/images/img_lean_canvas.png)
+![lean canvas ]({{site.baseurl}}/images/img_lean_canvas.png)
 *The Lean Canvas. Source: [Lean Stack](https://leanstack.com/is-one-page-business-model)*
 
 You can read about the story of how Ash created the [Lean Canvas](https://blog.leanstack.com/why-lean-canvas-vs-business-model-canvas-af62c0f250f0) based on the Business Model Canvas (a foundational tool often used in Lean Startup courses) to better serve entrepreneurs; and how he later used JTBD to enhance the Lean Canvas, expanding it into the [Lean Stack](https://jtbd.info/case-study-ash-and-lean-stack-d9af05c41532).

@@ -66,7 +66,7 @@ As a prime example, we don’t apologise for Enabled’s use of [Human Centred D
 
 Both of these put the customer in the centre and seek to understand the needs that arise from the problems they face. Once these are understood, new business offerings are carefully aligned to these needs, creating clear value for the customer, leading to greater likelihood of market success.
 
-We use these slightly older but still valid concepts successfully with many clients. This gives them an innovative edge and their customers always value the how well the product or service addresses their needs. 
+We use these slightly older but still valid concepts successfully with many clients. This gives them an innovative edge and their customers always value how well the product or service addresses their needs. 
 
 # So who would abandon these concepts? 
 

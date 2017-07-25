@@ -70,7 +70,7 @@ We use these slightly older but still valid concepts successfully with many clie
 
 # So who would abandon these concepts? 
 
-Although old techniques remain a driver of real innovation, an industry segment notorious for abandoning the old in the pursuit of shiny and new is the Startup and Innovation scene. 
+Although old techniques remain a driver of real innovation, an industry segment notorious for abandoning the old in pursuit of the shiny and new is the Startup and Innovation scene. 
 
 Ironically, many players in this segment are unintentionally destroying value as quickly as they create it. Worse, some never ever start with a value proposition in the first place.
 

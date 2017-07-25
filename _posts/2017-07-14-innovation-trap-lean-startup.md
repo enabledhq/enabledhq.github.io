@@ -82,7 +82,7 @@ I don’t mind criticism as it is an avenue for learning. However, the inference
 
 First, let’s explore Lean to see what it’s really about. 
 
-The [Lean Startup](http://www.startuplessonslearned.com/2008/09/lean-startup.html) concept was first proposed by Eric Ries in 2008. It borrows from Lean Manufacturing which has its roots early to mid 1900s, reaching its heights in the 1990s demonstrated by the Toyota Production System.
+The [Lean Startup](http://www.startuplessonslearned.com/2008/09/lean-startup.html) concept was first proposed by Eric Ries in 2008. It borrows from Lean Manufacturing which has its roots in the early to mid 1900s, reaching its heights in the 1990s demonstrated by the Toyota Production System.
 
 Ries observed that Startups operate under conditions of extreme uncertainty and this can lead to tremendous waste. 
 

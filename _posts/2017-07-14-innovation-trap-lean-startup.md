@@ -111,7 +111,7 @@ This is best explained by examining the [lean process](http://theleanstartup.com
 
 ![lean startup process]({{site.baseurl}}/images/img_lean_method.jpg)
 
-- The first step in their cycle is to start with an idea then spend as little time as possible coding or building an MVP product. 
+- The first step in their cycle is to start with an idea then spend as little time as possible coding or building a MVP product. 
 - Second, this MVP is given to potential customers where feedback (data) is measured indicating their likes and dislikes.
 - Finally, learning from this customer feedback is placed back into the beginning of the cycle to reshape the idea, then the cycle repeats as quickly as possible.
 

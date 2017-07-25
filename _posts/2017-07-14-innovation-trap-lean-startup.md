@@ -57,7 +57,7 @@ There are certainly older concepts that need to be reassessed in the light of to
 For example, Porter’s Five Forces is very contextual to the economic paradigms of the time. 
 While some of it still holds value, newer theories have come about to better describe forces emerging with internet and digital technologies. An example worth having a look at is Ben Thompson’s [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/). 
 
-Interestingly, some outcomes of Aggregation Theory recommend the customer (a real person, not just a persona) needs to take prominent position in a company's strategic and tactical focus. This dynamic is bringing a few older concepts back into today’s business toolkit. 
+Interestingly, some outcomes of Aggregation Theory recommend the customer (a real person, not just a persona) needs to take a prominent position in a company's strategic and tactical focus. This dynamic is bringing a few older concepts back into today’s business toolkit. 
 
 As a prime example, we don’t apologise for Enabled’s use of [Human Centred Design](https://vimeo.com/106505300) (HCD) - a process brought into significant prominence during the 1980s by industrial design firm IDEO.  Or the [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) (JTBD) theory was coined by Harvard Business School professor Clayton Christensen in 2003 as a catch phrase for [Outcome-Driven Innovation](https://strategyn.com/tony-ulwick/) (ODI) by Tony Ulwick, who has been awarded innovation patents since late 1999.
 

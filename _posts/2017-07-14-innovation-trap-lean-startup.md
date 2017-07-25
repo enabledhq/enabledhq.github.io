@@ -72,7 +72,7 @@ We use these slightly older but still valid concepts successfully with many clie
 
 Although old techniques remain a driver of real innovation, an industry segment notorious for abandoning the old in pursuit of the shiny and new is the Startup and Innovation scene. 
 
-Ironically, many players in this segment are unintentionally destroying value as quickly as they create it. Worse, some never ever start with a value proposition in the first place.
+Ironically, many players in this segment are unintentionally destroying value as quickly as they create it. Worse, some never even start with a value proposition in the first place.
 
 I draw attention to this as I recently received criticism of our use of Jobs To Be Done, and our instruction of our clients in these methods. The criticism I received went something like: “**_those old concepts… You need to get current! We use Lean Startup_**”. 
 

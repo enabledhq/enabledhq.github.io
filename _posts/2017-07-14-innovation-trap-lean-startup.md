@@ -113,7 +113,7 @@ This is best explained by examining the [lean process](http://theleanstartup.com
 
 - The first step in their cycle is to start with an idea then spend as little time as possible coding or building an MVP product. 
 - Second, this MVP is given to potential customers where feedback (data) is measured indicating their likes and dislikes.
-- Finally, leanings from this customer feedback is placed back into the beginning of the cycle to reshape the idea, then the cycle repeats as quickly as possible.
+- Finally, leaning from this customer feedback is placed back into the beginning of the cycle to reshape the idea, then the cycle repeats as quickly as possible.
 
 On the surface, the cycle is an intelligent one. There is no point spending too much time making the perfect product before understanding its market effectiveness. 
 

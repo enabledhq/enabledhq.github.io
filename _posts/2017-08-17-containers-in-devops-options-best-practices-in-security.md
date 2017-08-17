@@ -4,10 +4,10 @@ date: '2017-08-17 15:52 +0930'
 published: false
 title: 'Containers in DevOps: options & best practices in security'
 meta-keywords: >-
-  Devops, devops definition, docker, containers devops, containerisation devops,
-  docker devops, devops containers definition, what is devops, software
-  development devops, container security, container orchestration, agile lean
-  devops
+  Devops, devops definition, devops adoption, docker, containers devops,
+  containerisation devops, docker devops, devops containers definition, what is
+  devops, software development devops, container security, container
+  orchestration, agile lean devops
 author:
   - dylan
 main-category: technology
@@ -18,7 +18,7 @@ On the surface, DevOps is just another buzzword, i.e. something a lot of people 
 
 Stats have been floating around about the benefits of DevOps to organisations big and small. It seems so widespread that you almost feel FOMO. Some examples include (ranging from hype-like growth to more “modest” depiction):
 
-- DevOps adoption is expected to reach 93% by the end of 2015 (Rackspace, 2014)
+- [DevOps adoption](http://www.datacenterknowledge.com/archives/2014/11/10/survey-nearly-all-will-use-devops-tools-and-practices-by-2016/) is expected to reach 93% by the end of 2015 (Rackspace, 2014)
 - DevOps adoption grew from 66% in 2015 to 74% in 2016 (RightScale, 2016)
 - By 2016, DevOps will evolve from a niche strategy employed by large cloud providers to a mainstream strategy employed by 25% of Global 2000 organizations (Gartner, 2015)	
 - DevOps teams increased from 16% in 2014 to 27% in 2017 (Puppet, 2017)

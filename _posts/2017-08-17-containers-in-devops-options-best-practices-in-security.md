@@ -19,9 +19,9 @@ On the surface, DevOps is just another buzzword, i.e. something a lot of people 
 Stats have been floating around about the benefits of DevOps to organisations big and small. It seems so widespread that you almost feel FOMO. Some examples include (ranging from hype-like growth to more “modest” depiction):
 
 - [DevOps adoption](http://www.datacenterknowledge.com/archives/2014/11/10/survey-nearly-all-will-use-devops-tools-and-practices-by-2016/) is expected to reach 93% by the end of 2015 (Rackspace, 2014)
-- DevOps adoption grew from 66% in 2015 to 74% in 2016 (RightScale, 2016)
-- By 2016, DevOps will evolve from a niche strategy employed by large cloud providers to a mainstream strategy employed by 25% of Global 2000 organizations (Gartner, 2015)	
-- DevOps teams increased from 16% in 2014 to 27% in 2017 (Puppet, 2017)
+- [DevOps](http://www.rightscale.com/lp/devops-trends-report) adoption grew from 66% in 2015 to 74% in 2016 (RightScale, 2016)
+- By 2016, [DevOps](http://www.gartner.com/newsroom/id/2999017) will evolve from a niche strategy employed by large cloud providers to a mainstream strategy employed by 25% of Global 2000 organizations (Gartner, 2015)	
+- [DevOps](https://puppet.com/resources/whitepaper/state-of-devops-report) teams increased from 16% in 2014 to 27% in 2017 (Puppet, 2017)
 
 Along with DevOps, Docker as a tool for containerisation is quickly becoming a hot name. Before we get into how containerisation fits in DevOps, I’d like to emphasise a couple of important points: 
 
@@ -32,13 +32,14 @@ Along with DevOps, Docker as a tool for containerisation is quickly becoming a h
 
 Ever heard of the “Blind men and an elephant” parable? Having never come across an elephant before, a group of blind men tries to conceptualise what the creature is by touching it. Each blind man feels a different body part of the elephant, and comes up with a different description for the animal.
 
-The blind men and an elephant. Source: Wild Equus
+![devops definition elephant blind men ]({{site.baseurl}}/images/img_devops_elephant.jpg)
+*The blind men and an elephant. Source: [Wild Equus](https://wildequus.org/2014/05/07/sufi-story-blind-men-elephant/)*
 
 The same could apply to DevOps’ definition. It is probably the combination of all the things you commonly hear associated with DevOps. 
 
 As mentioned before, DevOps is not tied to a particular type of technology (e.g. containerisation) or particular toolkit/frameworks in software development. 
 
-Most technology vendors talk about some aspects of DevOps. For instance, Amazon talks about it in terms of philosophy, practices and tools. Atlassian discusses it as “a culture, a movement, a philosophy.” Google calls it “Site Reliability Engineering.”
+Most technology vendors talk about some aspects of DevOps. For instance, [Amazon](https://aws.amazon.com/devops/what-is-devops/) talks about it in terms of philosophy, practices and tools. [Atlassian](https://www.atlassian.com/devops) discusses it as “a culture, a movement, a philosophy.” [Google](https://www.google.com/url?q=https://landing.google.com/sre/&sa=D&ust=1502948612351000&usg=AFQjCNGc4t6vQW-ujNT8Stz8f5_zqtGcRg) calls it “Site Reliability Engineering.”
 
 One of the most comprehensive definitions I’ve come across looks at DevOps as a five-level structure. Also worth noting is DevOps’ close linkage with Agile and Lean approaches. It's fundamentally about bringing agile software development practices and automation to the world of IT and Service Operations.
 

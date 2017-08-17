@@ -61,11 +61,13 @@ From another perspective, this periodic table of [DevOps tools](https://xebialab
 ## Why do software developers use containers?
 
 Containerisation can offer significant benefits to DevOps, including increased scalability, resource efficiency, and resiliency. This is largely due to the ease of use for developers to create consistent development environments that closely mimic the final production services.
-The rate of container adoption ranges from 26% (but if you include those “experimenting” as well, the rate goes up to 62% - RightScale, 2016) to 79% (ClusterHQ, 2016)
+
+The rate of container adoption ranges from 26% (but if you include those “experimenting” as well, the rate goes up to 62% - [RightScale](http://assets.rightscale.com/uploads/pdfs/rightscale-2016-state-of-the-cloud-report-devops-trends.pdf), 2016) to 79% ([ClusterHQ](https://clusterhq.com/assets/pdfs/state-of-container-usage-june-2016.pdf), 2016)
 
 Containers allow server applications to be self-contained and replicated across different developer machines. Conceptually, they are similar to Virtual Machines which have long been used to replicate servers across different machines and to isolate different applications from one another, but containers are more lightweight and Docker provides a better development experience than the Virtual Machine alternatives.
 
-Source: SEI Insights 
+![containerisation virtual machine vm ]({{site.baseurl}}/images/img_devops_VM.png)
+*Source: [SEI Insights](https://insights.sei.cmu.edu/devops/2015/01/devops-and-docker.html)*
 
 Projects like Eclipse Che are promising - they use Docker containers to allow users to share development environments via the web, and recreate the exact environment of another developer when investigating bug reports.
 

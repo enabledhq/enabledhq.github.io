@@ -41,21 +41,22 @@ As mentioned before, DevOps is not tied to a particular type of technology (e.g.
 
 Most technology vendors talk about some aspects of DevOps. For instance, [Amazon](https://aws.amazon.com/devops/what-is-devops/) talks about it in terms of philosophy, practices and tools. [Atlassian](https://www.atlassian.com/devops) discusses it as “a culture, a movement, a philosophy.” [Google](https://www.google.com/url?q=https://landing.google.com/sre/&sa=D&ust=1502948612351000&usg=AFQjCNGc4t6vQW-ujNT8Stz8f5_zqtGcRg) calls it “Site Reliability Engineering.”
 
-One of the most comprehensive definitions I’ve come across looks at DevOps as a five-level structure. Also worth noting is DevOps’ close linkage with Agile and Lean approaches. It's fundamentally about bringing agile software development practices and automation to the world of IT and Service Operations.
+One of the most comprehensive definitions I’ve come across looks at [DevOps](https://theagileadmin.com/what-is-devops/) as a five-level structure. Also worth noting is DevOps’ close linkage with Agile and Lean approaches. It's fundamentally about bringing agile software development practices and automation to the world of IT and Service Operations.
 
-DevOps’ definition in depth. Based on: The Agile Admin, AWS, Atlassian
+![devops agile lean definition]({{site.baseurl}}/images/img_devops_levels.png)
+*DevOps’ definition in depth. Based on: [The Agile Admin](https://theagileadmin.com/what-is-devops/), [AWS](https://aws.amazon.com/devops/what-is-devops/), [Atlassian](https://www.atlassian.com/devops)*
 
 Since this article focuses on containers, let’s now look at their relationship with DevOps. 
 Containers are a collection of technologies that allow server applications to be built, packaged and deployed as an isolated, atomic unit - reducing the risk of dependency mismatch, getting servers into unknown configurations, and reducing the potential effect intruders can have from compromised services.
 
 Atlassian’s DevOps-style software development cycle puts containers in the Build phase.
-Considering a e, containers fit in the Build phase, which include staging environments for development, infrastructure as code and collaborative coding.
- 
-Source: Atlassian
 
-From another perspective, this periodic table of DevOps tools doesn’t lay out how the different steps link to each other like above, but provides a fairly comprehensive overview.
+![devops software development cycle ]({{site.baseurl}}/images/img_devops_loop.png)
+*Source: [Atlassian](https://www.atlassian.com/blog/devops/how-to-choose-devops-tools)*
 
-Source: XebiaLabs
+From another perspective, this periodic table of [DevOps tools](https://xebialabs.com/periodic-table-of-devops-tools/) doesn’t lay out how the different steps link to each other like above, but provides a fairly comprehensive overview.
+
+<iframe src="https://xebialabs.com/periodic-table-of-devops-tools/embed/" style="border:0px #FFFFFF none;" name="Periodic Table of DevOps" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="620px" width="1170px"></iframe>
 
 ## Why do software developers use containers?
 

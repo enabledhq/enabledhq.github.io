@@ -73,17 +73,22 @@ Projects like Eclipse Che are promising - they use Docker containers to allow us
 
 # What options are there for containers?
 
-Docker is the big player in the container space with Rocket being the only major competitor. There are some proprietary solutions emerging, but Docker is actually a combination of a specific technology and a standard way of building and interacting with containers, so most of these technologies are compatible with each other through the Open Containers Initiative (OCI). 
+Docker is the big player in the container space with Rocket being the only major competitor. There are some proprietary solutions emerging, but Docker is actually a combination of a specific technology and a standard way of building and interacting with containers, so most of these technologies are compatible with each other through the [Open Containers Initiative](https://www.opencontainers.org/)(OCI). 
+
 Seeing as the core technologies behind Docker are open-source and free, there isn't a large incentive for competition in the container space.
 
 Apart from stats elsewhere, results from this interactive poll on DevOps tools present a pretty concrete case for Docker’s dominance in containerisation.
 
+![docker vs rocket container]({{site.baseurl}}/images/img_devops_hot.png)
+*Source: [XebiaLabs](https://xebialabs.com/devops-hot-or-not/)*
 
-Source: XebiaLabs
 There is a lot more competition in the Container Orchestration space. This is software that manages the servers and ensures that the Docker containers are running as specified. 
+
 The main players here are Docker Swarm (created by Docker) and Kubernetes (also open-source, but mostly created by Google). 
 
-Google offers a hosted Kubernetes service as part of their Cloud services. Amazon AWS has Elastic Container Service for their Cloud but it lacks much of the functionality from the other services. Mesos/DCOS is another large player but is mostly focused on users running their own data centers.
+Google offers a hosted Kubernetes service as part of their Cloud services. Amazon AWS has Elastic Container Service for their Cloud but it lacks much of the functionality from the other services. 
+Mesos/DCOS is another large player but is mostly focused on users running their own data centers.
+
 Service orchestration is a paradigm shift in how services are deployed and managed that is cloud native. Traditional methods of managing services using Enterprise Service Buses (ESBs) are hard to scale and provide single points of failure. 
 
 Kubernetes and its alternatives came out of Google's hard earned knowledge on how to scale services to be global scale through tool automation. This investment in automation also has the benefit of making small services cheaper to set up.
@@ -96,13 +101,13 @@ Docker is going to be the only real choice for the container engine itself.
 
 For container orchestration, this really depends on the specific use case. Here are some brief reviews of each option:
 
-Docker Swarm is included with Docker and has a very small setup cost. It doesn't have the level of engineering effort and configurability as Kubernetes. It’s great if you just want to get started with an out-of-the-box solution, but it may require additional infrastructure setup for large scale deployments.
+**Docker Swarm** is included with Docker and has a very small setup cost. It doesn't have the level of engineering effort and configurability as Kubernetes. It’s great if you just want to get started with an out-of-the-box solution, but it may require additional infrastructure setup for large scale deployments.
 
-Mesos DCOS is only really needed if you have a fleet of servers that you want to monitor and manage that can't be managed via Cloud services. This is good for enterprise on-premise data centres. This is a bit lower level than the other options, and in fact you can run Kubernetes on top of DCOS/Mesos if preferred.
+**Mesos DCOS** is only really needed if you have a fleet of servers that you want to monitor and manage that can't be managed via Cloud services. This is good for enterprise on-premise data centres. This is a bit lower level than the other options, and in fact you can run Kubernetes on top of DCOS/Mesos if preferred.
 
-AWS ECS is okay if you need a basic orchestration system on AWS that integrates easily with other AWS services like EC2 and ELB. The downside: it generally is not kept up to date with the latest versions of Docker and is somewhat opaque for debugging purposes.
+**AWS ECS** is okay if you need a basic orchestration system on AWS that integrates easily with other AWS services like EC2 and ELB. The downside: it generally is not kept up to date with the latest versions of Docker and is somewhat opaque for debugging purposes.
 
-Kubernetes is more complex but it provides the most configuration and flexibility. There is a hosted service by Google that integrates seamlessly with their cloud solution. However, being open-source, there are engines for Kubernetes to deploy your Containers to AWS, Azure or other cloud providers.
+**Kubernetes** is more complex but it provides the most configuration and flexibility. There is a hosted service by Google that integrates seamlessly with their cloud solution. However, being open-source, there are engines for Kubernetes to deploy your Containers to AWS, Azure or other cloud providers.
 
 This gives you the ability to create cross-cloud infrastructure for redundancy or to move away from Google if required, unlike ECS. The up-front investment is high, but it is the best option for large scale services.
 
@@ -110,7 +115,8 @@ This gives you the ability to create cross-cloud infrastructure for redundancy o
 
 Containers are not generally considered secure by default. Unlike virtualisation technology, it does not rely on the hypervisor to provide physical security between the processes. That said, some basic things can be done to help ensure that the containers have been secured to the best effort.
 
-Security as one of the top challenges 
+![devops adoption challenges]({{site.baseurl}}/images/img_devops_challenges.png)
+*Security as one of the top challenges. Source: [RightScale](http://assets.rightscale.com/uploads/pdfs/rightscale-2016-state-of-the-cloud-report-devops-trends.pdf)*
 
 ## Don't expose Docker’s socket to the container if the container has ports exposed to the internet
 

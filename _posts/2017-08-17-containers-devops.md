@@ -64,7 +64,7 @@ Containers are a collection of technologies that allow server applications to be
 
 Atlassian’s DevOps-style software development cycle puts containers in the Build phase.
 
-<img src="{{site.baseurl}}/images/img_devops_loop.png" style="margin-left:auto;margin-right:auto;width:60%;">
+<img src="{{site.baseurl}}/images/img_devops_loop.png" style="margin-left:auto;margin-right:auto;max-width:400px;">
 *Source: [Atlassian](https://www.atlassian.com/blog/devops/how-to-choose-devops-tools)*
 
 From another perspective, this periodic table of [DevOps tools](https://xebialabs.com/periodic-table-of-devops-tools/) doesn’t lay out how the different steps link to each other like above, but provides a fairly comprehensive overview.

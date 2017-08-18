@@ -146,3 +146,10 @@ Hosts like hyper.sh run containers directly on the Hypervisor and thus get the b
 ## Ensure that you are only building from trusted Docker images in your Dockerfile
 
 Only use verified images as your base images. If you use a third-party image instead, and that user's account is compromised, attackers can update their image to inject compromised binaries which your next build will then use. This could give them access to your services and databases.
+
+---
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://enabled1.typeform.com/to/YcdNts" data-text="Suggestion Box for Enabled" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"></div>

@@ -69,7 +69,7 @@ Atlassian’s DevOps-style software development cycle puts containers in the Bui
 
 From another perspective, this periodic table of [DevOps tools](https://xebialabs.com/periodic-table-of-devops-tools/) doesn’t lay out how the different steps link to each other like above, but provides a fairly comprehensive overview.
 
-<iframe src="https://xebialabs.com/periodic-table-of-devops-tools/embed/" style="width: 100%;border:0px #FFFFFF none;" name="Periodic Table of DevOps" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="620px"></iframe>
+<iframe src="https://xebialabs.com/periodic-table-of-devops-tools/embed/" style="width: 100vw;height:60vw;border:0px #FFFFFF none;" name="Periodic Table of DevOps" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px"></iframe>
 
 ## Why do software developers use containers?
 

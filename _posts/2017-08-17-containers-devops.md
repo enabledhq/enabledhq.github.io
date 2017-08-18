@@ -54,7 +54,9 @@ As mentioned before, DevOps is not tied to a particular type of technology (e.g.
 
 Most technology vendors talk about some aspects of DevOps. For instance, [Amazon](https://aws.amazon.com/devops/what-is-devops/) talks about it in terms of philosophy, practices and tools. [Atlassian](https://www.atlassian.com/devops) discusses it as “a culture, a movement, a philosophy.” [Google](https://www.google.com/url?q=https://landing.google.com/sre/&sa=D&ust=1502948612351000&usg=AFQjCNGc4t6vQW-ujNT8Stz8f5_zqtGcRg) calls it “Site Reliability Engineering.”
 
-One of the most comprehensive definitions I’ve come across looks at [DevOps](https://theagileadmin.com/what-is-devops/) as a five-level structure. Also worth noting is DevOps’ close linkage with Agile and Lean approaches. It's fundamentally about bringing agile software development practices and automation to the world of IT and Service Operations.
+One of the most comprehensive definitions I’ve come across looks at [DevOps](https://theagileadmin.com/what-is-devops/) as a five-level structure. Also worth noting is DevOps’ close linkage with Agile and Lean approaches. 
+
+It's fundamentally about bringing agile software development practices and automation to the world of IT and Service Operations.
 
 ![devops agile lean definition]({{site.baseurl}}/images/img_devops_levels.png)
 *DevOps’ definition in depth. Based on: [The Agile Admin](https://theagileadmin.com/what-is-devops/), [AWS](https://aws.amazon.com/devops/what-is-devops/), [Atlassian](https://www.atlassian.com/devops)*

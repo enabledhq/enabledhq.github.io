@@ -7,7 +7,8 @@ meta-keywords: >-
   Devops, devops definition, devops adoption, docker, containers devops,
   containerisation devops, docker devops, devops containers definition, what is
   devops, software development devops, container security, container
-  orchestration, agile lean devops
+  orchestration, agile lean devops, devops best practices, containers best
+  practices, containerisation best practices
 author:
   - dylan
 main-category: technology
@@ -23,6 +24,7 @@ excerpt: >-
   Along with DevOps, Docker as a tool for containerisation is quickly becoming a
   hot name. This blog gives you an overview of DevOps & the container market.
 hero-banner: /images/blog_header_devops.jpg
+short-link: goo.gl/9xf8bM
 ---
 On the surface, DevOps is just another buzzword, i.e. something a lot of people talk about without fully understanding or doing it. 
 

@@ -15,14 +15,14 @@ main-category: technology
 categories:
   - technology
 description: >-
-  Along with DevOps, Docker as a tool for containerisation is quickly becoming a
-  hot name. This blog gives you an overview of DevOps & the container market.
+  Docker as a tool for containerisation is quickly becoming a hot name. This
+  blog gives you an overview of DevOps & the container market.
 meta-description: >-
-  Along with DevOps, Docker as a tool for containerisation is quickly becoming a
-  hot name. This blog gives you an overview of DevOps & the container market.
+  Docker as a tool for containerisation is quickly becoming a hot name. This
+  blog gives you an overview of DevOps & the container market.
 excerpt: >-
-  Along with DevOps, Docker as a tool for containerisation is quickly becoming a
-  hot name. This blog gives you an overview of DevOps & the container market.
+  Docker as a tool for containerisation is quickly becoming a hot name. This
+  blog gives you an overview of DevOps & the container market.
 hero-banner: /images/blog_header_devops.jpg
 short-link: goo.gl/9xf8bM
 image: /images/img_devops_thumb.jpg

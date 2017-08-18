@@ -25,6 +25,7 @@ excerpt: >-
   hot name. This blog gives you an overview of DevOps & the container market.
 hero-banner: /images/blog_header_devops.jpg
 short-link: goo.gl/9xf8bM
+image: /images/img_devops_thumb.jpg
 ---
 On the surface, DevOps is just another buzzword, i.e. something a lot of people talk about without fully understanding or doing it. 
 

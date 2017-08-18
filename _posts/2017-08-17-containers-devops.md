@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-08-17 15:52 +0930'
-published: false
+published: true
 title: 'Containers in DevOps: Options & Best Practices in Security'
 meta-keywords: >-
   Devops, devops definition, devops adoption, docker, containers devops,

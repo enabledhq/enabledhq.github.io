@@ -69,8 +69,6 @@ Atlassian’s DevOps-style software development cycle puts containers in the Bui
 	<em>Source: <a href="https://www.atlassian.com/blog/devops/how-to-choose-devops-tools">Atlassian</a></em>
 </div>
 
-*Source: [Atlassian](https://www.atlassian.com/blog/devops/how-to-choose-devops-tools)*
-
 From another perspective, this periodic table of [DevOps tools](https://xebialabs.com/periodic-table-of-devops-tools/) doesn’t lay out how the different steps link to each other like above, but provides a fairly comprehensive overview.
 
 <div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="https://xebialabs.com/periodic-table-of-devops-tools/embed/" style="width: 100%;height:100%;border:0px #FFFFFF none;" name="Periodic Table of DevOps" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px"></iframe></div>

@@ -2,7 +2,7 @@
 layout: post
 date: '2017-08-17 15:52 +0930'
 published: false
-title: 'Containers in DevOps: options & best practices in security'
+title: 'Containers in DevOps: Options & Best Practices in Security'
 meta-keywords: >-
   Devops, devops definition, devops adoption, docker, containers devops,
   containerisation devops, docker devops, devops containers definition, what is
@@ -22,6 +22,7 @@ meta-description: >-
 excerpt: >-
   Along with DevOps, Docker as a tool for containerisation is quickly becoming a
   hot name. This blog gives you an overview of DevOps & the container market.
+hero-banner: /images/blog_header_devops.jpg
 ---
 On the surface, DevOps is just another buzzword, i.e. something a lot of people talk about without fully understanding or doing it. 
 

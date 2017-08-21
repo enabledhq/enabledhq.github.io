@@ -74,9 +74,14 @@ The app designed for Western Australia’s Housing Department also received a sp
 
 ![mogo the monkey award]({{site.baseurl}}/images/awards_mogo.jpg)
 
+<br />
+<br />
+
 Mogo the Monkey 
 -------------------------
 
 The mobile game designed for Gametraders won the [Australian Mobile Awards](https://drivenxdesign.com/d100/project.asp?ID=10067&Category_ID=4587) for the Action & Adventure  category. We helped our client create a fun and addictive game, generating brand goodwill and unique opportunities to connect with potential customers. 
+
+___
 
 For more details on some of our work, head to our [Case Studies](https://enabled.com.au/ourwork) section.

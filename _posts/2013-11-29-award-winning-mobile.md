@@ -32,11 +32,11 @@ Over the years, Enabled has scored a series of wins with National and Local awar
 
 Clipsal iCat
 ------------
-For the 2013 release of iCat, the opportunity was taken to rebuild the app from the ground up, transforming it from a catalogue app into a true platform. This app was recognised at the inaugural South Australian Interactive Media Excellence awards (SAimX) with a win in the Business & Ecommerce category.
+For the 2013 release of [iCat](https://enabled.com.au/casestudy-Clipsal), the opportunity was taken to rebuild the app from the ground up, transforming it from a catalogue app into a true platform. This app was recognised at the inaugural South Australian Interactive Media Excellence awards (SAimX) with a win in the Business & Ecommerce category.
 
 <div class="non-twitter-quote">
 “Since choosing Enabled as our mobile application developer, we haven’t looked back. Their expertise and creativity took our initial concept to a new level, and the end result was incredibly well received by our target users. The work they do for us in particular iCat has been one of the most well received software launches we’ve experienced.”
-<em>Anthony Locke, Marketing Systems Manager, Clipsal by Schneider Electric</em>
+<em>Anthony Locke, eCommerce Business Manager, Clipsal by Schneider Electric</em>
 </div>
 
 
@@ -71,6 +71,6 @@ Presently, iSports is a well-kept South Australian secret and yet is a software 
 Western Australia Housing
 -------------------------
 
-The app designed for Western Australia’s Housing Department also received a special commendation in the SAimX awards. Western Australian Housing engaged Enabled to replace their aging PDA based system with a fully integrated and real time inspection iOS application for the assessment of government provided housing. Now in the field, their inspectors enjoy use of the app on the perfectly portioned iPad mini, and feedback has been positive from the ground through to the top level management.
+The app designed for Western Australia’s Housing Department also received a special commendation in the SAimX awards. [Western Australian Housing](https://enabled.com.au/casestudy-WAH) engaged Enabled to replace their aging PDA based system with a fully integrated and real time inspection iOS application for the assessment of government provided housing. Now in the field, their inspectors enjoy use of the app on the perfectly portioned iPad mini, and feedback has been positive from the ground through to the top level management.
 
 For more details on some of our work, head to our [Case Studies](https://enabled.com.au/ourwork) section.

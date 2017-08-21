@@ -72,4 +72,11 @@ Western Australia Housing
 
 The app designed for Western Australia’s Housing Department also received a special commendation in the SAimX awards. [Western Australian Housing](https://enabled.com.au/casestudy-WAH) engaged Enabled to replace their aging PDA based system with a fully integrated and real time inspection iOS application for the assessment of government provided housing. Now in the field, their inspectors enjoy use of the app on the perfectly portioned iPad mini, and feedback has been positive from the ground through to the top level management.
 
+![mogo the monkey award]({{site.baseurl}}/images/awards_mogo.jpg)
+
+Mogo the Monkey 
+-------------------------
+
+The mobile game designed for Gametraders won the [Australian Mobile Awards](https://drivenxdesign.com/d100/project.asp?ID=10067&Category_ID=4587) for the Action & Adventure  category. We helped our client create a fun and addictive game, generating brand goodwill and unique opportunities to connect with potential customers. 
+
 For more details on some of our work, head to our [Case Studies](https://enabled.com.au/ourwork) section.

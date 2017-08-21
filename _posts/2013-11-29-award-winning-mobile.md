@@ -39,7 +39,7 @@ For the 2013 release of [iCat](https://enabled.com.au/casestudy-Clipsal), the op
 <em>Anthony Locke, eCommerce Business Manager, Clipsal by Schneider Electric</em>
 </div>
 
-<br />
+
 
 ![cloud clinic award]({{site.baseurl}}/images/award_cloudclinic.jpg)
 

@@ -65,7 +65,7 @@ Presently, iSports is a well-kept South Australian secret and yet is a software 
 <br />
 <br />
 
-![Western Australia Housing app]({{site.baseurl}}/images/award_wahousing.jpg)![award_wahousing.jpg]({{site.baseurl}}/images/award_wahousing.jpg)
+![award_wahousing.jpg]({{site.baseurl}}/images/award_wahousing.jpg)
 
 
 Western Australia Housing

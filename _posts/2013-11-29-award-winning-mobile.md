@@ -38,7 +38,8 @@ For the 2013 release of [iCat](https://enabled.com.au/casestudy-Clipsal), the op
 “Since choosing Enabled as our mobile application developer, we haven’t looked back. Their expertise and creativity took our initial concept to a new level, and the end result was incredibly well received by our target users. The work they do for us in particular iCat has been one of the most well received software launches we’ve experienced.”
 <em>Anthony Locke, eCommerce Business Manager, Clipsal by Schneider Electric</em>
 </div>
-
+<br />
+<br />
 
 ![cloud clinic award]({{site.baseurl}}/images/award_cloudclinic.jpg)
 

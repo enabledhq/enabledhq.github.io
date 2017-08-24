@@ -61,8 +61,34 @@ It's fundamentally about bringing agile software development practices and autom
 ![devops agile lean definition]({{site.baseurl}}/images/img_devops_levels.png)
 *DevOps’ definition in depth. Based on: [The Agile Admin](https://theagileadmin.com/what-is-devops/), [AWS](https://aws.amazon.com/devops/what-is-devops/), [Atlassian](https://www.atlassian.com/devops)*
 
-Since this article focuses on containers, let’s now look at their relationship with DevOps. 
-Containers are a collection of technologies that allow server applications to be built, packaged and deployed as an isolated, atomic unit - reducing the risk of dependency mismatch, getting servers into unknown configurations, and reducing the potential effect intruders can have from compromised services.
+This article zooms in containerisation (containers) at the “Practices” level, and then Docker among others at the “Tools” level. 
+
+# Containers: definition and benefits
+
+Containers are a collection of technologies that allow server applications to be built, packaged and deployed as an isolated, atomic unit - reducing the risk of dependency mismatch, getting servers into unknown configurations, and reducing the potential effect intruders can have from compromised services. 
+
+Containers allow server applications to be self-contained and replicated across different developer machines. 
+
+Conceptually, they are similar to Virtual Machines which have long been used to replicate servers across different machines and to isolate different applications from one another, but containers are more lightweight and Docker provides a better development experience than the Virtual Machine alternatives.
+
+![containerisation virtual machine vm ]({{site.baseurl}}/images/img_devops_VM.png)
+*Source: [SEI Insights](https://insights.sei.cmu.edu/devops/2015/01/devops-and-docker.html)*
+
+Projects like Eclipse Che are promising - they use Docker containers to allow users to share development environments via the web, and recreate the exact environment of another developer when investigating bug reports.
+
+How containers like Docker work can best be understood using the analogy with physical shipping containers, as shown in the image below. 
+
+![why use containers devops]({{site.baseurl}}/images/img_devops_whycontainers.jpg)
+*Source: [dotCloud](https://www.slideshare.net/dotCloud/why-docker2bisv4)*
+
+## How containers fit in with DevOps
+
+Traditionally, there’s been some tension caused by the Dev-Ops silos, with Devs wanting change and Ops wanting stability. Containers serve as the mediator, providing benefits to both sides while allowing each to do what they do best. 
+
+![containers app modernisation]({{site.baseurl}}/images/img_devops_app.png)
+*Source: [Docker](https://www.docker.com/use-cases)*
+
+For instance, containers help improve the quality of code produced by developers, which makes Devs happy. Or containers improves reliability of continuous integration systems, which makes Ops happy.
 
 Atlassian’s DevOps-style software development cycle puts containers in the Build phase.
 
@@ -75,20 +101,9 @@ From another perspective, this periodic table of [DevOps tools](https://xebialab
 
 <div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="https://xebialabs.com/periodic-table-of-devops-tools/embed/" style="width: 100%;height:100%;border:0px #FFFFFF none;" name="Periodic Table of DevOps" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px"></iframe></div>
 
-## Why do software developers use containers?
-
-Containerisation can offer significant benefits to DevOps, including increased scalability, resource efficiency, and resiliency. This is largely due to the ease of use for developers to create consistent development environments that closely mimic the final production services.
+# What options are there for containers?
 
 The rate of container adoption ranges from 26% (but if you include those “experimenting” as well, the rate goes up to 62% - [RightScale](http://assets.rightscale.com/uploads/pdfs/rightscale-2016-state-of-the-cloud-report-devops-trends.pdf), 2016) to 79% ([ClusterHQ](https://clusterhq.com/assets/pdfs/state-of-container-usage-june-2016.pdf), 2016)
-
-Containers allow server applications to be self-contained and replicated across different developer machines. Conceptually, they are similar to Virtual Machines which have long been used to replicate servers across different machines and to isolate different applications from one another, but containers are more lightweight and Docker provides a better development experience than the Virtual Machine alternatives.
-
-![containerisation virtual machine vm ]({{site.baseurl}}/images/img_devops_VM.png)
-*Source: [SEI Insights](https://insights.sei.cmu.edu/devops/2015/01/devops-and-docker.html)*
-
-Projects like Eclipse Che are promising - they use Docker containers to allow users to share development environments via the web, and recreate the exact environment of another developer when investigating bug reports.
-
-# What options are there for containers?
 
 Docker is the big player in the container space with Rocket being the only major competitor. There are some proprietary solutions emerging, but Docker is actually a combination of a specific technology and a standard way of building and interacting with containers, so most of these technologies are compatible with each other through the [Open Containers Initiative](https://www.opencontainers.org/)(OCI). 
 

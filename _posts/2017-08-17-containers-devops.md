@@ -119,11 +119,11 @@ There is a lot more competition in the Container Orchestration space. This is so
 The main players here are **Docker Swarm** (created by Docker) and **Kubernetes** (also open-source, but mostly created by Google). 
 
 **Google** offers a hosted Kubernetes service as part of their Cloud services. **Amazon AWS** has Elastic Container Service for their Cloud but it lacks much of the functionality from the other services. 
-Mesos/DCOS is another large player but is mostly focused on users running their own data centers.
+**Mesos/DCOS** is another large player but is mostly focused on users running their own data centers.
 
 Service orchestration is a paradigm shift in how services are deployed and managed that is cloud native. Traditional methods of managing services using Enterprise Service Buses (ESBs) are hard to scale and provide single points of failure. 
 
-Kubernetes and its alternatives came out of Google's hard earned knowledge on how to scale services to be global scale through tool automation. This investment in automation also has the benefit of making small services cheaper to set up.
+**Kubernetes** and its alternatives came out of Google's hard earned knowledge on how to scale services to be global scale through tool automation. This investment in automation also has the benefit of making small services cheaper to set up.
 
 Container is a relatively new technology, so the orchestration landscape is still shifting with no clear winners at the moment.
 

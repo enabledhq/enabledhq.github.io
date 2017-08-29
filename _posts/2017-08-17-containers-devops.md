@@ -105,7 +105,7 @@ From another perspective, this periodic table of [DevOps tools](https://xebialab
 
 The rate of container adoption ranges from 26% (but if you include those “experimenting” as well, the rate goes up to 62% - [RightScale](http://assets.rightscale.com/uploads/pdfs/rightscale-2016-state-of-the-cloud-report-devops-trends.pdf), 2016) to 79% ([ClusterHQ](https://clusterhq.com/assets/pdfs/state-of-container-usage-june-2016.pdf), 2016)
 
-Docker is the big player in the container space with Rocket being the only major competitor. There are some proprietary solutions emerging, but Docker is actually a combination of a specific technology and a standard way of building and interacting with containers, so most of these technologies are compatible with each other through the [Open Containers Initiative](https://www.opencontainers.org/)(OCI). 
+**Docker** is the big player in the container space with **Rocket** being the only major competitor. There are some proprietary solutions emerging, but Docker is actually a combination of a specific technology and a standard way of building and interacting with containers, so most of these technologies are compatible with each other through the [Open Containers Initiative](https://www.opencontainers.org/) (OCI). 
 
 Seeing as the core technologies behind Docker are open-source and free, there isn't a large incentive for competition in the container space.
 
@@ -116,9 +116,9 @@ Apart from stats elsewhere, results from this interactive poll on DevOps tools p
 
 There is a lot more competition in the Container Orchestration space. This is software that manages the servers and ensures that the Docker containers are running as specified. 
 
-The main players here are Docker Swarm (created by Docker) and Kubernetes (also open-source, but mostly created by Google). 
+The main players here are **Docker Swarm** (created by Docker) and **Kubernetes** (also open-source, but mostly created by Google). 
 
-Google offers a hosted Kubernetes service as part of their Cloud services. Amazon AWS has Elastic Container Service for their Cloud but it lacks much of the functionality from the other services. 
+**Google** offers a hosted Kubernetes service as part of their Cloud services. **Amazon AWS** has Elastic Container Service for their Cloud but it lacks much of the functionality from the other services. 
 Mesos/DCOS is another large player but is mostly focused on users running their own data centers.
 
 Service orchestration is a paradigm shift in how services are deployed and managed that is cloud native. Traditional methods of managing services using Enterprise Service Buses (ESBs) are hard to scale and provide single points of failure. 

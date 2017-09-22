@@ -9,7 +9,6 @@ categories:
 published: false
 title: 10 plus 1 commandments for the modern mobile app designer
 ---
- 
 “My love is alive
 Way down in my code
 Although we are miles apart
@@ -23,10 +22,11 @@ Ain't no bandwidth low enough
 Ain't no screen size wide enough
 To keep me from getting to your app”
 
-Shout out to Medium’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
+Shout out to [Medium](blog.enabled.com.au/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
 
 So here are some simple, yet informative rules for the modern mobile app designer.
-Don’t hide features behind gestures
+
+# Don’t hide features behind gestures
  
 In a multi-touch UI many apps choose to hide features behind gestures, such as a long-press or two-finger-tap. It’s fine to use gestures like this to trigger features, but always make sure those features are also accessible with a visible control.
 
@@ -38,65 +38,68 @@ Hiding features behind gestures also makes it more difficult to support accessib
 
 For example, in the stock Mail app on iOS, the delete and archive features are hidden behind a long press.
 
+![iOS mail app design]({{site.baseurl}}/images/img_appdesign_mail.png)
 
+# Get rid of features 
 
-
-
-
-Get rid of features
 If you have trouble finding a place to put features then it could mean it’s time to start dropping features and try to streamline your application. 
 
-Think about Google Maps  and how many hidden features there are. The app is a combination of location info,history; directions; local listings; as well as things like social sharing.
+Think about [Google Maps](https://www.pcmag.com/feature/328592/26-google-maps-tricks-you-need-to-try) and how many hidden features there are. The app is a combination of location info,history; directions; local listings; as well as things like social sharing.
 
+![google maps app design]({{site.baseurl}}/images/img_appdesign_maps.png)
+*Some core features of Google Maps.*
 
- 
-
-
-
-
-
-
-
-
-Some core features of Google Maps. 
 So unless you’re Google and have the manpower to merge different platforms into a single app, resist putting that extra feature in altogether. Many of the best applications have a singular focus and limited feature set.
+
 Culling features doesn’t make your app worse. It makes it better by giving your core features the attention they deserve and making your app easier for your users to use.
-Don’t use hamburger menus
+
+# Don’t use hamburger menus
+
 Following from the section above, if your app has a lot of  features, it’s tempting to use hamburger menus. Data has shown hamburgers are less efficient, have low discoverability and may clash with the platform navigation patterns. 
+
 It’s okay to use it if “the menu items you’re going to hide behind the hamburger icon fall below the 80% of regular usage.”
+
 In other words, if the user can accomplish the main task from the main screen, then the secondary items like settings could go behind the hamburger menu. The taxi booking app GoCatch is a good example for this.
 
-What happens when you tap on the hamburger icon
+![app design hamburger icon]({{site.baseurl}}/images/img_appdesign_gocatch.gif)
+*What happens when you tap on the hamburger icon*
 
 If your app is really complex and culling features isn’t feasible, use hamburger alternatives such as: tab menu, tab menu with “More” (e.g. Facebook app), horizontal scroll menu, drop down menu etc. 
-Support accessibility
+
+# Support accessibility
+
 Humans are not all the same and out of the box, they come configured with different abilities. So make sure your application takes this into account.
+
 Some simple things you can do include increasing colour contrast for better readability of text, or accounting for people with colorblindness.
+
 Hence, never rely just on colours to communicate different states, and use extra cues such as icons or text to signal different states (as shown below).
 
- Source: Smashing Magazine 
+![mobile app design accessibility ]({{site.baseurl}}/images/img_appdesign_accessibilty.jpg)
+*Source: [Smashing Magazine](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)*
 
 For users with special needs, try to leverage what is given to you by the platform. iOS, for example, will be able to read most of the screen for users with low vision — if you use the standard controls. You can also annotate UI controls with labels for screen readers to use.
-Use animation to be helpful
+
+# Use animation to be helpful
+
 Motion helps your users build a spatial map of your application. When a user taps a button and a screen pushes in from the right edge — and the back button appears on the left edge — the user is aware on some level that they have navigated more deeply into your app.
 
+![app animation design motion]({{site.baseurl}}/images/img_appdesign_animation.gif)
+*Animation helps with spatial awareness. Source: [Nick Babich](http://babich.biz/bringing-mobile-apps-to-life-through-motion/)*
 
-Animation helps with spatial awareness. Source: Nick Babich
 Most motion comes for free if you stick to standard operating system navigation. But if you’re building your own, always ask yourself: Does this animation help the user or does it turn your app UI into a Disney Movie? 
-Avoid lengthy in-app copy
+
+# Avoid lengthy in-app copy
+
 Given the limited screen size on mobile, users don’t want to spend time reading too much text, especially when they’re trying to do something quick. 
+
 Simplify the copy in your app and make sure it’s still approachable, useable, and understandable. 
 Take a look at how cluttered this in-app copy is. App functionality aside (or the lack thereof), the amount of text and its ambiguity is quite off-putting. 
 
+![Virgin money app copy ]({{site.baseurl}}/images/img_appdesign_virgin.png)
+*Virgin Money app*
 
+# Avoid pop-ups unless absolutely necessary
 
-
-
-
-
-Virgin Money app
-
-Avoid pop-ups unless absolutely necessary
 Many users will just tap whatever button pops up on an alert without reading it, just to get it out of the way (e.g. asking users to rate the app). 
 
 You don’t want to be this app in the user’s eyes. Source: Usability Geek

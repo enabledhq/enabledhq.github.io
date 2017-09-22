@@ -139,7 +139,7 @@ One the most memorable app release notes I’ve come across is from Medium. They
  
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">❤️ the <a href="https://twitter.com/hashtag/storytelling?src=hash">#storytelling</a> in the release notes of <a href="https://twitter.com/Medium">@Medium</a> app<br>Details that show brand personality &amp; dedication to <a href="https://twitter.com/hashtag/UX?src=hash">#UX</a> <a href="https://t.co/qr4hV3qcsj">pic.twitter.com/qr4hV3qcsj</a></p>&mdash; Enabled (@EnabledHQ) <a href="https://twitter.com/EnabledHQ/status/888298506447974400">July 21, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  
-Medium even has an archive of their app release notes, recognising that writing these is not for the sake of filling the space.
+Medium even has an archive of their [app release notes](https://medium.com/medium-release-notes), recognising that writing these is not for the sake of filling the space.
 
 # Be smart about user feedback
 
@@ -149,7 +149,7 @@ Your users are using your application. That is, they are paying you for your dec
 
 If a user wants a particular feature then think about why they want it and don’t blindly implement feature requests. Use them as an opportunity to re-think the fundamental workflow of your app and what it is they are trying to do. 
 
-In other words, try to understand their Jobs-to-be-done.
+In other words, try to understand their [Jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/).
 
 Perhaps your users would be better of with a different app entirely? If so, don’t hesitate to recommend it to them.
 
@@ -157,15 +157,16 @@ Perhaps your users would be better of with a different app entirely? If so, don�
 
 Watch users use your app without any interaction, prompting, or discussion from you. Don’t talk to users afterwards, just learn from observing. 
 
-Source: Bug Bash
+![app usability test]({{site.baseurl}}/images/img_appdesign_test.gif)
+*Source: [Bug Bash](http://www.bugbash.net/comic/7.html)*
 
-To further prevent researcher bias, reframe the purpose of your research so as not to “validate” the design, but to “test” it. 
+To further prevent researcher bias, reframe the purpose of your research so as not to “[validate](https://www.nngroup.com/articles/no-validate-in-ux/)” the design, but to “test” it. 
 
-Remember: “If a usability study found nothing to improve in a design then that only proved one thing: that the test was done wrong.”
+Remember: “If a [usability study](https://www.nngroup.com/articles/no-validate-in-ux/) found nothing to improve in a design then that only proved one thing: that the test was done wrong.”
 
 # Build to the platform 
 
-Whether you intend to build your app on a single or multiple platforms, it’s always a good idea to know the specific design conventions for each platform (e.g. iOS, Android, Windows Mobile). 
+Whether you intend to build your app on a single or multiple platforms, it’s always a good idea to know the specific [design conventions](http://dev.nudgerewards.com/how-to-design-ui-for-cross-platform-devices/) for each platform (e.g. iOS, Android, Windows Mobile). 
 
 From there, you can decide between these options:
 
@@ -175,7 +176,7 @@ From there, you can decide between these options:
 
 This depends on things like how complex your app is and how important it is to your overall digital strategy. 
 
-For example, the Australian Taxation Office app has customised UI elements using platform-specific conventions. Notice how the toggle design feels consistent with the respective mobile OS.
+For example, the [Australian Taxation Office](https://www.ato.gov.au/General/Online-services/ATO-app/) app has customised UI elements using platform-specific conventions. Notice how the toggle design feels consistent with the respective mobile OS.
 
 ![cross platform mobile app design]({{site.baseurl}}/images/img_appdesign_ATO.png)
 *How a common screen on the ATO app looks on three different mobile platforms*

@@ -122,25 +122,27 @@ For secondary alerts or those that are not mission-critical, consider non-modal 
 For instance, status alerts like completed download, successful submission etc. 
 Also, instead of having users confirm every action with an alert, you should provide them with the ability to undo their actions, as shown below.
 
-Source: Think with Google
+*Source: [Think with Google](https://www.thinkwithgoogle.com/marketing-resources/experience-design/chapter-6-usability-and-comprehension/)*
 
 A note about error alerts: if you have to use pop-up alerts, tell users what to do to fix the problems. Don’t be like this…
 
-A user may ask: “What went wrong?” “How do I fix this?” Source: GitHub
-Don’t use “Bug fixes and performance improvements” in your release notes, ever
+![mobile app modal alert]({{site.baseurl}}/images/img_appdesign_error.png)
+*A user may ask: “What went wrong?” “How do I fix this?” Source: [GitHub](https://github.com/uxweb/sweet-alert)*
+
+# Don’t use “Bug fixes and performance improvements” in your release notes, ever
  
 This is a rare chance to communicate directly with your users! See the difference between a “filler” release note and good ones below.
 
-
-Spot the “bad guy”.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/LinkedIn">@LinkedIn</a> 👎🏾👎🏾👎🏾👎🏾<br><br>Everyone else at least bothers with their release notes. <a href="https://t.co/qoPFZym66u">pic.twitter.com/qoPFZym66u</a></p>&mdash; Simeon (@twolivesleft) <a href="https://twitter.com/twolivesleft/status/875163718060883969">June 15, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  
 One the most memorable app release notes I’ve come across is from Medium. They have been cleverly mixing storytelling and useful information, as shown in the example below.
  
-
-The good app release notes
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">❤️ the <a href="https://twitter.com/hashtag/storytelling?src=hash">#storytelling</a> in the release notes of <a href="https://twitter.com/Medium">@Medium</a> app<br>Details that show brand personality &amp; dedication to <a href="https://twitter.com/hashtag/UX?src=hash">#UX</a> <a href="https://t.co/qr4hV3qcsj">pic.twitter.com/qr4hV3qcsj</a></p>&mdash; Enabled (@EnabledHQ) <a href="https://twitter.com/EnabledHQ/status/888298506447974400">July 21, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  
 Medium even has an archive of their app release notes, recognising that writing these is not for the sake of filling the space.
-Be smart about user feedback
+
+# Be smart about user feedback
+
 Listen to your users but don’t follow what they say, be opinionated about how your app should work
  
 Your users are using your application. That is, they are paying you for your decisions, your thoughts, and your design. Don’t always defer to what they say when they have suggestions. 
@@ -150,27 +152,36 @@ If a user wants a particular feature then think about why they want it and don�
 In other words, try to understand their Jobs-to-be-done.
 
 Perhaps your users would be better of with a different app entirely? If so, don’t hesitate to recommend it to them.
-Be smart about user testing
+
+# Be smart about user testing
+
 Watch users use your app without any interaction, prompting, or discussion from you. Don’t talk to users afterwards, just learn from observing. 
 
 Source: Bug Bash
+
 To further prevent researcher bias, reframe the purpose of your research so as not to “validate” the design, but to “test” it. 
+
 Remember: “If a usability study found nothing to improve in a design then that only proved one thing: that the test was done wrong.”
-Build to the platform 
+
+# Build to the platform 
+
 Whether you intend to build your app on a single or multiple platforms, it’s always a good idea to know the specific design conventions for each platform (e.g. iOS, Android, Windows Mobile). 
 
 From there, you can decide between these options:
-Strike a balance between adhering to platform conventions and branding conventions (e.g. Facebook app)
-Stick to platform conventions (e.g. WhatsApp app)
-Stick to branding conventions (e.g. Instagram app)
+
+- Strike a balance between adhering to platform conventions and branding conventions (e.g. Facebook)
+- Stick to platform conventions (e.g. WhatsApp)
+- Stick to branding conventions (e.g. Instagram)
 
 This depends on things like how complex your app is and how important it is to your overall digital strategy. 
 
 For example, the Australian Taxation Office app has customised UI elements using platform-specific conventions. Notice how the toggle design feels consistent with the respective mobile OS.
 
+![cross platform mobile app design]({{site.baseurl}}/images/img_appdesign_ATO.png)
+*How a common screen on the ATO app looks on three different mobile platforms*
 
-How a common screen on the ATO app looks on three different mobile platforms.
-Final words
+# Final words
+
 It’s easy to forget who we’re designing for when they’re not there. So here’s a simple tip: test your app with your near and dear. If you’re building a B2B app, ask yourself: “Do I actually want to use this myself?”
 
 

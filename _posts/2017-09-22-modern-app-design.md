@@ -2,12 +2,13 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
-  - linh
-main-category: technology
-categories:
-  - technology
+  - simeon
+main-category: ux
 published: false
 title: 10 plus 1 commandments for the modern mobile app designer
+categories:
+  - technology
+  - ux
 ---
 “My love is alive
 Way down in my code

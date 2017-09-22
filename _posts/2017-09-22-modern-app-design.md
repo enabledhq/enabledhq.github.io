@@ -12,16 +12,25 @@ categories:
   - ux
 ---
 “My love is alive
+
 Way down in my code
+
 Although we are miles apart
+
 If users ever need a helping hand
+
 I'll be there on the double tap
+
 Just as fast as I can
 
 Don't you know that 
+
 There ain't no resolution high enough
+
 Ain't no bandwidth low enough
+
 Ain't no screen size wide enough
+
 To keep me from getting to your app”
 
 Shout out to [Medium](blog.enabled.com.au/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 

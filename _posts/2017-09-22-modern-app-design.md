@@ -2,9 +2,10 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
+  - linh
   - simeon
 main-category: ux
-published: false
+published: true
 title: 10 plus 1 commandments for the modern mobile app designer
 categories:
   - technology
@@ -185,7 +186,3 @@ For example, the [Australian Taxation Office](https://www.ato.gov.au/General/Onl
 # Final words
 
 It’s easy to forget who we’re designing for when they’re not there. So here’s a simple tip: test your app with your near and dear. If you’re building a B2B app, ask yourself: “Do I actually want to use this myself?”
-
-
-
-

@@ -96,23 +96,27 @@ Simplify the copy in your app and make sure it’s still approachable, useable, 
 Take a look at how cluttered this in-app copy is. App functionality aside (or the lack thereof), the amount of text and its ambiguity is quite off-putting. 
 
 ![Virgin money app copy ]({{site.baseurl}}/images/img_appdesign_virgin.png)
-*Virgin Money app*
+*[Virgin Money](https://itunes.apple.com/au/app/secure-virgin-money-australia/id1084935975?mt=8) app*
 
 # Avoid pop-ups unless absolutely necessary
 
 Many users will just tap whatever button pops up on an alert without reading it, just to get it out of the way (e.g. asking users to rate the app). 
 
-You don’t want to be this app in the user’s eyes. Source: Usability Geek
+![app annoying mobile pop up]({{site.baseurl}}/images/img_appdesign_popup.jpg)
+*You don’t want to be this app in the user’s eyes. Source: [Usability Geek](https://usabilitygeek.com/mobile-app-pop-up-guidelines/)*
 
 So resist prompting them unless it’s absolutely necessary. Example situations where a pop-up alert is acceptable:
-Ask users to agree to terms and conditions
-Ask for critical permission in initial launch, e.g. access the camera if it’s a photo-taking app
-Delete important things, e.g. account
+
+- Ask users to agree to terms and conditions
+- Ask for critical permission in initial launch, e.g. access the camera if it’s a photo-taking app
+- Delete important things, e.g. account
 
 When you do use in-app pop-up alerts, keep them short and in-context, i.e. relevant to the task at hand. 
+
 Avoid generic buttons like “OK,” “Cancel,” and “Yes” or “No.” Instead, write the specific action that will occur when the button is pressed, e.g. “Delete,” “Upload,” and so on.
 
-Source: Think with Google
+![modal app alert user permission]({{site.baseurl}}/images/img_appdesign_permission.png)
+*Source: [Think with Google](https://www.thinkwithgoogle.com/marketing-resources/experience-design/chapter-6-usability-and-comprehension/)*
 
 For secondary alerts or those that are not mission-critical, consider non-modal notifications, i.e. those that don’t force users to interact with them before continuing. 
 For instance, status alerts like completed download, successful submission etc. 

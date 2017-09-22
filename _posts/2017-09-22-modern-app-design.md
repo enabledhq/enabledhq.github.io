@@ -5,7 +5,7 @@ author:
   - linh
   - simeon
 main-category: ux
-published: true
+published: false
 title: 10 plus 1 commandments for the modern mobile app designer
 categories:
   - technology

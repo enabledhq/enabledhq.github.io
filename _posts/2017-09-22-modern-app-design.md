@@ -2,6 +2,7 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
+  - linh
   - simeon
 main-category: ux
 published: false
@@ -10,27 +11,27 @@ categories:
   - technology
   - ux
 ---
-“My love is alive
+_“My love is alive_
 
-Way down in my code
+_Way down in my code_
 
-Although we are miles apart
+_Although we are miles apart_
 
-If users ever need a helping hand
+_If users ever need a helping hand_
 
-I'll be there on the double tap
+_I'll be there on the double tap_
 
-Just as fast as I can
+_Just as fast as I can_
 
-Don't you know that 
+_Don't you know that_
 
-There ain't no resolution high enough
+_There ain't no resolution high enough_
 
-Ain't no bandwidth low enough
+_Ain't no bandwidth low enough_
 
-Ain't no screen size wide enough
+_Ain't no screen size wide enough_
 
-To keep me from getting to your app”
+_To keep me from getting to your app”_
 
 Shout out to [Medium](blog.enabled.com.au/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
 

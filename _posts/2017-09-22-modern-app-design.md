@@ -39,7 +39,7 @@ So here are some simple, yet informative rules for the modern mobile app designe
 
 # Don’t hide features behind gestures
  
-In a multi-touch UI many apps choose to hide features behind gestures, such as a long-press or two-finger-tap. It’s fine to use gestures like this to trigger features, but always make sure those features are also accessible with a visible control.
+In a multi-touch user interface (UI), many apps choose to hide features behind gestures, such as a long-press or two-finger-tap. It’s fine to use gestures like this to trigger features, but always make sure those features are also accessible with a visible control.
 
 Your UI is the only way for you to inform your users about features. If you don’t have a visible control for your feature then it might as well not exist.
 
@@ -47,7 +47,7 @@ The exception to this is when a particular gesture is used in a consistent manne
 
 Hiding features behind gestures also makes it more difficult to support accessibility features in your app, which the operating system might otherwise give you “for free.”
 
-For example, in the stock Mail app on iOS, the delete and archive features are hidden behind a long press.
+For example, in the stock Mail app on iOS, the “delete message” feature is hidden behind a long press of the “archive message” icon (circled in the image below).
 
 ![iOS mail app design]({{site.baseurl}}/images/img_appdesign_mail.png)
 
@@ -66,7 +66,7 @@ Culling features doesn’t make your app worse. It makes it better by giving you
 
 # Don’t use hamburger menus
 
-Following from the section above, if your app has a lot of  features, it’s tempting to use hamburger menus. Data has shown hamburgers are less efficient, have low discoverability and may clash with the platform navigation patterns. 
+If your app has a lot of  features, it’s tempting to use hamburger menus. Data has shown hamburgers are less efficient, have low discoverability and may clash with the platform navigation patterns. 
 
 It’s okay to use it if “the menu items you’re going to hide behind the hamburger icon fall below the 80% of regular usage.”
 

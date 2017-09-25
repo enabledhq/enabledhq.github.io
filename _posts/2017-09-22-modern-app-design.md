@@ -182,9 +182,9 @@ Whether you intend to build your app on a single or multiple platforms, you shou
 
 From there, you can decide between these options:
 
-- Strike a balance between adhering to platform conventions and branding conventions (e.g. Facebook)
-- Stick to platform conventions (e.g. WhatsApp)
-- Stick to branding conventions (e.g. Instagram)
+- Strike a balance between adhering to platform conventions and branding conventions (e.g. Facebook app)
+- Stick to platform conventions (e.g. WhatsApp app)
+- Stick to branding conventions (e.g. Instagram app)
 
 This depends on things like how complex your app is and how important it is to your overall digital strategy. 
 

@@ -83,31 +83,31 @@ Humans are not all the same and out of the box, they come configured with differ
 
 Some simple things you can do include increasing colour contrast for better readability of text, or accounting for people with colorblindness.
 
-Hence, never rely just on colours to communicate different states, and use extra cues such as icons or text to signal different states (as shown below).
+Don’t rely just on colours to communicate different states: use extra cues such as icons or text to signal different states (as shown below).
 
 ![mobile app design accessibility ]({{site.baseurl}}/images/img_appdesign_accessibilty.jpg)
 *Source: [Smashing Magazine](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/)*
 
-For users with special needs, try to leverage what is given to you by the platform. iOS, for example, will be able to read most of the screen for users with low vision — if you use the standard controls. You can also annotate UI controls with labels for screen readers to use.
+For users with special needs, try to leverage what is given to you by the platform. iOS, for example, will be able to read most of the screen for users with low vision — if you use the [standard controls](https://developer.apple.com/accessibility/ios/). You can also annotate UI controls with labels for screen readers to use.
 
 # Use animation to be helpful
 
 Motion helps your users build a spatial map of your application. When a user taps a button and a screen pushes in from the right edge — and the back button appears on the left edge — the user is aware on some level that they have navigated more deeply into your app.
 
 ![app animation design motion]({{site.baseurl}}/images/img_appdesign_animation.gif)
-*Animation helps with spatial awareness. Source: [Nick Babich](http://babich.biz/bringing-mobile-apps-to-life-through-motion/)*
+*Animation helps with spatial awareness. Source: [Budi Tanrim](https://dribbble.com/shots/1144818-Life-minimal-app-GIF)*
 
-Most motion comes for free if you stick to standard operating system navigation. But if you’re building your own, always ask yourself: Does this animation help the user or does it turn your app UI into a Disney Movie? 
+Most motion comes for free if you stick to standard operating system navigation. But if you’re building your own, always ask yourself: Does this animation help the user or does it turn your app UI into a [Disney Movie](https://startupsventurecapital.com/your-ui-isn-t-a-disney-movie-703f7fbd24d2)? 
 
 # Avoid lengthy in-app copy
 
-Given the limited screen size on mobile, users don’t want to spend time reading too much text, especially when they’re trying to do something quick. 
+Mobile screens are small and your users want to get to the point. Don't bog them down with lengthy in-app messages.
 
-Simplify the copy in your app and make sure it’s still approachable, useable, and understandable. 
-Take a look at how cluttered this in-app copy is. App functionality aside (or the lack thereof), the amount of text and its ambiguity is quite off-putting. 
+Simplify the copy in your app and make sure it’s approachable, useable, and understandable. 
+Take a look at how cluttered this in-app copy is. It almost feels like a mini website crammed into the small mobile screen. 
 
 ![Virgin money app copy ]({{site.baseurl}}/images/img_appdesign_virgin.png)
-*[Virgin Money](https://itunes.apple.com/au/app/secure-virgin-money-australia/id1084935975?mt=8) app*
+*Avis car rental app*
 
 # Avoid pop-ups unless absolutely necessary
 

@@ -68,11 +68,11 @@ Culling features doesn’t make your app worse. It makes it better by giving you
 
 If your app has a lot of  features, it’s tempting to use hamburger menus. Data has shown hamburgers are less efficient, have low discoverability and may clash with the platform navigation patterns. 
 
-It’s okay to use it if “the menu items you’re going to hide behind the hamburger icon fall below the 80% of regular usage.”
+It’s okay to use them if “the menu items you’re going to hide behind the hamburger icon fall below the 80% of regular usage.”
 
 In other words, if the user can accomplish the main task from the main screen, then the secondary items like settings could go behind the hamburger menu. The taxi booking app GoCatch is a good example for this.
 
-![app design hamburger icon]({{site.baseurl}}/images/img_appdesign_gocatch.gif)
+![gocatch mobile app design]({{site.baseurl}}/images/img_appdesign_gocatch.gif)
 *What happens when you tap on the hamburger icon*
 
 If your app is really complex and culling features isn’t feasible, use hamburger alternatives such as: tab menu, tab menu with “More” (e.g. Facebook app), horizontal scroll menu, drop down menu etc. 

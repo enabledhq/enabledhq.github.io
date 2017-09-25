@@ -95,7 +95,6 @@ For users with special needs, try to leverage what is given to you by the platfo
 Motion helps your users build a spatial map of your application. When a user taps a button and a screen pushes in from the right edge — and the back button appears on the left edge — the user is aware on some level that they have navigated more deeply into your app.
 
 ![mobile app animation good example]({{site.baseurl}}/images/img_appdesign_animation.gif)
-
 *Animation helps with spatial awareness. Source: [Budi Tanrim](https://dribbble.com/shots/1144818-Life-minimal-app-GIF)*
 
 Most motion comes for free if you stick to standard operating system navigation. But if you’re building your own, always ask yourself: Does this animation help the user or does it turn your app UI into a [Disney Movie](https://startupsventurecapital.com/your-ui-isn-t-a-disney-movie-703f7fbd24d2)? 
@@ -119,20 +118,21 @@ Many users will just tap whatever button pops up on an alert without reading it,
 
 So resist prompting them unless it’s absolutely necessary. Example situations where a pop-up alert is acceptable:
 
-- Ask users to agree to terms and conditions
-- Ask for critical permission in initial launch, e.g. access the camera if it’s a photo-taking app
-- Delete important things, e.g. account
+- Asking for critical permission in initial launch, e.g. access the camera if it’s a photo-taking app
+- When deleting important things
 
-When you do use in-app pop-up alerts, keep them short and in-context, i.e. relevant to the task at hand. 
+When you do use in-app pop-up alerts, keep them short and relevant to the task at hand. 
 
-Avoid generic buttons like “OK,” “Cancel,” and “Yes” or “No.” Instead, write the specific action that will occur when the button is pressed, e.g. “Delete,” “Upload,” and so on.
+Avoid generic buttons like “OK,” “Cancel,” and “Yes” or “No.” Instead, write the specific action that will occur when the button is pressed such as “Delete,” “Upload,” and so on.
 
 ![modal app alert user permission]({{site.baseurl}}/images/img_appdesign_permission.png)
 *Source: [Think with Google](https://www.thinkwithgoogle.com/marketing-resources/experience-design/chapter-6-usability-and-comprehension/)*
 
-For secondary alerts or those that are not mission-critical, consider non-modal notifications, i.e. those that don’t force users to interact with them before continuing. 
-For instance, status alerts like completed download, successful submission etc. 
-Also, instead of having users confirm every action with an alert, you should provide them with the ability to undo their actions, as shown below.
+For secondary alerts consider using non-modal notifications. These allow your users to continue interacting with your app while a notification is presented.
+
+You might use these for status alerts like completed downloads, adding items to a shopping cart, and so on.
+
+Also, you can provide users with the ability to undo their actions instead of having them confirm every action with an alert (see image below).
 
 *Source: [Think with Google](https://www.thinkwithgoogle.com/marketing-resources/experience-design/chapter-6-usability-and-comprehension/)*
 
@@ -155,9 +155,9 @@ Medium even has an archive of their [app release notes](https://medium.com/mediu
 
 # Be smart about user feedback
 
-Listen to your users but don’t follow what they say, be opinionated about how your app should work
+Listen to your users but don’t follow what they say - be opinionated about how your app should work
  
-Your users are using your application. That is, they are paying you for your decisions, your thoughts, and your design. Don’t always defer to what they say when they have suggestions. 
+Your users are using _your_ application. That is, they are paying you for your decisions, your thoughts, and your design. Don’t always defer to what they say when they have suggestions. 
 
 If a user wants a particular feature then think about why they want it and don’t blindly implement feature requests. Use them as an opportunity to re-think the fundamental workflow of your app and what it is they are trying to do. 
 
@@ -178,7 +178,7 @@ Remember: “If a [usability study](https://www.nngroup.com/articles/no-validate
 
 # Build to the platform 
 
-Whether you intend to build your app on a single or multiple platforms, it’s always a good idea to know the specific [design conventions](http://dev.nudgerewards.com/how-to-design-ui-for-cross-platform-devices/) for each platform (e.g. iOS, Android, Windows Mobile). 
+Whether you intend to build your app on a single or multiple platforms, you should be aware of the specific [design conventions](http://dev.nudgerewards.com/how-to-design-ui-for-cross-platform-devices/) for each platform (e.g. iOS, Android, Windows Mobile). 
 
 From there, you can decide between these options:
 
@@ -188,7 +188,7 @@ From there, you can decide between these options:
 
 This depends on things like how complex your app is and how important it is to your overall digital strategy. 
 
-For example, the [Australian Taxation Office](https://www.ato.gov.au/General/Online-services/ATO-app/) app has customised UI elements using platform-specific conventions. Notice how the toggle design feels consistent with the respective mobile OS.
+For example, the [Australian Taxation Office](https://www.ato.gov.au/General/Online-services/ATO-app/) app has customised UI elements using platform-specific conventions. Notice how the toggle is consistent with each platform's design, while still maintaining the teal brand colour chosen by the ATO. 
 
 ![cross platform mobile app design]({{site.baseurl}}/images/img_appdesign_ATO.png)
 *How a common screen on the ATO app looks on three different mobile platforms*

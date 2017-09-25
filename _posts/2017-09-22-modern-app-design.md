@@ -94,7 +94,8 @@ For users with special needs, try to leverage what is given to you by the platfo
 
 Motion helps your users build a spatial map of your application. When a user taps a button and a screen pushes in from the right edge — and the back button appears on the left edge — the user is aware on some level that they have navigated more deeply into your app.
 
-![app animation design motion]({{site.baseurl}}/images/img_appdesign_animation.gif)
+![mobile app animation good example]({{site.baseurl}}/images/img_appdesign_animation.gif)
+
 *Animation helps with spatial awareness. Source: [Budi Tanrim](https://dribbble.com/shots/1144818-Life-minimal-app-GIF)*
 
 Most motion comes for free if you stick to standard operating system navigation. But if you’re building your own, always ask yourself: Does this animation help the user or does it turn your app UI into a [Disney Movie](https://startupsventurecapital.com/your-ui-isn-t-a-disney-movie-703f7fbd24d2)? 
@@ -106,8 +107,8 @@ Mobile screens are small and your users want to get to the point. Don't bog them
 Simplify the copy in your app and make sure it’s approachable, useable, and understandable. 
 Take a look at how cluttered this in-app copy is. It almost feels like a mini website crammed into the small mobile screen. 
 
-![Virgin money app copy ]({{site.baseurl}}/images/img_appdesign_virgin.png)
-*Avis car rental app*
+![avis car rental app design]({{site.baseurl}}/images/img_appdesign_Avis.png)
+*[Avis](https://itunes.apple.com/au/app/avis-car-rental/id308342527?mt=8) car rental app*
 
 # Avoid pop-ups unless absolutely necessary
 

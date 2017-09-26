@@ -9,6 +9,7 @@ title: 10 plus 1 commandments for the modern mobile app designer
 categories:
   - technology
   - ux
+hero-banner: /images/Blog_Header_appdesign.png
 ---
 <p style=“text-align:center; white-space:pre-wrap”;><em>
 _My love is alive_

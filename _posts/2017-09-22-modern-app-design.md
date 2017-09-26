@@ -16,13 +16,13 @@ meta-keywords: >-
   mobile UX, mobile UI, mobile app UI design, modern mobile app, modern mobile
   app design, app design and development, mobile app UX, app UI design
 excerpt: >-
-  It’s easy to forget who you’re designing the app for. Here’re some simple and
+  It’s easy to forget who you’re designing the app for. Here’re some simple &
   actionable tips for the modern app designer to improve mobile app UX and UI.
 meta-description: >-
-  It’s easy to forget who you’re designing the app for. Here’re some simple and
+  It’s easy to forget who you’re designing the app for. Here’re some simple &
   actionable tips for the modern app designer to improve mobile app UX and UI.
 description: >-
-  It’s easy to forget who you’re designing the app for. Here’re some simple and
+  It’s easy to forget who you’re designing the app for. Here’re some simple &
   actionable tips for the modern app designer to improve mobile app UX and UI.
 ---
 <p style=“text-align:center; white-space:pre-wrap”;><em>

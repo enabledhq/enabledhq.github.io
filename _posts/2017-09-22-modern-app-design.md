@@ -135,7 +135,7 @@ So resist prompting them unless it’s absolutely necessary. Example situations 
 - Asking for critical permission in initial launch, e.g. access the camera if it’s a photo-taking app
 - When deleting important things
 
-When you do use in-app pop-up alerts, keep them short and relevant to the task at hand. 
+When you do use pop-up alerts, keep them short and relevant to the task at hand. 
 
 Avoid generic buttons like “OK,” “Cancel,” and “Yes” or “No.” Instead, write the specific action that will occur when the button is pressed such as “Delete,” “Upload,” and so on.
 

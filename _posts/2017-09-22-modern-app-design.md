@@ -2,6 +2,7 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
+  - linh
   - simeon
 main-category: ux
 published: true
@@ -57,7 +58,7 @@ In a multi-touch user interface (UI), many apps choose to hide features behind g
 
 Your UI is the only way for you to inform your users about features. If you don’t have a visible control for your feature then it might as well not exist.
 
-The exception to this is when a particular gesture is used in a consistent manner across the entire operating system and your app uses standard operating system controls. In this case users can expect the same gestures to work if they are used to them elsewhere [See Build to the platform]. 
+The exception to this is when a particular gesture is used in a consistent manner across the entire operating system and your app uses standard operating system controls. In this case users can expect the same gestures to work if they are used to them elsewhere [See Build to the platform](#platform). 
 
 Hiding features behind gestures also makes it more difficult to support accessibility features in your app, which the operating system might otherwise give you “for free.”
 
@@ -191,7 +192,7 @@ To further prevent researcher bias, reframe the purpose of your research so as n
 
 Remember: “If a [usability study](https://www.nngroup.com/articles/no-validate-in-ux/) found nothing to improve in a design then that only proved one thing: that the test was done wrong.”
 
-# Build to the platform 
+# <a name="platform"></a> Build to the platform 
 
 Whether you intend to build your app on a single or multiple platforms, you should be aware of the specific [design conventions](http://dev.nudgerewards.com/how-to-design-ui-for-cross-platform-devices/) for each platform (e.g. iOS, Android, Windows Mobile). 
 
@@ -228,4 +229,4 @@ So here's what you can take away from this:
 ---
 Got more mobile app design tips or questions? Tweet to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
 
-Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts). 
+Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts).

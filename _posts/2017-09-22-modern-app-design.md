@@ -25,7 +25,6 @@ description: >-
   It’s easy to forget who you’re designing the app for. Here’re some simple &
   actionable tips for the modern app designer to improve mobile app UX and UI.
 ---
-<p style=“text-align:center; white-space:pre-wrap”;><em>
 _My love is alive_
 
 _Way down in my code_
@@ -46,7 +45,7 @@ _Ain't no bandwidth low enough_
 
 _Ain't no screen size wide enough_
 
-_To keep me from getting to your app_</em></p>
+_To keep me from getting to your app_
 
 Shout out to [Medium](blog.enabled.com.au/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
 

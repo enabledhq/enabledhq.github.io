@@ -5,7 +5,7 @@ author:
   - simeon
 main-category: ux
 published: true
-title: 10 plus 1 commandments for the modern mobile app designer
+title: 10 Plus 1 Commandments for the Modern Mobile App Designer
 categories:
   - technology
   - ux
@@ -25,7 +25,7 @@ description: >-
   It’s easy to forget who you’re designing the app for. Here’re some simple &
   actionable tips for the modern app designer to improve mobile app UX and UI.
 ---
-_My love is alive_
+_M y love is alive_
 
 _Way down in my code_
 
@@ -45,7 +45,7 @@ _Ain't no bandwidth low enough_
 
 _Ain't no screen size wide enough_
 
-_To keep me from getting to your app_
+_To keep me from getting to your app._
 
 Shout out to [Medium]({{site.baseurl}}/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
 
@@ -57,7 +57,7 @@ In a multi-touch user interface (UI), many apps choose to hide features behind g
 
 Your UI is the only way for you to inform your users about features. If you don’t have a visible control for your feature then it might as well not exist.
 
-The exception to this is when a particular gesture is used in a consistent manner across the entire operating system and your app uses standard operating system controls. In this case users can expect the same gestures to work if they are used to them elsewhere [See Build to the platform]. 
+The exception to this is when a particular gesture is used in a consistent manner across the entire operating system and your app uses standard operating system controls. In this case users can expect the same gestures to work if they are used to them elsewhere (See [Build to the platform](#platform)). 
 
 Hiding features behind gestures also makes it more difficult to support accessibility features in your app, which the operating system might otherwise give you “for free.”
 
@@ -135,14 +135,14 @@ So resist prompting them unless it’s absolutely necessary. Example situations 
 - Asking for critical permission in initial launch, e.g. access the camera if it’s a photo-taking app
 - When deleting important things
 
-When you do use in-app pop-up alerts, keep them short and relevant to the task at hand. 
+When you do use pop-up alerts, keep them short and relevant to the task at hand. 
 
 Avoid generic buttons like “OK,” “Cancel,” and “Yes” or “No.” Instead, write the specific action that will occur when the button is pressed such as “Delete,” “Upload,” and so on.
 
 ![modal app alert user permission]({{site.baseurl}}/images/img_appdesign_permission.png)
 *Source: [Think with Google](https://www.thinkwithgoogle.com/marketing-resources/experience-design/chapter-6-usability-and-comprehension/)*
 
-For secondary alerts consider using non-modal notifications. These allow your users to continue interacting with your app while a notification is presented.
+For secondary alerts, consider using non-modal notifications. These allow your users to continue interacting with your app while a notification is presented.
 
 You might use these for status alerts like completed downloads, adding items to a shopping cart, and so on.
 
@@ -174,7 +174,7 @@ Listen to your users but don’t follow what they say - be opinionated about how
  
 Your users are using _your_ application. That is, they are paying you for your decisions, your thoughts, and your design. Don’t always defer to what they say when they have suggestions. 
 
-If a user wants a particular feature then think about why they want it and don’t blindly implement feature requests. Use them as an opportunity to re-think the fundamental workflow of your app and what it is they are trying to do. 
+If a user wants a particular feature then think about why they want it - don’t blindly implement feature requests. Use them as an opportunity to re-think the fundamental workflow of your app and what it is they are trying to do. 
 
 In other words, try to understand their [Jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/).
 
@@ -191,7 +191,7 @@ To further prevent researcher bias, reframe the purpose of your research so as n
 
 Remember: “If a [usability study](https://www.nngroup.com/articles/no-validate-in-ux/) found nothing to improve in a design then that only proved one thing: that the test was done wrong.”
 
-# Build to the platform 
+# <a name="platform"></a> Build to the platform 
 
 Whether you intend to build your app on a single or multiple platforms, you should be aware of the specific [design conventions](http://dev.nudgerewards.com/how-to-design-ui-for-cross-platform-devices/) for each platform (e.g. iOS, Android, Windows Mobile). 
 
@@ -228,4 +228,4 @@ So here's what you can take away from this:
 ---
 Got more mobile app design tips or questions? Tweet to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
 
-Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts). 
+Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts).

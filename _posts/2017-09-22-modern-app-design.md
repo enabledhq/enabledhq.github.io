@@ -213,7 +213,7 @@ The [Australian Taxation Office](https://www.ato.gov.au/General/Online-services/
 
 # Final words
 
-So here's what you can take away from this:
+Here's what you can take away from this:
 
 - Cut down features to streamline your app
 - If you can't cull features, don't hide critical ones behind gestures

@@ -2,6 +2,7 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
+  - linh
   - simeon
 main-category: ux
 published: false
@@ -10,7 +11,8 @@ categories:
   - technology
   - ux
 ---
-<p style=“text-align:center; white-space:pre-wrap;"><em>_“My love is alive_
+<p style=“text-align:center; white-space:pre-wrap”;><em>
+_My love is alive_
 
 _Way down in my code_
 
@@ -30,7 +32,7 @@ _Ain't no bandwidth low enough_
 
 _Ain't no screen size wide enough_
 
-_To keep me from getting to your app”_</em></p>
+_To keep me from getting to your app_</em></p>
 
 Shout out to [Medium](blog.enabled.com.au/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
 
@@ -193,5 +195,14 @@ For example, the [Australian Taxation Office](https://www.ato.gov.au/General/Onl
 *How a common screen on the ATO app looks on three different mobile platforms*
 
 # Final words
+
+So here's what you can take away from this:
+
+- Don't use hamburger menus
+- Less words. Good
+- Stick to platform conventions
+- Don't listen to your users. Watch them
+- Be accessible
+- Write good release notes or we will kill you
 
 It’s easy to forget who we’re designing for when they’re not there. So here’s a simple tip: test your app with your near and dear. If you’re building a B2B app, ask yourself: “Do I actually want to use this myself?”

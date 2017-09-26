@@ -11,7 +11,7 @@ categories:
   - technology
   - ux
 ---
-_“My love is alive_
+<p style=“text-align:center; white-space:pre-wrap;"><em>_“My love is alive_
 
 _Way down in my code_
 
@@ -31,7 +31,7 @@ _Ain't no bandwidth low enough_
 
 _Ain't no screen size wide enough_
 
-_To keep me from getting to your app”_
+_To keep me from getting to your app”_</em></p>
 
 Shout out to [Medium](blog.enabled.com.au/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
 

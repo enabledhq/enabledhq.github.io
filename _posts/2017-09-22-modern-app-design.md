@@ -80,9 +80,9 @@ Culling features doesn’t make your app worse. It makes it better by giving you
 
 # Don’t use hamburger menus
 
-If your app has a lot of  features, it’s tempting to use hamburger menus. Data has shown hamburgers are less efficient, have low discoverability and may clash with the platform navigation patterns. 
+If your app has a lot of  features, it’s tempting to use hamburger menus. [Data](https://techcrunch.com/2014/05/24/before-the-hamburger-button-kills-you/) has shown [hamburgers](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/) are less efficient, have low discoverability and may clash with the platform navigation patterns. 
 
-It’s okay to use them if “the menu items you’re going to hide behind the hamburger icon fall below the 80% of regular usage.”
+It’s okay to use them if “the menu items you’re going to hide behind the [hamburger icon](https://uxplanet.org/when-to-use-a-hamburger-menu-199d62f764aa) fall below the 80% of regular usage.”
 
 In other words, if the user can accomplish the main task from the main screen, then the secondary items like settings could go behind the hamburger menu. The taxi booking app GoCatch is a good example for this.
 

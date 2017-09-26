@@ -201,7 +201,9 @@ From there, you can decide between these options:
 - Stick to platform conventions (e.g. WhatsApp app)
 - Stick to branding conventions (e.g. Instagram app)
 
-This depends on things like how complex your app is and what your app's objective is in relation to your overall digital strategy. Generally, more complex means more time to build and more user onboarding needed. So it's better to use what's already available in the platform to reduce development time and the learning curve for users.
+This depends on things like how complex your app is and what your app's objective is in relation to your overall digital strategy. 
+
+Generally, more complex means more time to build and more user onboarding needed. So in this case, it's better to use what's already available in the platform to reduce development time and the learning curve for users.
 
 The [Australian Taxation Office](https://www.ato.gov.au/General/Online-services/ATO-app/) app has customised UI elements using platform-specific conventions. Notice how the toggle is consistent with each platform's design, while still maintaining the teal brand colour chosen by the ATO. 
 
@@ -225,4 +227,5 @@ So here's what you can take away from this:
 
 ---
 Got more mobile app design tips or questions? Tweet to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
+
 Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts). 

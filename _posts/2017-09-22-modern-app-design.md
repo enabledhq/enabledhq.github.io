@@ -50,7 +50,7 @@ The exception to this is when a particular gesture is used in a consistent manne
 
 Hiding features behind gestures also makes it more difficult to support accessibility features in your app, which the operating system might otherwise give you “for free.”
 
-For example, in the stock Mail app on iOS, the “delete message” feature is hidden behind a long press of the “archive message” icon (circled in the image below).
+For example, in the stock Mail app on iOS, the “delete message” feature is hidden behind a long press of the “archive message” icon (circled in the image below). 
 
 ![iOS mail app design]({{site.baseurl}}/images/img_appdesign_mail.png)
 

@@ -2,7 +2,6 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
-  - linh
   - simeon
 main-category: ux
 published: false
@@ -209,4 +208,6 @@ So here's what you can take away from this:
 - Don't listen to your users. Watch them
 - Know thy platform 
 
+---
 Got more mobile app design tips or questions? Tweet to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
+Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts). 

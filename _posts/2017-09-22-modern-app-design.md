@@ -5,7 +5,7 @@ author:
   - simeon
 main-category: ux
 published: true
-title: 10 plus 1 commandments for the modern mobile app designer
+title: 10 plus 1 Commandments for The Modern Mobile App Designer
 categories:
   - technology
   - ux

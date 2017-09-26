@@ -57,7 +57,7 @@ In a multi-touch user interface (UI), many apps choose to hide features behind g
 
 Your UI is the only way for you to inform your users about features. If you don’t have a visible control for your feature then it might as well not exist.
 
-The exception to this is when a particular gesture is used in a consistent manner across the entire operating system and your app uses standard operating system controls. In this case users can expect the same gestures to work if they are used to them elsewhere [See Build to the platform](#platform). 
+The exception to this is when a particular gesture is used in a consistent manner across the entire operating system and your app uses standard operating system controls. In this case users can expect the same gestures to work if they are used to them elsewhere (See [Build to the platform](#platform)). 
 
 Hiding features behind gestures also makes it more difficult to support accessibility features in your app, which the operating system might otherwise give you “for free.”
 

@@ -2,7 +2,6 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
-  - linh
   - simeon
 main-category: ux
 published: false
@@ -12,6 +11,10 @@ categories:
   - ux
 hero-banner: /images/Blog_Header_appdesign.png
 image: /images/img_appdesign_thumb.png
+meta-keywords: >-
+  mobile app, mobile app design, mobile user experience, mobile user interface,
+  mobile UX, mobile UI, mobile app UI design, modern mobile app, modern mobile
+  app design, app design and development, mobile app UX, app UI design
 ---
 <p style=“text-align:center; white-space:pre-wrap”;><em>
 _My love is alive_

@@ -84,7 +84,7 @@ If your app has a lot of  features, it’s tempting to use hamburger menus. [Dat
 
 It’s okay to use them if “the menu items you’re going to hide behind the [hamburger icon](https://uxplanet.org/when-to-use-a-hamburger-menu-199d62f764aa) fall below the 80% of regular usage.”
 
-In other words, if the user can accomplish the main task from the main screen, then the secondary items like settings could go behind the hamburger menu. The taxi booking app GoCatch is a good example for this.
+In other words, if the user can accomplish the main task from the main screen, then the secondary items like settings could go behind the hamburger menu. The taxi booking app [GoCatch](http://www.gocatch.com/) is a good example for this.
 
 ![gocatch mobile app design]({{site.baseurl}}/images/img_appdesign_gocatch.gif)
 *What happens when you tap on the hamburger icon*

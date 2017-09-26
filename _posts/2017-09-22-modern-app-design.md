@@ -174,7 +174,7 @@ Listen to your users but don’t follow what they say - be opinionated about how
  
 Your users are using _your_ application. That is, they are paying you for your decisions, your thoughts, and your design. Don’t always defer to what they say when they have suggestions. 
 
-If a user wants a particular feature then think about why they want it and don’t blindly implement feature requests. Use them as an opportunity to re-think the fundamental workflow of your app and what it is they are trying to do. 
+If a user wants a particular feature then think about why they want it - don’t blindly implement feature requests. Use them as an opportunity to re-think the fundamental workflow of your app and what it is they are trying to do. 
 
 In other words, try to understand their [Jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/).
 

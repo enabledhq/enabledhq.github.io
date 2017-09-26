@@ -69,7 +69,7 @@ For example, in the stock Mail app on iOS, the “delete message” feature is h
 
 If you have trouble finding a place to put features then it could mean it’s time to start dropping features and try to streamline your application. 
 
-Think about [Google Maps](https://www.pcmag.com/feature/328592/26-google-maps-tricks-you-need-to-try) and how many hidden features there are. The app is a combination of location info,history; directions; local listings; as well as things like social sharing.
+Think about [Google Maps](https://www.pcmag.com/feature/328592/26-google-maps-tricks-you-need-to-try) and how many hidden features there are. The app is a combination of location info and history, directions, local listings, as well as things like social sharing.
 
 ![google maps app design]({{site.baseurl}}/images/img_appdesign_maps.png)
 *Some core features of Google Maps.*

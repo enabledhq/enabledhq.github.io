@@ -187,7 +187,7 @@ From there, you can decide between these options:
 - Stick to platform conventions (e.g. WhatsApp app)
 - Stick to branding conventions (e.g. Instagram app)
 
-This depends on things like how complex your app is and how important it is to your overall digital strategy. 
+This depends on things like how complex your app is and what your app's objective is in relation to your overall digital strategy. Generally, 
 
 For example, the [Australian Taxation Office](https://www.ato.gov.au/General/Online-services/ATO-app/) app has customised UI elements using platform-specific conventions. Notice how the toggle is consistent with each platform's design, while still maintaining the teal brand colour chosen by the ATO. 
 
@@ -207,6 +207,6 @@ So here's what you can take away from this:
 - Pop-ups = annoying = higher chance of uninstall
 - Use those extra minutes to write good release notes instead of checking social media
 - Don't listen to your users. Watch them
-- Stick to platform conventions
+- Know thy platform 
 
-It’s easy to forget who we’re designing for when they’re not there. So here’s a simple tip: test your app with your near and dear. If you’re building a B2B app, ask yourself: “Do I actually want to use this myself?”
+Got more mobile app design tips or questions? Tweet to us @EnabledHQ 

@@ -142,7 +142,7 @@ Avoid generic buttons like “OK,” “Cancel,” and “Yes” or “No.” In
 ![modal app alert user permission]({{site.baseurl}}/images/img_appdesign_permission.png)
 *Source: [Think with Google](https://www.thinkwithgoogle.com/marketing-resources/experience-design/chapter-6-usability-and-comprehension/)*
 
-For secondary alerts consider using non-modal notifications. These allow your users to continue interacting with your app while a notification is presented.
+For secondary alerts, consider using non-modal notifications. These allow your users to continue interacting with your app while a notification is presented.
 
 You might use these for status alerts like completed downloads, adding items to a shopping cart, and so on.
 

@@ -198,11 +198,15 @@ For example, the [Australian Taxation Office](https://www.ato.gov.au/General/Onl
 
 So here's what you can take away from this:
 
-- Don't use hamburger menus
-- Less words. Good
-- Stick to platform conventions
-- Don't listen to your users. Watch them
+- Cut down features to streamline your app
+- If you can't cull features, don't hide critical ones behind gestures
+- Don't use hamburger menus (you're not McDonald's)
 - Be accessible
-- Write good release notes or we will kill you
+- Be animated, not crazy
+- Less text, more meaning
+- Pop-ups = annoying = higher chance of uninstall
+- Use those extra minutes to write good release notes instead of checking social media
+- Don't listen to your users. Watch them
+- Stick to platform conventions
 
 It’s easy to forget who we’re designing for when they’re not there. So here’s a simple tip: test your app with your near and dear. If you’re building a B2B app, ask yourself: “Do I actually want to use this myself?”

@@ -148,6 +148,7 @@ You might use these for status alerts like completed downloads, adding items to 
 
 Also, you can provide users with the ability to undo their actions instead of having them confirm every action with an alert (see image below).
 
+![mobile app alert confirm]({{site.baseurl}}/images/img_appdesign_confirm.png)
 *Source: [Think with Google](https://www.thinkwithgoogle.com/marketing-resources/experience-design/chapter-6-usability-and-comprehension/)*
 
 A note about error alerts: if you have to use pop-up alerts, tell users what to do to fix the problems. Don’t be like this…

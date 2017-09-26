@@ -4,7 +4,7 @@ date: '2017-09-22 17:09 +0930'
 author:
   - simeon
 main-category: ux
-published: false
+published: true
 title: 10 plus 1 commandments for the modern mobile app designer
 categories:
   - technology

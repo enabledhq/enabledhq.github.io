@@ -47,7 +47,7 @@ _Ain't no screen size wide enough_
 
 _To keep me from getting to your app_
 
-Shout out to [Medium](blog.enabled.com.au/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
+Shout out to [Medium]({{site.baseurl}}/images/img_appdesign_medium.jpg)’s recent release notes for the inspiration behind the prose above. App makers and designers can and should show their human side and be more user-focused. But more on that later in the article. 
 
 So here are some simple, yet informative rules for the modern mobile app designer.
 

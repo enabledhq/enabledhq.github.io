@@ -10,6 +10,7 @@ categories:
   - technology
   - ux
 hero-banner: /images/Blog_Header_appdesign.png
+image: /images/img_appdesign_thumb.png
 ---
 <p style=“text-align:center; white-space:pre-wrap”;><em>
 _My love is alive_

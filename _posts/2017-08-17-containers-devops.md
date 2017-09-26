@@ -10,7 +10,6 @@ meta-keywords: >-
   orchestration, agile lean devops, devops best practices, containers best
   practices, containerisation best practices
 author:
-  - linh
   - dylan
 main-category: technology
 categories:

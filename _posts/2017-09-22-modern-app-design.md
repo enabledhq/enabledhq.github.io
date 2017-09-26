@@ -2,6 +2,7 @@
 layout: post
 date: '2017-09-22 17:09 +0930'
 author:
+  - linh
   - simeon
 main-category: ux
 published: true
@@ -208,7 +209,7 @@ Generally, more complex means more time to build and more user onboarding needed
 The [Australian Taxation Office](https://www.ato.gov.au/General/Online-services/ATO-app/) app has customised UI elements using platform-specific conventions. Notice how the toggle is consistent with each platform's design, while still maintaining the teal brand colour chosen by the ATO. 
 
 ![cross platform mobile app design]({{site.baseurl}}/images/img_appdesign_ATO.png)
-*How a common screen on the ATO app looks on three different mobile platforms*
+*How a common screen on the ATO app looks on three different mobile platforms* 
 
 # Final words
 

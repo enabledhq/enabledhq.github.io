@@ -185,7 +185,9 @@ Perhaps your users would be better of with a different app entirely? If so, don�
 
 # Be smart about user testing
 
-Watch users use your app without any interaction, prompting, or discussion from you. Don’t talk to users afterwards, just learn from observing. 
+Watch users interact with your app with minimal interaction, hold back on prompting, or leading discussion from you. Learn mainly from observing. 
+
+Keep an eye out for opportunities. You may learn an amazing insight that you never planned on by ignoring your list of questions for a moment, waiting a little longer in awkward silence or asking “why” a couple more times.
 
 ![app usability test]({{site.baseurl}}/images/img_appdesign_test.gif)
 *Source: [Bug Bash](http://www.bugbash.net/comic/7.html)*

@@ -25,7 +25,9 @@ description: >-
   It’s easy to forget who you’re designing the app for. Here’re some simple &
   actionable tips for the modern app designer to improve mobile app UX and UI.
 ---
-_M y love is alive_
+Sung to the tune of "Ain't no mountain high enough:"
+
+_My love is alive_
 
 _Way down in my code_
 

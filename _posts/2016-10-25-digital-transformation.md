@@ -54,7 +54,7 @@ Now let’s look beyond the surface level and see if the proposed activity is tr
 
 This is like putting on fashionable clothes to look more impressive. In this case, the “clothes” are cool digital technologies. 
 
-Activities such as building a website for your business where none exists, making an online store that lets people browse products and create orders without payment or other integrations. 
+Activities such as [building a website](http://web.enabled.com.au/) for your business where none exists, making an online store that lets people browse products and create orders without payment or other integrations. 
 
 ## Digital makeover 
 

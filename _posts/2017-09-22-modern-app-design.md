@@ -171,7 +171,7 @@ One the most memorable app release notes I’ve come across is from Medium. They
  
 Slack uses the space to communicate new changes as well as encouraging user feedback. After all, would you rather read a corporately dry message like "We're always working hard to improve the app," or something more human with a bit of humour and still on-brand?
 
-<div style="margin-left:auto;margin-right:auto;max-height:600px;height:70%;">
+<div style="margin-left:auto;margin-right:auto;max-height:600px">
 	<img src="{{site.baseurl}}/images/img_appdesign_slack.jpg">
 </div>
 

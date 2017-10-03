@@ -169,7 +169,7 @@ One the most memorable app release notes I’ve come across is from Medium. They
  
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">❤️ the <a href="https://twitter.com/hashtag/storytelling?src=hash">#storytelling</a> in the release notes of <a href="https://twitter.com/Medium">@Medium</a> app<br>Details that show brand personality &amp; dedication to <a href="https://twitter.com/hashtag/UX?src=hash">#UX</a> <a href="https://t.co/qr4hV3qcsj">pic.twitter.com/qr4hV3qcsj</a></p>&mdash; Enabled (@EnabledHQ) <a href="https://twitter.com/EnabledHQ/status/888298506447974400">July 21, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  
-Slack uses the space to communicate new changes as well as encouraging user feedback. After all, would you rather read a corporately dry message like "We're always working hard to improve the app" or something more human, with a bit of humour and still on-brand.
+Slack uses the space to communicate new changes as well as encouraging user feedback. After all, would you rather read a corporately dry message like "We're always working hard to improve the app," or something more human with a bit of humour and still on-brand?
 
 ![slack app release notes]({{site.baseurl}}/images/img_appdesign_slack.jpg)
 

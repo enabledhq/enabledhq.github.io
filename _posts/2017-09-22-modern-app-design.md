@@ -173,6 +173,7 @@ Slack uses the space to communicate new changes as well as encouraging user feed
 
 ![slack app release notes ]({{site.baseurl}}/images/img_appdesign_slack.jpg)
 
+
 # Be smart about user feedback
 
 Listen to your users but don’t follow what they say - be opinionated about how your app should work

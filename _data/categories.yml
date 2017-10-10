@@ -13,3 +13,7 @@ ux:
 entrepreneurship:
   name: Entrepreneurship
   class: entrepreneurship
+
+general news:
+  name: General News
+  class: general news

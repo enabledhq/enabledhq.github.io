@@ -90,6 +90,8 @@ prose:
               value: ux
             - name: "Entrepreneurship"
               value: entrepreneurship
+            - name: "General News"
+              value: news              
       - name: "categories"
         field:
           element: "multiselect"
@@ -105,6 +107,8 @@ prose:
               value: ux
             - name: "Entrepreneurship"
               value: entrepreneurship
+            - name: "General News"
+              value: news              
       - name: "short-link"
         field:
           element: "text"

@@ -3,11 +3,11 @@ layout: post
 date: '2017-10-10 14:59 +1030'
 author:
   - linh
-main-category: technology
-categories:
-  - technology
+main-category: news
 published: false
 title: 'June news round-up: Technology, design, business '
+categories:
+  - news
 ---
 # What's happening out there
 

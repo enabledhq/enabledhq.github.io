@@ -40,18 +40,22 @@ Chances are the funny GIFs you've been seeing and using are from Giphy, which ha
 
 **Harvard Business Review**
 
-Standup meetings actually work, keep meetings under an hour, and never hold meetings just to update people.
+Standup meetings actually work, keep meetings under an hour, and never hold [meetings](https://hbr.org/2015/07/the-condensed-guide-to-running-meetings) just to update people.
 
 **Statista**
 
 Fly a lot? Sit towards the rear cabin to increase your chance of survival in the unlikely event of a crash.
+
+<a href="https://www.statista.com/chart/9805/which-plane-seats-are-safest/" title="Infographic: Which Plane Seats Are Safest? | Statista"><img src="https://infographic.statista.com/normal/chartoftheday_9805_which_plane_seats_are_safest_n.jpg" alt="Infographic: Which Plane Seats Are Safest? | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
  
 
 # Weird & wonderful
 
-🤖  Robotic priest BlessU-2 speaks seven languages and offers digitalised blessings to the public.
+🤖  Robotic priest BlessU-2 speaks seven languages and offers [digitalised blessings](http://lichtkirche.ekhn.de/startseite/einzelansicht/news/an-interactive-experiment-blessu-2-the-blessing-robot-3.html) to the public.
 
-🍫  About 16.4 million of American adults believe that chocolate milk comes from brown cows.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JTK68l2BHtE?rel=0" frameborder="0" allowfullscreen></iframe>
+
+🍫  About 16.4 million of American adults believe that chocolate milk comes from [brown cows](https://www.washingtonpost.com/news/wonk/wp/2017/06/15/seven-percent-of-americans-think-chocolate-milk-comes-from-brown-cows-and-thats-not-even-the-scary-part/?utm_term=.6bf5c1d94463).
 
 # Inside Enabled
  
@@ -65,8 +69,8 @@ This reminds us of a client project we did three years ago, where we created an 
 
 **Congratulations to 2017 Tech eChallenge winners**
 
-We've delivered the innovation course as part of the competition by the University of Adelaide in conjunction with Microsoft.
+We've delivered the [innovation course](http://www.adelaide.edu.au/echallenge/tech-echallenge/) as part of the competition by the University of Adelaide in conjunction with Microsoft. Results of this year's challenge can be found [here](http://www.adelaide.edu.au/news/news93002.html).
 
 **We've just relaunched the Talks & Workshops page**
 
-Check it out here.
+Check it out [here](https://www.enabled.com.au/talks).

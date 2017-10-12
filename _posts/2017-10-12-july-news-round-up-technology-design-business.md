@@ -43,7 +43,7 @@ Creator of Lean Canvas - Ash Maurya - offers the solution (pun intended) to this
 - The first 30 [Tesla Model 3](https://www.forbes.com/sites/brookecrothers/2017/07/22/tesla-model-3-week-launch-imminent-what-to-expect/#2917c94b6af0) cars to roll off production line soon.
 - Musk's Boring Company captured interest with hi-speed transportation [Hyperloop](http://www.news.com.au/technology/innovation/musk-says-government-likes-plan-for-highspeed-tunnels/news-story/5a79f768c5949b757d91d96c0b42baf6).
 
-![tesla boring company hyper loop]({{site.baseurl}}/images/img_july_hyperloop.jpg)![img_july_hyperloop.jpg]({{site.baseurl}}/images/img_july_hyperloop.jpg)
+![img_july_hyperloop.jpg]({{site.baseurl}}/images/img_july_hyperloop.jpg)
 
 
 ## Long read: How to know if tech is just a toy?
@@ -70,7 +70,7 @@ The popular tool to empathise with your customers/users just got revamped. Get i
 
 # Weird & wonderful
 
-🐴  Scientists have inserted a GIF of a horse into living bacteria. Why? One day your family photo albums may be backed up on an [E. coli driv](https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr)e.
+🐴  Scientists have inserted a GIF of a horse into living bacteria. Why? One day your family photo albums may be backed up on an [E. coli drive](https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr).
 
 ![gif in bacteria]({{site.baseurl}}/images/img_july_gif.gif)
 

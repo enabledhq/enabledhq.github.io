@@ -26,6 +26,8 @@ meta-keywords: >-
   technology, innovation, business, design, UX, enabled, enabled adelaide, tech
   news, innovation news, design news, UX news, business news
 ---
+A hand-picked selection of news and articles worth reading.
+
 # What's happening out there
 
 ## Mary Meeker's 2017 Internet Trends Report
@@ -33,7 +35,6 @@ meta-keywords: >-
 The rise of ad blockers on both mobile and web should remind us to put [user experience](http://www.kpcb.com/internet-trends) first.
 
 ![internet trend reports adblock]({{site.baseurl}}/images/img_june_adblock.png)
-
 
 ## Australia's super industry shake-up
 

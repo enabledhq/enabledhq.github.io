@@ -59,7 +59,7 @@ While it "calculates world domination", you can read the comparison with rival [
 
 # Handy business tips
 
-**Ask me what Bitcoin is one more time... **
+**Ask me what Bitcoin is one more time...**
 
 The most simple explanation of [Bitcoin](https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833) is by using apples.
 

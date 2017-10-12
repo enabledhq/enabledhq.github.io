@@ -7,6 +7,7 @@ main-category: news
 published: true
 title: 'June News Round-up: Technology, Design, Business '
 categories:
+  - technology
   - news
 hero-banner: /images/Blog_header_june.png
 image: /images/img_june_thumb.png

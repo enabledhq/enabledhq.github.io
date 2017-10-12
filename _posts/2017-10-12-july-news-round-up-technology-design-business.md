@@ -4,9 +4,10 @@ date: '2017-07-30 16:32 +1030'
 author:
   - linh
 main-category: news
-published: false
+published: true
 title: 'July News Round-up: Technology, Design, Business '
 categories:
+  - technology
   - news
 description: >-
   What’s been happening in July 2017: roundup of news on technology, innovation,
@@ -88,4 +89,3 @@ Comical value aside, we've used Slack for client support, which works better tha
 **Enabled in the press** 
 
 In the wake of app development startup Buzinga’s liquidation, Grant reminds businesses to re-evaluate their criteria in engaging with [app and software developers](http://www.bandt.com.au/technology/rival-failed-tech-start-buzinga-offers-lend-hand-affected-clients-staff).
- 

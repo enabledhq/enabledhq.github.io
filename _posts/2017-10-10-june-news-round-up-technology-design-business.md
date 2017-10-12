@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-10-10 14:59 +1030'
+date: '2017-06-30 14:59 +1030'
 author:
   - linh
 main-category: news
@@ -10,6 +10,7 @@ categories:
   - technology
   - news
 hero-banner: /images/Blog_header_june.png
+image: /images/img_june_thumb.png
 ---
 # What's happening out there
 

@@ -28,7 +28,7 @@ meta-keywords: >-
 ---
 A hand-picked selection of news and articles worth reading this month. 
 
-_Let us know the topics you're interested in [here]_(https://enabled1.typeform.com/to/YcdNts).
+_Let us know the topics you're interested in [here](https://enabled1.typeform.com/to/YcdNts)_
 
 # What's happening out there
 

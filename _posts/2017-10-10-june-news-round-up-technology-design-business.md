@@ -4,7 +4,7 @@ date: '2017-06-30 14:59 +1030'
 author:
   - linh
 main-category: news
-published: false
+published: true
 title: 'June news round-up: Technology, design, business '
 categories:
   - news

@@ -60,18 +60,20 @@ While it "calculates world domination", you can read the comparison with rival [
 
 **Ask me what Bitcoin is one more time... **
 
-The most simple explanation of Bitcoin is by using apples.
+The most simple explanation of [Bitcoin](https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833) is by using apples.
 
 **Empathy map canvas**
 
-The popular tool to empathise with your customers/users just got revamped. Get it here.
+The popular tool to empathise with your customers/users just got revamped. Get it [here](http://gamestorming.com/wp-content/uploads/2017/07/Empathy-Map-006-PNG.png).
  
 
 # Weird & wonderful
 
-🐴  Scientists have inserted a GIF of a horse into living bacteria. Why? One day your family photo albums may be backed up on an E. coli drive.
+🐴  Scientists have inserted a GIF of a horse into living bacteria. Why? One day your family photo albums may be backed up on an [E. coli driv](https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr)e.
 
-🐱  Idea for a pop quiz: Which country has the most cat owners? It's Russia with 59% of those surveyed.
+![gif in bacteria]({{site.baseurl}}/images/img_july_gif.gif)
+
+🐱  Idea for a pop quiz: Which country has the most [cat owners](https://www.statista.com/chart/10267/which-countries-have-the-most-cat-owners/)? It's Russia with 59% of those surveyed.
 
 # Inside Enabled
  

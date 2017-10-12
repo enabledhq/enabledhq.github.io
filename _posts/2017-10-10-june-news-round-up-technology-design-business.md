@@ -5,7 +5,7 @@ author:
   - linh
 main-category: news
 published: true
-title: 'June news round-up: Technology, design, business '
+title: 'June News Round-up: Technology, Design, Business '
 categories:
   - news
 hero-banner: /images/Blog_header_june.png

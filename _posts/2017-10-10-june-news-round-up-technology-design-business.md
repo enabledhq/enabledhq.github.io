@@ -9,6 +9,7 @@ title: 'June news round-up: Technology, design, business '
 categories:
   - technology
   - news
+hero-banner: /images/Blog_header_june.png
 ---
 # What's happening out there
 

@@ -7,10 +7,24 @@ main-category: news
 published: false
 title: 'June news round-up: Technology, design, business '
 categories:
-  - technology
   - news
 hero-banner: /images/Blog_header_june.png
 image: /images/img_june_thumb.png
+description: >-
+  What’s been happening in June 2017: roundup of news on technology, innovation,
+  business, design and inside Enabled.
+meta-description: >-
+  What’s been happening in June 2017: roundup of news on technology, innovation,
+  business, design and inside Enabled.
+excerpt: >-
+  What’s been happening in June 2017: roundup of news on technology, innovation,
+  business, design and inside Enabled.
+What’s been happening in June 2017: >-
+  roundup of news on technology, innovation, business, design and inside
+  Enabled.
+meta-keywords: >-
+  technology, innovation, business, design, UX, enabled, enabled adelaide, tech
+  news, innovation news, design news, UX news, business news
 ---
 # What's happening out there
 

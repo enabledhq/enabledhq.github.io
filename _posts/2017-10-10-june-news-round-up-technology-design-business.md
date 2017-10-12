@@ -26,7 +26,9 @@ meta-keywords: >-
   technology, innovation, business, design, UX, enabled, enabled adelaide, tech
   news, innovation news, design news, UX news, business news
 ---
-A hand-picked selection of news and articles worth reading.
+A hand-picked selection of news and articles worth reading this month. 
+
+_Let us know the topics you're interested in [here]_(https://enabled1.typeform.com/to/YcdNts).
 
 # What's happening out there
 

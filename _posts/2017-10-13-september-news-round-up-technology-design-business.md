@@ -41,6 +41,9 @@ The shakeout in the publishing industry is similar to what is occurring in the r
 - [Streaming videos](https://contently.com/strategist/2017/08/31/facebook-pivot-to-video/) touted as the next frontier, at a cost to [publishers](https://www.businessinsider.com.au/tastemade-has-shifted-its-facebook-video-strategy-to-longer-videos-2017-9?r=US&IR=T)
 - Publishers fighting back to take control of their platforms and the video streams. Who will win in the next phase of the [digital content](https://thenextweb.com/contributors/2017/09/10/die-time-publishers-media-brands/#.tnw_xaImtRh0) revolution?
 
+![facebook video engagement stats]({{site.baseurl}}/images/img_september_video.png)
+*Source: Contently*
+
 ## Minimum Awesome Product
 
 The purpose of the MVP is to be customer-driven instead of being product-driven. But many still confuse the concept with "half-baked prototypes." Maybe time to call it a [Minimum Awesome Product](https://hackernoon.com/mvp-paradox-and-what-most-founders-need-to-be-aware-of-3a5f8c3acb76) instead?

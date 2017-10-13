@@ -16,7 +16,6 @@ excerpt: >-
   What’s been happening in September 2017: roundup of news on technology,
   innovation, business, design and inside Enabled.
 categories:
-  - technology
   - news
 meta-keywords: >-
   technology, innovation, business, design, UX, enabled, enabled adelaide, tech

@@ -43,16 +43,17 @@ The shakeout in the publishing industry is similar to what is occurring in the r
 
 ## Minimum Awesome Product
 
-The purpose of the MVP is to be customer-driven instead of being product-driven. But many still confuse the concept with "half-baked prototypes." Maybe time to call it a Minimum Awesome Product instead?
+The purpose of the MVP is to be customer-driven instead of being product-driven. But many still confuse the concept with "half-baked prototypes." Maybe time to call it a [Minimum Awesome Product](https://hackernoon.com/mvp-paradox-and-what-most-founders-need-to-be-aware-of-3a5f8c3acb76) instead?
 
 ## Long read: Unified Theory of Design
 
-An interesting theory for designing just about everything called CAMP. It’s an acronym for Context - Architecture - Mechanics - Poetics. A fav quote: "Digital products become experiences when people use them."
+An interesting theory for designing just about everything called CAMP. It’s an acronym for Context - Architecture - Mechanics - Poetics. A fav quote: "[Digital products](https://medium.com/@cwodtke/a-unified-theory-for-designing-just-about-anything-b87f1e4f050b) become experiences when people use them."
 
 ## Augmented Reality wave
 
 iOS 11 has sparked a resurge of interest in AR apps. From useful utilities like IKEA's product visualisation app, to creating a gif-filled world just for fun with Giphy. But beneath that is an AR platform war between the giants. 
 
+![ikea ar app]({{site.baseurl}}/images/img_september_ikea.gif)
 *IKEA AR app. Source: [The Verge](https://www.theverge.com/2017/9/20/16329366/ios-11-apple-arkit-best-new-ar-apps)*
 
 # Handy business tips

@@ -4,7 +4,7 @@ date: '2017-09-30 12:04 +1030'
 author:
   - linh
 main-category: news
-published: false
+published: true
 title: 'September News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in September 2017: roundup of news on technology,
@@ -42,7 +42,7 @@ The shakeout in the publishing industry is similar to what is occurring in the r
 - Publishers fighting back to take control of their platforms and the video streams. Who will win in the next phase of the [digital content](https://thenextweb.com/contributors/2017/09/10/die-time-publishers-media-brands/#.tnw_xaImtRh0) revolution?
 
 ![facebook video engagement stats]({{site.baseurl}}/images/img_september_video.png)
-*Source: Contently*
+*Source: [Contently](https://contently.com/strategist/2017/08/31/facebook-pivot-to-video/)*
 
 ## Minimum Awesome Product
 

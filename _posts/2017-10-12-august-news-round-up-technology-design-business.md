@@ -67,19 +67,26 @@ Rumours and leaks have pointed to things like facial recognition to unlock your 
 
 "Who is on a team matters less than how the team members interact, structure their work, and view their contributions."
 
+![psychological safety workplace]({{site.baseurl}}/images/img_august_google.png)
+*Source: [Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)*
+
 **"We need to be more diverse"**
 
 Amid the scandal around Google anti-diversity memo, there is this amusing (and true?) satirical report on diversity in tech.
  
+![gender diversity at work]({{site.baseurl}}/images/img_august_diversity.jpg)
+*Source: [The Cooper Review](http://thecooperreview.com/diversity-in-tech-report/)*
 
 # Weird & wonderful
 
-📎  Can you beat these kids at Microsoft Office proficiency? There is a world champion title up for grabs. 
+📎  Can you beat these kids at [Microsoft Office](http://www.latimes.com/business/technology/la-fi-tn-microsoft-olympics-20170802-story.html) proficiency? There is a world champion title up for grabs. 
 
-🍓  Strawberries extract is the secret to popsicles that “will remain almost the same even if exposed to the hot air from a dryer.”
+🍓  Strawberries extract is the secret to [popsicles](http://www.asahi.com/ajw/articles/AJ201707300036.html) that “will remain almost the same even if exposed to the hot air from a dryer.”
  
 # Inside Enabled
 
 **From our Instagram**
 
-The University of Adelaide produced a nice report on the annual Tech eChallenge which mentions Enabled's involvement on both the teaching and judging side.
+<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BXSHOW8lFCy/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Enabled Solutions (@enabledhq)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-02T07:27:46+00:00">Aug 2, 2017 at 12:27am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+The University of Adelaide produced a nice report on the annual [Tech eChallenge](https://www.instagram.com/p/BXSHOW8lFCy/?taken-by=enabledhq) which mentions Enabled's involvement on both the teaching and judging side.

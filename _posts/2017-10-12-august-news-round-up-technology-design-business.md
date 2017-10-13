@@ -24,7 +24,6 @@ meta-keywords: >-
 hero-banner: /images/Blog_header_june.png
 image: /images/img_august_thumb.png
 categories:
-  - technology
   - news
 ---
 A hand-picked selection of news and articles worth reading this month. 

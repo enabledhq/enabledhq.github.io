@@ -45,17 +45,17 @@ The giant is getting bigger:
 
 ## "Fail fast" is a myth
 
-Making successful software like Facebook & Airbnb seems like playing the lottery, if companies dive straight into production after only making optimistic guesses. Let’s stop playing the product design lottery.
+Making successful software like Facebook & Airbnb seems like playing the lottery, if companies dive straight into production after only making optimistic guesses. Let’s stop playing the [product design](https://www.fastcodesign.com/90136012/fail-fast-in-software-design-is-a-myth) lottery.
 
 ## Long read: Far-reaching impact of driverless cars
 
-How a single innovation is going to completely disrupt not one, but several industries, with non-obvious rippling effects in almost all facets of our daily lives. More parks, fewer accidents, more entertainment services? 
+How a [single innovation](https://medium.com/@FedericoPistono/the-driverless-economy-7d8673b9142) is going to completely disrupt not one, but several industries, with non-obvious rippling effects in almost all facets of our daily lives. More parks, fewer accidents, more entertainment services? 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAQB-Fny36A?rel=0" frameborder="0" allowfullscreen></iframe>
  
 ## iPhone 8 anyone?
 
-Rumours and leaks have pointed to things like facial recognition to unlock your phone, edge-to-edge display, no home button, wireless charging among improved camera, Siri etc. 
+[Rumours and leaks](https://www.macrumors.com/roundup/iphone-8/) have pointed to things like facial recognition to unlock your phone, edge-to-edge display, no home button, wireless charging among improved camera, Siri etc. 
 
 ![iPhone 8 x rumours]({{site.baseurl}}/images/img_august_iphone.jpg)
 *Source: [MacRumors](https://www.macrumors.com/roundup/iphone-8/)*

@@ -4,7 +4,7 @@ date: '2017-08-30 17:21 +1030'
 author:
   - linh
 main-category: news
-published: false
+published: true
 title: 'August News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in August 2017: roundup of news on technology,

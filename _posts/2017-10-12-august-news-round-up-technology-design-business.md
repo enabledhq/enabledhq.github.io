@@ -64,14 +64,14 @@ How a [single innovation](https://medium.com/@FedericoPistono/the-driverless-eco
 
 **What a successful team looks like at Google**
 
-"Who is on a team matters less than how the team members interact, structure their work, and view their contributions."
+"Who is on a team matters less than how the [team members](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) interact, structure their work, and view their contributions."
 
 ![psychological safety workplace]({{site.baseurl}}/images/img_august_google.png)
 *Source: [Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)*
 
 **"We need to be more diverse"**
 
-Amid the scandal around Google anti-diversity memo, there is this amusing (and true?) satirical report on diversity in tech.
+Amid the scandal around Google anti-diversity memo, there is this amusing (and true?) satirical report on [diversity in tech](http://thecooperreview.com/diversity-in-tech-report/).
  
 ![gender diversity at work]({{site.baseurl}}/images/img_august_diversity.jpg)
 *Source: [The Cooper Review](http://thecooperreview.com/diversity-in-tech-report/)*

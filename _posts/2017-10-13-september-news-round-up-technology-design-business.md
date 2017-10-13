@@ -37,13 +37,15 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 The shakeout in the publishing industry is similar to what is occurring in the retail industry, where Amazon might spark a “retail apocalypse”:
 
-- Facebook & Google dominated digital ads, causing disenchantment among publishers
-- Streaming videos touted as the next frontier, at a cost to publishers
-- Publishers fighting back to take control of their platforms and the video streams. Who will win in the next phase of the digital content revolution?
+- Facebook & Google dominated [digital ads](https://digiday.com/media/facebook-gives-continues-take-publishers/), causing disenchantment among publishers
+- [Streaming videos](https://contently.com/strategist/2017/08/31/facebook-pivot-to-video/) touted as the next frontier, at a cost to [publishers](https://www.businessinsider.com.au/tastemade-has-shifted-its-facebook-video-strategy-to-longer-videos-2017-9?r=US&IR=T)
+- Publishers fighting back to take control of their platforms and the video streams. Who will win in the next phase of the [digital content](https://thenextweb.com/contributors/2017/09/10/die-time-publishers-media-brands/#.tnw_xaImtRh0) revolution?
 
 ## Minimum Awesome Product
 
 The purpose of the MVP is to be customer-driven instead of being product-driven. But many still confuse the concept with "half-baked prototypes." Maybe time to call it a [Minimum Awesome Product](https://hackernoon.com/mvp-paradox-and-what-most-founders-need-to-be-aware-of-3a5f8c3acb76) instead?
+
+![MVP definition]({{site.baseurl}}/images/img_september_mvp.gif)
 
 ## Long read: Unified Theory of Design
 
@@ -51,7 +53,7 @@ An interesting theory for designing just about everything called CAMP. It’s an
 
 ## Augmented Reality wave
 
-iOS 11 has sparked a resurge of interest in AR apps. From useful utilities like IKEA's product visualisation app, to creating a gif-filled world just for fun with Giphy. But beneath that is an AR platform war between the giants. 
+iOS 11 has sparked a resurge of interest in AR apps. From useful utilities like IKEA's product visualisation app, to creating a gif-filled world just for fun with Giphy. But beneath that is an [AR platform war](https://www.theverge.com/2017/8/29/16219208/apple-arkit-ar-apps-ikea-walking-dead-giphy-hungry-caterpillar-google) between the giants. 
 
 ![ikea ar app]({{site.baseurl}}/images/img_september_ikea.gif)
 *IKEA AR app. Source: [The Verge](https://www.theverge.com/2017/9/20/16329366/ios-11-apple-arkit-best-new-ar-apps)*

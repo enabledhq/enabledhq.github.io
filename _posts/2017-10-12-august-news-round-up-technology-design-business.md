@@ -24,8 +24,56 @@ meta-keywords: >-
 hero-banner: /images/Blog_header_june.png
 image: /images/img_august_thumb.png
 categories:
+  - technology
   - news
 ---
 A hand-picked selection of news and articles worth reading this month. 
 
 _Let us know the topics you're interested in [here](https://enabled1.typeform.com/to/YcdNts)_
+
+# What's happening out there
+
+## Time to fear Amazon yet?
+
+The giant is getting bigger:
+
+- Chose [Melbourne](https://www.gizmodo.com.au/2017/08/amazon-is-opening-a-huge-warehouse-in-melbourne/) for its first warehouse location in Australia
+- Launched its own [fashion label](https://techcrunch.com/2017/07/28/amazon-gets-into-shoes-and-handbags-with-its-new-private-fashion-label-the-fix/) after a beta launch of a risk-free clothes delivery service
+- Expressed interest in [selling cars](https://thenextweb.com/business/2017/07/26/time-fear-amazon/#.tnw_VKWKIvFs), providing loans, pedaling prescription drugs, and handling your banking
+
+
+
+## "Fail fast" is a myth
+
+Making successful software like Facebook & Airbnb seems like playing the lottery, if companies dive straight into production after only making optimistic guesses. Let’s stop playing the product design lottery.
+
+## Long read: Far-reaching impact of driverless cars
+
+How a single innovation is going to completely disrupt not one, but several industries, with non-obvious rippling effects in almost all facets of our daily lives. More parks, fewer accidents, more entertainment services? 
+ 
+## iPhone 8 anyone?
+
+Rumours and leaks have pointed to things like facial recognition to unlock your phone, edge-to-edge display, no home button, wireless charging among improved camera, Siri etc. 
+
+# Handy business tips
+
+**What a successful team looks like at Google**
+
+"Who is on a team matters less than how the team members interact, structure their work, and view their contributions."
+
+**"We need to be more diverse"**
+
+Amid the scandal around Google anti-diversity memo, there is this amusing (and true?) satirical report on diversity in tech.
+ 
+
+# Weird & wonderful
+
+📎  Can you beat these kids at Microsoft Office proficiency? There is a world champion title up for grabs. 
+
+🍓  Strawberries extract is the secret to popsicles that “will remain almost the same even if exposed to the hot air from a dryer.”
+ 
+# Inside Enabled
+
+**From our Instagram**
+
+The University of Adelaide produced a nice report on the annual Tech eChallenge which mentions Enabled's involvement on both the teaching and judging side.

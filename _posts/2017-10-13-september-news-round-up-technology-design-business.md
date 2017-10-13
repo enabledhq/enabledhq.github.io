@@ -16,6 +16,7 @@ excerpt: >-
   What’s been happening in September 2017: roundup of news on technology,
   innovation, business, design and inside Enabled.
 categories:
+  - technology
   - news
 meta-keywords: >-
   technology, innovation, business, design, UX, enabled, enabled adelaide, tech
@@ -52,8 +53,7 @@ An interesting theory for designing just about everything called CAMP. It’s an
 
 iOS 11 has sparked a resurge of interest in AR apps. From useful utilities like IKEA's product visualisation app, to creating a gif-filled world just for fun with Giphy. But beneath that is an AR platform war between the giants. 
 
-IKEA AR app
- 
+*IKEA AR app. Source: [The Verge](https://www.theverge.com/2017/9/20/16329366/ios-11-apple-arkit-best-new-ar-apps)*
 
 # Handy business tips
 

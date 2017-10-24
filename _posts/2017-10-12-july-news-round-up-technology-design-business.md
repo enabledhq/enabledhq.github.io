@@ -7,7 +7,6 @@ main-category: news
 published: true
 title: 'July News Round-up: Technology, Design, Business '
 categories:
-  - technology
   - news
 description: >-
   What’s been happening in July 2017: roundup of news on technology, innovation,

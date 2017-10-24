@@ -78,7 +78,6 @@ prose:
           element: "select"
           label: "Main Category"
           placeholder: "Choose categories"
-          value: technology
           options:
             - name: "Innovation"
               value: innovation
@@ -95,7 +94,6 @@ prose:
           element: "multiselect"
           label: "Additional Categories"
           placeholder: "Choose categories"
-          value: technology
           options:
             - name: "Innovation"
               value: innovation

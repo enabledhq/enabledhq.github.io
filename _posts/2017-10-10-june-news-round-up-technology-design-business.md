@@ -92,4 +92,4 @@ We've delivered the [innovation course](http://www.adelaide.edu.au/echallenge/te
 
 **We've just relaunched the Talks & Workshops page**
 
-Check it out [here](https://www.enabled.com.au/talks).
+Check it out [here](https://www.enabled.com.au/talks)!

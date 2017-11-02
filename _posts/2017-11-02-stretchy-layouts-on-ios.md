@@ -284,7 +284,7 @@ If we over-scroll past the bottom of the view we get to see the ugly
 grey background of our view controller. We can use the exact same method to
 stretch our backing view out when we over-scroll past the bottom of the view.
 
-![Text Overscroll](Article/TextOverscroll.gif)
+![Text Overscroll]({{site.baseurl}}/images/img_layout_TextOverscroll.gif)
 
 I won't go into the code as it's basically the same technique as the image
 view above. We add an additional text backing view behind our text container,

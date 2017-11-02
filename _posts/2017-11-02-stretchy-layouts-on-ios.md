@@ -13,7 +13,8 @@ image: /images/img_layout_thumb.png
 meta-keywords: >-
   stretchy layout, stretchy layout tutorial, auto layout, iOS 11 stretchy
   layout, user interface, user interface design, UI, UI design, auto layout ios,
-  ios stretchy layout, UI ios, auto layout tutorial, ios layout tutorial
+  ios stretchy layout, UI ios, auto layout tutorial, ios layout tutorial, iPhone
+  x
 description: >-
   We'll show you how to build a simple stretchy layout effect using Auto Layout,
   and then add some polish for iOS 11 and iPhone X

@@ -10,6 +10,10 @@ categories:
   - technology
 hero-banner: /images/Blog_header_layout.png
 image: /images/img_layout_thumb.png
+meta-keywords: >-
+  stretchy layout, stretchy layout tutorial, auto layout, user interface, user
+  interface design, UI, UI design, auto layout ios, ios stretchy layout, UI ios,
+  auto layout tutorial, ios layout tutorial
 ---
 
 Check the image below. This is a cool effect.

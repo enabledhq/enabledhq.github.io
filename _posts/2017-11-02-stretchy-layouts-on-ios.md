@@ -4,24 +4,20 @@ date: '2017-11-02 11:30 +1030'
 published: false
 title: Stretchy Layouts on iOS Using Auto Layout
 author:
+  - linh
   - simeon
 main-category: technology
 categories:
   - technology
 ---
 
-
-![Final Result](Article/FinalEffect.gif)
+![final effects of stretchy layout on iOS]({{site.baseurl}}/images/img_layout_FinalEffect.gif)
 
 Check the image above. This is a cool effect.
 
-And it's really easy to build in iOS using Auto Layout. I want to
-write about this because the effect is so simple, and Auto Layout
-makes its implementation so elegant, that I think you ought to know
-about it.
+And it's really easy to build in iOS using Auto Layout. I want to write about this because the effect is so simple, and Auto Layout makes its implementation so elegant that I think you ought to know about it.
 
-If you want to follow along you can [clone the demo project at our
-starting point](https://github.com/TwoLivesLeft/StretchyLayout/tree/Step-1)
+If you want to follow along you can [clone the demo project at our starting point](https://github.com/TwoLivesLeft/StretchyLayout/tree/Step-1)
 then implement this effect as you read along. You'll need Xcode 9 as we're
 going all-in on iOS 11 for this example.
 
@@ -31,7 +27,7 @@ cd StretchyLayout
 git checkout Step-1
 ```
 
-Here's how we'll do this
+Here's how we'll do this:
 
 * Start with the basic non-stretchy app
 * Modify the view hierarchy to add the necessary constraints to
@@ -40,7 +36,7 @@ make it stretchy
 
 ## The non-Stretchy App
 
-![Initial View Hierarchy](Article/InitialViewHierarchy.png)
+![Initial View Hierarchy]({{site.baseurl}}/images/img_layout_InitialViewHierarchy.png)
 
 Here's the view hierarchy for the basic version of the app. You can see it has
 three main views. The header `UIImageView`, the container for the text, and the
@@ -141,7 +137,7 @@ It's readable and concise. *Use this instead of the default Auto Layout API.*
 
 So how do we go from this, to this?
 
-![Comparison](Article/ScrollComparison.gif)
+![Comparison of stretchy and non stretchy layout]({{site.baseurl}}/images/img_layout_ScrollComparison.gif)
 
 Important to this effect is that Auto Layout will solve constraints
 regardless of whether your views are siblings or elsewhere in the hierarchy.
@@ -150,7 +146,7 @@ As long as they have a common ancestor.
 But key is that views within scroll views can be constrained to views
 outside of scroll views. That's how we will make this work.
 
-![Stretchy View Hierarchy](Article/StretchyViewHierarchy.png)
+![Stretchy View Hierarchy]({{site.baseurl}}/images/img_layout_StretchyViewHierarchy.png)
 
 In the above diagram the bright red lines represent our constraints. Note how
 the top of the image view is now pinned all the way back — outside the scroll
@@ -217,7 +213,7 @@ If you run this code, dragging down on the screen with your finger produces
 the desired effect: the image scales up and bounces back. But if you scroll up
 to read the text ... well, you'll realise that you can't.
 
-![Scroll Bug](Article/ScrollBug.gif)
+![Scroll Bug]({{site.baseurl}}/images/img_layout_ScrollBug.gif)
 
 Why?
 
@@ -332,7 +328,7 @@ This gives us the following appearance when scrolled all the way to the end.
 Note that the scroll indicator is no longer lost behind the curve, and we get
 much more space above the home indicator.
 
-![Fixed Safe Area](Article/FixedSafeArea.png)
+![Fixed Safe Area]({{site.baseurl}}/images/img_layout_FixedSafeArea.png)
 
 > Note: To get the code at this point do `git checkout Step-5`
 
@@ -341,13 +337,13 @@ much more space above the home indicator.
 Our text is overlapping the status bar when we scroll up. This
 looks gross.
 
-![Status Bar Overlap](Article/StatusBarOverlap.png)
+![Status Bar Overlap]({{site.baseurl}}/images/img_layout_StatusBarOverlap.png)
 
 Let's hide the status bar with a cool animation when the user
 scrolls the text into the status bar area. It's quite easy to detect this and
 I think the effect looks great.
 
-![Status Bar Hide](Article/StatusBarHide.gif)
+![Status Bar Hide]({{site.baseurl}}/images/img_layout_StatusBarHide.gif)
 
 How do we do this?
 

@@ -4,6 +4,7 @@ date: '2017-11-02 11:30 +1030'
 published: true
 title: 'Stretchy Layouts on iOS Using Auto Layout '
 author:
+  - linh
   - simeon
 main-category: technology
 categories:
@@ -14,6 +15,12 @@ meta-keywords: >-
   stretchy layout, stretchy layout tutorial, auto layout, iOS 11 stretchy
   layout, user interface, user interface design, UI, UI design, auto layout ios,
   ios stretchy layout, UI ios, auto layout tutorial, ios layout tutorial
+description: >-
+  We'll show you how to build a really simple stretchy layout effect using Auto
+  Layout on iOS
+meta-description: >-
+  We'll show you how to build a really simple stretchy layout effect using Auto
+  Layout on iOS
 ---
 
 Check the image below. This is a cool effect.

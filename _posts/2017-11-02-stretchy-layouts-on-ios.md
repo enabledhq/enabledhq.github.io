@@ -4,7 +4,6 @@ date: '2017-11-02 11:30 +1030'
 published: false
 title: Stretchy Layouts on iOS Using Auto Layout
 author:
-  - linh
   - simeon
 main-category: technology
 categories:

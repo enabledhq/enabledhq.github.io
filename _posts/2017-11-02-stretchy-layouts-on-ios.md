@@ -1,13 +1,15 @@
 ---
 layout: post
 date: '2017-11-02 11:30 +1030'
-published: false
+published: true
 title: Stretchy Layouts on iOS Using Auto Layout
 author:
   - simeon
 main-category: technology
 categories:
   - technology
+hero-banner: /images/Blog_header_layout.png
+image: /images/img_layout_thumb.png
 ---
 
 ![final effects of stretchy layout on iOS]({{site.baseurl}}/images/img_layout_FinalEffect.gif)

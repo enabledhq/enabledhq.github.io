@@ -12,11 +12,11 @@ hero-banner: /images/Blog_header_layout.png
 image: /images/img_layout_thumb.png
 ---
 
-![final effects of stretchy layout on iOS]({{site.baseurl}}/images/img_layout_FinalEffect.gif)
-
-Check the image above. This is a cool effect.
+Check the image below. This is a cool effect.
 
 And it's really easy to build in iOS using Auto Layout. I want to write about this because the effect is so simple, and Auto Layout makes its implementation so elegant that I think you ought to know about it.
+
+![final effects of stretchy layout on iOS]({{site.baseurl}}/images/img_layout_FinalEffect.gif){:class="aligncenter"}
 
 If you want to follow along you can [clone the demo project at our starting point](https://github.com/TwoLivesLeft/StretchyLayout/tree/Step-1)
 then implement this effect as you read along. You'll need Xcode 9 as we're
@@ -35,7 +35,7 @@ Here's how we'll do this:
 make it stretchy
 * Add polish to the app
 
-## The non-Stretchy App
+# The non-Stretchy App
 
 ![Initial View Hierarchy]({{site.baseurl}}/images/img_layout_InitialViewHierarchy.png)
 
@@ -107,9 +107,9 @@ infoText.snp.makeConstraints {
 }
 ```
 
-> Note: To get the code at this point do `git checkout Step-1`
+#### Note: To get the code at this point do `git checkout Step-1`
 
-## A Brief Aside
+# A Brief Aside
 
 You notice we used SnapKit above. SnapKit is great; here's a primer on
 how it works.
@@ -134,7 +134,7 @@ This will pin the edges of `myView` to the edges of `view`.
 
 It's readable and concise. *Use this instead of the default Auto Layout API.*
 
-## Making it Stretchy
+# Making it Stretchy
 
 So how do we go from this, to this?
 
@@ -206,15 +206,15 @@ because we're using:
 We're going to see the image content scale up within the image view as we
 over-scroll the scroll view.
 
-> Note: To get the code at this point do `git checkout Step-2`
+#### Note: To get the code at this point do `git checkout Step-2`
 
-### But There's a Bug
+## But There's a Bug
 
 If you run this code, dragging down on the screen with your finger produces
 the desired effect: the image scales up and bounces back. But if you scroll up
 to read the text ... well, you'll realise that you can't.
 
-![Scroll Bug]({{site.baseurl}}/images/img_layout_ScrollBug.gif)
+![Scroll Bug]({{site.baseurl}}/images/img_layout_ScrollBug.gif){:class="aligncenter"}
 
 Why?
 
@@ -227,7 +227,7 @@ top of the root view despite the scroll view scrolling.
 
 Auto Layout is technically solving our constraints, but it's not what we want.
 
-### Fixing the bug
+## Fixing the bug
 
 We have to change how we constrain the image view. Here's the change:
 
@@ -274,13 +274,13 @@ to scroll up and read the text.
   `.scaleAspectFill` content mode, this creates a parallax-like effect. Try it
   out. You might prefer the way it looks.)
 
-> Note: To get the code at this point do `git checkout Step-3`
+#### Note: To get the code at this point do `git checkout Step-3`
 
-## Polishing the Details
+# Polishing the Details
 
 There are three jarring problems we should fix while we're here.
 
-#### 1. Text Over-Scrolling
+## 1. Text Over-Scrolling
 
 If we over-scroll past the bottom of the view we get to see the ugly
 grey background of our view controller. We can use the exact same method to
@@ -292,9 +292,9 @@ I won't go into the code as it's basically the same technique as the image
 view above. We add an additional text backing view behind our text container,
 and then pin its bottom edge to the root view's bottom edge.
 
-> Note: To get the code at this point do `git checkout Step-4`
+#### Note: To get the code at this point do `git checkout Step-4`
 
-#### 2. Respecting the Safe Area
+## 2. Respecting the Safe Area
 
 On iPhone X our text overlaps the home indicator. We disabled the
 automatic content inset adjustment of our scroll view in order to let our image
@@ -331,9 +331,9 @@ much more space above the home indicator.
 
 ![Fixed Safe Area]({{site.baseurl}}/images/img_layout_FixedSafeArea.png)
 
-> Note: To get the code at this point do `git checkout Step-5`
+#### Note: To get the code at this point do `git checkout Step-5`
 
-#### 3. Hiding the Status Bar When Needed
+## 3. Hiding the Status Bar When Needed
 
 Our text is overlapping the status bar when we scroll up. This
 looks gross.
@@ -344,7 +344,7 @@ Let's hide the status bar with a cool animation when the user
 scrolls the text into the status bar area. It's quite easy to detect this and
 I think the effect looks great.
 
-![Status Bar Hide]({{site.baseurl}}/images/img_layout_StatusBarHide.gif)
+![Status Bar Hide]({{site.baseurl}}/images/img_layout_StatusBarHide.gif){:class="aligncenter"}
 
 How do we do this?
 
@@ -397,9 +397,9 @@ private var shouldHideStatusBar: Bool {
 }
 ```
 
-> Note: To get the code at this point do `git checkout Step-6`
+#### Note: To get the code at this point do `git checkout Step-6`
 
-## What We Covered
+# What We Covered
 
 * You can pin pretty much anything to anything else and your views will
 stretch to satisfy your constraints

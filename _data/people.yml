@@ -64,15 +64,16 @@ simeon:
   small-image: /images/img_teamphotos_simeon_sm.jpg
   large-image: /images/author/img_author_simeon.jpg 
   
-colin:
-  name: Colin Capurso
-  shortname: colin
-  twitter: colincapurso
-  description-title: Developer
+john:
+  name: John Smith
+  shortname: john
+  twitter: johnjamescsmith
+  description-title: John Smith, Software Mechanic at Enabled
   description: >
     Description of Colin
-  small-image: /images/img_teamphotos_colin_sm.jpg
-  large-image: /images/author/img_author_colin.jpg    
+    <br>Follow John on <a class="author-link" href="https://twitter.com/johnjamescsmith" target="_blank">Twitter</a>
+  small-image: /images/img_teamphotos_john_sm.jpg
+  large-image: /images/author/img_author_john.jpg    
   
 jarrod:
   name: Jarrod Swift

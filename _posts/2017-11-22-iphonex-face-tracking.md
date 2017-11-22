@@ -12,6 +12,16 @@ meta-keywords: >-
   animoji, iPhone x face tracking, iPhone x face detection, Maya, Blender,
   Unity, 3d face, Face Tracking, Motion Capture, 3d Animation
 hero-banner: /images/Blog_header_face.png
+description: >-
+  A little experiment in using ARKit face APIs to produce real time face
+  animation. How would you apply this?
+meta-description: >-
+  A little experiment in using ARKit face APIs to produce real time face
+  animation. How would you apply this?
+excerpt: >-
+  A little experiment in using ARKit face APIs to produce real time face
+  animation. How would you apply this?
+image: /images/img_face_thumb.png
 ---
 When Apple announced iPhone X and Animoji the first thought we had was: can we use this to animate arbitrary 3D characters? That is, not just the Animoji designed by Apple.
 

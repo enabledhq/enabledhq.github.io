@@ -56,7 +56,7 @@ src="https://youtube.com/embed/nY6bkB-dw0I">
 </iframe></div>
 
 
-# Hasn't this been done? 
+# Hasn't this been done?
 
 There was a [recent article](http://prostheticknowledge.tumblr.com/post/167520295696/iphone-x-face-motion-capture-into-houdini-were) showing the 3D output from the iPhone X front camera module. It shows the raw vertex data captured from iPhone X and put into Houdini (3D animation software). What we wanted, however, was to get the facial motion data itself and re-target it to an arbitrary 3D model.
 
@@ -72,7 +72,7 @@ So, for example, the `Jaw Open` blend shape would be 0.0 when your jaw is closed
 
 This is really powerful because if you are a 3D artist not only can you map Apple's blend shapes to your 3D character, you can design an animation rig around the various values. For example, maybe you have a cartoon fox with pointy ears, when you detect a frown you could automatically turn the ears downwards (in fact, Apple does this with their own Animoji).
 
-# Making the Morph Targets 
+# Making the Morph Targets
 
 The most labour intensive part is mimicking Apple's morph targets on your custom 3D mesh.
 
@@ -86,13 +86,13 @@ Here are the blend shapes we made for our sample model. These are fairly basic a
 
 ![Morph Targets]({{site.baseurl}}/images/img_face_morphtargets.gif)
 
-# How does it work? 
+# How does it work?
 
 The demo consists of two parts. The iOS app and the Unity extension host.
 
 ## iOS App  ##
 
-You can get it here: [github.com/johnjcsmith/iPhoneMoCap](https://github.com/johnjcsmith/iPhoneMoCap)
+You can get it here: [github.com/johnjcsmith/iPhoneMoCap](https://github.com/johnjcsmith/iPhoneMoCapiOS)
 
 The iOS app streams the Blend Shapes Apple provides in `ARFaceAnchor.blendShapes` to the Unity host through a UDP socket. Essentially emitting a stream of messages, each with 50 blend shapes in the format `'blend-shape-name:blend-shape-value'`.
 
@@ -100,13 +100,13 @@ The iOS app streams the Blend Shapes Apple provides in `ARFaceAnchor.blendShapes
 
 There are lots of performance improvements to be made here but it works for the purpose of a demo.
 
-## Unity Extension Host 
+## Unity Extension Host
 
 You can get it here: [github.com/johnjcsmith/iPhoneMoCapUnity](https://github.com/johnjcsmith/iPhoneMoCapUnity)
 
 Inside of the Unity host we have an extension which opens up a UDP socket to listen for the iPhone's messages. When it receives a message it applies the blend shape values to the corresponding blend shape on the rig.
 
-# How to run the project 
+# How to run the project
 
 * Clone and open the Unity project from [here](https://github.com/johnjcsmith/iPhoneMoCapUnity).
 * Run the Unity project's scene

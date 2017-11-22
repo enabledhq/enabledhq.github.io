@@ -5,6 +5,7 @@ published: false
 title: Real-time Facial Performance Capture with iPhone X
 author:
   - simeon
+  - john
 meta-keywords: >-
   iPhone x facial detection, iPhone x facial tracking, iPhone x real time face
   detection, real time face detection, facial tracking, facial detection,

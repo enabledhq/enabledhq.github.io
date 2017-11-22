@@ -39,7 +39,11 @@ We're going to cover the following:
 
 The result is the ability to stream blend shape parameters live from your iPhone X into Unity to control your animation rig.
 
-<video controls="controls" width="1280" height="720" name="Video Name" src="{{site.baseurl}}/images/img_face_resultlivesmall.mov"></video>
+
+<div style="overflow: auto;">
+<video controls="controls" width="1024" height="576" name="Video Name" src="{{site.baseurl}}/images/img_face_resultlivesmall.mov"></video>
+</div>
+
 
 # Hasn't this been done? 
 

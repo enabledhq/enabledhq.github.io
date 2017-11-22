@@ -21,6 +21,10 @@ description: >-
 meta-description: >-
   We'll show you how to build a simple stretchy layout effect using Auto Layout,
   and then add some polish for iOS 11 and iPhone X
+short-link: 'https://goo.gl/x4vQgq'
+excerpt: >-
+  We'll show you how to build a simple stretchy layout effect using Auto Layout,
+  and then add some polish for iOS 11 and iPhone X
 ---
 
 Check the image below. This is a cool effect.

@@ -31,7 +31,7 @@ The result is the ability to stream blend shape parameters live from your iPhone
 
 <video controls="controls" width="1280" height="720" name="Video Name" src="{{site.baseurl}}/images/img_face_resultlivesmall.mov"></video>
 
-### Hasn't this been done? ###
+# Hasn't this been done? 
 
 There was a [recent article](http://prostheticknowledge.tumblr.com/post/167520295696/iphone-x-face-motion-capture-into-houdini-were) showing the 3D output from the iPhone X front camera module. It shows the raw vertex data captured from iPhone X and put into Houdini (3D animation software). What we wanted, however, was to get the facial motion data itself and re-target it to an arbitrary 3D model.
 
@@ -39,7 +39,7 @@ So, for example, you would be able to perform your in-game character's lip sync 
 
 Current automated facial animation techniques analyse voice data for phonemes (e.g., `ee`, `oo`, `ah`) and map those sounds to 3D model blend shapes. We figured the iPhone X could produce more dynamic facial expressions, including brow movement, blinking, nose flaring, and eye lid movement.
 
-### Retargeting Facial Motion to a Mesh Using iPhone X ###
+# Retargeting Facial Motion to a Mesh Using iPhone X
 
 It turns out that ARKit not only gives you the raw vertex data computed from your face, it gives you a set of blend shape values. Blend shape values are just numbers between 0.0 and ¡1.0 that tell you how much ARKit thinks a certain muscle in your face is moving.
 
@@ -47,7 +47,7 @@ So, for example, the `Jaw Open` blend shape would be 0.0 when your jaw is closed
 
 This is really powerful because if you are a 3D artist not only can you map Apple's blend shapes to your 3D character, you can design an animation rig around the various values. For example, maybe you have a cartoon fox with pointy ears, when you detect a frown you could automatically turn the ears downwards (in fact, Apple does this with their own Animoji).
 
-### Making the Morph Targets ###
+# Making the Morph Targets 
 
 The most labour intensive part is mimicking Apple's morph targets on your custom 3D mesh.
 
@@ -61,11 +61,11 @@ Here are the blend shapes we made for our sample model. These are fairly basic a
 
 ![Morph Targets]({{site.baseurl}}/images/img_face_morphtargets.gif)
 
-### How does it work? ###
+# How does it work? 
 
 The demo consists of two parts. The iOS app and the Unity extension host.
 
-#### iOS App  ####
+## iOS App  ##
 
 You can get it here: [github.com/johnjcsmith/iPhoneMoCap](https://github.com/johnjcsmith/iPhoneMoCap)
 
@@ -75,7 +75,7 @@ The iOS app streams the Blend Shapes Apple provides in `ARFaceAnchor.blendShapes
 
 There are lots of performance improvements to be made here but it works for the purpose of a demo.
 
-#### Unity Extension Host ####
+## Unity Extension Host 
 
 You can get it here: [github.com/johnjcsmith/iPhoneMoCapUnity](https://github.com/johnjcsmith/iPhoneMoCapUnity)
 
@@ -83,7 +83,7 @@ Inside of the Unity host we have an extension which opens up a UDP socket to lis
 
 The Unity extension targets a `SkinnedMeshRenderer` with the name `blendShapeTarget` which
 
-### How to run the project ###
+# How to run the project 
 
 * Clone and open the Unity project from [here](https://github.com/johnjcsmith/iPhoneMoCapUnity).
 * Run the Unity project's scene

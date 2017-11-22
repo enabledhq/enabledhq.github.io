@@ -16,7 +16,6 @@ When Apple announced iPhone X and Animoji the first thought we had was: can we u
 
 It turns out that yeah, not only is this possible. It's pretty easy and the ARKit face APIs are powerful enough to produce useful animation. And we can capture it in real-time.
 
-
 ![Face Demo](images/img_face_result.gif)
 
 We're going to cover the following:

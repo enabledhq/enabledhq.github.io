@@ -30,7 +30,6 @@ It turns out that yeah, not only is this possible. It's pretty easy and the ARKi
 ![Face Demo]({{site.baseurl}}/images/img_face_result.gif)
 
 We're going to cover the following:
-![img_author_john.jpg]({{site.baseurl}}/images/img_author_john.jpg)
 
 * Apple's blend shapes
 * Building the blend shapes on our model

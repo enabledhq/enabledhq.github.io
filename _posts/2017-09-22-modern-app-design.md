@@ -24,6 +24,7 @@ meta-description: >-
 description: >-
   It’s easy to forget who you’re designing the app for. Here’re some simple &
   actionable tips for the modern app designer to improve mobile app UX and UI.
+short-link: 'https://goo.gl/3TnvRD'
 ---
 Sung to the tune of "Ain't no mountain high enough:"
 

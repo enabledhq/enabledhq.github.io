@@ -41,7 +41,7 @@ The result is the ability to stream blend shape parameters live from your iPhone
 
 
 <div style="overflow: auto;">
-<video controls="controls" width="1024" height="576" name="Video Name" src="{{site.baseurl}}/images/img_face_resultlivesmall.mov"></video>
+  <video controls="controls" width="896" height="504" name="Video Name" src="{{site.baseurl}}/images/img_face_resultlivesmall.mov"></video>
 </div>
 
 

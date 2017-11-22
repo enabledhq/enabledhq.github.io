@@ -1,14 +1,15 @@
 ---
 layout: post
 date: '2017-11-22 17:03 +1030'
-author:
-  - linh
 published: false
 title: Real-time Facial Performance Capture with iPhone X
+author:
+  - simeon
 ---
 When Apple announced iPhone X and Animoji the first thought we had was: can we use this to animate arbitrary 3D characters? That is, not just the Animoji designed by Apple.
 
 It turns out that yeah, not only is this possible. It's pretty easy and the ARKit face APIs are powerful enough to produce useful animation. And we can capture it in real-time.
+
 
 ![Face Demo](images/img_face_result.gif)
 

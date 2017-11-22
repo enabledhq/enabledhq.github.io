@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-11-22 17:03 +1030'
-published: false
+published: true
 title: Real-time Facial Performance Capture with iPhone X
 author:
   - simeon

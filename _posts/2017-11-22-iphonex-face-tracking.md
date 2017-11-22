@@ -91,8 +91,6 @@ You can get it here: [github.com/johnjcsmith/iPhoneMoCapUnity](https://github.co
 
 Inside of the Unity host we have an extension which opens up a UDP socket to listen for the iPhone's messages. When it receives a message it applies the blend shape values to the corresponding blend shape on the rig.
 
-The Unity extension targets a `SkinnedMeshRenderer` with the name `blendShapeTarget` which
-
 # How to run the project 
 
 * Clone and open the Unity project from [here](https://github.com/johnjcsmith/iPhoneMoCapUnity).

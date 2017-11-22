@@ -5,6 +5,11 @@ published: false
 title: Real-time Facial Performance Capture with iPhone X
 author:
   - simeon
+meta-keywords: >-
+  iPhone x facial detection, iPhone x facial tracking, iPhone x real time face
+  detection, real time face detection, facial tracking, facial detection,
+  animoji, iPhone x face tracking, iPhone x face detection, Maya, Blender,
+  Unity, 3d face, Face Tracking, Motion Capture, 3d Animation
 ---
 When Apple announced iPhone X and Animoji the first thought we had was: can we use this to animate arbitrary 3D characters? That is, not just the Animoji designed by Apple.
 

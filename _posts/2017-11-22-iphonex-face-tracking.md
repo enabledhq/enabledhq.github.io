@@ -22,6 +22,10 @@ excerpt: >-
   A little experiment in using ARKit face APIs to produce real time face
   animation. How would you apply this?
 image: /images/img_face_thumb.jpg
+main-category: technology
+categories:
+  - technology
+short-link: 'https://goo.gl/hwFHoq'
 ---
 When Apple announced iPhone X and Animoji the first thought we had was: can we use this to animate arbitrary 3D characters? That is, not just the Animoji designed by Apple.
 

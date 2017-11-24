@@ -3,7 +3,7 @@ layout: post
 date: '2017-11-24 15:10 +1030'
 author:
   - linh
-published: false
+published: true
 title: 'Future of Brands: Beyond Cause Marketing '
 main-category: ux
 categories:

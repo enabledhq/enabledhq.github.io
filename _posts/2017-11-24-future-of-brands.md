@@ -85,17 +85,18 @@ As an example, the [fashion industry](https://www.theguardian.com/fashion/2017/a
 Another way of projecting the image of a socially conscious brand is to take a stance. Usually, we see consumer-facing brands at the forefront of this since they’re closer to the public. That doesn’t mean business-facing or B2B brands can’t make an impact. 
 
 ![belief driven consumer]({{site.baseurl}}/images/img_brand_silence.jpg)
+*From the [Future Enterprise](https://openstate.com.au/events/trust-and-brands-friend-or-foe) event*
 
+[Basecamp](https://basecamp.com/) – popular project management/team collaboration software – is not shy about sharing their opinions on things like racism or the harmful effects of [technology](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) (even though they’re in tech). 
 
-Basecamp – popular project management/team collaboration software – is not shy about sharing their opinions on things like racism or the harmful effects of technology (even though they’re in tech). 
+And guess what? They just made it to Forbes’ Small Giants list, recognising small companies in the US that “value [greatness](https://www.forbes.com/sites/boburlingham/2017/05/09/forbes-small-giants-2017-americas-best-small-companies/#3de7da734c32) over growth.”
 
-And guess what? They just made it to Forbes’ Small Giants list, recognising small companies in the US that “value greatness over growth.”
-What about bigger corporate counterparts? 
+# What about bigger corporate counterparts? 
 
 It’s helpful to know where all socially oriented activities fall on the spectrum. 
 
-
-Source: Australian Government 
+![social enterprise definition]({{site.baseurl}}/images/img_brand_socialenterprise.jpg)
+*Source: [Australian Government](https://industry.gov.au/Office-of-the-Chief-Economist/Publications/Policy/AustralianInnovationSystemReport/AISR2011/chapter-5-public-sector-and-social-innovation/social-innovation-in-australia/index.html)* 
 
 Most corporations’ socially oriented activities would fall under Corporate Social Responsibility (CSR) category. These are mostly proactive, periodic initiatives that may have some brand building purposes attached. 
 

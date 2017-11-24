@@ -10,6 +10,7 @@ categories:
   - ux
   - entrepreneurship
 hero-banner: /images/Blog_header_brand.jpg
+image: /images/img_brand_thumb.jpg
 ---
 Would you care if the brands you interact with every day disappeared? A [global survey](http://www.meaningful-brands.com/en) says nearly three-quarters of those asked wouldn’t care. Will brands play any role in the future against the backdrop of falling trust in institutions? Would what we do as marketers, branding strategists, advertisers or product managers matter anymore? But before it turns into a philosophical debate about the meaning of existence, let’s quickly return to reality. 
 

@@ -70,19 +70,22 @@ So people buy not just the what (functional benefits) but also the how and the w
 
 # Movement towards social goodness
 
-Businesses have different levels of commitment. Some get certified as a Benefit Corporation (B Corps), some operate as social enterprises. 
+Businesses have different levels of commitment. Some get certified as a Benefit Corporation ([B Corps](http://bcorporation.com.au/what-are-b-corps-0)), some operate as [social enterprises](http://www.socialtraders.com.au/about-social-enterprise/what-is-a-social-enterprise/social-enterprise-definition/). 
 
 Often, these are relatively new companies that are not behemoths in their industries. And they try to assert their unique value proposition through being socially conscious. Here are a few ways to do it.
 
-Being ethical within their own supply chain 
-As an example, the fashion industry is notoriously bad in this aspect. Thus, startups or smaller fashion brands can tackle the issue and galvanise consumers into buying “slow fashion” instead.
+**Being ethical within their own supply chain **
 
-Green Embassy – Australia’s first globally recognised organic fashion label – is a good example. At the aforementioned Future Enterprise event, they showcased the journey of raising awareness, attracting national and global media coverage in the fashion world. 
+As an example, the [fashion industry](https://www.theguardian.com/fashion/2017/apr/25/sustainable-clothing-fashion-revolution-week-rana-plaza-emma-watson) is notoriously bad in this aspect. Thus, startups or smaller fashion brands can tackle the issue and galvanise consumers into buying “slow fashion” instead.
 
-Taking a stance on social issues
+[Green Embassy](http://greenembassy.com.au/) – Australia’s first globally recognised organic fashion label – is a good example. At the aforementioned [Future Enterprise](https://openstate.com.au/events/trust-and-brands-friend-or-foe) event, they showcased the journey of raising awareness, attracting national and global media coverage in the fashion world. 
 
+**Taking a stance on social issues**
 
 Another way of projecting the image of a socially conscious brand is to take a stance. Usually, we see consumer-facing brands at the forefront of this since they’re closer to the public. That doesn’t mean business-facing or B2B brands can’t make an impact. 
+
+![belief driven consumer]({{site.baseurl}}/images/img_brand_silence.jpg)
+
 
 Basecamp – popular project management/team collaboration software – is not shy about sharing their opinions on things like racism or the harmful effects of technology (even though they’re in tech). 
 

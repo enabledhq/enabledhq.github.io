@@ -124,7 +124,7 @@ This means reacting to bad press by launching initiatives that are insignificant
 
 For instance, fashion giant Zara launched their first [sustainable](http://fashionjournal.com.au/fashion/features/zara-has-released-sustainable-collection-it-enough) collection last year. This could be an attempt to sooth criticism of Zara using cheap labour and ripping off independent designers. 
 
-**Taking the right social stance yet failing to hit the mark **
+**Taking the right social stance yet failing to hit the mark**
 
 Sometimes a good idea suffers from poor execution. Take Pepsi vs. Heineken.
 

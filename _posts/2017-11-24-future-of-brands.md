@@ -137,42 +137,51 @@ The extraordinary thing about TOMS is they actually cared enough to listen and i
 ![toms one for one]({{site.baseurl}}/images/img_brand_toms.png)
 *Source: [TOMS](http://www.toms.com/improving-lives)*
 
-And how are they faring business-wise? Not only is their “buy one give one” model sustainable, they managed to expand globally and attracted investment from Bain Capital – who owns half of TOMS and see their giving and purpose as a competitive advantage.
-The cost of inaction or the benefits of action 
+And how are they faring business-wise? Not only is their “buy one give one” model sustainable, they managed to expand globally and attracted investment from Bain Capital – who owns half of TOMS and see their giving and [purpose](https://www.businessinsider.com.au/toms-blake-mycoskie-talks-growing-a-business-while-balancing-profit-with-purpose-2016-6) as a competitive advantage.
+
+# The cost of inaction or the benefits of action 
+
 With potential backlash, it’s not unreasonable for companies to consider the risks. But the rewards are too big to ignore. 
 
-Meaningful brands outperformed stock market by 206% over a 10-year period. They also commanded higher pricing and sales. 
+[Meaningful brands](http://www.meaningful-brands.com/en) outperformed stock market by 206% over a 10-year period. They also commanded higher pricing and sales. 
 
-Similarly, 77% of consumers in a multinational survey choose to pay more to purchase from companies demonstrating social responsibility. 
+Similarly, 77% of consumers in a multinational survey choose to pay more to purchase from companies demonstrating [social responsibility](https://zen-marketing-content.s3.amazonaws.com/content/whitepapers/Conscious Consumerism.pdf). 
 
-The less glamorous grocery sector also has potential in premium pricing if brands can demonstrate social responsibility. 
+The less glamorous grocery sector also has potential in premium pricing if brands can demonstrate [social responsibility](http://www.nielsen.com/au/en/insights/news/2017/premium-potential-grocery-categories-pacific-consumers-are-willing-to-spend-more-on.html). 
 
+![socially conscious brand]({{site.baseurl}}/images/img_brand_paymore.jpg)
 
-Source: Nielsen
+*Source: [Nielsen](http://www.nielsen.com/au/en/insights/news/2017/premium-potential-grocery-categories-pacific-consumers-are-willing-to-spend-more-on.html)*
 
 In short, standing up for what’s right is good for business, good for morale, and good for humanity.
-What are brands to do?
+
+# What are brands to do?
+
 It’s more than just cause marketing. Or at least it’s going back to basics in cause marketing, which starts by giving from the heart.  
 
 Some lessons I took away from the event on how companies can prepare for the future of brands:
 
-Understand your market 
+**Understand your market **
+
 Keep track of sentiments around social issues and identify what your target consumers are passionate about.
 
-Stay true to your brand
+**Stay true to your brand**
+
 Pick an issue that’s a natural extension of your brand and try to stay relevant. For example, a beer company advocating against drink driving looks good, but the same company advocating for raising literacy among children may not work as effectively. 
 
-Authenticity
+**Authenticity**
+
 Talk less do more.
-If you want to advocate for gender equality in the workplace and your workforce consists of mainly men, the public wouldn’t be too impressed. Example: Audi’s Super Bowl ad highlighting the issue. 
+If you want to advocate for gender equality in the workplace and your workforce consists of mainly men, the public wouldn’t be too impressed. Example: [Audi](http://www.huffingtonpost.com.au/2017/02/06/sure-the-audi-ad-was-sweet-but-very-few-women-actually-work-th_a_21708320/)’s Super Bowl ad highlighting the issue. 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ICYMI: Audi USA’s 12 man, 2 woman executive team is lecturing Super Bowl viewers with an ad on pay equality <a href="https://t.co/cnPfBrbaKq">https://t.co/cnPfBrbaKq</a></p>&mdash; Twitchy Team (@TwitchyTeam) <a href="https://twitter.com/TwitchyTeam/status/828419131200389123?ref_src=twsrc%5Etfw">February 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
-This quote from Google’s Global Creative Director sums it up nicely: 
+This quote from Google’s [Global Creative Director](https://www.thinkwithgoogle.com/marketing-resources/content-marketing/socially-conscious-brands-take-a-stand/) sums it up nicely: 
 
 “It's a time of brand bravery where brands are really taking a stand, but safe space is disappearing. It's an easy time for brands to jump onto passions, but what you have to remember is that those passions will define your brand from that point forward. So you have to be able to own it.”
 
-Good examples
+## Good examples
+
 Whether you’re an incumbent or startup, there are always opportunities to do good. 
 
 Look at ING Dreamstarter initiative, designed to help social entrepreneurs through crowdfunding, scholarships and grants. 

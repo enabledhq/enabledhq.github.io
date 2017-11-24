@@ -92,7 +92,7 @@ Businesses have different levels of commitment. Some get certified as a Benefit 
 
 Often, these are relatively new companies that are not behemoths in their industries. And they try to assert their unique value proposition through being socially conscious. Here are a few ways to do it.
 
-**Being ethical within their own supply chain **
+**Being ethical within their own supply chain**
 
 As an example, the [fashion industry](https://www.theguardian.com/fashion/2017/apr/25/sustainable-clothing-fashion-revolution-week-rana-plaza-emma-watson) is notoriously bad in this aspect. Thus, startups or smaller fashion brands can tackle the issue and galvanise consumers into buying “slow fashion” instead.
 

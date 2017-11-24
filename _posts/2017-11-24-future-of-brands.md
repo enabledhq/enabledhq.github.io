@@ -38,15 +38,15 @@ Like most humans, consumers want to be heard, appreciated and advocated for. The
 
 But, trust in traditional institutions is falling, particularly in the government. NGOs and businesses are the only two that hover above the 50% public approval levels. 
 
-Check out the graph below based on the Edelman Trust Barometer – which has been tracking global trust in institutions for the past 15 years.
+Check out the graph below based on the [Edelman Trust Barometer](https://hbr.org/2017/01/survey-peoples-trust-has-declined-in-business-media-government-and-ngos) – which has been tracking global trust in institutions for the past 15 years.
 
-
-Source: True Economics
+![brand trust barometer edelman]({{site.baseurl}}/images/img_brand_trustbarometer.png)
+*Source: [True Economics](http://trueeconomics.blogspot.com.au/2017/01/28117-trust-in-core-social-institutions.html)*
 
 Does this mean good news for businesses? Not quite. Because consumers are expecting more.
 
-
-Source: Edelman
+![brand trust edelman ]({{site.baseurl}}/images/img_brand_edelman.png)
+*Source: [Edelman](https://www.slideshare.net/EdelmanInsights/2017-edelman-earned-brand)*
 
 Or this stat:
 

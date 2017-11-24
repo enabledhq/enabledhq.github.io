@@ -59,16 +59,17 @@ Cue the rise of belief-driven consumers. Some more stats from the Edelman studie
 - 81% believe that business can pursue its self-interest while doing good work for [society](http://www.theworldin.com/article/10508/crisis-trust)
 
 Who are these consumers? Surprise surprise, most of them are [millennials](https://www.edelman.com/earned-brand/) and high earners. 
-(As an interesting side point, more than 40% of millennials in the United States said they would rather live in a socialist society than a capitalist one.)
+(As an interesting side point, more than 40% of [millennials](http://www.dailymail.co.uk/news/article-5044527/Survey-shows-millennials-prefer-socialism-capitalism.html#ixzz4y0UZzWCV) in the United States said they would rather live in a socialist society than a capitalist one.)
 
 There are plenty of studies and surveys out there documenting consumer trends: health conscious, socially conscious, and environment conscious. For example, the image below shows various proportions of conscious consumers across different countries. 
 
+![global conscious consumers]({{site.baseurl}}/images/img_brand_global.png)
+*Source: [Zendesk](https://www.zendesk.com/resources/value-conscious-consumers/)*
 
-Source: Zendesk
+So people buy not just the what (functional benefits) but also the how and the why (emotional, social benefits). Effectively, this means extending certain aspects of the [jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) of a brand. 
 
-So people buy not just the what (functional benefits) but also the how and the why (emotional, social benefits). Effectively, this means extending certain aspects of the jobs to be done of a brand. 
+# Movement towards social goodness
 
-Movement towards social goodness
 Businesses have different levels of commitment. Some get certified as a Benefit Corporation (B Corps), some operate as social enterprises. 
 
 Often, these are relatively new companies that are not behemoths in their industries. And they try to assert their unique value proposition through being socially conscious. Here are a few ways to do it.

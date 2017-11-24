@@ -184,24 +184,27 @@ This quote from Google’s [Global Creative Director](https://www.thinkwithgoogl
 
 Whether you’re an incumbent or startup, there are always opportunities to do good. 
 
-Look at ING Dreamstarter initiative, designed to help social entrepreneurs through crowdfunding, scholarships and grants. 
+Look at [ING Dreamstarter](https://campaigns.ing.com.au/Dreamstarter) initiative, designed to help social entrepreneurs through crowdfunding, scholarships and grants. 
 
-We’ve previously talked about pre-commerce and crowdfunding as a potential avenue for product development. Now combine that with social responsibility and ING has created a platform to kickstart social enterprises. The global bank has also generated brand goodwill based on real community impact. 
+We’ve previously talked about [pre-commerce](http://blog.enabled.com.au/pre-commerce/) and crowdfunding as a potential avenue for product development. Now combine that with social responsibility and ING has created a platform to kickstart social enterprises. The global bank has also generated brand goodwill based on real community impact. 
 
 See some stats about the ING Dreamstarter below.
 
+![ING dream starter]({{site.baseurl}}/images/img_brand_ING.png)
 
-ING also has a host of other initiatives on sustainability, society’s transition, as well as statements (and actions) on issues like climate change. 
+ING also has a host of other initiatives on [sustainability](https://www.ing.com/ING-in-Society/Sustainability.htm), society’s transition, as well as statements (and actions) on issues like climate change. 
 
 Now onto a startup example. 
 
-Brandless is interestingly, a brand that wants to take on big corporations by selling everyday products without big brands’ price markups. They’re about “inspiring a new wave of consumer culture that makes sense, created in direct opposition to a system that isn’t serving people.”
+[Brandless](https://brandless.com/) is interestingly, a brand that wants to take on big corporations by selling everyday products without big brands’ price markups. They’re about “inspiring a new wave of [consumer culture](https://medium.com/@TinaSharkey/brandless-is-born-cf7dbeb5481c) that makes sense, created in direct opposition to a system that isn’t serving people.”
 
-
-Everything sells for $3 each. Source: Brandless
+![brandless]({{site.baseurl}}/images/img_brand_brandless.gif)
+*Everything sells for $3 each. Source: [Brandless](https://brandless.com/)*
 
 Not quite on the same scale as Toms shoes’ “One for one” business model, Brandless also gives part of its sales back to the community.
-Concluding words
+
+# Concluding words
+
 Is it a case of “With great power comes great responsibility?” Or as long as we “disrupt” a market, make a billion-dollar exit, no one would question if we’re a socially conscious brand? 
 
 Consumers are becoming more demanding and vigilant, particularly in these divisive socio-political climates. 

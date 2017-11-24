@@ -132,10 +132,10 @@ More in the realm of social enterprise is shoe company TOMS. Their “one for on
 
 Initially, their giving program attracted some heavy [criticism](https://www.vox.com/2015/7/23/9025975/toms-shoes-poverty-giving) for their ineffectiveness, even saying the brand was merely playing “the fairy godmother.” 
 
-The extraordinary thing about TOMS is they actually cared enough to listen and improved their program. This is their current social offering:
+The extraordinary thing about TOMS is they actually cared enough to listen and improved their [program](http://www.acrosstwoworlds.net/?p=292). This is their current social offering:
 
-
-Source: TOMS
+![toms one for one]({{site.baseurl}}/images/img_brand_toms.png)
+*Source: [TOMS](http://www.toms.com/improving-lives)*
 
 And how are they faring business-wise? Not only is their “buy one give one” model sustainable, they managed to expand globally and attracted investment from Bain Capital – who owns half of TOMS and see their giving and purpose as a competitive advantage.
 The cost of inaction or the benefits of action 

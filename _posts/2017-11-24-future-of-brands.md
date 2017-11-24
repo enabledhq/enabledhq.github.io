@@ -118,12 +118,16 @@ Heineken effectively showed Pepsi “how it’s done” with an ad on the same i
 
 Instead of staging the celebrity, police and protestors like Pepsi, Heineken conducted a [social experiment](https://www.theguardian.com/media/2017/apr/28/that-heineken-ad-does-it-land-with-the-audiences-other-beers-cannot-reach) that got people talking about their opposing political views over a beer.  
 
-Taking the wrong stance or failing to take a stance
-After New Balance appeared to support Trump’s trade plans, neo-Nazis tried to co-opt the brand, which fuelled the backlash even more. People filmed themselves burning New Balance sneakers – then dubbed “The Official Shoes of White People.”
-Uber also copped the #DeleteUber movement after continuing to operate at JFK airport while taxis were striking against Trump’s travel ban on Muslim-majority countries. 
-https://twitter.com/JoshButler/status/825552626154475520
+**Taking the wrong stance or failing to take a stance**
 
-Doing good and adjusting actions based on sentiments 
+After New Balance appeared to support Trump’s trade plans, neo-Nazis tried to co-opt the brand, which fuelled the backlash even more. People filmed themselves burning [New Balance](https://qz.com/837775/pro-trump-white-supremacists-have-called-new-balance-sneakers-the-official-shoes-of-white-people/) sneakers – then dubbed “The Official Shoes of White People.”
+
+Uber also copped the #DeleteUber movement after continuing to operate at JFK airport while taxis were striking against Trump’s travel ban on Muslim-majority countries. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Scores of people are deleting Uber after the company serviced rides at JFK airport while taxis were striking against muslim ban <a href="https://twitter.com/hashtag/deleteuber?src=hash&amp;ref_src=twsrc%5Etfw">#deleteuber</a> <a href="https://t.co/D8cJMlxOxQ">pic.twitter.com/D8cJMlxOxQ</a></p>&mdash; Josh Butler (@JoshButler) <a href="https://twitter.com/JoshButler/status/825552626154475520?ref_src=twsrc%5Etfw">January 29, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+**Doing good and adjusting actions based on sentiments**
+
 More in the realm of social enterprise is shoe company TOMS. Their “one for one” model started with giving a pair of shoes to someone in need after every customer purchase. 
 
 Initially, their giving program attracted some heavy criticism for their ineffectiveness, even saying the brand was merely playing “the fairy godmother.” 

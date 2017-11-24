@@ -100,20 +100,23 @@ It’s helpful to know where all socially oriented activities fall on the spectr
 
 Most corporations’ socially oriented activities would fall under Corporate Social Responsibility (CSR) category. These are mostly proactive, periodic initiatives that may have some brand building purposes attached. 
 
-But sometimes they can be firefighting tactics
+**But sometimes they can be firefighting tactics**
+
 This means reacting to bad press by launching initiatives that are insignificant compared to the scale of their whole business. 
 
-For instance, fashion giant Zara launched their first sustainable collection last year. This could be an attempt to sooth criticism of Zara using cheap labour and ripping off independent designers. 
+For instance, fashion giant Zara launched their first [sustainable](http://fashionjournal.com.au/fashion/features/zara-has-released-sustainable-collection-it-enough) collection last year. This could be an attempt to sooth criticism of Zara using cheap labour and ripping off independent designers. 
 
-Taking the right social stance yet failing to hit the mark 
+**Taking the right social stance yet failing to hit the mark **
+
 Sometimes a good idea suffers from poor execution. Take Pepsi vs. Heineken.
 
-On one hand, Pepsi appeared to trivialise political protests by hiring reality TV star Kendall Jenner to “prance around the street carrying a cola.” 
+On one hand, Pepsi appeared to trivialise political protests by hiring reality TV star [Kendall Jenner](https://www.forbes.com/sites/danielnewman/2017/07/26/brands-that-take-a-stand-lessons-in-attracting-new-customers/#2e5676a03550) to “prance around the street carrying a cola.” 
 
 Heineken effectively showed Pepsi “how it’s done” with an ad on the same issue not long after that. 
-https://youtu.be/E7mTZt7jCJI 
 
-Instead of staging the celebrity, police and protestors like Pepsi, Heineken conducted a social experiment that got people talking about their opposing political views over a beer.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7mTZt7jCJI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Instead of staging the celebrity, police and protestors like Pepsi, Heineken conducted a [social experiment](https://www.theguardian.com/media/2017/apr/28/that-heineken-ad-does-it-land-with-the-audiences-other-beers-cannot-reach) that got people talking about their opposing political views over a beer.  
 
 Taking the wrong stance or failing to take a stance
 After New Balance appeared to support Trump’s trade plans, neo-Nazis tried to co-opt the brand, which fuelled the backlash even more. People filmed themselves burning New Balance sneakers – then dubbed “The Official Shoes of White People.”

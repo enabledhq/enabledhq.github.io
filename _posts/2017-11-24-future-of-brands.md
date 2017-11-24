@@ -50,14 +50,15 @@ Does this mean good news for businesses? Not quite. Because consumers are expect
 
 Or this stat:
 
-
-Source: Havas Group
+![meaningful brands stats]({{site.baseurl}}/images/img_brand_havas.png)
+*Source: [Havas Group](http://www.meaningful-brands.com/en)*
 
 Cue the rise of belief-driven consumers. Some more stats from the Edelman studies:
-•	50% of buyers now buy on belief 
-•	81% believe that business can pursue its self-interest while doing good work for society 
 
-Who are these consumers? Surprise surprise, most of them are millennials and high earners. 
+- 50% of buyers now buy on [belief](https://www.edelman.com/earned-brand/) 
+- 81% believe that business can pursue its self-interest while doing good work for [society](http://www.theworldin.com/article/10508/crisis-trust)
+
+Who are these consumers? Surprise surprise, most of them are [millennials](https://www.edelman.com/earned-brand/) and high earners. 
 (As an interesting side point, more than 40% of millennials in the United States said they would rather live in a socialist society than a capitalist one.)
 
 There are plenty of studies and surveys out there documenting consumer trends: health conscious, socially conscious, and environment conscious. For example, the image below shows various proportions of conscious consumers across different countries. 

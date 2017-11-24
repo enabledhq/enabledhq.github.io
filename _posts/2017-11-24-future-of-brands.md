@@ -179,7 +179,7 @@ It’s more than just cause marketing. Or at least it’s going back to basics i
 
 Some lessons I took away from the event on how companies can prepare for the future of brands:
 
-**Understand your market **
+**Understand your market**
 
 Keep track of sentiments around social issues and identify what your target consumers are passionate about.
 

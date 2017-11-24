@@ -11,6 +11,15 @@ categories:
   - entrepreneurship
 hero-banner: /images/Blog_header_brand.jpg
 image: /images/img_brand_thumb.jpg
+meta-keywords: >-
+  socially conscious, conscious consumer, social enterprise, socially conscious
+  brand, cause marketing, corporate social responsibility, CSR, social
+  entrepreneurship, social responsibility, corporate social responsibility
+  examples, social enterprise companies, corporate social responsibilities,
+  corporate sustainability, social enterprise examples, socially responsible,
+  socially responsible companies, social business, social enterprise funding ,
+  cause related marketing, social innovation, examples of social responsibility,
+  ethical business, eco friendly, conscious consumerism
 ---
 Would you care if the brands you interact with every day disappeared? A [global survey](http://www.meaningful-brands.com/en) says nearly three-quarters of those asked wouldn’t care. Will brands play any role in the future against the backdrop of falling trust in institutions? Would what we do as marketers, branding strategists, advertisers or product managers matter anymore? But before it turns into a philosophical debate about the meaning of existence, let’s quickly return to reality. 
 

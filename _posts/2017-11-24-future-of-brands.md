@@ -205,7 +205,7 @@ Not quite on the same scale as Toms shoes’ “One for one” business model, B
 
 # Concluding words
 
-Is it a case of “With great power comes great responsibility?” Or as long as we “disrupt” a market, make a billion-dollar exit, no one would question if we’re a socially conscious brand? 
+Is it a case of “With great power comes great responsibility?” Or as long as we “[disrupt](https://thenextweb.com/contributors/2017/10/07/bodega-problem-disruption/)” a market, make a [billion-dollar](https://medium.com/hi-my-name-is-jon/no-trello-didnt-fail-to-build-a-billion-dollar-business-25264b08b0cb) exit, no one would question if we’re a socially conscious brand? 
 
 Consumers are becoming more demanding and vigilant, particularly in these divisive socio-political climates. 
 

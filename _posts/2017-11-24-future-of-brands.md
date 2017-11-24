@@ -92,13 +92,13 @@ Businesses have different levels of commitment. Some get certified as a Benefit 
 
 Often, these are relatively new companies that are not behemoths in their industries. And they try to assert their unique value proposition through being socially conscious. Here are a few ways to do it.
 
-**Being ethical within their own supply chain**
+## Being ethical within their own supply chain
 
 As an example, the [fashion industry](https://www.theguardian.com/fashion/2017/apr/25/sustainable-clothing-fashion-revolution-week-rana-plaza-emma-watson) is notoriously bad in this aspect. Thus, startups or smaller fashion brands can tackle the issue and galvanise consumers into buying “slow fashion” instead.
 
 [Green Embassy](http://greenembassy.com.au/) – Australia’s first globally recognised organic fashion label – is a good example. At the aforementioned [Future Enterprise](https://openstate.com.au/events/trust-and-brands-friend-or-foe) event, they showcased the journey of raising awareness, attracting national and global media coverage in the fashion world. 
 
-**Taking a stance on social issues**
+## Taking a stance on social issues
 
 Another way of projecting the image of a socially conscious brand is to take a stance. Usually, we see consumer-facing brands at the forefront of this since they’re closer to the public. That doesn’t mean business-facing or B2B brands can’t make an impact. 
 
@@ -118,13 +118,13 @@ It’s helpful to know where all socially oriented activities fall on the spectr
 
 Most corporations’ socially oriented activities would fall under Corporate Social Responsibility (CSR) category. These are mostly proactive, periodic initiatives that may have some brand building purposes attached. 
 
-**But sometimes they can be firefighting tactics**
+## But sometimes they can be firefighting tactics
 
 This means reacting to bad press by launching initiatives that are insignificant compared to the scale of their whole business. 
 
 For instance, fashion giant Zara launched their first [sustainable](http://fashionjournal.com.au/fashion/features/zara-has-released-sustainable-collection-it-enough) collection last year. This could be an attempt to sooth criticism of Zara using cheap labour and ripping off independent designers. 
 
-**Taking the right social stance yet failing to hit the mark**
+## Taking the right social stance yet failing to hit the mark
 
 Sometimes a good idea suffers from poor execution. Take Pepsi vs. Heineken.
 
@@ -136,7 +136,7 @@ Heineken effectively showed Pepsi “how it’s done” with an ad on the same i
 
 Instead of staging the celebrity, police and protestors like Pepsi, Heineken conducted a [social experiment](https://www.theguardian.com/media/2017/apr/28/that-heineken-ad-does-it-land-with-the-audiences-other-beers-cannot-reach) that got people talking about their opposing political views over a beer.  
 
-**Taking the wrong stance or failing to take a stance**
+## Taking the wrong stance or failing to take a stance
 
 After New Balance appeared to support Trump’s trade plans, neo-Nazis tried to co-opt the brand, which fuelled the backlash even more. People filmed themselves burning [New Balance](https://qz.com/837775/pro-trump-white-supremacists-have-called-new-balance-sneakers-the-official-shoes-of-white-people/) sneakers – then dubbed “The Official Shoes of White People.”
 
@@ -144,7 +144,7 @@ Uber also copped the #DeleteUber movement after continuing to operate at JFK air
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Scores of people are deleting Uber after the company serviced rides at JFK airport while taxis were striking against muslim ban <a href="https://twitter.com/hashtag/deleteuber?src=hash&amp;ref_src=twsrc%5Etfw">#deleteuber</a> <a href="https://t.co/D8cJMlxOxQ">pic.twitter.com/D8cJMlxOxQ</a></p>&mdash; Josh Butler (@JoshButler) <a href="https://twitter.com/JoshButler/status/825552626154475520?ref_src=twsrc%5Etfw">January 29, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-**Doing good and adjusting actions based on feedback**
+## Doing good and adjusting actions based on feedback
 
 More in the realm of social enterprise is shoe company TOMS. Their “one for one” model started with giving a pair of shoes to someone in need after every customer purchase. 
 

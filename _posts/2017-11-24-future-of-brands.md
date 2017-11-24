@@ -126,11 +126,11 @@ Uber also copped the #DeleteUber movement after continuing to operate at JFK air
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Scores of people are deleting Uber after the company serviced rides at JFK airport while taxis were striking against muslim ban <a href="https://twitter.com/hashtag/deleteuber?src=hash&amp;ref_src=twsrc%5Etfw">#deleteuber</a> <a href="https://t.co/D8cJMlxOxQ">pic.twitter.com/D8cJMlxOxQ</a></p>&mdash; Josh Butler (@JoshButler) <a href="https://twitter.com/JoshButler/status/825552626154475520?ref_src=twsrc%5Etfw">January 29, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-**Doing good and adjusting actions based on sentiments**
+**Doing good and adjusting actions based on feedback**
 
 More in the realm of social enterprise is shoe company TOMS. Their “one for one” model started with giving a pair of shoes to someone in need after every customer purchase. 
 
-Initially, their giving program attracted some heavy criticism for their ineffectiveness, even saying the brand was merely playing “the fairy godmother.” 
+Initially, their giving program attracted some heavy [criticism](https://www.vox.com/2015/7/23/9025975/toms-shoes-poverty-giving) for their ineffectiveness, even saying the brand was merely playing “the fairy godmother.” 
 
 The extraordinary thing about TOMS is they actually cared enough to listen and improved their program. This is their current social offering:
 

@@ -3,7 +3,7 @@ layout: post
 date: '2017-11-27 13:19 +1030'
 author:
   - linh
-published: false
+published: true
 title: 'October News Round-up: Technology, Design, Business '
 main-category: news
 categories:

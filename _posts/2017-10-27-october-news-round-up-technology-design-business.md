@@ -32,22 +32,17 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## Publishers vs. Facebook (and Google)
+## Ways to beat Amazon
 
-The shakeout in the publishing industry is similar to what is occurring in the retail industry, where Amazon might spark a “retail apocalypse”:
+With price competitiveness in their DNA, Amazon seems unbeatable, as evident in their [cloud](https://medium.com/@mikeal/amazon-is-terrifying-7333422ec40d) offering. But there is still hope:
 
-- Facebook & Google dominated [digital ads](https://digiday.com/media/facebook-gives-continues-take-publishers/), causing disenchantment among publishers
-- [Streaming videos](https://contently.com/strategist/2017/08/31/facebook-pivot-to-video/) touted as the next frontier, at a cost to [publishers](https://www.businessinsider.com.au/tastemade-has-shifted-its-facebook-video-strategy-to-longer-videos-2017-9?r=US&IR=T)
-- Publishers fighting back to take control of their platforms and the video streams. Who will win in the next phase of the [digital content](https://thenextweb.com/contributors/2017/09/10/die-time-publishers-media-brands/#.tnw_xaImtRh0) revolution?
+- Don't go after commodity categories. Build a strong [brand](https://www.cnbc.com/2017/08/27/how-to-beat-amazon-insight-venture-partners-deven-parekh.html).
+- "If you can't beat 'em, [join 'em](https://www.entrepreneur.com/article/302410?)."
+- Retailers react in the wake of Amazon/Whole Foods deal, so implement an [ecommerce strategy](https://www.geekwire.com/2017/amazons-13-7b-purchase-whole-foods-blessing-disguise-instacart/) now if you don't have one.
 
-![facebook video engagement stats]({{site.baseurl}}/images/img_september_video.png)
-*Source: [Contently](https://contently.com/strategist/2017/08/31/facebook-pivot-to-video/)*
+## Build a successful platform/marketplace
 
-## Minimum Awesome Product
-
-The purpose of the MVP is to be customer-driven instead of being product-driven. But many still confuse the concept with "half-baked prototypes." Maybe time to call it a [Minimum Awesome Product](https://hackernoon.com/mvp-paradox-and-what-most-founders-need-to-be-aware-of-3a5f8c3acb76) instead?
-
-![MVP definition]({{site.baseurl}}/images/img_september_mvp.gif)
+Starting small, marketplaces like eBay, Airbnb, Alibaba and Uber have become multi-billion-dollar businesses. How did they do it? Here are 4 [main strategies](http://andrewchen.co/how-to-build-a-billion-dollar-digital-marketplace-examples-from-uber-ebay-craigslist-and-more/). We also wrote about [platform business model](http://blog.enabled.com.au/platform-business-model) before.
 
 ## Long read: Unified Theory of Design
 
@@ -89,4 +84,3 @@ We got a bit excited by our first ever branded sweet treats, so we tested Snapch
 **Enabled in the press**
 
 Enabled CEO Grant Hull discusses what's next for businesses and app owners after [iOS 11](https://futurefive.co.nz/story/apple-kills-32-bit-apps-ios-11-update/) kills 32-bit apps.
-

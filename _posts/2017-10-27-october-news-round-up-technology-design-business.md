@@ -62,21 +62,19 @@ Facebook wants a billion people in VR with its new VR headset [Oculus Go](http:/
 
 # Handy business tips
 
-**Want productive meetings?**
+**Maintain individual & collective focus**
 
-Don't spend 90% of your time talking about the 10% of things you disagree on. Find the [common ground](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa).
+Facebook's VP of Product on how to [remain focused](http://firstround.com/review/how-facebooks-vp-of-product-finds-focus-and-creates-conditions-for-intentional-work/) and get things done in a project, including auditing your calendar, avoiding unnecessary meetings.
 
-**User needs are human needs**
+**Connecting at work**
 
-Use Maslow's [hierarchy of needs](https://www.interaction-design.org/literature/article/user-needs-look-no-further-than-everyday-needs) to help you look at your designs in a different way. Does your product address a need?
-
-![user needs maslow hierarchy ]({{site.baseurl}}/images/img_september_needs.jpg)
+Harvard Business Review published an excellent series on human connections in the [digital workplace](https://hbr.org/cover-story/2017/09/work-and-the-loneliness-epidemic) that we're in.
 
 # Weird & wonderful
 
-💾  Smell that leak? It's your [data leaking](https://smellofdata.com/). Check out a device that emits smell to alert you of a breach.  
+⛓  Buddhist community harnessing [blockchain](https://lotos.network/) to ensure that temples are using their funds properly.  
 
-⚰️  [Drive-thru funeral](http://nypost.com/2017/09/06/funeral-home-in-japan-offers-drive-thru-service/?utm_campaign=Innovation%20of%20the%20Day%20&utm_source=hs_automation&utm_medium=email&utm_content=56399199&_hsenc=p2ANqtz--lXK8GOsJ_tZ3IV6KQz1wxoNpaRWrNavgP-the3rEMGVi1JeictSojfp9R3-aBPxXVK44mB_Y38M4ign4YG7EDv0wv5Q&_hsmi=56399199) service in Japan: Is this a step too far in convenience? 
+✈️ Dubai International Airport will replace [border controls](https://www.thenational.ae/uae/transport/dubai-airport-s-new-virtual-aquarium-tunnel-scans-your-face-as-you-walk-through-it-1.665406?) with a walk down a virtual aquarium tunnel.
 
 # Inside Enabled
 
@@ -88,4 +86,8 @@ We got a bit excited by our first ever branded sweet treats, so we tested Snapch
  
 **Enabled in the press**
 
-Enabled CEO Grant Hull discusses what's next for businesses and app owners after [iOS 11](https://futurefive.co.nz/story/apple-kills-32-bit-apps-ios-11-update/) kills 32-bit apps.
+Our client Clipsal launches the new and improved [iCat app](http://electricalconnection.com.au/clipsal-launches-world-first-in-digital-innovation-for-electricians/) with ecommerce integration. Partnering with Clipsal since 2011, we are so proud to work on this world-first offering in the electrical industry.
+
+![clipsal icat app]({{site.baseurl}}/images/img_october_icat.gif)
+
+iCat is also the most used app behind Google in the Australian electrical industry.

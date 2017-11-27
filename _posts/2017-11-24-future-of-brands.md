@@ -4,7 +4,7 @@ date: '2017-11-24 15:10 +1030'
 author:
   - linh
 published: true
-title: 'Future of Brands: Beyond Cause Marketing '
+title: 'Future of Brands: Building Consumer Trust Beyond Cause Marketing '
 main-category: ux
 categories:
   - ux

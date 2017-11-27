@@ -51,9 +51,14 @@ Starting small, marketplaces like eBay, Airbnb, Alibaba and Uber have become mul
 
 In response to [impending disruption](https://medium.com/startup-grind/what-technology-disruption-always-does-for-or-to-your-business-4b3bd5d7f59c), a business may suddenly declare it is going to “Transform” or “Innovate,” but it often also wants to hold onto what it has been in the past . Self-disruption may be the way to go.
 
+![digital disruption]({{site.baseurl}}/images/img_october_disruption.gif)
+
+
 ## The real business of Virtual Reality
 
 Facebook wants a billion people in VR with its new VR headset [Oculus Go](http://www.bbc.com/news/technology-41590202) that doesn't require a seperate computer to work. Will this revolutionise social - by giving people a [safe place](https://www.theverge.com/2017/10/15/16478084/interview-rachel-franklin-spaces-social-vr-facebook) to play out cause & effect - or pass off as another [tech gimmick](http://www.zdnet.com/article/facebook-to-unveil-virtual-reality-headset-which-needs-no-pc/)?
+
+![facebook oculus go]({{site.baseurl}}/images/img_october_oculus.jpg)
 
 # Handy business tips
 

@@ -97,9 +97,9 @@ Often, these are relatively new companies that are not behemoths in their indust
 
 ## Using influence to move others 
 
-It’s not enough to merely start a conversation. Brands need to invite belief-driven consumers to act and drive the conversation. 
+It’s not enough to merely start a conversation. Brands need to invite [belief-driven](https://www.slideshare.net/EdelmanInsights/2017-edelman-earned-brand) consumers to act and drive the conversation. 
 
-Sometimes, a brand’s influence can be indirect. For instance, if you’re doing research for policy makers, you can draw attention to areas that would create a good social outcome. This is the case of Today – a certified B-Corp design company. 
+Sometimes, a brand’s influence can be indirect. For instance, if you’re doing research for policy makers, you can draw attention to areas that would create a good social outcome. This is the case of [Today](https://today.design/) – a certified B-Corp design company. 
 
 I had a chance to speak briefly with the firm’s CEO Damon O’Sullivan, who shared about their purpose-driven approach. 
 

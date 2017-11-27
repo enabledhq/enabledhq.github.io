@@ -35,6 +35,8 @@ Would you care if the brands you interact with every day disappeared? A [global 
 
 Not long ago, I attended a thought provoking event by Brand South Australia discussing the future of brands and how the “[Future Enterprise](https://openstate.com.au/events/trust-and-brands-friend-or-foe)” can foster trust in consumers. 
 
+![open state future enterprise south australia]({{site.baseurl}}/images/img_brand_event.jpg)
+
 It comes down to a very simple idea that sometimes clashes with capitalism. It’s about social good. This has led me to step back and look at the big picture of brands.
 
 # Trends that may decrease significance of brands

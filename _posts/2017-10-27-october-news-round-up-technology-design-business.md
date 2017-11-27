@@ -44,16 +44,16 @@ With price competitiveness in their DNA, Amazon seems unbeatable, as evident in 
 
 Starting small, marketplaces like eBay, Airbnb, Alibaba and Uber have become multi-billion-dollar businesses. How did they do it? Here are 4 [main strategies](http://andrewchen.co/how-to-build-a-billion-dollar-digital-marketplace-examples-from-uber-ebay-craigslist-and-more/). We also wrote about [platform business model](http://blog.enabled.com.au/platform-business-model) before.
 
-## Long read: Unified Theory of Design
+![Elements of a platform business ]({{site.baseurl}}/images/img_platform_elements.png)
+*See more [here](http://blog.enabled.com.au/platform-business-model)*
 
-An interesting theory for designing just about everything called CAMP. It’s an acronym for Context - Architecture - Mechanics - Poetics. A fav quote: "[Digital products](https://medium.com/@cwodtke/a-unified-theory-for-designing-just-about-anything-b87f1e4f050b) become experiences when people use them."
+## Long read: See that tech disruption coming?
 
-## Augmented Reality wave
+In response to [impending disruption](https://medium.com/startup-grind/what-technology-disruption-always-does-for-or-to-your-business-4b3bd5d7f59c), a business may suddenly declare it is going to “Transform” or “Innovate,” but it often also wants to hold onto what it has been in the past . Self-disruption may be the way to go.
 
-iOS 11 has sparked a resurge of interest in AR apps. From useful utilities like IKEA's product visualisation app, to creating a gif-filled world just for fun with Giphy. But beneath that is an [AR platform war](https://www.theverge.com/2017/8/29/16219208/apple-arkit-ar-apps-ikea-walking-dead-giphy-hungry-caterpillar-google) between the giants. 
+## The real business of Virtual Reality
 
-![ikea ar app]({{site.baseurl}}/images/img_september_ikea.gif)
-*IKEA AR app. Source: [The Verge](https://www.theverge.com/2017/9/20/16329366/ios-11-apple-arkit-best-new-ar-apps)*
+Facebook wants a billion people in VR with its new VR headset [Oculus Go](http://www.bbc.com/news/technology-41590202) that doesn't require a seperate computer to work. Will this revolutionise social - by giving people a [safe place](https://www.theverge.com/2017/10/15/16478084/interview-rachel-franklin-spaces-social-vr-facebook) to play out cause & effect - or pass off as another [tech gimmick](http://www.zdnet.com/article/facebook-to-unveil-virtual-reality-headset-which-needs-no-pc/)?
 
 # Handy business tips
 

@@ -86,7 +86,7 @@ Playing with the [DJI Phantom 4 Pro](https://www.instagram.com/p/BaaupcVl2KM/?ta
  
 **Enabled in the press**
 
-Our client Clipsal launches the new and improved [iCat app](http://electricalconnection.com.au/clipsal-launches-world-first-in-digital-innovation-for-electricians/) with ecommerce integration. Partnering with Clipsal since 2011, we are so proud to work on this world-first offering in the electrical industry.
+Our client Clipsal launches the new and improved [iCat app](http://electricalconnection.com.au/clipsal-launches-world-first-in-digital-innovation-for-electricians/) with ecommerce integration. Partnering with [Clipsal](https://enabled.com.au/casestudy-Clipsal) since 2011, we are so proud to work on this world-first offering in the electrical industry.
 
 ![clipsal icat app]({{site.baseurl}}/images/img_october_icat.gif)
 

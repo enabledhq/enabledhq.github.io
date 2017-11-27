@@ -31,7 +31,7 @@ description: >-
   build trust with wishy washy cause marketing or failing to take a stance.
 short-link: 'https://goo.gl/TqzEX6'
 ---
-Would you care if the brands you interact with every day disappeared? A [global survey](http://www.meaningful-brands.com/en) says nearly three-quarters of those asked wouldn’t care. Will brands play any role in the future against the backdrop of falling trust in institutions? Would what we do as marketers, branding strategists, advertisers or product managers matter anymore? But before it turns into a philosophical debate about the meaning of existence, let’s quickly return to reality. 
+Would you care if the brands you interact with everyday disappeared? A [global survey](http://www.meaningful-brands.com/en) says nearly three-quarters of those asked wouldn’t care. Will brands play any role in the future against the backdrop of falling trust in institutions? Would what we do as marketers, branding strategists, advertisers or product managers matter anymore? But before it turns into a philosophical debate about the meaning of existence, let’s quickly return to reality. 
 
 Not long ago, I attended a thought provoking event by Brand South Australia discussing the future of brands and how the “[Future Enterprise](https://openstate.com.au/events/trust-and-brands-friend-or-foe)” can foster trust in consumers. 
 

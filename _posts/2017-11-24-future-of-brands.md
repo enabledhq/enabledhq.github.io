@@ -95,6 +95,16 @@ Businesses have different levels of commitment. Some get certified as a Benefit 
 
 Often, these are relatively new companies that are not behemoths in their industries. And they try to assert their unique value proposition through being socially conscious. Here are a few ways to do it.
 
+## Using influence to move others 
+
+It’s not enough to merely start a conversation. Brands need to invite belief-driven consumers to act and drive the conversation. 
+
+Sometimes, a brand’s influence can be indirect. For instance, if you’re doing research for policy makers, you can draw attention to areas that would create a good social outcome. This is the case of Today – a certified B-Corp design company. 
+
+I had a chance to speak briefly with the firm’s CEO Damon O’Sullivan, who shared about their purpose-driven approach. 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361432082&amp;color=%235e3d8e&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
 ## Being ethical within their own supply chain
 
 As an example, the [fashion industry](https://www.theguardian.com/fashion/2017/apr/25/sustainable-clothing-fashion-revolution-week-rana-plaza-emma-watson) is notoriously bad in this aspect. Thus, startups or smaller fashion brands can tackle the issue and galvanise consumers into buying “slow fashion” instead.

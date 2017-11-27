@@ -29,6 +29,7 @@ meta-description: >-
 description: >-
   With the rise of socially conscious consumers, brands may find it hard to
   build trust with wishy washy cause marketing or failing to take a stance.
+short-link: 'https://goo.gl/TqzEX6'
 ---
 Would you care if the brands you interact with every day disappeared? A [global survey](http://www.meaningful-brands.com/en) says nearly three-quarters of those asked wouldn’t care. Will brands play any role in the future against the backdrop of falling trust in institutions? Would what we do as marketers, branding strategists, advertisers or product managers matter anymore? But before it turns into a philosophical debate about the meaning of existence, let’s quickly return to reality. 
 
@@ -227,6 +228,4 @@ Is it a case of “With great power comes great responsibility?” Or as long as
 
 Consumers are becoming more demanding and vigilant, particularly in these divisive socio-political climates. 
 
-Brands need to speak about doing good as well as doing it. Or consumers won’t buy it, literally. 
-
-
+Brands need to speak about doing good as well as doing it. Or consumers won’t buy it, literally.

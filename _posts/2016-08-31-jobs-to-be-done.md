@@ -96,6 +96,14 @@ Jobs are not hard-and-fast rules. As a product is used,  the existing job might 
 
 Facebook’s original job was to connect fellow students at Harvard University. Now, **Facebook** is a tool people use to broadcast their own social standing or emotional conditions to their group of contacts.
 
+## Additional resource
+
+Karen Dillon, the co-creator of the [Jobs to Be Done](https://www.thisisproductmanagement.com/episodes/jobs-to-be-done/) framework, shares some excellent strategies for utilising the framework to build successful products. 
+
+Check out this episode from the [podcast](https://www.thisisproductmanagement.com/episodes/jobs-to-be-done/) This is Product Management.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305240360&amp;color=0556d2"></iframe>
+
 # Applying Jobs to Predict Success of Innovations
 
 To put things into perspective, let’s look at some relatively new innovations available on the market as examples. 

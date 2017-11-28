@@ -98,7 +98,7 @@ Facebook’s original job was to connect fellow students at Harvard University. 
 
 ## Additional resource
 
-Karen Dillon, the co-author of the latest book on [Jobs to Be Done](https://www.thisisproductmanagement.com/episodes/jobs-to-be-done/), shares some excellent strategies for utilising the framework to build successful products. 
+Karen Dillon, the co-author of the latest book on [Jobs to Be Done](https://www.thisisproductmanagement.com/episodes/jobs-to-be-done/) with Clayton Christensen, shares some excellent strategies for utilising the framework to build successful products. 
 
 Check out this episode from the [podcast](https://www.thisisproductmanagement.com/episodes/jobs-to-be-done/) This is Product Management.
 

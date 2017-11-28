@@ -88,6 +88,8 @@ For instance, online learning has proliferated due to the non-consumption of tra
 
 Hence, online learning has disrupted traditional higher education offerings by making education more accessible to those who are not consuming the latter. 
 
+We also wrote about this [digital disruption](http://blog.enabled.com.au/digital-disruption-education/) to traditional universities in more details.
+
 ## Jobs can evolve over time
 
 Jobs are not hard-and-fast rules. As a product is used,  the existing job might expand, or customers may discover it solves other jobs they have never needed solving before.

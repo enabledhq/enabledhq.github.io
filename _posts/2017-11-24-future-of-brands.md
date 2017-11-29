@@ -128,6 +128,8 @@ I had a chance to speak briefly with the firm’s CEO Damon O’Sullivan. He tal
 - Their purpose-driven approach 
 - The trend of socially conscious brands
 
+You can listen to his comments in the soundbite below.
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361432082&amp;color=%235e3d8e&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 ## Being ethical within their own supply chain

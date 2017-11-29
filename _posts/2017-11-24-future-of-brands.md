@@ -64,7 +64,11 @@ Think about how Google aggregates content from all sources. Think about how Amaz
 ![aggregation theory google]({{site.baseurl}}/images/img_brand_aggregation.png)
 *How Google “dilutes” the brands of publishers and media companies. Based on the [Aggregation Theory](https://stratechery.com/2015/aggregation-theory)*
 
-Here’s a hypothetical situation that may well be true soon. With voice commerce and smart speakers like Amazon’s Echo, consumers may delegate the choice of brands to AI algorithms. For example, “Alexa, buy the cheapest toothpaste,” or “Hey Siri, order some detergent, whatever that gets here the fastest.” So [brands](https://www.marketwatch.com/story/amazon-is-taking-away-the-power-of-brand-names-throwing-another-industry-into-turmoil-2017-07-10) may not matter as much as price. 
+Millennials value convenience, experience and [access](http://www.goldmansachs.com/our-thinking/pages/millennials/).
+
+Here’s a hypothetical situation that may well be true soon. With voice commerce and smart speakers like Amazon’s Echo, consumers may delegate the choice of brands to AI algorithms. 
+
+For example, “Alexa, buy the cheapest toothpaste,” or “Hey Siri, order some detergent, whatever that gets here the fastest.” So [brands](https://www.marketwatch.com/story/amazon-is-taking-away-the-power-of-brand-names-throwing-another-industry-into-turmoil-2017-07-10) may not matter as much as price. 
 
 More current stats include consumers [wouldn’t care](http://www.meaningful-brands.com/en) if 74% of the brands they use just disappeared. In the US, a third of those surveyed wouldn’t care if [Twitter](https://www.theverge.com/2017/10/27/16552536/twitter-user-survey-unpopular-abuse-donald-trump) disappeared. In Australia, “95% of brands could disappear and [Australians](https://mumbrella.com.au/95-brands-disappear-australians-wouldnt-care-havas-medias-maria-garrido-449930) wouldn’t care.”
 

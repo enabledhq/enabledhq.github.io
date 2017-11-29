@@ -156,6 +156,8 @@ It’s helpful to know where all socially oriented activities fall on the spectr
 
 Most corporations’ socially oriented activities would fall under Corporate Social Responsibility (CSR) category. These are mostly proactive, periodic initiatives that may have some brand building purposes attached. 
 
+Examples: Commonwealth Bank sponsoring Cricket Australia, telco AT&T investing millions in education, The Body Shop partnering with a non-profit for their anti-bullying campaign.
+
 ## But sometimes they can be firefighting tactics
 
 This means reacting to bad press by launching initiatives that are insignificant compared to the scale of their whole business. 

@@ -45,11 +45,11 @@ It comes down to a very simple idea that sometimes clashes with capitalism. It�
 
 With the advancements in digital technologies and decline in broadcast media, brand marketing has become harder. 
 
-In a previous post on customer experience, we’ve said consumers are more demanding and hold more power. It’s no longer a one-way street where brands broadcast their messages to customers. 
+In a previous post on [customer experience](http://blog.enabled.com.au/marketing-customer-experience/), we’ve said consumers are more demanding and hold more power. It’s no longer a one-way street where brands broadcast their messages to customers. 
 
 Tech-savvy millennials can now talk back and demand transparency, thanks mostly to social media, which means they can affect brands positively or negatively. 
 
-They are also tuning out of brand advertising, with the rise of ad blockers. Ironically, advertising tech gets so advanced (e.g.highly targeted ads) that it’s actually very hard to reach the public at scale. 
+They are also tuning out of brand advertising, with the rise of [ad blockers](http://www.businessinsider.com/report-says-ad-blocking-is-worsening-2017-2/?r=AU&IR=T). Ironically, advertising tech gets so advanced (e.g.highly targeted ads) that it’s actually very hard to reach the public at scale. 
 
 ## An advantage for others
 

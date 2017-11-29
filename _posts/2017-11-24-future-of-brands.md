@@ -68,9 +68,9 @@ Here’s a hypothetical situation that may well be true soon. With voice commerc
 
 More current stats include consumers [wouldn’t care](http://www.meaningful-brands.com/en) if 74% of the brands they use just disappeared. In the US, a third of those surveyed wouldn’t care if [Twitter](https://www.theverge.com/2017/10/27/16552536/twitter-user-survey-unpopular-abuse-donald-trump) disappeared. In Australia, “95% of brands could disappear and [Australians](https://mumbrella.com.au/95-brands-disappear-australians-wouldnt-care-havas-medias-maria-garrido-449930) wouldn’t care.”
 
-# Trends that may increase the importance of socially conscious brands
+So that brings us to the question: “What would make consumers care?”
 
-So that brings us to the question: “What would make consumers care?” 
+# Trends that may increase the importance of socially conscious brands 
 
 Like most humans, consumers want to be heard, appreciated and advocated for. They want to be able to trust that organisations are doing their best to make their lives better. 
 

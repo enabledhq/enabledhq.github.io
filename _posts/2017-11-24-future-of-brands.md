@@ -76,7 +76,7 @@ Like most humans, consumers want to be heard, appreciated and advocated for. The
 
 The Guardian has a thought-provoking article on how [technology](https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth) disrupted the truth. With the prevalence of fake news, alternative facts and such, the default for this generation has become “not trusting.” 
 
-Trust in traditional institutions is falling, particularly in the government. NGOs and businesses are the only two that hover above the 50% public approval levels. 
+In fact, trust in traditional institutions is falling, particularly in the government. NGOs and businesses are the only two that hover above the 50% public approval levels. 
 
 Check out the graph below based on the [Edelman Trust Barometer](https://hbr.org/2017/01/survey-peoples-trust-has-declined-in-business-media-government-and-ngos) – which has been tracking global trust in institutions for the past 15 years.
 

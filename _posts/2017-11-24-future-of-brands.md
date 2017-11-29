@@ -31,7 +31,7 @@ description: >-
   build trust with wishy-washy cause marketing or failing to take a stance.
 short-link: 'https://goo.gl/TqzEX6'
 ---
-Would you care if the brands you interact with everyday disappeared? A [global survey](http://www.meaningful-brands.com/en) says nearly three-quarters of those asked wouldn’t care. Will brands play any role in the future against the backdrop of falling trust in institutions? Would what we do as marketers, branding strategists, advertisers or product managers matter anymore? But before it turns into a philosophical debate about the meaning of existence, let’s quickly return to reality. 
+Would you care if the brands you interact with everyday disappeared? A [global survey](http://www.meaningful-brands.com/en) says nearly three-quarters of those asked wouldn’t care. Would what we do as marketers, branding strategists, advertisers or product managers matter anymore? But before it turns into a philosophical debate about the meaning of existence, let’s quickly return to reality. 
 
 Not long ago, I attended a thought provoking event by Brand South Australia discussing the future of brands and how the “[Future Enterprise](https://openstate.com.au/events/trust-and-brands-friend-or-foe)” can foster trust in consumers. 
 
@@ -41,11 +41,28 @@ It comes down to a very simple idea that sometimes clashes with capitalism. It�
 
 # Trends that may decrease significance of brands
 
+## A problem for some
+
+With the advancements in digital technologies and decline in broadcast media, brand marketing has become harder. 
+
+In a previous post on customer experience, we’ve said consumers are more demanding and hold more power. It’s no longer a one-way street where brands broadcast their messages to customers. 
+
+Tech-savvy millennials can now talk back and demand transparency, thanks mostly to social media, which means they can affect brands positively or negatively. 
+
+They are also tuning out of brand advertising, with the rise of ad blockers. Ironically, advertising tech gets so advanced (e.g.highly targeted ads) that it’s actually very hard to reach the public at scale. 
+
+## An advantage for others
+
 While there has been a proliferation of startups, the concentration of brands is also happening at a staggering rate. 
 
-Partly because a majority of startups fail early on (e.g. “over 70% of [startups](https://www.cbinsights.com/research/venture-capital-funnel-2/) stall at some point in the VC process and fail to exit or raise follow-on funding”).
+They got “swallowed up” by large corporations, namely “GAFA” (Google, Apple, Facebook, Amazon). 
 
-Or they got “swallowed up” by large corporations, namely “GAFA” (Google, Apple, Facebook, Amazon). Within the tech sector, [GAFA](http://ben-evans.com/benedictevans/2017/10/12/scale-wetxp) currently has 10x the scale of Microsoft and Intel (Wintel) in their period of dominance. Incidentally, the world’s [most valuable brands](https://www.forbes.com/powerful-brands/list/#tab:rank) are in tech.  
+These giants are the aggregators, sucking brand affinity from other companies by taking care of the distribution. 
+
+Think about how Google aggregates content from all sources. Think about how Amazon aggregates suppliers of books, then all sorts of consumer goods. This is the Aggregation Theory at work.  
+
+
+*How Google “dilutes” the brands of publishers and media companies *
 
 Here’s a hypothetical situation that may well be true soon. With voice commerce and smart speakers like Amazon’s Echo, consumers may delegate the choice of brands to AI algorithms. For example, “Alexa, buy the cheapest toothpaste,” or “Hey Siri, order some detergent, whatever that gets here the fastest.” So [brands](https://www.marketwatch.com/story/amazon-is-taking-away-the-power-of-brand-names-throwing-another-industry-into-turmoil-2017-07-10) may not matter as much as price. 
 

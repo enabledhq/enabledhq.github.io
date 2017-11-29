@@ -74,7 +74,9 @@ So that brings us to the question: “What would make consumers care?”
 
 Like most humans, consumers want to be heard, appreciated and advocated for. They want to be able to trust that organisations are doing their best to make their lives better. 
 
-But, trust in traditional institutions is falling, particularly in the government. NGOs and businesses are the only two that hover above the 50% public approval levels. 
+The Guardian has a thought-provoking article on how [technology](https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth) disrupted the truth. With the prevalence of fake news, alternative facts and such, the default for this generation has become “not trusting.” 
+
+Trust in traditional institutions is falling, particularly in the government. NGOs and businesses are the only two that hover above the 50% public approval levels. 
 
 Check out the graph below based on the [Edelman Trust Barometer](https://hbr.org/2017/01/survey-peoples-trust-has-declined-in-business-media-government-and-ngos) – which has been tracking global trust in institutions for the past 15 years.
 
@@ -104,11 +106,13 @@ There are plenty of studies and surveys out there documenting consumer trends: h
 ![global conscious consumers]({{site.baseurl}}/images/img_brand_global.png)
 *Source: [Zendesk](https://www.zendesk.com/resources/value-conscious-consumers/)*
 
-So people buy not just the what (functional benefits) but also the how and the why (emotional, social benefits). Effectively, this means extending certain aspects of the [jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) of a brand. 
+So people buy not just the what (functional benefits) but also the how and the why (emotional, social benefits). Given that millennials consider “self, society and planet,” this extends the “social” aspects of the [jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) of a brand. 
 
 # Movement towards social goodness
 
-Businesses have different levels of commitment. Some get certified as a Benefit Corporation ([B Corps](http://bcorporation.com.au/what-are-b-corps-0)), some operate as [social enterprises](http://www.socialtraders.com.au/about-social-enterprise/what-is-a-social-enterprise/social-enterprise-definition/). 
+Some brands are already taking steps to engage with consumers against the backdrop of falling trust in institutions. 
+
+Some get certified as a Benefit Corporation ([B Corps](http://bcorporation.com.au/what-are-b-corps-0)), some operate as [social enterprises](http://www.socialtraders.com.au/about-social-enterprise/what-is-a-social-enterprise/social-enterprise-definition/). 
 
 Often, these are relatively new companies that are not behemoths in their industries. And they try to assert their unique value proposition through being socially conscious. Here are a few ways to do it.
 
@@ -116,9 +120,13 @@ Often, these are relatively new companies that are not behemoths in their indust
 
 It’s not enough to merely start a conversation. Brands need to invite [belief-driven](https://www.slideshare.net/EdelmanInsights/2017-edelman-earned-brand) consumers to act and drive the conversation. 
 
-Sometimes, a brand’s influence can be indirect. For instance, if you’re doing research for policy makers, you can draw attention to areas that would create a good social outcome. This is the case of [Today](https://today.design/) – a certified B-Corp design company. 
+Sometimes, a brand’s influence can be indirect. For instance, if you’re doing research for policy makers, you can draw attention to areas that would create a good social outcome. This is the case for a certified B-Corp design company called [Today](https://today.design/). 
 
-I had a chance to speak briefly with the firm’s CEO Damon O’Sullivan, who shared about their purpose-driven approach. 
+I had a chance to speak briefly with the firm’s CEO Damon O’Sullivan. He talked about:
+
+- How their work could directly and indirectly have a social outcome
+- Their purpose-driven approach 
+- The trend of socially conscious brands
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361432082&amp;color=%235e3d8e&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 

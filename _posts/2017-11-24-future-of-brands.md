@@ -49,7 +49,7 @@ In a previous post on [customer experience](http://blog.enabled.com.au/marketing
 
 Tech-savvy millennials can now talk back and demand transparency, thanks mostly to social media, which means they can affect brands positively or negatively. 
 
-Even with sophisticated ad targeting technologies, they are also tuning out of brand advertising, with the rise of [ad blockers](http://www.businessinsider.com/report-says-ad-blocking-is-worsening-2017-2/?r=AU&IR=T). 
+Even with sophisticated ad targeting technologies, they are tuning out of brand advertising, with the rise of [ad blockers](http://www.businessinsider.com/report-says-ad-blocking-is-worsening-2017-2/?r=AU&IR=T). 
 
 ## An advantage for others
 

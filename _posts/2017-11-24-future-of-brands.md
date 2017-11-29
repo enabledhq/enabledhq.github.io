@@ -59,10 +59,10 @@ They got “swallowed up” by large corporations, namely “GAFA” (Google, Ap
 
 These giants are the aggregators, sucking brand affinity from other companies by taking care of the distribution. 
 
-Think about how Google aggregates content from all sources. Think about how Amazon aggregates suppliers of books, then all sorts of consumer goods. This is the Aggregation Theory at work.  
+Think about how Google aggregates content from all sources. Think about how Amazon aggregates suppliers of books, then all sorts of consumer goods. This is the [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/) at work.  
 
-
-*How Google “dilutes” the brands of publishers and media companies *
+![aggregation theory google]({{site.baseurl}}/images/img_brand_aggregation.png)
+*How Google “dilutes” the brands of publishers and media companies. Based on the [Aggregation Theory](https://stratechery.com/2015/aggregation-theory)*
 
 Here’s a hypothetical situation that may well be true soon. With voice commerce and smart speakers like Amazon’s Echo, consumers may delegate the choice of brands to AI algorithms. For example, “Alexa, buy the cheapest toothpaste,” or “Hey Siri, order some detergent, whatever that gets here the fastest.” So [brands](https://www.marketwatch.com/story/amazon-is-taking-away-the-power-of-brand-names-throwing-another-industry-into-turmoil-2017-07-10) may not matter as much as price. 
 

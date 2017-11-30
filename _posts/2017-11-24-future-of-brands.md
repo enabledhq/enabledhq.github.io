@@ -62,7 +62,7 @@ These giants are the aggregators, sucking brand affinity from other companies by
 Think about how Google aggregates content from all sources. Think about how Amazon aggregates suppliers of books, then all sorts of consumer goods. This is the [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/) at work.  
 
 ![aggregation theory google]({{site.baseurl}}/images/img_brand_aggregation.png)
-*How Google “dilutes” the brands of publishers and media companies. Based on the [Aggregation Theory](https://stratechery.com/2015/aggregation-theory)*
+*How Google “dilutes” the brands of publishers and media companies. Based on Ben Thompson’s [Aggregation Theory](https://stratechery.com/2015/aggregation-theory)*
 
 Millennials value convenience, experience and [access](http://www.goldmansachs.com/our-thinking/pages/millennials/).
 

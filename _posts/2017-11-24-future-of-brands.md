@@ -148,8 +148,10 @@ As an example, the [fashion industry](https://www.theguardian.com/fashion/2017/a
 
 Another way of projecting the image of a socially conscious brand is to take a stance. Usually, we see consumer-facing brands at the forefront of this since they’re closer to the public. That doesn’t mean business-facing or B2B brands can’t make an impact. 
 
-![belief driven consumer]({{site.baseurl}}/images/img_brand_silence.jpg)
-*From the [Future Enterprise](https://openstate.com.au/events/trust-and-brands-friend-or-foe) event*
+<div style="margin-left:auto;margin-right:auto;max-width:400px;width:70%;height:70%">
+	<img src="{{site.baseurl}}/images/img_brand_silence.jpg">
+	<em>Source: <a href="https://openstate.com.au/events/trust-and-brands-friend-or-foe">The Future Enterprise event</a></em>
+</div>
 
 [Basecamp](https://basecamp.com/) – popular project management/team collaboration software – is not shy about sharing their opinions on things like racism or the harmful effects of [technology](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) (even though they’re in tech). 
 

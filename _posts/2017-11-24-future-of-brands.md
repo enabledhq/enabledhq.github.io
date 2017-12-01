@@ -94,7 +94,7 @@ Does this mean good news for businesses? Not quite. Because consumers are expect
 
 Or this stat:
 
-<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:70%;height:70%">
 	<img src="{{site.baseurl}}/images/img_brand_havas.png">
 	<em>Source: <a href="http://www.meaningful-brands.com/en">Havas Group</a></em>
 </div>

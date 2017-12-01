@@ -268,8 +268,10 @@ Now onto a startup example.
 
 [Brandless](https://brandless.com/) is interestingly, a brand that wants to take on big corporations by selling everyday products without big brands’ price markups. They’re about “inspiring a new wave of [consumer culture](https://medium.com/@TinaSharkey/brandless-is-born-cf7dbeb5481c) that makes sense, created in direct opposition to a system that isn’t serving people.”
 
-![brandless]({{site.baseurl}}/images/img_brand_brandless.gif)
-*Everything sells for $3 each. Source: [Brandless](https://brandless.com/)*
+<div style="margin-left:auto;margin-right:auto;max-width:400px;width:70%;height:70%">
+	<img src="{{site.baseurl}}/images/img_brand_brandless.gif">
+	<em>Everything sells for $3 each. Source: <a href="https://brandless.com/">Brandless</a></em>
+</div>
 
 Not quite on the same scale as Toms shoes’ “One for one” business model, Brandless also gives part of its sales back to the community.
 

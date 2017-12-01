@@ -244,7 +244,8 @@ Pick an issue that’s a natural extension of your brand and try to stay relevan
 Talk less do more.
 If you want to advocate for gender equality in the workplace and your workforce consists of mainly men, the public wouldn’t be too impressed. Example: [Audi](http://www.huffingtonpost.com.au/2017/02/06/sure-the-audi-ad-was-sweet-but-very-few-women-actually-work-th_a_21708320/)’s Super Bowl ad highlighting the issue. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ICYMI: Audi USA’s 12 man, 2 woman executive team is lecturing Super Bowl viewers with an ad on pay equality <a href="https://t.co/cnPfBrbaKq">https://t.co/cnPfBrbaKq</a></p>&mdash; Twitchy Team (@TwitchyTeam) <a href="https://twitter.com/TwitchyTeam/status/828419131200389123?ref_src=twsrc%5Etfw">February 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+![audi gender equality ad]({{site.baseurl}}/images/img_brand_audi.png)
+*Source: [Twitter](https://twitter.com/TwitchyTeam/status/828419131200389123?ref_src=twsrc%5Etfw)*
 
 This quote from Google’s [Global Creative Director](https://www.thinkwithgoogle.com/marketing-resources/content-marketing/socially-conscious-brands-take-a-stand/) sums it up nicely: 
 

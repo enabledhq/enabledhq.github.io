@@ -202,8 +202,10 @@ Initially, their giving program attracted some heavy [criticism](https://www.vox
 
 The extraordinary thing about TOMS is they actually cared enough to listen and improved their [program](http://www.acrosstwoworlds.net/?p=292). This is their current social offering:
 
-![toms one for one]({{site.baseurl}}/images/img_brand_toms.png)
-*Source: [TOMS](http://www.toms.com/improving-lives)*
+<div style="margin-left:auto;margin-right:auto;max-width:400px;width:70%;height:70%">
+	<img src="{{site.baseurl}}/images/img_brand_toms.png">
+	<em>Source: <a href="http://www.toms.com/improving-lives">TOMS</a></em>
+</div>
 
 And how are they faring business-wise? Not only is their “buy one give one” model sustainable, they managed to expand globally and attracted investment from Bain Capital – who owns half of TOMS and see their giving and [purpose](https://www.businessinsider.com.au/toms-blake-mycoskie-talks-growing-a-business-while-balancing-profit-with-purpose-2016-6) as a competitive advantage.
 

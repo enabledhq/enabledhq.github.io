@@ -274,3 +274,8 @@ Is it a case of “With great power comes great responsibility?” Or as long as
 Consumers are becoming more demanding and vigilant, particularly in these divisive socio-political climates. 
 
 Brands need to speak about doing good as well as doing it. Or consumers won’t buy it, literally.
+
+---
+Continue the conversation by tweeting to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
+
+Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts).

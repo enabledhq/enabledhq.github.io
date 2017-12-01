@@ -55,7 +55,7 @@ prose:
           element: "multiselect"
           label: "Authors"
           placeholder: "Choose authors"
-          value: linh
+          value:
           options:
             - name: "Linh Dao"
               value: linh            

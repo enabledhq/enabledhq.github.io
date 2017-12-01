@@ -4,6 +4,7 @@ date: '2017-11-22 17:03 +1030'
 published: true
 title: Real-time Facial Performance Capture with iPhone X
 author:
+  - linh
   - simeon
   - john
 meta-keywords: >-
@@ -115,3 +116,8 @@ Inside of the Unity host we have an extension which opens up a UDP socket to lis
 * Grab the iOS app project from [here](https://github.com/johnjcsmith/iPhoneMoCapiOS)
 * Make sure your iPhone X is connected to the same Wifi network and build / run this application. (Don't forget to pod install)
 * This application should discover the unity host and begin streaming the motion data.
+
+---
+Got more questions? Tweet to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
+
+Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts).

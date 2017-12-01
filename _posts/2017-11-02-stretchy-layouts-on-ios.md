@@ -4,6 +4,7 @@ date: '2017-11-02 11:30 +1030'
 published: true
 title: 'Tutorial: Creating Stretchy Layouts on iOS Using Auto Layout '
 author:
+  - linh
   - simeon
 main-category: technology
 categories:
@@ -422,3 +423,8 @@ stretch to satisfy your constraints
 * Constraints are broken in priority order, so don't be afraid to experiment
 with conflicting constraints
 * Use SnapKit
+
+---
+Got more questions? Tweet to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
+
+Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts).

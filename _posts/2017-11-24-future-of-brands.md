@@ -182,7 +182,7 @@ On one hand, Pepsi appeared to trivialise political protests by hiring reality T
 
 Heineken effectively showed Pepsi “how it’s done” with an ad on the same issue not long after that. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7mTZt7jCJI?rel=0" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="https://www.youtube.com/embed/E7mTZt7jCJI?rel=0" style="width: 100%;height:100%;border:0px #FFFFFF none;" frameborder="0" allowfullscreen marginheight="0px" marginwidth="0px"></iframe></div>
 
 Instead of staging the celebrity, police and protestors like Pepsi, Heineken conducted a [social experiment](https://www.theguardian.com/media/2017/apr/28/that-heineken-ad-does-it-land-with-the-audiences-other-beers-cannot-reach) that got people talking about their opposing political views over a beer.  
 

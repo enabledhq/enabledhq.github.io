@@ -94,8 +94,10 @@ Does this mean good news for businesses? Not quite. Because consumers are expect
 
 Or this stat:
 
-![meaningful brands stats]({{site.baseurl}}/images/img_brand_havas.png)
-*Source: [Havas Group](http://www.meaningful-brands.com/en)*
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+	<img src="{{site.baseurl}}/images/img_brand_havas.png">
+	<em>Source: <a href="http://www.meaningful-brands.com/en">Havas Group</a></em>
+</div>
 
 Cue the rise of belief-driven consumers. Some more stats from the Edelman studies:
 

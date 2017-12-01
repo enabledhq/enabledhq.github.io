@@ -192,7 +192,8 @@ After New Balance appeared to support Trump’s trade plans, neo-Nazis tried to 
 
 Uber also copped the #DeleteUber movement after continuing to operate at JFK airport while taxis were striking against Trump’s travel ban on Muslim-majority countries. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Scores of people are deleting Uber after the company serviced rides at JFK airport while taxis were striking against muslim ban <a href="https://twitter.com/hashtag/deleteuber?src=hash&amp;ref_src=twsrc%5Etfw">#deleteuber</a> <a href="https://t.co/D8cJMlxOxQ">pic.twitter.com/D8cJMlxOxQ</a></p>&mdash; Josh Butler (@JoshButler) <a href="https://twitter.com/JoshButler/status/825552626154475520?ref_src=twsrc%5Etfw">January 29, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+![delete uber twitter]({{site.baseurl}}/images/img_brand_uber.png)
+*Source: [Twitter](https://twitter.com/JoshButler/status/825552626154475520?ref_src=twsrc%5Etfw)*
 
 ## Doing good and adjusting actions based on feedback
 
@@ -220,7 +221,6 @@ Similarly, 77% of consumers in a multinational survey choose to pay more to purc
 The less glamorous grocery sector also has potential in premium pricing if brands can demonstrate [social responsibility](http://www.nielsen.com/au/en/insights/news/2017/premium-potential-grocery-categories-pacific-consumers-are-willing-to-spend-more-on.html). 
 
 ![socially conscious brand]({{site.baseurl}}/images/img_brand_paymore.jpg)
-
 *Source: [Nielsen](http://www.nielsen.com/au/en/insights/news/2017/premium-potential-grocery-categories-pacific-consumers-are-willing-to-spend-more-on.html)*
 
 In short, standing up for what’s right is good for business, good for morale, and good for humanity.

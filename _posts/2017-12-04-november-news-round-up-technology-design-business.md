@@ -32,13 +32,16 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## Ways to beat Amazon
+## Tesla's next shiny things
 
-With price competitiveness in their DNA, Amazon seems unbeatable, as evident in their [cloud](https://medium.com/@mikeal/amazon-is-terrifying-7333422ec40d) offering. But there is still hope:
+The company generated a lot of buzz with the recent announcement of:
 
-- Don't go after commodity categories. Build a strong [brand](https://www.cnbc.com/2017/08/27/how-to-beat-amazon-insight-venture-partners-deven-parekh.html).
-- "If you can't beat 'em, [join 'em](https://www.entrepreneur.com/article/302410?)."
-- Retailers react in the wake of Amazon/Whole Foods deal, so implement an [ecommerce strategy](https://www.geekwire.com/2017/amazons-13-7b-purchase-whole-foods-blessing-disguise-instacart/) now if you don't have one.
+- The 2nd generation [Roadster](https://www.theverge.com/2017/11/17/16655800/tesla-electric-semi-truck-roadster-recap-elon-musk) that goes from 0 to 100kph in 1.9 secs
+- The Semi truck with enhanced Auto Pilot
+
+![tesla roadster 2]({{site.baseurl}}/images/img_nov_roadster.jpg)
+
+With production problems of their other car models, many have questioned Tesla's [long-term](https://seekingalpha.com/article/4122890-tesla-approaches-terminal-decline?) viability. Yet some praise Tesla's vision and point to their high [valuation](https://thinkgrowth.org/tesla-how-to-lose-700-million-and-maintain-a-60-billion-valuation-107e777b530).
 
 ## Build a successful platform/marketplace
 

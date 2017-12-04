@@ -67,17 +67,13 @@ The (hugely simplified) complex stuff that happens every time you hit Play - Or 
 
 # Inside Enabled
 
-**From our Instagram**
+## Enabled at eChallenge Gala Dinner
 
-Playing with the [DJI Phantom 4 Pro](https://www.instagram.com/p/BaaupcVl2KM/?taken-by=enabledhq) drone 🕹 It's not just fun and games, there're 30 big industries that drones could [disrupt](https://www.cbinsights.com/research/industries-disrupted-drones/). If you have an idea in mind, let us know! 
+As a Gold Sponsor of the University of Adelaide's eChallenge, Enabled attended the event to celebrate the start of budding South Australian startups.
 
-<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BaaupcVl2KM/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Enabled Solutions (@enabledhq)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-10-19T05:20:22+00:00">Oct 18, 2017 at 10:20pm PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+CEO Grant Hull also presented the award to the winners of the Tech eChallenge program, which Enabled and Microsoft ran for the uni.
  
-**Enabled in the press**
 
-Our client Clipsal launches the new and improved [iCat app](http://electricalconnection.com.au/clipsal-launches-world-first-in-digital-innovation-for-electricians/) with ecommerce integration. Partnering with [Clipsal](https://enabled.com.au/casestudy-Clipsal) since 2011, we are so proud to work on this world-first offering in the electrical industry.
+## Team Day
 
-![clipsal icat app]({{site.baseurl}}/images/img_october_icat.gif)
-
-iCat is also the most used app behind Google in the Australian electrical industry.
-
+The inaugural Enabled Team Day was a chance for us to hone in on our collective focus, including future direction, financial transparency, workshopping concerns. We also unveiled our culture book!

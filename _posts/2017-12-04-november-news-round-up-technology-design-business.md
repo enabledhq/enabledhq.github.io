@@ -43,12 +43,11 @@ The company generated a lot of buzz with the recent announcement of:
 
 With production problems of their other car models, many have questioned Tesla's [long-term](https://seekingalpha.com/article/4122890-tesla-approaches-terminal-decline?) viability. Yet some praise Tesla's vision and point to their high [valuation](https://thinkgrowth.org/tesla-how-to-lose-700-million-and-maintain-a-60-billion-valuation-107e777b530).
 
-## Build a successful platform/marketplace
+## From a tool to an ecosystem
 
-Starting small, marketplaces like eBay, Airbnb, Alibaba and Uber have become multi-billion-dollar businesses. How did they do it? Here are 4 [main strategies](http://andrewchen.co/how-to-build-a-billion-dollar-digital-marketplace-examples-from-uber-ebay-craigslist-and-more/). We also wrote about [platform business model](http://blog.enabled.com.au/platform-business-model) before.
+Shopify grew from a tool to a platform to an [ecosystem](https://producthabits.com/shopify-grew-snowboard-shop-10b-commerce-ecosystem/). How? Constant innovation & investment in new tech to delight users. They've strengthened their core offering and evolved in the e-commerce space. 
 
-![Elements of a platform business ]({{site.baseurl}}/images/img_platform_elements.png)
-*See more [here](http://blog.enabled.com.au/platform-business-model)*
+This reminds us of the [iCat app](http://enabled.com.au/sidestudy/clipsal-icat)'s evolution that we've been working on with our client [Clipsal](https://enabled.com.au/casestudy-Clipsal).
 
 ## Long read: See that tech disruption coming?
 

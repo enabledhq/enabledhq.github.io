@@ -59,19 +59,9 @@ The (hugely simplified) complex stuff that happens every time you hit Play - Or 
 
 ![netflix cloud microservies]({{site.baseurl}}/images/img_nov_netflix.png)
 
-# Handy business tips
-
-**Maintain individual & collective focus**
-
-Facebook's VP of Product on how to [remain focused](http://firstround.com/review/how-facebooks-vp-of-product-finds-focus-and-creates-conditions-for-intentional-work/) and get things done in a project, including auditing your calendar, avoiding unnecessary meetings.
-
-**Connecting at work**
-
-Harvard Business Review published an excellent series on human connections in the [digital workplace](https://hbr.org/cover-story/2017/09/work-and-the-loneliness-epidemic) that we're in.
-
 # Weird & wonderful
 
-⛓  Buddhist community harnessing [blockchain](https://lotos.network/) to ensure that temples are using their funds properly.  
+🚗 Automaker allows people to pay for brand new cars with Youtube views of videos they uploaded of test drives.  
 
 ✈️ Dubai International Airport will replace [border controls](https://www.thenational.ae/uae/transport/dubai-airport-s-new-virtual-aquarium-tunnel-scans-your-face-as-you-walk-through-it-1.665406?) with a walk down a virtual aquarium tunnel.
 

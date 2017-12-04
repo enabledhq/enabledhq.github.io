@@ -49,18 +49,15 @@ Shopify grew from a tool to a platform to an [ecosystem](https://producthabits.c
 
 This reminds us of the [iCat app](http://enabled.com.au/sidestudy/clipsal-icat)'s evolution that we've been working on with our client [Clipsal](https://enabled.com.au/casestudy-Clipsal).
 
-## Long read: See that tech disruption coming?
+## Long read: Build an unforgettable first-time user experience
 
-In response to [impending disruption](https://medium.com/startup-grind/what-technology-disruption-always-does-for-or-to-your-business-4b3bd5d7f59c), a business may suddenly declare it is going to “Transform” or “Innovate,” but it often also wants to hold onto what it has been in the past . Self-disruption may be the way to go.
+Earn the right to more of your users' time by taking a human-centred approach.  Make them feel inspired, and deliver a thoughtful, [well-crafted experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2). It really pays off. 
 
-![digital disruption]({{site.baseurl}}/images/img_october_disruption.gif)
+## The software architecture that powers Netflix
 
+The (hugely simplified) complex stuff that happens every time you hit Play - Or the significance of [Cloud and Microservices](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b) in running a platform like Netflix, even if that means using rival Amazon's AWS cloud services. 
 
-## The real business of Virtual Reality
-
-Facebook wants a billion people in VR with its new VR headset [Oculus Go](http://www.bbc.com/news/technology-41590202) that doesn't require a seperate computer to work. Will this revolutionise social - by giving people a [safe place](https://www.theverge.com/2017/10/15/16478084/interview-rachel-franklin-spaces-social-vr-facebook) to play out cause & effect - or pass off as another [tech gimmick](http://www.zdnet.com/article/facebook-to-unveil-virtual-reality-headset-which-needs-no-pc/)?
-
-![facebook oculus go]({{site.baseurl}}/images/img_october_oculus.jpg)
+![netflix cloud microservies]({{site.baseurl}}/images/img_nov_netflix.png)
 
 # Handy business tips
 

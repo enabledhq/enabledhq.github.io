@@ -61,9 +61,9 @@ The (hugely simplified) complex stuff that happens every time you hit Play - Or 
 
 # Weird & wonderful
 
-🚗 Automaker allows people to pay for brand new cars with Youtube views of videos they uploaded of test drives.  
+🚗 Automaker allows people to pay for brand new cars with [Youtube views](http://creativity-online.com/work/opel-pay-with-views/53174) of videos they uploaded of test drives.  
 
-✈️ Dubai International Airport will replace [border controls](https://www.thenational.ae/uae/transport/dubai-airport-s-new-virtual-aquarium-tunnel-scans-your-face-as-you-walk-through-it-1.665406?) with a walk down a virtual aquarium tunnel.
+💻 Dictionary of [online behaviour](http://dictionaryofonlinebehavior.com/), including "instameet" and "pinboast." Know anyone who's committed these? 
 
 # Inside Enabled
 

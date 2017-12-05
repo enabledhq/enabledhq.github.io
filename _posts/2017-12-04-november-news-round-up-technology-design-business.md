@@ -69,10 +69,12 @@ The (hugely simplified) complex stuff that happens every time you hit Play - Or 
 
 ## Enabled at eChallenge Gala Dinner
 
-As a Gold Sponsor of the University of Adelaide's eChallenge, Enabled attended the event to celebrate the start of budding South Australian startups.
+As a Gold Sponsor of the University of Adelaide's [eChallenge](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=730924850441552), Enabled attended the event to celebrate the start of budding South Australian startups.
 
 CEO Grant Hull also presented the award to the winners of the Tech eChallenge program, which Enabled and Microsoft ran for the uni.
- 
+
+![tech challenge sponsor]({{site.baseurl}}/images/img_nov_echallenge.jpg)
+ *Enabled CEO and COO at the eChallenge Gala Dinner. See more on our [Facebook page](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=730924850441552)*
 
 ## Team Day
 

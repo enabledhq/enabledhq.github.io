@@ -78,4 +78,7 @@ CEO Grant Hull also presented the award to the winners of the Tech eChallenge pr
 
 ## Team Day
 
-The inaugural Enabled Team Day was a chance for us to hone in on our collective focus, including future direction, financial transparency, workshopping concerns. We also unveiled our culture book!
+The inaugural [Enabled Team Day](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=723984437802260) was a chance for us to hone in on our collective focus, including future direction, financial transparency, workshopping concerns. We also unveiled our culture book!
+
+![enabled team day]({{site.baseurl}}/images/img_nov_teamday.jpg)
+*More photos on our [Facebook](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=723984437802260) page*

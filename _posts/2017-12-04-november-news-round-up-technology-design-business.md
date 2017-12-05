@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-11-30 16:43 +1030'
-published: false
+published: true
 title: 'November News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in November 2017: roundup of news on technology,

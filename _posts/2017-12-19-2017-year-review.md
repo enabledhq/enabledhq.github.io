@@ -1,0 +1,175 @@
+---
+layout: post
+date: '2017-12-19 11:19 +1030'
+published: false
+title: 'Spin The Wheel Of Emotions: 2017 Year Review '
+author:
+  - linh
+main-category: technology
+categories:
+  - technology
+---
+Welcome to the end of 2017. It has been yet another year of rapid changes in the tech world that make people raise or lower their eyebrows. 
+  
+Since reaction buttons have become a thing, let’s review the different emotions people have had in reaction to this year’s developments. 
+Sceptical about Bitcoin and cryptocurrencies
+A new form of investment
+People and the media are obsessed about the price of Bitcoin. Is it a bubble? Is it going to crash like the dotcom bust? 
+
+
+Source: Decentralize Today
+
+As of the time of writing, Bitcoin’s price has gone up by over 2,000% this year; Etherum – another cryptocurrency – up by a staggering 5,000%.
+
+If you’re still unsure about what bitcoin is, check out this article which explains the cryptocurrency using apples.
+ 
+The technology behind it
+Blockchain is transforming trust mechanisms in the digital world. People have used it to facilitate verification and accountability. 
+
+Examples: a Buddhist community using blockchain to make sure temples are using funds appropriately, or Dubai residents using a blockchain-based app to verify the food conditions in restaurants. 
+
+The video below delves into the crypto story beyond new financial opportunities, such as the history of currency. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yiRCdMgkkFY?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+Scared by the prospects of AI  
+Artificial Intelligence is getting so complex that its creators can’t trust why it makes decisions. This is the premise for one of the most watched TV series last year. In HBO’s Westworld, things started to get “interesting” when the robot makers couldn’t figure out why the hosts (robots) deviate from their programmed scripts.
+ 
+Other “scary” headlines in the real world include things like AI teaches itself chess from scratch, then proceeds to beat the world’s previous best chess-playing AI.
+ 
+Nonetheless, the inaugural 2017 AI Index report notes that the sentiment of media coverage has been more positive than negative.
+ 
+
+Source: AI Index report
+Jobs lost and created
+As mentioned in our article on Artificial Intelligence earlier this year, people have been anxious about losing their jobs to AI. There was even a website that works out the risk level of many professions being replaced by automation. Not just jobs in a traditional sense, human pastors might be replaced by robot priests.
+ 
+The other side of the argument is AI creates a whole lot of new jobs too. Years ago, we didn’t have things like AI trainers or automation ethicists. Besides, AI is eliminating lower skilled jobs and repetitive tasks, which means more upskilling opportunities and more roles in creative/customer service areas.
+ 
+
+New roles created by AI. Source: MIT Sloan Management Review
+Wary of GAFA
+As  mentioned in our previous post on the future of brands, Google Apple Facebook Amazon (GAFA) have the power to sway markets. Just look at their market cap. 
+ 
+<a href="https://www.statista.com/statistics/277483/market-value-of-the-largest-internet-companies-worldwide/" rel="nofollow"><img src="http://www.statista.com/graphic/1/277483/market-value-of-the-largest-internet-companies-worldwide.jpg" alt="Statistic: Market capitalization of the biggest internet companies worldwide as of May 2017 (in billion U.S. dollars) | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
+
+So what have the giants been up to this year? Here are some highlights.
+Google 
+The search giant leads the pack in terms of AI patents, as well as investments in autonomous cars (i.e. Waymo). 
+
+
+Source: CB Insights
+ 
+Google is also getting serious about hardware, releasing laptops, smartphones, home assistants, wireless earbuds. In particular, the Pixel 2 is meant to combine the giant’s hardware, software and AI capabilities.
+
+With Google (and Facebook) dominating digital ads, media companies and publishers are starting to form alliances, hoping it would break the duopoly. 
+
+BuzzFeed wants to reorganise its sales department to fix the relationship between media and tech
+In Australia, News Corp, Fairfax Media and Nine form a co-op to better compete with Google ad offerings.
+Apple 
+Mobile AR has received serious investment, particularly with the arrival of iOS 11 and ARKit. This sparked an AR platform war between Apple and Google with its ARCore. Many have said Apple has an early advantage, but Google might win in the long run. 
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink=https://www.instagram.com/p/BVWc5YGFeNg/ data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BVWc5YGFeNg/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">One of our software developers playing with Apple&#39;s new Augmented Reality tool - ARKit. This reminds us of a client project we did three years ago, where we created an AR-powered product visualiser for light switches. Read about that project at goo.gl/7NMWAv 💡 #augmentedreality #AR #apple #ios #arkit #softwareengineer #softwaredeveloper #userexperience #ux #innovative #clipsal #developer #Tech #visualize</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="&lt;Macro &#39;profile_link&#39;&gt;" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Enabled Solutions</a> (@enabledhq) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-06-15T06:51:19+00:00">Jun 14, 2017 at 11:51pm PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+Arguably in an effort to disrupt itself, Apple is getting ready for a phoneless world, with its new and/or improved wearables (e.g. AirPods, Apple Watch Series 3). Incidentally, the giant has been hiring more hardware than software engineers.
+
+
+Source: CB Insights
+
+Compared with other giants, Apple needs to do a lot of catching up in AI. Nonetheless, Apple might have a lead in cyber security and biometrics, given its track record in staying away from high-profile security breaches and end-to-end hardware/software control. 
+Facebook 
+The giant has been copying Snapchat so many times now that it’s no longer funny. Check out the list of copied features in the 4 core apps (Facebook, Messenger, WhatsApp and Instagram) up till May this year.
+
+And then just last month, Facebook copied Snapchat’s streak feature. 
+
+While Google tries to dominate mobile VR with Google Daydream, Facebook’s new Oculus Go attempts to capture the market:
+By not relying on any hardware manufacturer (e.g. Samsung)
+By building on its own platform rather than using, for example, Android
+
+
+Source: Techcrunch
+
+In other news, Facebook “is still in denial about fake news,” which we mentioned in our 2016 year review blog post as well. Efforts to curb this by manual fact-checking have produced slow progress,  although Facebook said over time, it’d help with the algorithm.
+ 
+Will it be enough to fight the notion social media is dividing society? As Facebook’s former exec said: “It’s not an American problem — this is not about Russians ads. This is a global problem.”
+Amazon 
+The ecommerce behemoth is expanding to step closer to its goal of “taking a cut of all economic activity.” Specifically, the move into groceries by acquiring Whole Foods has attracted a lot of attention. 
+
+People said the acquisition led to lower quality produce. Others said grocery-delivery startups would be crushed by Amazon. Turns out, the smaller guys have partnered with other supermarket chains to fight against Amazon. 
+
+The giant also launched in Australia, although it has been an underwhelming start.
+
+
+Fake reviews have become an issue for the online retail marketplace like Amazon. 
+
+Letting strangers enter your house to deliver your Amazon parcels? Introducing Amazon Key. While some might be creeped out by that thought, it’s not the most troubling part of it.  
+But don’t forget China
+Outside of Silicon Valley, China is emerging as another tech innovation hub.
+
+
+Select China-based global tech leaders. Source: CB Insights
+ 
+Alibaba’s Singles Day smashed its previous sales record with $25.3 billion, double the 2016 Black Friday and Cyber Monday sales combined.
+ 
+The Chinese giant has been investing in offline retail, particularly groceries shopping just like its American rival Amazon.
+Outraged by a lack of diversity in tech
+Uber has to be on the list this year. Sexism was rife there, with damning accounts from female former employees.
+
+And then there was the Google memo scandal, where a male engineer attributed a lack of gender diversity in tech to biological differences. 
+
+A lack of diversity is creeping into AI, as Google’s AI chief warns. Bias in data used to train AI algorithms is the real worry for the human race, not killer robots. 
+
+To lighten up the mood a bit, check out this satire piece on diversity. 
+
+
+Hungry by meatless meat
+With a growing global population and damaging impact to the environment from animal farming, startups have looked into alternatives:
+Animal-free protein, e.g. Impossible Foods’ meatless beef burger.
+Lab grown food, e.g. Mosa Meat.
+Insect protein
+ 
+Source: CB Insights
+Delighted by consumer tech innovations
+As usual, Apple’s new iPhone would be all over the news. This year, the iPhone X has been touted as both the future of smartphones and the (beginning of the) end of smartphones. 
+
+Some notable mentions:
+FaceID that works like magic
+Animojis that generated a lot of buzz, e.g. animoji karaoke
+That “annoying” notch 
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">This took me entirely too long. <a href="https://twitter.com/hashtag/AnimojiKaraoke?src=hash&amp;ref_src=twsrc%5Etfw">#AnimojiKaraoke</a> <a href="https://twitter.com/hashtag/StarWars?src=hash&amp;ref_src=twsrc%5Etfw">#StarWars</a> <a href="https://twitter.com/hashtag/TonightShow?src=hash&amp;ref_src=twsrc%5Etfw">#TonightShow</a> <a href="https://twitter.com/hashtag/iPhoneX?src=hash&amp;ref_src=twsrc%5Etfw">#iPhoneX</a> <a href="https://t.co/nP2L5FbRIU">pic.twitter.com/nP2L5FbRIU</a></p>&mdash; Derek Duncan (@derekduncan) <a href="https://twitter.com/derekduncan/status/927359099079098369?ref_src=twsrc%5Etfw">November 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+We also wrote two technical posts on UI design and real-time facial performance capture with iPhone X. 
+
+Smart home assistants also have a good run this year, with devices to suit every budget. 
+
+
+Source: Techcrunch
+
+Animal of the year
+Cats. Simply because they teach you a lot of things. You can learn from them about:
+-       Design thinking
+-       Product development
+
+
+Because cats know when to think inside the box. Source: Medium
+Lists of the year
+Here are a few notable lists of the year for all your listicle desire.
+ 
+The MIT Technology Review mentions 10 breakthrough technologies that are unfolding or potentially have a big impact on humanity. The list includes easy things to understand like the 360-degree selfie, to more complex stuff like quantum computing.
+ 
+This year saw some astonishing releases of consumer hardware. While most of the noise has been around iPhone X, Nintendo Switch etc., let’s not forget the little things. Literally.
+Like the SanDisk 400GB microSD card that can store 400,000 eBooks!
+ 
+The Apple’s App Store put out the Best of 2017 lists including apps and games. But if you want to look at the apps ecosystem holistically, check out the trends of the year list.
+ 
+
+Remember the adorable kid that walked right into the middle of her dad’s BBC interview? And the host of ensuing articles trying to analyse whether the woman rushing to intervene was a maid or the wife? For your entertainment, relive the year with the top 10 YouTube videos.
+ 
+Last but not least, colour of the year
+It’s Ultra Violet.  
+
+Check out how similar our brand’s colour is to this shade of purple. 
+Not to brag, but purple signifies qualities such as: Visionary, thoughtful, original, ingenuous, mysterious, intriguing, fascinating, magical…
+
+So we hope to be that partner to help you create a meaningful future. Here’s to a prosperous 2018. 
+

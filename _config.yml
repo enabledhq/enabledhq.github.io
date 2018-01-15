@@ -16,7 +16,7 @@ permalink: /:title/
 
 prose:
   media: 'images'
-  ignore: ['_includes', '_layouts', '_sass', '.gitignore', 'CNAME']
+  ignore: ['_includes', '_sass', '.gitignore', 'CNAME']
   metadata:    
     _posts:
       - name: "layout"

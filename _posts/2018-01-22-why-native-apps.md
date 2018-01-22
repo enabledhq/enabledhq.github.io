@@ -8,6 +8,7 @@ categories:
   - technology
 author:
   - grant
+hero-banner: /images/Blog_Header_native.png
 ---
 Over the past two decades or so, people have gone from “How do I build a website?” to “How do I develop a mobile app?” or “Should I have a website or a mobile app?”
 

@@ -7,18 +7,30 @@ title: 'Why Native Apps Are Superior '
 Over the past two decades or so, people have gone from “How do I build a website?” to “How do I develop a mobile app?” or “Should I have a website or a mobile app?”
 
 The safest (and most accurate) would be “it depends.” That said, this article might appeal to you more if you’re involved in an established business, or a startup wanting to cut through the clutter. 
-How Apps came about
+
+# How Apps came about
+
 The launch of the iPhone in early 2007 changed the way the world viewed the mobile phone, but it was the iTunes App Store introduced a year and a half later that brought transformative change.
 Through this store, software became a thing for general people and as a result, Apps became truly personal.
+
 For the first time Apps could surprise and delight. They were simple but never skimping on the details. They were sticky, causing the user to return more often, and they were only ever an arm’s length away.
+
 They were also coded natively.
+
 <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/rwc6qmvqkrt-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0VTdzRXVyRkdaK2JZMWVoVjdwY2EzSkh3PT0&amp;landing_sign=tSYWdtAKX8EKoFj5iZlYFphGoCpj6uTH7ZEmwKLKF1U"></iframe>
+
 If a business intends to use an app as a central tool for interacting with customers and stakeholders, it must deliver an excellent customer experience that delights and fosters ongoing use. Dissatisfaction with a main channel of customer engagement may lead to low app uptake at best and churn at worst. 
+
 Without a doubt, the majority of the best mobile experiences today still continue to be delivered through native applications, while other development options continue to fall short and disappoint.
+
 For this reason alone, Enabled is unapologetic in our recommending the use of native code to create native apps. Let’s explore further.
-What are the development options on mobile?
+
+# What are the development options on mobile?
+
 For simplicity purposes, there are three major options for providing functionality to mobile phones.
+
 These are:
+
 1.     A website which is responsive or formatted for mobile, serving content from the Internet accessed via a browser on the mobile phone.
 2.     An application developed using a web technology layer such as HTML, CSS and Javascript that is downloaded as an App to the phone (e.g. PhoneGap, Cordova). Usually this web-tech layer still needs to talk to the native layer provided by the operating System.
 3.     Natively Coded applications (Native), in the case of iOS in Swift and Android most likely Java, which is downloaded as an App to the phone.
@@ -26,7 +38,8 @@ If you want to get specific, there are a number of options along the spectrum We
 A Hybrid Mixed (sometimes called Native Hybrid) app is usually a combination of 1 and 3, or 2 and 3, where code written for the device and some content or functionality is loaded into the app from a web server. 
 Option 2 points to a Hybrid Web or Packaged Hybrid app, i.e. a true app but one predominantly coded with a non-native framework or language.
 
-Why build native apps?
+# Why build native apps?
+
 As a Digital Innovation firm, we believe there is no technology that by default is best in all circumstances. 
 Rather, Enabled’s core philosophy is to understand what a user is trying to accomplish and choose the best digital technology to facilitate this (we wrote about this framework - Jobs To Be Done in another blog post).
 Therefore, it is prudent for Enabled to recognise that any existing website may already provide a mobile-friendly format with many functions desired in an app. 

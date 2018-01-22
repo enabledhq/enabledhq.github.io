@@ -24,7 +24,7 @@ They were also coded natively.
 
 <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/rwc6qmvqkrt-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0VTdzRXVyRkdaK2JZMWVoVjdwY2EzSkh3PT0&amp;landing_sign=tSYWdtAKX8EKoFj5iZlYFphGoCpj6uTH7ZEmwKLKF1U"></iframe>
 
-If a business intends to use an app as a central tool for interacting with customers and stakeholders, it must deliver an excellent customer experience that delights and fosters ongoing use. Dissatisfaction with a main channel of customer engagement may lead to low app uptake at best and churn at worst. 
+If a business intends to use an app as a central tool for interacting with customers and stakeholders, it must deliver an excellent [customer experience](http://blog.enabled.com.au/marketing-customer-experience/) that delights and fosters ongoing use. Dissatisfaction with a main channel of customer engagement may lead to low app uptake at best and churn at worst. 
 
 Without a doubt, the majority of the best mobile experiences today still continue to be delivered through native applications, while other development options continue to fall short and disappoint.
 
@@ -36,35 +36,58 @@ For simplicity purposes, there are three major options for providing functionali
 
 These are:
 
-1.     A website which is responsive or formatted for mobile, serving content from the Internet accessed via a browser on the mobile phone.
-2.     An application developed using a web technology layer such as HTML, CSS and Javascript that is downloaded as an App to the phone (e.g. PhoneGap, Cordova). Usually this web-tech layer still needs to talk to the native layer provided by the operating System.
-3.     Natively Coded applications (Native), in the case of iOS in Swift and Android most likely Java, which is downloaded as an App to the phone.
+1. A website which is responsive or formatted for mobile, serving content from the Internet accessed via a browser on the mobile phone.
+1. An application developed using a web technology layer such as HTML, CSS and Javascript that is downloaded as an App to the phone (e.g. PhoneGap, Cordova). Usually this web-tech layer still needs to talk to the native layer provided by the operating System.
+1. Natively Coded applications (Native), in the case of iOS in Swift and Android most likely Java, which is downloaded as an App to the phone.
+
 If you want to get specific, there are a number of options along the spectrum Web-Native, as shown in the graph below.
-A Hybrid Mixed (sometimes called Native Hybrid) app is usually a combination of 1 and 3, or 2 and 3, where code written for the device and some content or functionality is loaded into the app from a web server. 
+
+A Hybrid Mixed (sometimes called Native Hybrid) app is usually a combination of 1 and 3, or 2 and 3, where code written for the device and some content or functionality is loaded into the app from a web server.
+
 Option 2 points to a Hybrid Web or Packaged Hybrid app, i.e. a true app but one predominantly coded with a non-native framework or language.
+
+![native vs hybrid vs web apps]({{site.baseurl}}/images/img_native_comparison.png)
+*Source: [Outsystems](https://www.outsystems.com/blog/how-to-choose-the-best-mobile-architecture-infographic.html)*
 
 # Why build native apps?
 
 As a Digital Innovation firm, we believe there is no technology that by default is best in all circumstances. 
-Rather, Enabled’s core philosophy is to understand what a user is trying to accomplish and choose the best digital technology to facilitate this (we wrote about this framework - Jobs To Be Done in another blog post).
+
+Rather, Enabled’s core philosophy is to understand what a user is trying to accomplish and choose the best digital technology to facilitate this (we wrote about this framework - [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) in another blog post).
+
 Therefore, it is prudent for Enabled to recognise that any existing website may already provide a mobile-friendly format with many functions desired in an app. 
+
 The question then is: What benefits does an app bring that a mobile-enabled website cannot? The logical answer would be activities enhanced by being mobile e.g. for a user on the move. 
+
 Logging in to a website to periodically check requires diligence. An icon on a mobile phone screen would encourage more frequent engagement. Providing gentle reminders via badge icons or more explicit alerts via push notifications provides additional encouragement. Gaining attention of the user while out and about via a push message is also an enhanced feature not possible with a website. 
+
 A generation of users being mostly mobile and on the go provides a strong case for a mobile offering in app form. Let’s explore the pros and cons of each development option for mobile phones. 
-1. Web-served (or Packaged Hybrid)
+
+## 1. Web-served (or Packaged Hybrid)
+
 Some have tried exposing portions of a website via web-views and wrapping this in an app shell. 
+
 This method is not advisable as it runs the risk of contravening 4.2 of Apple’s Developer Guidelines: “Your app should include features, content, and UI that elevate it beyond a repackaged website. If your app is not particularly useful, unique, or “app-like,” it doesn’t belong on the App Store.”
+
 Apple’s stance is: if it is a website, it does not need to be an app.  
 Although this is more possible on Android, this method does not adequately allow basic functions such as push notification and location-based notifications. 
+
 2. Middle Web-Tech Framework (or Hybrid Web)
-Using a framework like Cordova allows JavaScript to be used to build actual apps and overcome Apple’s 4.2 clause. An app built with this framework also allows push notifications and geo-location triggered alerts, which on the most part are only possible with an app.  
+
+Using a framework like Cordova allows JavaScript to be used to build actual apps and overcome Apple’s 4.2 clause. An app built with this framework also allows push notifications and geo-location triggered alerts, which on the most part are only possible with an app. 
+
 In the recent past, Enabled has built apps with such frameworks with moderate success. One of them was even a fast-paced promotional game for Clipsal. 
+
 Success is a subjective term, because although these apps were functional, the limitations of the framework caused these apps to fall short of our vision and short of the standards we usually expect from our work. Moreover, the Clipsal game consumed the same budget that would have been required to construct two native apps, one for each platform.
+
 In our experience, most of these frameworks easily allow you to reach 80% of the desired functionality, though the remaining 20% often requires much more than its fair share of the budget. 
+
 Unfortunately, some of these difficulties are hard to foresee until they are stumbled upon. Most are related to getting these cross-platform frameworks working consistently on all of the different devices and operating systems.
 
 An example of a Cordova app by Enabled: My Wine World 
+
 Problems with these middle web-tech frameworks are:
+
 ·   	Slow speed in loading the app and loading the screens (compared with native)
 ·   	Compromised interface, aiming for the lowest denominator between Android and iOS
 ·   	User alienation as interface elements look similar to native but do not behave as expected
@@ -75,9 +98,13 @@ Problems with these middle web-tech frameworks are:
 ·   	Ambiguity in understanding if it is the developer’s code or the framework’s code that contains an issue
 ·   	The above means development tools and code themselves contain bugs that have to be overcome. This might be beyond the capabilities of a typical web-developer.
 ·   	Myth that because websites are easy then using web-tech to make apps should be easy. This is only true from the perspective of a web developer who would need to learn how to properly code software to create an app. For software developers, native applications are faster to create and deploy.
+
 (We also wrote about how to choose software developers in another article.)
+
 Apart from first-hand experience of these issues, other apps developed with these frameworks all share similar app store reviews with words like buggy, slow, laggy, and unintuitive.
+
 Unfortunately, these faults may be small, but reviews featuring lists of faults are more prominent than those discussing the features of the App.
+
 3. Native and Native Hybrid (or Hybrid Mixed) 
 A native app means it has been coded in a language that is natively provided by the two platforms.
 On iOS, this would be coded with Objective C or Swift and on Android, Java. This gives app developers considerably more control with the user experience and also allows them to design the apps for easy support and extendibility.

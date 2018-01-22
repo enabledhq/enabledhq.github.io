@@ -67,12 +67,12 @@ A generation of users being mostly mobile and on the go provides a strong case f
 
 Some have tried exposing portions of a website via web-views and wrapping this in an app shell. 
 
-This method is not advisable as it runs the risk of contravening 4.2 of Apple’s Developer Guidelines: “Your app should include features, content, and UI that elevate it beyond a repackaged website. If your app is not particularly useful, unique, or “app-like,” it doesn’t belong on the App Store.”
+This method is not advisable as it runs the risk of contravening 4.2 of Apple’s [Developer Guidelines](https://developer.apple.com/app-store/review/guidelines/): “Your app should include features, content, and UI that elevate it beyond a repackaged website. If your app is not particularly useful, unique, or “app-like,” it doesn’t belong on the App Store.”
 
 Apple’s stance is: if it is a website, it does not need to be an app.  
 Although this is more possible on Android, this method does not adequately allow basic functions such as push notification and location-based notifications. 
 
-2. Middle Web-Tech Framework (or Hybrid Web)
+## 2. Middle Web-Tech Framework (or Hybrid Web)
 
 Using a framework like Cordova allows JavaScript to be used to build actual apps and overcome Apple’s 4.2 clause. An app built with this framework also allows push notifications and geo-location triggered alerts, which on the most part are only possible with an app. 
 
@@ -84,48 +84,65 @@ In our experience, most of these frameworks easily allow you to reach 80% of the
 
 Unfortunately, some of these difficulties are hard to foresee until they are stumbled upon. Most are related to getting these cross-platform frameworks working consistently on all of the different devices and operating systems.
 
-An example of a Cordova app by Enabled: My Wine World 
+![my wine world app]({{site.baseurl}}/images/img_native_wine.png)
+*An example of a Cordova app by Enabled: [My Wine World](https://itunes.apple.com/au/app/my-wine-world/id688139480?mt=8)*
 
 Problems with these middle web-tech frameworks are:
 
-·   	Slow speed in loading the app and loading the screens (compared with native)
-·   	Compromised interface, aiming for the lowest denominator between Android and iOS
-·   	User alienation as interface elements look similar to native but do not behave as expected
-·   	Inability to utilise the unique strengths afforded by each of the platforms’ user standards
-·   	Too many edge cases and bugs to address as each OS and each device model can conflict with the code generated, leading to considerable testing / fixing overhead
-·   	High consumption of budget required for developing two native apps
-·   	Other general performance issues especially on Android handsets
-·   	Ambiguity in understanding if it is the developer’s code or the framework’s code that contains an issue
-·   	The above means development tools and code themselves contain bugs that have to be overcome. This might be beyond the capabilities of a typical web-developer.
-·   	Myth that because websites are easy then using web-tech to make apps should be easy. This is only true from the perspective of a web developer who would need to learn how to properly code software to create an app. For software developers, native applications are faster to create and deploy.
+- Slow speed in loading the app and loading the screens (compared with native)
+- Compromised interface, aiming for the lowest denominator between Android and iOS
+- User alienation as interface elements look similar to native but do not behave as expected
+- Inability to utilise the unique strengths afforded by each of the platforms’ user standards
+- Too many edge cases and bugs to address as each OS and each device model can conflict with the code generated, leading to considerable testing / fixing overhead
+- High consumption of budget required for developing two native apps
+- Other general performance issues especially on Android handsets
+- Ambiguity in understanding if it is the developer’s code or the framework’s code that contains an issue
+- The above means development tools and code themselves contain bugs that have to be overcome. This might be beyond the capabilities of a typical web-developer.
+- Myth that because websites are easy then using web-tech to make apps should be easy. This is only true from the perspective of a web developer who would need to learn how to properly code software to create an app. For software developers, native applications are faster to create and deploy.
 
-(We also wrote about how to choose software developers in another article.)
+(We also wrote about how to choose [software developers](http://blog.enabled.com.au/hiring-devs-dos-donts/) in another article.)
 
 Apart from first-hand experience of these issues, other apps developed with these frameworks all share similar app store reviews with words like buggy, slow, laggy, and unintuitive.
 
 Unfortunately, these faults may be small, but reviews featuring lists of faults are more prominent than those discussing the features of the App.
 
-3. Native and Native Hybrid (or Hybrid Mixed) 
+## 3. Native and Native Hybrid (or Hybrid Mixed) 
+
 A native app means it has been coded in a language that is natively provided by the two platforms.
 On iOS, this would be coded with Objective C or Swift and on Android, Java. This gives app developers considerably more control with the user experience and also allows them to design the apps for easy support and extendibility.
-Note: coding an app natively does not remove the opportunity to leverage web content loaded from a web-server. An app that does this is considered a Native Hybrid (or Hybrid Mixed).
-In reality, many of the apps developed at Enabled are automatically considered native hybrid. We use the native components where speed and responsiveness is most important, e.g. navigational elements. Then we display web content in web views when motion and interactivity is minimal, or that content management is important. 
-Web views that can be loaded into an app are not just limited to content. HTML5 / Javascript applications can be deployed via a web server and displayed within the app. 
-The award-winning Clipsal iCat App developed by Enabled has a web-based management system that allows both Enabled and Clipsal’s internal teams to create simple HTML apps and add these to the native navigation of the App. 
 
-Clipsal iCat app
+Note: coding an app natively does not remove the opportunity to leverage web content loaded from a web-server. An app that does this is considered a Native Hybrid (or Hybrid Mixed).
+
+In reality, many of the apps developed at Enabled are automatically considered native hybrid. We use the native components where speed and responsiveness is most important, e.g. navigational elements. Then we display web content in web views when motion and interactivity is minimal, or that content management is important. 
+
+Web views that can be loaded into an app are not just limited to content. HTML5 / Javascript applications can be deployed via a web server and displayed within the app. 
+
+The award-winning [Clipsal iCat](http://enabled.com.au/sidestudy/clipsal-icat) App developed by Enabled has a web-based management system that allows both Enabled and Clipsal’s internal teams to create simple HTML apps and add these to the native navigation of the App. 
+
+![clipsal icat app]({{site.baseurl}}/images/img_native_icat.jpg)
+*Clipsal iCat app*
+
 The app can thus be quickly extended functionally outside of the Apple App Store review process. Should these functions become popular, they can be recreated as native components to deliver an enhanced user experience.
+
 In short, a native approach will better allow any future extension and place the app in an excellent position to take advantage of new features offered by Apple and Android.
-The curious case of React Native
+
+## The curious case of React Native
+
 The development framework built and mostly maintained by Facebook has gained traction in recent years. Essentially, it allows developers familiar with the web language (Javascript) to build a mobile app that has a native feel. 
+
 You can also drop native code in the app if needed. Some big names using this framework are Facebook (obviously), Instagram, Walmart, Airbnb. 
+
 Sounds good so far, so what’s the catch?
-As it uses Javascript, React Native inherits the headache caused by this language too. Other issues are:
-Constant updates required, as React Native is relatively new
-Lower performance and efficiency than native frameworks
-More work if the app needs to take advantage of native components (also mentioned in the next section)
-Other advantages of native apps over web apps (or language)
-Coding frameworks
+
+As it uses Javascript, [React Native](https://techathlon.com/limitations-drawbacks-license-patent-issues-react-native-hybrid-mobile/) inherits the headache caused by this language too. Other issues are:
+
+- Constant updates required, as React Native is relatively new
+- Lower performance and efficiency than native frameworks
+- More work if the app needs to take advantage of native components (also mentioned in the next section)
+- Other advantages of native apps over web apps (or language)
+
+## Coding frameworks
+
 An important consideration is that non-native tools were never created to make the best apps. They were created to try and save writing code twice, but most have been created to allow a larger population of people to make apps. Thus, a majority of non-native apps may be poor because these tools are the choice of less sophisticated developers, whose skills shortfall leads to lacklustre result.
 A lot of success in mobile today is about removing small pieces of friction that have little impact in theory, but in reality make a huge difference. Not just in the software itself, but also in the activities that these apps support.
 Introducing a 3rd party non-native development framework decreases our likelihood of eliminating these small pieces of friction. On the contrary, new points of friction will actually be introduced.

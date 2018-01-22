@@ -10,6 +10,12 @@ author:
   - grant
 hero-banner: /images/Blog_Header_native.png
 image: /images/img_native_thumb.png
+meta-keywords: >-
+  Mobile app development, native apps, mobile native apps, hybrid apps, web
+  apps, native vs hybrid apps, native vs hybrid vs web apps, difference between
+  native and hybrid apps, why native apps are better, why native apps, react
+  native apps, mobile developer, hybrid web apps, native hybrid app, android ios
+  apps, ios native apps, android native apps
 ---
 Over the past two decades or so, people have gone from “How do I build a website?” to “How do I develop a mobile app?” or “Should I have a website or a mobile app?”
 

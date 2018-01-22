@@ -144,28 +144,47 @@ As it uses Javascript, [React Native](https://techathlon.com/limitations-drawbac
 ## Coding frameworks
 
 An important consideration is that non-native tools were never created to make the best apps. They were created to try and save writing code twice, but most have been created to allow a larger population of people to make apps. Thus, a majority of non-native apps may be poor because these tools are the choice of less sophisticated developers, whose skills shortfall leads to lacklustre result.
+
 A lot of success in mobile today is about removing small pieces of friction that have little impact in theory, but in reality make a huge difference. Not just in the software itself, but also in the activities that these apps support.
+
 Introducing a 3rd party non-native development framework decreases our likelihood of eliminating these small pieces of friction. On the contrary, new points of friction will actually be introduced.
-User Experience
+
+## User Experience
+
 Technical and functionality shortcomings aside, non-native apps cannot compete on responsiveness and user experience.
+
 Without spending a considerable amount of effort in testing and optimisation, an app using web-tech is simply no match for a natively coded app offering superior experience.
+
 We expect the computing power in smartphones and development tools will improve over time and become capable of delivering better experiences. We will continue to trial these technologies to determine use cases for them.
+
 Over the next few years, we expect the opportunities with native apps will continue to stay several steps ahead those of web-tech.
+
 Currently, there are many aspects only possible with a native approach. 
+
 Apple, in particular, has a vested interest to ensure experiences offered on its platform are the best possible. They therefore incentivise the construction of Native apps by providing new features that are not available through web-tech options. These currently include and are likely to include:
-·   	Apple Watch extensions and applications
-·   	Integration with Siri voice activation allowing functions of apps to be accessed without opening apps
-·   	Deep app indexing and interactivity between apps
-·   	Custom Integration with Apple Pay
-·   	Apple CarPlay considerations (rumours of Apple Cars themselves, of course in the more distant future)
+
+- Apple Watch extensions and applications
+- Integration with Siri voice activation allowing functions of apps to be accessed without opening apps
+- Deep app indexing and interactivity between apps
+- Custom Integration with Apple Pay
+- Apple CarPlay considerations (rumours of Apple Cars themselves, of course in the more distant future)
+
+![img_native_icatwatch.gif]({{site.baseurl}}/images/img_native_icatwatch.gif)
+*Clipsal iCat Apple Watch app concept*
 
 Android has a similar situation. Akin to the Apple Watch is Android Wear which requires native code, but also Android widgets are native extensions that place content directly on the home screen. Widgets can be used to display key information, which a user can see without even opening the app.
-Maintainability
+
+## Maintainability
+
 Apple is continuously improving its hardware, and both Apple and Android will enhance their operating systems and coding environments, with a major release at least every 2 years.
 An app once developed must be maintained to keep up with these hardware and operating system changes. This could include fixing bugs and creating enhancements to take advantage of new features on offer.
 Dealing with a middle web-tech frameworks is another layer that needs to be maintained. Often, updates to these frameworks by the communities that maintain them lag behind Apple and Android, causing durations of poor function, or additional development work to fix the frameworks or establish workarounds.
 The true software environments of Swift and Java also require that better code be written. Better code means less technical debt will build up over time, automatically making it simpler to update and extend. 
-In summary
+
+# In summary
+
 An app that does not capture the imagination of a first-time user is unlikely to regain traction with that same user in the future.
+
 With this in mind, our imperative is to build great experiences at all costs because not doing this could cost the whole project.
-Enabled’s recommendation thus remains a Native approach. Follow the link to see examples of our mobile app development work.
+
+Enabled’s recommendation thus remains a Native approach. Follow the link to see examples of our [mobile app development](https://enabled.com.au/ourwork) work.

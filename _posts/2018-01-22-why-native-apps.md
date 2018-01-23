@@ -131,7 +131,7 @@ Unfortunately, these faults may be small, but reviews featuring lists of faults 
 A native app means it has been coded in a language that is natively provided by the two platforms.
 On iOS, this would be coded with Objective C or Swift and on Android, Java. This gives app developers considerably more control with the user experience and also allows them to design the apps for easy support and extendibility.
 
-Note: coding an app natively does not remove the opportunity to leverage web content loaded from a web-server. An app that does this is considered a Native Hybrid (or Hybrid Mixed).
+**Note:** coding an app natively does not remove the opportunity to leverage web content loaded from a web-server. An app that does this is considered a Native Hybrid (or _Hybrid Mixed_).
 
 In reality, many of the apps developed at Enabled are automatically considered native hybrid. We use the native components where speed and responsiveness is most important, e.g. navigational elements. Then we display web content in web views when motion and interactivity is minimal, or that content management is important. 
 

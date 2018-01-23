@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-01-22 16:54 +1030'
-published: false
+published: true
 title: 'Why Native Apps Are Superior '
 main-category: technology
 categories:

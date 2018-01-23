@@ -16,6 +16,10 @@ meta-keywords: >-
   native and hybrid apps, why native apps are better, why native apps, react
   native apps, mobile developer, hybrid web apps, native hybrid app, android ios
   apps, ios native apps, android native apps, apps vs websites
+meta-description: >-
+  Learn the definitions & differences between native vs hybrid vs web apps vs
+  websites. Native apps built true to the mobile platform are better. Here’s
+  why.
 ---
 Over the past two decades or so, people have gone from “How do I build a website?” to “How do I develop a mobile app?” or “Should I have a website or a mobile app?”
 

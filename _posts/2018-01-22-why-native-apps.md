@@ -159,7 +159,8 @@ As it uses Javascript, [React Native](https://techathlon.com/limitations-drawbac
 - Constant updates required, as React Native is relatively new
 - Lower performance and efficiency than native frameworks
 - More work if the app needs to take advantage of native components (also mentioned in the next section)
-- Other advantages of native apps over web apps (or language)
+
+# Other advantages of native apps over web apps (or language)
 
 ## Coding frameworks
 

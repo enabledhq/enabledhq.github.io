@@ -198,8 +198,11 @@ Android has a similar situation. Akin to the Apple Watch is Android Wear which r
 ## Maintainability
 
 Apple is continuously improving its hardware, and both Apple and Android will enhance their operating systems and coding environments, with a major release at least every 2 years.
+
 An app once developed must be maintained to keep up with these hardware and operating system changes. This could include fixing bugs and creating enhancements to take advantage of new features on offer.
+
 Dealing with a middle web-tech frameworks is another layer that needs to be maintained. Often, updates to these frameworks by the communities that maintain them lag behind Apple and Android, causing durations of poor function, or additional development work to fix the frameworks or establish workarounds.
+
 The true software environments of Swift and Java also require that better code be written. Better code means less technical debt will build up over time, automatically making it simpler to update and extend. 
 
 # In summary

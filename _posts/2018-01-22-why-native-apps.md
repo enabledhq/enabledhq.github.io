@@ -2,7 +2,7 @@
 layout: post
 date: '2018-01-22 16:54 +1030'
 published: true
-title: 'Why Native Apps Are Superior '
+title: Why Native Apps Are Better Than Web Apps
 main-category: technology
 categories:
   - technology

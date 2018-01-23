@@ -166,7 +166,9 @@ As it uses Javascript, [React Native](https://techathlon.com/limitations-drawbac
 
 ## Coding frameworks
 
-An important consideration is that non-native tools were never created to make the best apps. They were created to try and save writing code twice, but most have been created to allow a larger population of people to make apps. Thus, a majority of non-native apps may be poor because these tools are the choice of less sophisticated developers, whose skills shortfall leads to lacklustre result.
+An important consideration is that non-native tools were never created to make the best apps. They were created to try and save writing code twice, but most have been created to allow a larger population of people to make apps. 
+
+Thus, a majority of non-native apps may be poor because these tools are the choice of less sophisticated developers, whose skills shortfall leads to lacklustre result.
 
 A lot of success in mobile today is about removing small pieces of friction that have little impact in theory, but in reality make a huge difference. Not just in the software itself, but also in the activities that these apps support.
 

@@ -56,7 +56,7 @@ For simplicity purposes, there are three major options for providing functionali
 
 These are:
 
-1. A website which is responsive or formatted for mobile, serving content from the Internet accessed via a browser on the mobile phone.
+1. A [website](https://web.enabled.com.au) which is responsive or formatted for mobile, serving content from the Internet accessed via a browser on the mobile phone.
 1. An application developed using a web technology layer such as HTML, CSS and Javascript that is downloaded as an App to the phone (e.g. PhoneGap, Cordova). Usually this web-tech layer still needs to talk to the native layer provided by the operating System.
 1. Natively Coded applications (Native), in the case of iOS in Swift and Android most likely Java, which is downloaded as an App to the phone.
 

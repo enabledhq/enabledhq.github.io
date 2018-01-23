@@ -174,7 +174,7 @@ A lot of success in mobile today is about removing small pieces of friction that
 
 Introducing a 3rd party non-native development framework decreases our likelihood of eliminating these small pieces of friction. On the contrary, new points of friction will actually be introduced.
 
-The app we built for [BrewArt](https://enabled.com.au/casestudy-BrewArt) - the world’s first fully automated beer brewing machine - is an example. For an Internet of Things app that needs to talk to a piece of hardware, imagine the friction and pain it would have created had the app been created with a non-native language. 
+The app we built for [BrewArt](https://enabled.com.au/casestudy-BrewArt) - the world’s first fully automated beer brewing machine - is an example. For an Internet of Things app that needs to talk to a piece of hardware, imagine the friction and pain it would have created had the app been built in a non-native language. 
 
 ![BrewArt app ]({{site.baseurl}}/images/img_native_bart.png)
 *Screens of BrewArt - the Internet of Things app*

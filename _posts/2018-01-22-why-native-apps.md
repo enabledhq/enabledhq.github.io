@@ -62,7 +62,7 @@ These are:
 
 If you want to get specific, there are a number of options along the spectrum Web-Native, as shown in the graph below.
 
-A Hybrid Mixed (sometimes called Native Hybrid) app is usually a combination of 1 and 3, or 2 and 3, where code written for the device and some content or functionality is loaded into the app from a web server.
+A Hybrid Mixed (sometimes called _Native Hybrid_) app is usually a combination of 1 and 3, or 2 and 3, where code written for the device and some content or functionality is loaded into the app from a web server.
 
 Option 2 points to a Hybrid Web or Packaged Hybrid app, i.e. a true app but one predominantly coded with a non-native framework or language.
 
@@ -77,7 +77,7 @@ Rather, Enabled’s core philosophy is to understand what a user is trying to ac
 
 Therefore, it is prudent for Enabled to recognise that any existing website may already provide a mobile-friendly format with many functions desired in an app. 
 
-The question then is: What benefits does an app bring that a mobile-enabled website cannot? The logical answer would be activities enhanced by being mobile e.g. for a user on the move. 
+**The question then is**: What benefits does an app bring that a mobile-enabled website cannot? The logical answer would be activities enhanced by being mobile e.g. for a user on the move. 
 
 Logging in to a website to periodically check requires diligence. An icon on a mobile phone screen would encourage more frequent engagement. Providing gentle reminders via badge icons or more explicit alerts via push notifications provides additional encouragement. Gaining attention of the user while out and about via a push message is also an enhanced feature not possible with a website. 
 
@@ -98,9 +98,9 @@ Using a framework like Cordova allows JavaScript to be used to build actual apps
 
 In the recent past, Enabled has built apps with such frameworks with moderate success. One of them was even a fast-paced promotional game for Clipsal. 
 
-Success is a subjective term, because although these apps were functional, the limitations of the framework caused these apps to fall short of our vision and short of the standards we usually expect from our work. Moreover, the Clipsal game consumed the same budget that would have been required to construct two native apps, one for each platform.
+Success is a subjective term, because although these apps were functional, the limitations of the framework caused these apps to fall short of our vision and short of the standards we usually expect from our work. Moreover, the Clipsal game consumed the **same** budget that would have been required to construct two native apps, one for each platform.
 
-In our experience, most of these frameworks easily allow you to reach 80% of the desired functionality, though the remaining 20% often requires much more than its fair share of the budget. 
+In our experience, most of these frameworks easily allow you to reach **80%** of the desired functionality, though the remaining **20%** often requires much more than its fair share of the budget. 
 
 Unfortunately, some of these difficulties are hard to foresee until they are stumbled upon. Most are related to getting these cross-platform frameworks working consistently on all of the different devices and operating systems.
 
@@ -133,7 +133,9 @@ On iOS, this would be coded with Objective C or Swift and on Android, Java. This
 
 **Note:** coding an app natively does not remove the opportunity to leverage web content loaded from a web-server. An app that does this is considered a Native Hybrid (or _Hybrid Mixed_).
 
-In reality, many of the apps developed at Enabled are automatically considered native hybrid. We use the native components where speed and responsiveness is most important, e.g. navigational elements. Then we display web content in web views when motion and interactivity is minimal, or that content management is important. 
+In reality, many of the apps developed at Enabled are automatically considered native hybrid. 
+
+We use the native components where speed and responsiveness is most important, e.g. navigational elements. Then we display web content in web views when motion and interactivity is minimal, or that content management is important. 
 
 Web views that can be loaded into an app are not just limited to content. HTML5 / Javascript applications can be deployed via a web server and displayed within the app. 
 
@@ -182,7 +184,7 @@ Over the next few years, we expect the opportunities with native apps will conti
 
 Currently, there are many aspects only possible with a native approach. 
 
-Apple, in particular, has a vested interest to ensure experiences offered on its platform are the best possible. They therefore incentivise the construction of Native apps by providing new features that are not available through web-tech options. These currently include and are likely to include:
+**Apple**, in particular, has a vested interest to ensure experiences offered on its platform are the best possible. They therefore incentivise the construction of Native apps by providing new features that are not available through web-tech options. These currently include and are likely to include:
 
 - Apple Watch extensions and applications
 - Integration with Siri voice activation allowing functions of apps to be accessed without opening apps
@@ -193,7 +195,7 @@ Apple, in particular, has a vested interest to ensure experiences offered on its
 ![img_native_icatwatch.gif]({{site.baseurl}}/images/img_native_icatwatch.gif)
 *Clipsal iCat Apple Watch app concept*
 
-Android has a similar situation. Akin to the Apple Watch is Android Wear which requires native code, but also Android widgets are native extensions that place content directly on the home screen. Widgets can be used to display key information, which a user can see without even opening the app.
+**Android** has a similar situation. Akin to the Apple Watch is Android Wear which requires native code, but also Android widgets are native extensions that place content directly on the home screen. Widgets can be used to display key information, which a user can see without even opening the app.
 
 ## Maintainability
 
@@ -203,7 +205,7 @@ An app once developed must be maintained to keep up with these hardware and oper
 
 Dealing with a middle web-tech frameworks is another layer that needs to be maintained. Often, updates to these frameworks by the communities that maintain them lag behind Apple and Android, causing durations of poor function, or additional development work to fix the frameworks or establish workarounds.
 
-The true software environments of Swift and Java also require that better code be written. Better code means less technical debt will build up over time, automatically making it simpler to update and extend. 
+The true software environments of Swift and Java also require that better code be written. Better code means **less** technical debt will build up over time, automatically making it simpler to update and extend. 
 
 # In summary
 

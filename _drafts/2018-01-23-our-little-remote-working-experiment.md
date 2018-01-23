@@ -35,7 +35,7 @@ For some reason, I also found meetings (especially internal meetings) to be more
 
 I love a good post lunch nap, but for some reason back home, everybody seems to laugh at my siesta habit, despite how much more productive I feel afterwards. In the Phillipines, there is no such stigma, perhaps siestas - like fried chicken and basketball - are in the very DNA of the Filipino people.
 
-### What sucked:
+### What didn't go so great:
 
 I often felt a little disconnected from the social aspects of working on a team. While calls and instant messages can fill this gap somewhat - there's nothing quite like sitting down and sharing lunch together as a team.
 

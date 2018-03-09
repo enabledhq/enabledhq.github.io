@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-01-31 12:21 +1030'
-published: false
+published: true
 title: 'January News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in January 2018: roundup of news on technology,
@@ -73,6 +73,3 @@ Read the breakdown of input and output metrics, and the importance of measuring 
 🚗  [Self-parking slippers](http://bgr.com/2018/01/28/nissan-self-parking-slippers-hotel-japan/) surprised hotel guests in Japan. Nissan has applied self-driving tech to various items before including office chairs.
 
 💰 A few weird [cryptocurrencies](https://mashable.com/2018/01/29/crazy-cryptocurrencies/#F6LlfhsEwaqs) out there that you didn't know existed. Now we have Bananacoin and Trumpcoin.
-
-
-

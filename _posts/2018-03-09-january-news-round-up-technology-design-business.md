@@ -44,43 +44,35 @@ The first [Amazon Go](https://www.nytimes.com/2018/01/21/technology/inside-amazo
 
 Some are skeptical about how this works for Amazon (reports of [accidental stealing](https://www.independent.co.uk/life-style/amazon-go-supermarket-no-checkouts-shoplift-accident-journalist-review-deirdre-bosa-a8174481.html)), or for millions of cashier jobs. Meanwhile, Amazon is marching on with their vertical and horizontal [integration strategies](https://stratechery.com/2018/amazons-go-and-the-future/).
 
-## From a tool to an ecosystem
+## A 100-year view of User Experience (UX)
 
-Shopify grew from a tool to a platform to an [ecosystem](https://producthabits.com/shopify-grew-snowboard-shop-10b-commerce-ecosystem/). How? Constant innovation & investment in new tech to delight users. They've strengthened their core offering and evolved in the e-commerce space. 
+Over 3 junctures, UX as a field has grown and is predicted to grow. More UX jobs, more companies needing UX, more countries [doing UX](https://www.nngroup.com/articles/100-years-ux/). Will 1% of the world's population work in UX by 2050?
 
-This reminds us of the [iCat app](http://enabled.com.au/sidestudy/clipsal-icat)'s evolution that we've been working on with our client [Clipsal](https://enabled.com.au/casestudy-Clipsal).
+## Long read: Beyond the Bitcoin bubble
 
-## Long read: Build an unforgettable first-time user experience
+First we had the early Internet era with open protocols. Then, we have closed architectures and proprietary databases with the likes of Facebook and Google. Now, Bitcoin and the underlying [blockchain tech](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html) signal a treacherous route back to the open-protocol era.
 
-Earn the right to more of your users' time by taking a human-centred approach.  Make them feel inspired, and deliver a thoughtful, [well-crafted experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2). It really pays off. 
+## Up and coming consumer tech developments
 
-## The software architecture that powers Netflix
+An overview of this year's International [Consumer Electronics Show](https://medium.learningbyshipping.com/ces2018-24dd69ab5ffe) (CES), featuring new stuff in voice, smart home, cars, displays, mobile, health & more. How about a car that can read your [brain waves](https://www.bloomberg.com/news/articles/2018-01-03/brain-waves-will-make-nissan-s-car-of-the-future-a-better-ride)?
 
-The (hugely simplified) complex stuff that happens every time you hit Play - Or the significance of [Cloud and Microservices](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b) in running a platform like Netflix, even if that means using rival Amazon's AWS cloud services. 
+![CES 2018]({{site.baseurl}}/images/img_jan_ces.gif)
 
-![netflix cloud microservies]({{site.baseurl}}/images/img_nov_netflix.png)
+# Handy business tips
+
+## What makes up User Experience
+
+Learn about the different components within [User Experience](https://www.interaction-design.org/literature/article/key-question-in-user-experience-design-usability-vs-desirability): Utility, Usability, Desirability, Brand Experience.
+
+## Why a north star metric might be harmful
+
+Read the breakdown of input and output metrics, and the importance of measuring multiple [business dimensions](https://www.reforge.com/blog/north-star-metric-growth) with real life examples.
 
 # Weird & wonderful
 
-🚗 Automaker allows people to pay for brand new cars with [Youtube views](http://creativity-online.com/work/opel-pay-with-views/53174) of videos they uploaded of test drives.  
+🚗  [Self-parking slippers](http://bgr.com/2018/01/28/nissan-self-parking-slippers-hotel-japan/) surprised hotel guests in Japan. Nissan has applied self-driving tech to various items before including office chairs.
 
-💻 Dictionary of [online behaviour](http://dictionaryofonlinebehavior.com/), including "instameet" and "pinboast." Know anyone who's committed these? 
+💰 A few weird [cryptocurrencies](https://mashable.com/2018/01/29/crazy-cryptocurrencies/#F6LlfhsEwaqs) out there that you didn't know existed. Now we have Bananacoin and Trumpcoin.
 
-# Inside Enabled
 
-## Enabled at eChallenge Gala Dinner
-
-As a Gold Sponsor of the University of Adelaide's [eChallenge](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=730924850441552), Enabled attended the event to celebrate the start of budding South Australian startups.
-
-CEO Grant Hull also presented the award to the winners of the Tech eChallenge program, which Enabled and Microsoft ran for the uni.
-
-![tech challenge sponsor]({{site.baseurl}}/images/img_nov_echallenge.jpg)
- *Enabled CEO and COO at the eChallenge Gala Dinner. See more on our [Facebook page](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=730924850441552)*
-
-## Team Day
-
-The inaugural [Enabled Team Day](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=723984437802260) was a chance for us to hone in on our collective focus, including future direction, financial transparency, workshopping concerns. We also unveiled our culture book!
-
-![enabled team day]({{site.baseurl}}/images/img_nov_teamday.jpg)
-*More photos on our [Facebook](https://www.facebook.com/pg/EnabledHQ/photos/?tab=album&album_id=723984437802260) page*
 

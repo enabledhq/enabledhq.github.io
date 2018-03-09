@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-02-28 14:29 +1030'
-published: false
+published: true
 title: 'February News Round-up: Technology, Design, Business '
 author:
   - linh

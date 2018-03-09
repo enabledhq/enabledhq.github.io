@@ -53,25 +53,24 @@ We're not good at predicting the future. Lessons from analysing [Gartner's hype 
 
 From imitation to innovation, China has become a tech superpower, slowly changing from "Made in China" to "[Designed in China](http://www.wired.co.uk/article/how-china-became-tech-superpower-took-over-the-west?)." Even Western companies are copying China more. What an entrepreneurial spirit!
 
-## Up and coming consumer tech developments
+## AR Emoji vs. Animoji
 
-An overview of this year's International [Consumer Electronics Show](https://medium.learningbyshipping.com/ces2018-24dd69ab5ffe) (CES), featuring new stuff in voice, smart home, cars, displays, mobile, health & more. How about a car that can read your [brain waves](https://www.bloomberg.com/news/articles/2018-01-03/brain-waves-will-make-nissan-s-car-of-the-future-a-better-ride)?
+Samsung's upcoming Galaxy S9 features AR emojis — using Augmented Reality and a still pic of you to create a cartoon version of yourself. 
 
-![CES 2018]({{site.baseurl}}/images/img_jan_ces.gif)
+The earlier iPhone X's Animojis meanwhile use the phone's depth-sensing camera to inject yourself into popular emojis. Which one do you prefer?  
 
 # Handy business tips
 
-## What makes up User Experience
+## User testing recruitment
 
-Learn about the different components within [User Experience](https://www.interaction-design.org/literature/article/key-question-in-user-experience-design-usability-vs-desirability): Utility, Usability, Desirability, Brand Experience.
+What's the right way to recruit [user test participants](https://uxdesign.cc/why-are-you-still-recruiting-user-test-participants-by-gender-ed21ec6cff61) today? Not based on gender. Use psychographic & behavioural segmentation. 
 
-## Why a north star metric might be harmful
+## Design is not just about graphics 
 
-Read the breakdown of input and output metrics, and the importance of measuring multiple [business dimensions](https://www.reforge.com/blog/north-star-metric-growth) with real life examples.
+Thus Design Management falls into various disciplines, e.g. product, service, engineering. The bottom line is [design management](https://www.interaction-design.org/literature/article/design-management-an-introduction-taking-charge-of-processes-and-people?) helps you innovate.
 
 # Weird & wonderful
 
 🚗  [Self-parking slippers](http://bgr.com/2018/01/28/nissan-self-parking-slippers-hotel-japan/) surprised hotel guests in Japan. Nissan has applied self-driving tech to various items before including office chairs.
 
 💰 A few weird [cryptocurrencies](https://mashable.com/2018/01/29/crazy-cryptocurrencies/#F6LlfhsEwaqs) out there that you didn't know existed. Now we have Bananacoin and Trumpcoin.
-

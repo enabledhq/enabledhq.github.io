@@ -3,6 +3,23 @@ layout: post
 date: '2018-03-09 12:21 +1030'
 published: false
 title: 'January News Round-up: Technology, Design, Business '
+description: >-
+  What’s been happening in January 2018: roundup of news on technology,
+  innovation, business, design and inside Enabled.
+meta-description: >-
+  What’s been happening in January 2018: roundup of news on technology,
+  innovation, business, design and inside Enabled.
+excerpt: >-
+  What’s been happening in January 2018: roundup of news on technology,
+  innovation, business, design and inside Enabled.
+What’s been happening in January 2018: >-
+  roundup of news on technology, innovation, business, design and inside
+  Enabled.
+author:
+  - linh
+main-category: news
+categories:
+  - news
 ---
 A hand-picked selection of news and articles worth reading this month.
 

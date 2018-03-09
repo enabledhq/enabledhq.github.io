@@ -57,6 +57,8 @@ From imitation to innovation, China has become a tech superpower, slowly changin
 
 Samsung's upcoming Galaxy S9 features AR emojis — using Augmented Reality and a still pic of you to create a cartoon version of yourself. 
 
+![samsung galaxy s9 AR emoji ]({{site.baseurl}}/images/img_feb_s9.gif)
+
 The earlier iPhone X's Animojis meanwhile use the phone's depth-sensing camera to inject yourself into popular emojis. Which one do you prefer?  
 
 # Handy business tips

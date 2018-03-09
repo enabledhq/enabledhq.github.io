@@ -20,6 +20,11 @@ author:
 main-category: news
 categories:
   - news
+meta-keywords: >-
+  technology, innovation, business, design, UX, enabled, enabled adelaide, tech
+  news, innovation news, design news, UX news, business news
+hero-banner: /images/Blog_header_june.png
+image: /images/img_august_thumb.png
 ---
 A hand-picked selection of news and articles worth reading this month.
 

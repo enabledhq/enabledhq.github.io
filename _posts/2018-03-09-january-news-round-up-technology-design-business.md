@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2018-03-09 12:21 +1030'
+date: '2018-01-31 12:21 +1030'
 published: false
 title: 'January News Round-up: Technology, Design, Business '
 description: >-
@@ -32,16 +32,17 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## Tesla's next shiny things
+## Amazon Go and cashier-less store
 
-The company generated a lot of buzz with the recent announcement of:
+The first [Amazon Go](https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html) opened in Seattle. Is this the future of grocery shopping? 
 
-- The 2nd generation [Roadster](https://www.theverge.com/2017/11/17/16655800/tesla-electric-semi-truck-roadster-recap-elon-musk) that goes from 0 to 100kph in 1.9 secs
-- The Semi truck with enhanced Auto Pilot
+- No checkout lines, just grab the items and go
+- How? Hundreds of cameras and sensors pair your selection to your Amazon account
 
-![tesla roadster 2]({{site.baseurl}}/images/img_nov_roadster.jpg)
+![amazon go store]({{site.baseurl}}/images/img_jan_amazongo.jpg)
+*Amazon Go store*
 
-With production problems of their other car models, many have questioned Tesla's [long-term](https://seekingalpha.com/article/4122890-tesla-approaches-terminal-decline?) viability. Yet some praise Tesla's vision and point to their high [valuation](https://thinkgrowth.org/tesla-how-to-lose-700-million-and-maintain-a-60-billion-valuation-107e777b530).
+Some are skeptical about how this works for Amazon (reports of [accidental stealing](https://www.independent.co.uk/life-style/amazon-go-supermarket-no-checkouts-shoplift-accident-journalist-review-deirdre-bosa-a8174481.html)), or for millions of cashier jobs. Meanwhile, Amazon is marching on with their vertical and horizontal [integration strategies](https://stratechery.com/2018/amazons-go-and-the-future/).
 
 ## From a tool to an ecosystem
 

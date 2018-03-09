@@ -43,13 +43,15 @@ SpaceX launched the [Falcon Heavy](https://www.theverge.com/2018/2/6/16971200/sp
 
 Amid all the buzz, this marks Elon Musk's latest attempt to [disrupt an industry](https://www.cbinsights.com/research/report/elon-musk-companies-disruption/). Besides literally shooting for the stars, Elon's other companies such as Tesla are going after eight industries. 
 
-## A 100-year view of User Experience (UX)
+## The hype about Hype Cycles
 
-Over 3 junctures, UX as a field has grown and is predicted to grow. More UX jobs, more companies needing UX, more countries [doing UX](https://www.nngroup.com/articles/100-years-ux/). Will 1% of the world's population work in UX by 2050?
+We're not good at predicting the future. Lessons from analysing [Gartner's hype cycles](https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany/): some tech never made it to main stream, some flew under the radar... but it's still an exciting journey in the tech world.
 
-## Long read: Beyond the Bitcoin bubble
+![gartner hype cycle analysis]({{site.baseurl}}/images/img_feb_hype.png)
 
-First we had the early Internet era with open protocols. Then, we have closed architectures and proprietary databases with the likes of Facebook and Google. Now, Bitcoin and the underlying [blockchain tech](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html) signal a treacherous route back to the open-protocol era.
+## Long read: Emerging China 
+
+From imitation to innovation, China has become a tech superpower, slowly changing from "Made in China" to "[Designed in China](http://www.wired.co.uk/article/how-china-became-tech-superpower-took-over-the-west?)." Even Western companies are copying China more. What an entrepreneurial spirit!
 
 ## Up and coming consumer tech developments
 

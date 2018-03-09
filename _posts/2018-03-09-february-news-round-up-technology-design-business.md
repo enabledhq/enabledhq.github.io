@@ -61,6 +61,8 @@ Samsung's upcoming Galaxy S9 features AR emojis — using Augmented Reality and 
 
 The earlier iPhone X's Animojis meanwhile use the phone's depth-sensing camera to inject yourself into popular emojis. Which one do you prefer?  
 
+![iPhone X animoji ]({{site.baseurl}}/images/img_feb_animoji.gif)
+
 # Handy business tips
 
 ## User testing recruitment

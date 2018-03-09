@@ -32,17 +32,16 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## Amazon Go and cashier-less store
+## The game-changing rocket launch
 
-The first [Amazon Go](https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html) opened in Seattle. Is this the future of grocery shopping? 
+SpaceX launched the [Falcon Heavy](https://www.theverge.com/2018/2/6/16971200/spacex-falcon-heavy-launch-success-roadster-orbit-elon-musk) rocket into space, carrying with it a Tesla Roadster. Some highlights:
 
-- No checkout lines, just grab the items and go
-- How? Hundreds of cameras and sensors pair your selection to your Amazon account
+- The Falcon Heavy is now the world's most powerful rocket 
+- The launch's live stream made it [YouTube](https://www.theverge.com/2018/2/6/16981730/spacex-falcon-heavy-launch-youtube-live-stream-record)'s second biggest live stream event
 
-![amazon go store]({{site.baseurl}}/images/img_jan_amazongo.jpg)
-*Amazon Go store*
+![falcon heavy rocket]({{site.baseurl}}/images/img_feb_spacex.jpg)
 
-Some are skeptical about how this works for Amazon (reports of [accidental stealing](https://www.independent.co.uk/life-style/amazon-go-supermarket-no-checkouts-shoplift-accident-journalist-review-deirdre-bosa-a8174481.html)), or for millions of cashier jobs. Meanwhile, Amazon is marching on with their vertical and horizontal [integration strategies](https://stratechery.com/2018/amazons-go-and-the-future/).
+Amid all the buzz, this marks Elon Musk's latest attempt to [disrupt an industry](https://www.cbinsights.com/research/report/elon-musk-companies-disruption/). Besides literally shooting for the stars, Elon's other companies such as Tesla are going after eight industries. 
 
 ## A 100-year view of User Experience (UX)
 

@@ -64,7 +64,7 @@ It would be interesting to see how these brands thrive amid a retail crisis by e
 
 A website popup asks you to sign up for a newsletter, with the options "Yes" and "No, I'd prefer to be miserable." Don't use this [dark pattern](https://medium.com/@rizwanjavaid/shaming-users-is-a-horrible-idea-c2277c86c062). 
 
-**How to "use" your boss **
+**How to "use" your boss**
 
 This company has a [user guide](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) for employees on how to "use" their leader, which communicates clear expectations and the leader's working style. 
 

@@ -25,6 +25,7 @@ image: /images/img_august_thumb.png
 What’s been happening in March 2018: >-
   roundup of news on technology, innovation, business, design and inside
   Enabled.
+short-link: goo.gl/gSC4Q6
 ---
 A hand-picked selection of news and articles worth reading this month.
 

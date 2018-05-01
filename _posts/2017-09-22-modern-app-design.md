@@ -57,7 +57,7 @@ So here are some simple, yet informative rules for the modern mobile app designe
 
 # Don’t hide features behind gestures
  
-In a multi-touch user interface (UI), many apps choose to hide features behind gestures, such as a long-press or two-finger-tap. It’s fine to use gestures like this to trigger features, but always make sure those features are also accessible with a visible control.
+In a multi-touch user interface (UI), many apps hide features behind gestures, such as a long-press or two-finger-tap. It’s fine to use gestures like this to trigger features, but always make sure those features are also accessible with a visible control.
 
 Your UI is the only way for you to inform your users about features. If you don’t have a visible control for your feature then it might as well not exist.
 

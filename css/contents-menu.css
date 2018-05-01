@@ -1,0 +1,128 @@
+/*
+  styling to be used with contents menu script
+*/
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.floating-contents-container {
+  position: absolute;
+  left: 0;
+  right: 0px;
+  z-index: 1000;
+  top: 740px;
+}
+
+.floating-contents-menu {
+  position: absolute;
+  right: 20px;
+  background: 40px;
+  z-index: 50;
+  background: #fff;
+  max-width: 300px;
+  width: 400px;
+  transition: transform 300ms, opacity 300ms;
+
+  position: absolute;
+  top: 20px;
+  animation: fade-in 400ms;
+  padding-bottom: 10px;
+}
+
+.show-hide-header {
+  position: absolute;
+  right: 20px;
+  background: 40px;
+  background: #fff;
+  top: 20px;
+  box-sizing: border-box;
+  width: 300px;
+  transition: width 200ms, font-size 200ms;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 100;
+  font-size: 32px;
+}
+
+.show-hide-header .plus-icon {
+  display: none;
+}
+
+.show-hide-header .minus-icon {
+  display: inline;
+}
+
+.floating-contents-menu h3 {
+  font-size: 18px;
+}
+
+.show-hide-header, .floating-contents-menu h3, .floating-contents-menu h2 {
+  padding: 8px 26px;
+  margin: 0;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.show-hide-header:hover, .floating-contents-menu h3:hover {
+  opacity: 0.7;
+}    
+
+body.contents-hidden .show-hide-header {
+  width: 180px;
+  font-size: 22px;
+}
+
+body.contents-hidden .show-hide-header .plus-icon {
+  display: inline;
+}
+
+body.contents-hidden .show-hide-header .minus-icon {
+  display: none;
+}
+
+.floating-contents-padder {
+  margin: auto;
+  position: relative;
+  max-width: 1440px;
+}
+
+body.contents-hidden .floating-contents-container .floating-contents-menu {
+  display: none;
+  animation: none;
+}
+
+.floating-contents-container.fxed {
+  position: fixed;
+  top: 60px;
+  opacity: 1;
+}
+
+article {
+  position: relative;
+  right: 150px;
+  transition: right 400ms;
+}
+
+body.contents-hidden article {
+  right: 0;
+}
+
+@media (max-width: 1200px) {
+  article {
+    right: 0;
+  }
+
+  .floating-contents-container {
+    display: none;
+  }
+}

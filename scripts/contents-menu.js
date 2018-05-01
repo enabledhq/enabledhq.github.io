@@ -39,7 +39,7 @@ function generateNavigation() {
     title.innerHTML = '&nbsp;';
     navContainer.appendChild(title);
 
-    document.body.appendChild(floatingContentsContainer);
+    $(document.body).prepend(floatingContentsContainer);
 
     // map article subheadings to navigation items
     Array.from($('article h1')).forEach(function (articleHeading) {

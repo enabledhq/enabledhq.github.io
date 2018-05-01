@@ -72,7 +72,7 @@ function generateNavigation() {
     var SCROLL_OFFSET = 680;
 
     $(document).scroll(function (e) {
-        currentScrollValue = e.originalEvent.pageY;
+        currentScrollValue = $(document).scrollTop();
         window.requestAnimationFrame(function () {
             if (currentScrollValue > SCROLL_OFFSET && previousScrollValue <= SCROLL_OFFSET) {
                 floatingContentsContainer.classList.add('fxed');

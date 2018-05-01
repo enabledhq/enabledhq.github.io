@@ -47,11 +47,11 @@ function generateNavigation() {
 
         headingLink.innerHTML = articleHeading.innerHTML;
         headingLink.onclick = function () {
-            var offset = $(articleHeading)[0].getBoundingClientRect().y;
-            var scrollY = $('html,body').scrollTop();
+            var offset = $(articleHeading).offset().top;
+            // var scrollY = $('html,body').scrollTop();
 
             $('html,body').animate({
-                scrollTop: offset - 80 + scrollY
+                scrollTop: offset - 80
             }, 400);
         };
 

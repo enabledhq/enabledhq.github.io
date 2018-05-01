@@ -1,5 +1,5 @@
 /*
- *  Generates a floating navigation block from the h2 heading in the main article:
+ *  Generates a floating navigation block from the <h2 /> headings in the main <article />:
  *
  *  <div.floating-contents-container>
  *      <div.floating-contents-padder>
@@ -16,19 +16,19 @@
 function generateNavigation() {
     // outer container element
     var floatingContentsContainer = document.createElement('div');
-    floatingContentsContainer.classList.add("floating-contents-container")
+    floatingContentsContainer.classList.add("floating-contents-container");
 
     // padding container in floatingContentsContainer
     var navContainerPadder = document.createElement('div');
-    navContainerPadder.classList.add("floating-contents-padder")
+    navContainerPadder.classList.add("floating-contents-padder");
 
     // menu container
     var navContainer = navContainer = document.createElement('div');
-    navContainer.classList.add("floating-contents-menu")
+    navContainer.classList.add("floating-contents-menu");
 
     // menu header - toggles visibility
     var showButton = document.createElement('h3');
-    showButton.classList.add("show-hide-header")
+    showButton.classList.add("show-hide-header");
     showButton.innerHTML = "<span>Contents</span><span class='plus-icon'>+</span><span class='minus-icon'>-</span>"
 
     floatingContentsContainer.appendChild(navContainerPadder);
@@ -36,7 +36,7 @@ function generateNavigation() {
     navContainerPadder.appendChild(showButton);
 
     var title = document.createElement('h2');
-    title.innerHTML = '&nbsp;'
+    title.innerHTML = '&nbsp;';
     navContainer.appendChild(title);
 
     document.body.appendChild(floatingContentsContainer);
@@ -53,7 +53,7 @@ function generateNavigation() {
             $('html,body').animate({
                 scrollTop: offset - 80 + scrollY
             }, 400);
-        }
+        };
 
         navContainer.appendChild(headingLink);
     });
@@ -69,7 +69,7 @@ function generateNavigation() {
     var currentScrollValue = 0;
     var previousScrollValue = 0;
 
-    var SCROLL_OFFSET = 680
+    var SCROLL_OFFSET = 680;
 
     $(document).scroll(function (e) {
         currentScrollValue = e.originalEvent.pageY;

@@ -32,21 +32,20 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## Amazon Go and cashier-less store
+## The Facebook data saga
+The social media giant was recently caught up in a range of data-related scandals. The question is, did a breach of privacy occur or did Facebook users actually give the social giant permission to share personal information to other companies? Read more on this:
 
-The first [Amazon Go](https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html) opened in Seattle. Is this the future of grocery shopping? 
+- Mark Zuckerberg took out ads to apologise for a "[breach of trust](https://edition.cnn.com/2018/03/25/europe/facebook-zuckerberg-cambridge-analytica-sorry-ads-newspapers-intl/index.html)" regarding the Cambridge Analytica scandal
+- More news broke that Facebook had been scraping call and text message data from [Android phones](http://www.zdnet.com/article/facebook-was-tracking-your-text-message-and-phone-call-data-now-what/) for years
+- 59% of respondents in a survey said Facebook would have a net [negative effect](https://www.statista.com/chart/13296/net-impact-of-tech-companies-on-society/) on society in 10 years
 
-- No checkout lines, just grab the items and go
-- How? Hundreds of cameras and sensors pair your selection to your Amazon account
+![net effect of tech companies on society]({{site.baseurl}}/images/img_march_tech.jpg)
 
-![amazon go store]({{site.baseurl}}/images/img_jan_amazongo.jpg)
-*Amazon Go store*
+Looking at this from an [app design perspective](https://www.fastcodesign.com/90164921/facebook-has-an-app-problem), where do we draw the line between convenience in user experience and privacy protection?
 
-Some are skeptical about how this works for Amazon (reports of [accidental stealing](https://www.independent.co.uk/life-style/amazon-go-supermarket-no-checkouts-shoplift-accident-journalist-review-deirdre-bosa-a8174481.html)), or for millions of cashier jobs. Meanwhile, Amazon is marching on with their vertical and horizontal [integration strategies](https://stratechery.com/2018/amazons-go-and-the-future/).
+## Functionality over form for Amazon
 
-## A 100-year view of User Experience (UX)
-
-Over 3 junctures, UX as a field has grown and is predicted to grow. More UX jobs, more companies needing UX, more countries [doing UX](https://www.nngroup.com/articles/100-years-ux/). Will 1% of the world's population work in UX by 2050?
+How the commerce giant win customers with its [design theory](https://www.fastcodesign.com/90160960/the-design-theory-behind-amazons-5-6-billion-success) that doesn't revolve around aesthetics: Look beneath the interface.
 
 ## Long read: Beyond the Bitcoin bubble
 

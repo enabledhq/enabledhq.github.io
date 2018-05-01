@@ -82,7 +82,7 @@ There are *a lot* of blend shapes.
 
 In total there are [51 blend shapes](https://developer.apple.com/documentation/arkit/arfaceanchor.blendshapelocation) including things like `eyeBlinkLeft`, `eyeWideRight`, `mouthFunnel`, `mouthLowerDownLeft` and so on. Most of these are symmetrical in that they have left and right equivalents.
 
-Here are the blend shapes we made for our sample model. These are fairly basic and were made quickly so we could test the validity of the idea. Your own custom models could have much nicer, more intricate blend shapes.
+Here are the blend shapes we made for our sample model. These are basic and were made quickly so we could test the validity of the idea. Your own custom models could have much nicer, more intricate blend shapes.
 
 ![Morph Targets]({{site.baseurl}}/images/img_face_morphtargets.gif)
 

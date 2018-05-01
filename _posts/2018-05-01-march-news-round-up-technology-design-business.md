@@ -47,25 +47,25 @@ Looking at this from an [app design perspective](https://www.fastcodesign.com/90
 
 How the commerce giant win customers with its [design theory](https://www.fastcodesign.com/90160960/the-design-theory-behind-amazons-5-6-billion-success) that doesn't revolve around aesthetics: Look beneath the interface.
 
-## Long read: Beyond the Bitcoin bubble
+## More than just a pretty face 
 
-First we had the early Internet era with open protocols. Then, we have closed architectures and proprietary databases with the likes of Facebook and Google. Now, Bitcoin and the underlying [blockchain tech](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html) signal a treacherous route back to the open-protocol era.
+The beauty industry has taken advantage of digital tech to up the game. Augmented Reality has become more popular as a try-on aid for many brands. The recent acquisition of [Modiface](https://www.businessoffashion.com/articles/news-analysis/loreal-buys-beauty-tech-firm-modiface) helped L'Oreal in the AR race. 
 
-## Up and coming consumer tech developments
+Meanwhile, Sephora has pioneered a variety of [in-store technologies](https://www.techrepublic.com/article/how-sephora-is-leveraging-ar-and-ai-to-transform-retail-and-help-customers-buy-cosmetics/) such as interactive screens, RFID scanning and so on. 
 
-An overview of this year's International [Consumer Electronics Show](https://medium.learningbyshipping.com/ces2018-24dd69ab5ffe) (CES), featuring new stuff in voice, smart home, cars, displays, mobile, health & more. How about a car that can read your [brain waves](https://www.bloomberg.com/news/articles/2018-01-03/brain-waves-will-make-nissan-s-car-of-the-future-a-better-ride)?
+It would be interesting to see how these brands thrive amid a retail crisis by embracing technology.
 
-![CES 2018]({{site.baseurl}}/images/img_jan_ces.gif)
+![modiface AR beauty]({{site.baseurl}}/images/img_march_modiface.jpg)
 
 # Handy business tips
 
-## What makes up User Experience
+**Avoid shaming your users in UX design**
 
-Learn about the different components within [User Experience](https://www.interaction-design.org/literature/article/key-question-in-user-experience-design-usability-vs-desirability): Utility, Usability, Desirability, Brand Experience.
+A website popup asks you to sign up for a newsletter, with the options "Yes" and "No, I'd prefer to be miserable." Don't use this [dark pattern](https://medium.com/@rizwanjavaid/shaming-users-is-a-horrible-idea-c2277c86c062). 
 
-## Why a north star metric might be harmful
+**How to "use" your boss **
 
-Read the breakdown of input and output metrics, and the importance of measuring multiple [business dimensions](https://www.reforge.com/blog/north-star-metric-growth) with real life examples.
+This company has a [user guide](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) for employees on how to "use" their leader, which communicates clear expectations and the leader's working style. 
 
 # Weird & wonderful
 

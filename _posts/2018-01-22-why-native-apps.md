@@ -71,7 +71,7 @@ Option 2 points to a Hybrid Web or Packaged Hybrid app, i.e. a true app but one 
 
 # Why build native apps?
 
-As a Digital Innovation firm, we believe there is no technology that by default is best in all circumstances. 
+We believe there is no technology that by default is best in all circumstances. 
 
 Rather, Enabled’s core philosophy is to understand what a user is trying to accomplish and choose the best digital technology to facilitate this (we wrote about this framework - [Jobs To Be Done](http://blog.enabled.com.au/jobs-to-be-done/) in another blog post).
 

@@ -44,19 +44,27 @@ Me: _**What was your biggest or most challenging project?**_
 
 **Lewis:** There is this project where it’s been a real shift for me because instead of it being just about me writing code, I was also managing this component of the project. It forced me out of my comfort zone, interacting with clients, moving from just software development into architecture as well. 
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/442485054&color=%235e3d8e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 Me: _**What are you most grateful for during your time here?**_ 
 
 **Lewis:** Grant and Craig have been incredibly generous with me and the whole team in supporting some of my other endeavours. It’s really cool that I get to share those things with the team and the team be excited about them. I’m grateful that they took a chance on me and there’s been a lot of investment in me.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/442485075&color=%235e3d8e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 Me: _**What have you learned? Or how have you grown as a person and as a professional?**_ 
 
 **Lewis:** If you look at just pure skillsets, I’ve gained new skills. But taking a step back and looking at the bigger picture, I’ve improved my problem solving, critical thinking, and learning how to learn. Coming straight from uni to this work environment where people are invested in you succeeding, not only the project’s success but also the individual’s success, is really beneficial and something that I’m gonna carry for the rest of my career.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/442485108&color=%235e3d8e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 # Side project and future endeavour 
 
 Me: _**Tell me about the trip to India and your side project which is going to be your full time focus after leaving Enabled.**_ 
 
 **Lewis:** It’s called My Well – about helping farms sustainably use ground water. An issue faced in India is an overdependence/overexploitation of ground water. I was contacted through my university to work on this technical component of their other projects. Broadly this project taught people in villages how to monitor ground water level. So My Well uses SMS and smart phone application for farmers to easily record well readings and other water data. This is still in a prototype phase. One of the great things about me going full time in my own endeavours is that I’ll be able to invest in this a lot more. 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/442485090&color=%235e3d8e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 Me: _**Why did you do this project? Was there a bigger reason?**_ 
 

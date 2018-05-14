@@ -83,3 +83,14 @@ jarrod:
     Description of Jarrod
   small-image: /images/img_teamphotos_jarrod_sm.jpg
   large-image: /images/author/img_author_jarrod.jpg
+  
+ lewis:
+  name: Lewis Daly
+  shortname: lewis
+  twitter: lewdaly
+  description-title: Lewis Daly, Ex-Software Developer at Enabled
+  description: >
+    John shows up at the Enabled office between 9 - 5 most days. He wears shoes in the colder months. Regardless of feet apparel, John's work consists of Mobile, Web and a light sprinkling of DevOps. 
+    <br>Follow Lewis on <a class="author-link" href="https://twitter.com/lewdaly" target="_blank">Twitter</a>
+  small-image: /images/img_teamphotos_john_sm.jpg
+  large-image: /images/author/img_author_john.jpg

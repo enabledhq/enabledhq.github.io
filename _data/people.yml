@@ -75,6 +75,16 @@ john:
   small-image: /images/img_teamphotos_john_sm.jpg
   large-image: /images/author/img_author_john.jpg    
   
+ lewis:
+  name: Lewis Daly
+  shortname: lewis
+  twitter: lewdaly
+  description-title: Lewis Daly, Ex-Software Developer at Enabled
+  description: >
+    Lewis worked at Enabled for two years, with periods of travelling in between. Self-starting, back-end loving, and social good oriented, he’ll always be remembered as the “other CEO.” 
+    <br>Follow Lewis on <a class="author-link" href="https://twitter.com/lewdaly" target="_blank">Twitter</a>
+  large-image: /images/author/img_author_lewis.jpg
+  
 jarrod:
   name: Jarrod Swift
   shortname: jarrod
@@ -84,13 +94,3 @@ jarrod:
   small-image: /images/img_teamphotos_jarrod_sm.jpg
   large-image: /images/author/img_author_jarrod.jpg
   
- lewis:
-  name: Lewis Daly
-  shortname: lewis
-  twitter: lewdaly
-  description-title: Lewis Daly, Ex-Software Developer at Enabled
-  description: >
-    Lewis worked at Enabled for two years, with periods of travelling in between. Self-starting, back-end loving, and social good oriented, he’ll always be remembered as the “other CEO.” 
-    <br>Follow Lewis on <a class="author-link" href="https://twitter.com/lewdaly" target="_blank">Twitter</a>
-  small-image: /images/img_teamphotos_lewis_sm.jpg
-  large-image: /images/author/img_author_lewis.jpg

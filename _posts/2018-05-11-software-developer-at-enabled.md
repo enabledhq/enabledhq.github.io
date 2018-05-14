@@ -36,6 +36,8 @@ Me: _**Take us back to where it all began. When and how did you join Enabled?**_
 
 **LEWIS:** I started in 2016 as a part time employee, then went to Japan for 3 months, and came back. They were gracious enough to have me back to the family. 
 
+***
+
 Me: _**How did you know about Enabled?**_
 
 **LEWIS:** I met Grant at Mega which was a start-up incubator and Grant was a mentor there. And I won a scholarship for that program. 

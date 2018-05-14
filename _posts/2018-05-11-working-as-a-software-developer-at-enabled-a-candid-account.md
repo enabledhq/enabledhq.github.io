@@ -3,8 +3,16 @@ layout: post
 date: '2018-05-11 16:11 +0930'
 published: false
 title: 'Working as a software developer at Enabled: A candid account '
+author:
+  - linh
+main-category: news
+categories:
+  - technology
+  - news
+hero-banner: /images/Blog_header_lewis.png
+image: /images/img_lewis_thumb.png
 ---
-Last month, we had to say goodbye to one of our software developers who was about to embark on a journey to “save the world” (as some millennials would say). Before Lewis left, I had a chance to put him on the spot and have an “exit interview” about his experience of working at Enabled.   
+Not long ago, we had to say goodbye to one of our software developers who was about to embark on a journey to “save the world” (as some millennials would say). Before Lewis left, I had a chance to put him on the spot and have an “exit interview” about his experience of working at Enabled.   
 
 Below are excerpts from our conversation with some edits for clarity and audio clips for the most interesting parts. 
 
@@ -86,9 +94,8 @@ Me: _**What would you like to say to the team?**_
 
 **Lewis:** Most of all, I’d like to extend my gratitude to the team. Over all I’ve absolutely loved the team here and working here. And I hope to be able to take these things that I’ve learned on into the future. 
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/442485129&color=%235e3d8e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 Me: _**Any words for anyone potentially joining the Enabled team?**_
 
-**Lewis:** Don’t be afraid of Dylan [laughs]. The people who do really well are really good at learning enough about the field but haven’t forgotten that two months ago they didn’t know anything about the field and they’re the best communicators. I think fundamentally, writing software is a creative exercise. And as a developer, you need the freedom to find whatever works best for you. 
-
-
-
+**Lewis:** Don’t be afraid of Dylan [laughs]. The people who do really well are really good at learning enough about the field but haven’t forgotten that two months ago they didn’t know anything about the field and they’re the best communicators. I think fundamentally, writing software is a creative exercise. And as a developer, you need the freedom to find whatever works best for you.

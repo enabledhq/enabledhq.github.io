@@ -13,16 +13,13 @@ hero-banner: /images/Blog_header_lewis.png
 image: /images/img_lewis_thumb.png
 excerpt: >-
   An interview with Lewis, who used to work as a software developer at Enabled.
-  He shared his story about working here & his future social enterprise
-  endeavours.
+  He shared his story about working here & his social enterprise endeavours.
 meta-description: >-
   An interview with Lewis, who used to work as a software developer at Enabled.
-  He shared his story about working here & his future social enterprise
-  endeavours.
+  He shared his story about working here & his social enterprise endeavours.
 description: >-
   An interview with Lewis, who used to work as a software developer at Enabled.
-  He shared his story about working here & his future social enterprise
-  endeavours.
+  He shared his story about working here & his social enterprise endeavours.
 short-link: goo.gl/PKe4DF
 meta-keywords: >-
   software developer, software engineer, software developer adelaide, software

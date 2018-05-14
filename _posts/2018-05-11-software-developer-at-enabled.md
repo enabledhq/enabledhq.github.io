@@ -2,7 +2,7 @@
 layout: post
 date: '2018-05-11 16:11 +0930'
 published: true
-title: 'Working as a software developer at Enabled: A candid account '
+title: 'Working as a Software Developer at Enabled: A Candid Account '
 author:
   - linh
 main-category: news

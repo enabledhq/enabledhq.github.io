@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-05-11 16:11 +0930'
-published: false
+published: true
 title: 'Working as a software developer at Enabled: A candid account '
 author:
   - linh

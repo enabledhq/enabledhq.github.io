@@ -15,6 +15,10 @@ excerpt: >-
   An interview with Lewis, who used to work as a software developer at Enabled.
   He shared his story about working here & his future social enterprise
   endeavours.
+meta-description: >-
+  An interview with Lewis, who used to work as a software developer at Enabled.
+  He shared his story about working here & his future social enterprise
+  endeavours.
 ---
 Not long ago, we had to say goodbye to one of our software developers who was about to embark on a journey to “save the world” (as some millennials would say). Before Lewis left, I had a chance to put him on the spot and have an “exit interview” about his experience of working at Enabled.   
 

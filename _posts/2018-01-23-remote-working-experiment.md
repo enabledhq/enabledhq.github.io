@@ -24,7 +24,7 @@ After a couple days of looking around, I settled on a great co-working space cal
 I worked around 4 weeks, finishing up just before the Christmas holidays. I was working on existing projects that I already had a good knowledge on, and with a fair amount of automomy.
 
 ![Remote work experiment]({{site.baseurl}}/images/img_remoteex_officeview.jpg)
-
+*The view from my co-working office in the Phillipines*
 
 # What went well
 
@@ -50,6 +50,8 @@ I'm also a person of habits and rituals. I like to get up at the same time every
 
 **Coffee**. No amount of pre-ground filtered coffee can make up for the smooth freshly ground boutique roast that we have in the office back in Adelaide. A side effect of this, however, is that I managed to reduce my dependence on the beans for now.
 
+![remote work experiment]({{site.baseurl}}/images/img_remoteex_map.jpg)
+*Trying to look for healthy eating options*
 
 # What did the rest of the team think?
 

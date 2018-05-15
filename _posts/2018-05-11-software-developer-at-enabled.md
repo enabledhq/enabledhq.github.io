@@ -5,6 +5,7 @@ published: true
 title: 'Working as a Software Developer at Enabled: A Candid Account '
 author:
   - linh
+  - lewis
 main-category: news
 categories:
   - technology

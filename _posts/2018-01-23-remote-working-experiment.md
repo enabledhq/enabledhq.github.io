@@ -2,21 +2,14 @@
 layout: post
 date: '2018-01-23 17:01 +1030'
 published: false
-title: Our little remote working experiment.
+title: 'Our Little Remote Working Experiment: Insights from the Guinea Pig'
 main-category: technology
 categories:
   - technology
 author:
   - lewis
 ---
-# Our remote working experiment.
-clickbait subtitle options:
-## Insights from the guinea pig
-## You won't believe what happened next
-
-
-
-### The backstory
+# The backstory
 
 At the end of last year, I was given the opportunity to travel with my wife to the Philippines for month. Instead of taking my hard-earned leave or saying no, I proposed an experiment to Grant and Craig: to work remotely overseas for that time. Our fearless leaders obliged, and our great experiment began, something for which I am rather grateful.
 
@@ -28,7 +21,7 @@ After a couple days of looking around, I settled on a great coworking space call
 I worked around 4 weeks, finishing up just before the christmas holidays. I was working on existing projects that I already had a good knowledge on, and with a fair amount of automomy.
 
 
-### What went well:
+# What went well
 
 I found that I was able to focus really well on tasks at hand. There were far fewer distractions from the general office hubub, and since talking to colleagues at the coworking space meant talking to strangers, I was less inclined to get stuck in a long conversation about Black Mirror, or the optimal way to eat a kit kat.
 
@@ -40,7 +33,7 @@ For some reason, I also found meetings (especially internal meetings) to be more
 
 I love a good post lunch nap, but for some reason back home, everybody seems to laugh at my siesta habit, despite how much more productive I feel afterwards. In the Phillipines, there is no such stigma, perhaps siestas - like fried chicken and basketball - are in the very DNA of the Filipino people.
 
-### What didn't go so great:
+# What didn't go so great
 
 I often felt a little disconnected from the social aspects of working on a team. While calls and instant messages can fill this gap somewhat - there's nothing quite like sitting down and sharing lunch together as a team.
 
@@ -53,7 +46,7 @@ Quiet workspaces. As much as I enjoyed my time (and the chilled tunes) at ASpace
 Coffee. No amount of pre-ground filter coffee can make up for the smooth freshly ground botique roast that we have in the office back home. A side effect of this however it that I managed to reduce my dependence on the bean for now.
 
 
-## What did the rest of the team think?
+# What did the rest of the team think?
 
 I'm aware that this is just my own perspective, and the rest of the team has some more perspective to add, so I've asked them for a little bit of their feedback.
 
@@ -66,7 +59,7 @@ He also noted that the work went smoothly when we had clear project spec, and wh
 Tools also played a critical role in helping the team back home. One developer mentioned the importance of communicating availabilty (for example using Slack statuses) and timezones  - which I never really got in the solid habit of doing. He found that having only 1 channel of communication (slack) made it extra important that the remote teammate be available when they say they are - especially when doing mission-critical work, or responding to urgent issues.
 
 
-## Why did it work for us?
+# Why did it work for us?
 
 Overall, I'd rate this experiment as a success. Hopefully we can take some of these lessons if it's something we want to undertake in the future, but I also want to look at what existing office conditions helped us to make this work.
 

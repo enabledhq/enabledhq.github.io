@@ -75,6 +75,8 @@ prose:
               value: james 
             - name: "John Smith"
               value: john
+            - name: "Lewis Daly"
+              value: lewis              
       - name: "main-category"
         field:
           element: "select"

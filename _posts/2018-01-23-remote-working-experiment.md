@@ -23,6 +23,8 @@ After a couple days of looking around, I settled on a great co-working space cal
 
 I worked around 4 weeks, finishing up just before the Christmas holidays. I was working on existing projects that I already had a good knowledge on, and with a fair amount of automomy.
 
+![Remote work experiment]({{site.baseurl}}/images/img_remoteex_officeview.jpg)
+
 
 # What went well
 

@@ -32,7 +32,7 @@ At the end of last year, I was given the opportunity to travel with my wife to t
 
 **The plan:** to work remotely for 1 month, either from home or a co-working space. 
 
-**The place:** Cebu, Phillipines, in a little place called IT park.
+**The place:** Cebu, Philippines, in a little place called IT park.
 
 Luckily, the timezone difference between Adelaide and the Phillipines is only 2 hours, meaning that I could make an early morning meeting by getting up at 7.00 am.
 
@@ -41,7 +41,7 @@ After a couple days of looking around, I settled on a great co-working space cal
 I worked around 4 weeks, finishing up just before the Christmas holidays. I was working on existing projects that I already had a good knowledge on, and with a fair amount of automomy.
 
 ![Remote work experiment]({{site.baseurl}}/images/img_remoteex_officeview.jpg)
-*The view from my co-working office in the Phillipines*
+*The view from my co-working office in the Philippines*
 
 # What went well
 
@@ -68,7 +68,7 @@ I'm also a person of habits and rituals. I like to get up at the same time every
 **Coffee**. No amount of pre-ground filtered coffee can make up for the smooth freshly ground boutique roast that we have in the office back in Adelaide. A side effect of this, however, is that I managed to reduce my dependence on the beans for now.
 
 ![remote work experiment]({{site.baseurl}}/images/img_remoteex_map.jpg)
-*Trying to look for healthy eating options*
+*Trying to look for healthy eating options where I stayed*
 
 # What did the rest of the team think?
 
@@ -96,3 +96,6 @@ I think the most important thing is that I already have a good working relations
 Our work style at Enabled is also pretty autonomous. We are given a great deal of freedom to propose solutions, seek help and get things done - which works just great for me, and is conducive to working well remotely.
 
 We had a time zone overlap of about 5 hours a day. I think if it was less than 4, having meetings or inpromtu calls would've been much harder, especially when waiting for decisions or feedback.
+
+_____
+Lewis no longer works at Enabled. Read the "[exit interview](http://blog.enabled.com.au/software-developer-at-enabled/)" where he shared his thoughts on working here and how the experience equipped him for his future endeavours. 

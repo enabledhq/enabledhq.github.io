@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-01-23 17:01 +1030'
-published: false
+published: true
 title: 'Our Little Remote Working Experiment: Insights from the Guinea Pig'
 main-category: technology
 categories:

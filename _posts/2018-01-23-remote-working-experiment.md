@@ -8,6 +8,8 @@ categories:
   - technology
 author:
   - lewis
+hero-banner: /images/Blog_header_remoteex.png
+image: /images/img_remoteex_thumb.png
 ---
 # The backstory
 

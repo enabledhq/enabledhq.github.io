@@ -10,6 +10,7 @@ author:
   - lewis
 hero-banner: /images/Blog_header_remoteex.png
 image: /images/img_remoteex_thumb.png
+short-link: goo.gl/PX2Ri8
 ---
 # The backstory
 

@@ -21,7 +21,7 @@ meta-description: >-
 description: >-
   Interview with Lewis, who used to work as a software developer at Enabled. He
   shared his story about working here & his social enterprise endeavours.
-short-link: goo.gl/PKe4DF
+short-link: goo.gl/ergekm
 meta-keywords: >-
   software developer, software engineer, software developer adelaide, software
   engineer adelaide, software development, technology, social enterprise,

@@ -138,3 +138,6 @@ Me: _**What would you like to say to the team?**_
 Me: _**Any words for anyone potentially joining the Enabled team?**_
 
 **LEWIS:** Don’t be afraid of Dylan [laughs]. The people who do really well are really good at learning enough about the field but haven’t forgotten that two months ago they didn’t know anything about the field and they’re the best communicators. I think fundamentally, writing software is a creative exercise. And as a developer, you need the freedom to find whatever works best for you.
+
+____
+During his time at Enabled, Lewis also embarked on a [remote working experiment](http://blog.enabled.com.au/remote-working-experiment/) in the Philippines for a month. Read his article for more candid insights.

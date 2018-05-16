@@ -76,7 +76,9 @@ I'm aware that this is just my own perspective, and the rest of the team has som
 
 Everyone I worked with was a fan of the frequent calls we ended up having at least once every couple of days, mostly with individual team members, but also for bigger meetings.
 
-The project manager for a project I spent the most time on, Heath had this to say: _"Being able to touch base regularly was critical. Slack was great here and ensured we had an open line of communication and complete visibility at both ends."_
+The project manager for a project I spent the most time on, Heath had this to say: 
+
+_"Being able to touch base regularly was critical. Slack was great here and ensured we had an open line of communication and complete visibility at both ends."_
 
 He also noted that the work went smoothly when we had clear project spec, and when tasks were divided up and could be completed by individuals. 
 
@@ -86,6 +88,8 @@ Tools also played a critical role in helping the team back in Adelaide.
 
 One developer mentioned the importance of **communicating availabilty** (for example using Slack statuses) and timezones  - which I never really got in the solid habit of doing. He found that having only 1 channel of communication (Slack) made it extra important that the remote teammate be available when they say they are - especially when doing mission-critical work, or responding to urgent issues.
 
+![slack welcome message]({{site.baseurl}}/images/img_remoteex_slack.gif)
+*One of our custom welcome messages on Slack*
 
 # Why did it work for us?
 
@@ -98,4 +102,4 @@ Our work style at Enabled is also pretty autonomous. We are given a great deal o
 We had a time zone overlap of about 5 hours a day. I think if it was less than 4, having meetings or inpromtu calls would've been much harder, especially when waiting for decisions or feedback.
 
 _____
-Lewis no longer works at Enabled. Read the "[exit interview](http://blog.enabled.com.au/software-developer-at-enabled/)" where he shared his thoughts on working here and how the experience equipped him for his future endeavours. 
+Lewis no longer works at Enabled. Read the "[exit interview](http://blog.enabled.com.au/software-developer-at-enabled/)" where he shared his thoughts on working here and how the experience equipped him for his future endeavours.

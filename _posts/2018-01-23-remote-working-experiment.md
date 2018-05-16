@@ -19,6 +19,12 @@ meta-keywords: >-
 meta-description: >-
   A software developer at Enabled embarked on a remote working experiment in the
   Philippines for a month. Here’re the lessons learned and the verdict.
+description: >-
+  A software developer at Enabled embarked on a remote working experiment in the
+  Philippines for a month. Here’re the lessons learned and the verdict.
+excerpt: >-
+  A software developer at Enabled embarked on a remote working experiment in the
+  Philippines for a month. Here’re the lessons learned and the verdict.
 ---
 # The backstory
 

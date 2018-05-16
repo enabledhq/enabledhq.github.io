@@ -11,6 +11,11 @@ author:
 hero-banner: /images/Blog_header_remoteex.png
 image: /images/img_remoteex_thumb.png
 short-link: goo.gl/PX2Ri8
+meta-keywords: >-
+  remote work software, remote software developer, work from home coder,
+  software developer, software engineer, software developer adelaide, software
+  engineer adelaide, software development, remote working, coding, coding
+  adelaide, project management, software project, coworking
 ---
 # The backstory
 

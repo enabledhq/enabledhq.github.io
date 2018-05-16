@@ -88,7 +88,7 @@ Tools also played a critical role in helping the team back in Adelaide.
 
 One developer mentioned the importance of **communicating availabilty** (for example using Slack statuses) and timezones  - which I never really got in the solid habit of doing. He found that having only 1 channel of communication (Slack) made it extra important that the remote teammate be available when they say they are - especially when doing mission-critical work, or responding to urgent issues.
 
-![slack welcome message]({{site.baseurl}}/images/img_remoteex_slack.gif)
+![custom message slack]({{site.baseurl}}/images/img_remoteex_slack.gif)
 *One of our custom welcome messages on Slack*
 
 # Why did it work for us?

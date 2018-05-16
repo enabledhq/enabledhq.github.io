@@ -16,10 +16,13 @@ meta-keywords: >-
   software developer, software engineer, software developer adelaide, software
   engineer adelaide, software development, remote working, coding, coding
   adelaide, project management, software project, coworking
+meta-description: >-
+  A software developer at Enabled embarked on a remote working experiment in the
+  Philippines for a month. Here’re the lessons learned and the verdict.
 ---
 # The backstory
 
-At the end of last year, I was given the opportunity to travel with my wife to the Philippines for month. Instead of taking my hard-earned leave or saying no, I proposed an experiment to Grant and Craig: to work remotely overseas for that time. Our fearless leaders obliged, and our great experiment began, something for which I am rather grateful.
+At the end of last year, I was given the opportunity to travel with my wife to the Philippines for a month. Instead of taking my hard-earned leave or saying no, I proposed an experiment to Grant and Craig: to work remotely overseas for that time. Our fearless leaders obliged, and our great experiment began, something for which I am rather grateful.
 
 **The plan:** to work remotely for 1 month, either from home or a co-working space. 
 

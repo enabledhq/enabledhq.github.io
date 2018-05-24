@@ -8,7 +8,7 @@ author:
 main-category: technology
 categories:
   - technology
-image: /images/img_AI_thumb.png
+image: /images/cyber-security-3411476.jpg
 hero-banner: /images/cyber-security-3411476.jpg
 meta-description: >-
   A new security exploit has been discovered on many types of CPUs including

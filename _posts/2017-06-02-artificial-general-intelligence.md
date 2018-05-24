@@ -26,7 +26,7 @@ meta-keywords: >-
   intelligence, computer vision, visual recognition, neural turing machine,
   strong AI, automation, robots, AGI
 ---
-A new security exploit has been discovered on many types of CPUs including Intel, AMD and some mobile phone processors. 
+A new [security exploit](https://www.theverge.com/2018/5/21/17377994/google-microsoft-cpu-vulnerability-speculative-store-bypass-variant-4?utm_source=Enabled+Main&utm_campaign=736da09fcb-EMAIL_CAMPAIGN_2018_03_16&utm_medium=email&utm_term=0_249f96aedf-736da09fcb-) has been discovered on many types of CPUs including Intel, AMD and some mobile phone processors. 
 
 # What does it mean?
 

@@ -43,7 +43,7 @@ These updates will likely affect the performance of machines by approximately 2 
 # What should I do now?
 At this time, you can be proactive by making sure your computer's operating system is up to date and your IT professionals are aware.
 
-# Do you want to receive emails like this?
+# Do you want to receive emails about issues like this?
 
 The email above is a new subscription option offered by Enabled that sends out immediate alerts for high-profile IT, software and cyber security / privacy issues.  
 

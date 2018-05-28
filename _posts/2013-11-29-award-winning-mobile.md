@@ -43,8 +43,6 @@ Enabled assisted the client across a two-year journey of developing and fine-tun
 <br />
 <br />
 
-
-
 ![clipsal icat award]({{site.baseurl}}/images/award_clipsalicat.jpg)
 
 

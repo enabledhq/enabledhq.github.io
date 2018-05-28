@@ -27,6 +27,24 @@ Over the years, Enabled has scored a series of wins with National and Local awar
 <br />
 <br />
 
+![brewart good design awards]({{site.baseurl}}/images/award_brewart.jpg)
+
+
+BrewArt
+------------
+
+The world's first fully automated beer brewing machine won two awards for outstanding innovation and design in the applicances category. 
+
+- [Good Design Award](https://good-design.org/projects/brewart-beerdroid/) 2018
+- [Canstar Blue](https://www.canstarblue.com.au/innovation-awards/2016-appliance-winners/coopers-beerdroid/) Innovation Execellence Award 2016 
+
+Enabled assisted the client across a two-year journey of developing and fine-tuning BrewArt, making sure this Internet of Things product work seamlessly and that the user experience is spot-on. Read more about the [BrewArt story](https://enabled.com.au/casestudy-Coopers) in our case study page.
+
+<br />
+<br />
+
+
+
 ![clipsal icat award]({{site.baseurl}}/images/award_clipsalicat.jpg)
 
 

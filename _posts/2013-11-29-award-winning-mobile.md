@@ -41,7 +41,6 @@ The world's first fully automated beer brewing machine won two awards for outsta
 Enabled assisted the client across a two-year journey of developing and fine-tuning BrewArt, making sure this Internet of Things product work seamlessly and that the user experience is spot-on. Read more about the [BrewArt story](https://enabled.com.au/casestudy-Coopers) in our case study page.
 
 <br />
-<br />
 
 ![clipsal icat award]({{site.baseurl}}/images/award_clipsalicat.jpg)
 

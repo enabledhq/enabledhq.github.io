@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-05-24 16:51 +0930'
-published: false
+published: true
 title: New IT Security Alert
 main-category: technology
 author:

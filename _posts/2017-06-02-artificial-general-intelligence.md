@@ -8,23 +8,24 @@ author:
 main-category: technology
 categories:
   - technology
-image: /images/cyber-security-3411476.jpg
-hero-banner: /images/cyber-security-3411476.jpg
+image: /images/img_AI_thumb.png
+hero-banner: /images/Blog_Header_AI.png
 meta-description: >-
-  A new security exploit has been discovered on many types of CPUs including
-  Intel, AMD and some mobile phone processors.
+  What is artificial intelligence, general AI, machine learning etc.? Here’s an
+  overview of different terms & methods within this emerging field.
 description: >-
-  A new security exploit has been discovered on many types of CPUs including
-  Intel, AMD and some mobile phone processors.
+  What is artificial intelligence, general AI, machine learning etc.? Here’s an
+  overview of different terms & methods within this emerging field.
 excerpt: >-
-  A new security exploit has been discovered on many types of CPUs including
-  Intel, AMD and some mobile phone processors.
+  What is artificial intelligence, general AI, machine learning etc.? Here’s an
+  overview of different terms & methods within this emerging field.
 meta-keywords: >-
   General AI, artificial intelligence, artificial general intelligence, narrow
   AI, AI, super intelligence, super AI, machine learning, deep learning, what is
   AI, AI definition, strong AI, adversarial example, neural network, general
   intelligence, computer vision, visual recognition, neural turing machine,
   strong AI, automation, robots, AGI
+short-link: 'https://goo.gl/0BBN4c'
 ---
 When it comes to Artificial Intelligence (AI), people’s responses vary: from “_Terminator and Skynet are coming to kill us all_” to “_Will the bots take my jobs_?” to “_Awesome, now I can sit back and do the fun stuff while the bots take care of tedious tasks for me._”
 

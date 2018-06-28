@@ -391,7 +391,8 @@ As mentioned above, Gartner predicted the death of the ERP concept and introduce
 This environment gives enterprises the chance to make something powerful by combining best of breed SaaS products with their own custom microservices, all configured to their own unique business model and process, while still remaining agile enough to adjust according to customers’ demands. 
 
 Now, take that Silicon Valley startups!
-_____________
+
+---
 
 Curious about how your current IT system and architecture performs? Is it giving you a competitive edge? Talk to us for a technology audit where we walk you through a journey to map out the current situation and identify opportunities for innovation. 
 

@@ -157,7 +157,7 @@ ERPs have instead become the ‘ball and chain’ of Enterprise:
 - They can be complex so users are motivated to find other ways of getting business done outside these systems (often sticking with more manually intensive and error prone paper methods)
 - They still remain orientated to business functions, rather than being customer-oriented. (Read more on the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, a customer-oriented approach to product development including software)
 
-**### Customisation is very hard**
+**Customisation is very hard**
 
 Monolith software by nature assumes they have all things covered in one application. Moreover, ERP providers may not be motivated to allow other software to work with it, as it is “cutting their lunch.” 
 
@@ -169,7 +169,7 @@ In 2000, the Gartner Research Group predicted that by 2018, the concept of using
 
 Yet today many companies are just embarking on a 2-3 year ERP journey. They are buying the unwritten mantra of ERP vendors “providing all things to all people,” which renders the monolith “ill-suited to a future that demands focus and [external connectivity](http://www.sunlike.com.cn/internet/onlineerp/images/Long%20live%20ERPII%20By%20Gartner%20Group.pdf).”
 
-**### Failure risk is high**
+**Failure risk is high**
 
 From a project management point of view, large scale projects such as ERP implementation carry a larger risk than smaller ones. As obvious as it sounds, ERP projects are a “[potential minefield](https://www.cio.com/article/3223729/project-management/when-to-kill-and-when-to-recover-a-failed-project.html)” because there are just more moving parts that need simultaneous attention. 
 
@@ -211,7 +211,7 @@ Take a look at the Uber app’s architecture consisting of these building blocks
 ![uber microservices]({{site.baseurl}}/images/img_microservices_uber.png)
 *Source: [Uber](https://eng.uber.com/soa/)*
 
-**### This doesn’t mean a solution is cobbled together**
+**This doesn’t mean a solution is cobbled together**
 
 An important distinction to make: a microservices architecture is **not** cobbling different software components together. 
 
@@ -227,7 +227,7 @@ APIs and their consistency is one of the crucial mechanisms to escape monoliths,
 
 Again using Uber as an example, one microservice that they have is for fetching up-to-date currency and exchange data. If the app was “cobbled” together, Uber wouldn’t be able to serve riders simultaneously paying in nearly 60 currencies around the world. 
 
-**### Monoliths vs. microservices**
+**Monoliths vs. microservices**
 
 Let’s bring it back and clarify the difference between the old and new paradigms - or monoliths and microservices.
 
@@ -248,7 +248,7 @@ Another often used analogy is the shipping container. This technology revolution
 
 Also just like a shipping container, it does not matter what the microservice contains, or even what computer language it was developed with. This containerisation has even become a class of technology which wraps a microservice, making it deployable to any computer environment. We also wrote about [container](http://blog.enabled.com.au/containers-devops/) as a technology in another post. 
 
-**### “Saasification”**
+**“Saasification”**
 
 Along with the rising popularity of cloud and microservices, don’t forget about SaaS (Software as a Service). SaaS is a subscription-based, delivered-over-the-Internet software model. 
 

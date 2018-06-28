@@ -39,7 +39,7 @@ Before that, Information Technology had never proved to be source of competitive
 
 And then software started “eating the world.” New technology players are gaining an advantage by configuring and investing in their own software, unique to them and accessible by no one else, and they are disrupting markets. 
 
-How has this happened? According to venture capital firm a16z, who coined the phrase “[software is eating the world](https://a16z.com/2016/08/20/why-software-is-eating-the-world/):”
+How has this happened? According to venture capital firm [a16z](https://a16z.com/2016/08/20/why-software-is-eating-the-world/), who coined the phrase “software is eating the world:”
 
 > “Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
 

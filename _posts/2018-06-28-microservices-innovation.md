@@ -364,11 +364,11 @@ Tying this back to competitive advantage, if companies are all using the industr
 
 Since we’ve talked about ERP a lot throughout this article, it is worth reiterating that ERP is not a piece of software. It is an activity or objective (hence the name). Thus, even without a single monolithic solution, businesses still want to conduct ERP activities. 
 
-As mentioned above, Gartner predicted the death of the ERP concept and introduced ERP II, not as another monolith, but the same activity now with a different strategy, which is basically a "loosely coupled and federated microservices ERP environment." 
+As mentioned above, Gartner predicted the death of the ERP concept and introduced [ERP II](http://www.sunlike.com.cn/internet/onlineerp/images/Long%20live%20ERPII%20By%20Gartner%20Group.pdf), not as another monolith, but the same activity now with a different strategy, which is basically a "loosely coupled and federated microservices ERP environment." 
 
 This environment gives enterprises the chance to make something powerful by combining best of breed SaaS products with their own custom microservices, all configured to their own unique business model and process, while still remaining agile enough to adjust according to customers’ demands. 
 
 Now, take that Silicon Valley startups!
 ____
 Curious about how your current IT system and architecture performs? Is it giving you a competitive edge? Talk to us for a technology audit where we walk you through a journey to map out the current situation and identify opportunities for innovation. 
-[May add a Typeform form] 
+

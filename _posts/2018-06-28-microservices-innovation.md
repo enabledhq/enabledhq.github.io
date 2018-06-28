@@ -165,17 +165,24 @@ The [cloud](https://aws.amazon.com/what-is-cloud-computing/) allows the “on-de
 For instance, back then Microsoft Office was an application that you installed and accessed locally on your computer. Now you can have the web-only version of Microsoft Office applications via Office 365, just like Google’s web-based G Suite products. 
 
 But, simply shifting a monolith to the cloud only means same ball and chain on a different computer – all the shortfalls of a monolith can remain.
+
 Mega software companies like Amazon, Google, Facebook and Netflix realised this problem. Their monoliths became so large and so distributed that they started facing unprecedented scale issues:  
-Their hardware and software requirements became too big to understand holistically by any one team
-The release of any one small feature required the release of the entire system, thus presenting a risk to their systems as a whole.
-Their employee and customer base became too distributed to manage centrally
-The arrival of mobile devices only exacerbated this dilemma, with multiple types of devices, models and operating systems to manage  
-New paradigms
+- Their hardware and software requirements became too big to understand holistically by any one team
+- The release of any one small feature required the release of the entire system, thus presenting a risk to their systems as a whole.
+- Their employee and customer base became too distributed to manage centrally
+- The arrival of mobile devices only exacerbated this dilemma, with multiple types of devices, models and operating systems to manage 
+
+## New paradigms
+
 As cloud computing means having no “real” computers, it creates computing power which is elastic and controlled by automated software, thereby increasing or decreasing with demand.
+
 This has led innovative companies to abandon massive teams building software monoliths, in favour of having smaller teams focused on building smaller, limited purpose software elements called Microservices.
+
 Microservices started as an architectural style whereby a specific, well-encapsulated domain area (or business capability) is developed as a suite of small services.
+
 The idea is the microservice dedicated to that capability, can become the best it could be. 
 Independently deployable, each of these microservices then communicate to each other via well-defined interfaces called Application Programming Interfaces (APIs).
+
 Take a look at the Uber app’s architecture consisting of these building blocks or microservices. 
 
 Source: Uber

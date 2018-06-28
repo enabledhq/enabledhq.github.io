@@ -312,38 +312,59 @@ With microservices, enterprises can now foster new business models and be adapti
 
 Enterprises can be more like Startups with high velocity deployment. They can launch a new service, a new business line or even a new startup to fend off other startups and incumbents.
 
-A McKinsey article discusses how fostering a culture of experimentation is vital to keep large enterprises going in today’s fast moving world. Microservices is the enabler of experimentation.
+A McKinsey article discusses how fostering a culture of [experimentation](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-big-companies-can-innovate) is vital to keep large enterprises going in today’s fast moving world. Microservices is the enabler of experimentation.
 
-For example, fast moving realestate.com.au has started the shift from monolithic to microservices architecture since 2014. They have had gradual replacement of key services such as the “sold” section and the buyer’s section to better serve customers’ needs. 
+For example, fast moving realestate.com.au has started the shift from monolithic to [microservices architecture](https://www.computerworld.com.au/article/634277/rea-group-works-re-platforming-realestate-com-au/) since 2014. They have had gradual replacement of key services such as the “sold” section and the buyer’s section to better serve customers’ needs. 
 
 Moreover, the nimble infrastructure has allowed REA group (operator of realestate.com.au) to release a world-first innovation in partnership with NAB. The idea was to “bring property search and finance together in a single platform.” This kind of integration would have been problematic if both sides had a cumbersome ERP to navigate.
+
 Instead, “the functionality is mostly enabled using microservices that run on AWS infrastructure.”
 
 Users searching on realestate.com.au now see the home loan add-on
-Take risks and disrupt without causing chaos
+
+# Take risks and disrupt without causing chaos
+
 Startups naturally have a higher propensity for risk taking as they have less to lose than their enterprise counterparts. However, high-performing corporates are twice as likely to report being risk-seeking compared to low performers.
 
 So smart disruptors and innovators are always looking for ways to solve their customers’ problems faster and better. To wrap this up, let’s re-examine how they are taking advantage of new technology and view enterprise IT differently.
-Choose your investment wisely
+
+## Choose your investment wisely
+
 The adage is “every company is now a technology company,” yet “sometimes the way firms manage IT spend is the problem.”
+
 Despite fear of disruption, most enterprise innovation budget goes to continuous improvements of existing processes and products, i.e. the small stuff.
+
 So putting in an industry-standard ERP system is not exactly going to help you disrupt the market as it is mostly about efficiency. The irony is, ERP system is not “the small stuff” in size.
+
 Meanwhile, high-performing companies tend to invest more in empowering and disruptive innovation. Cloud and microservices architecture are enablers of this, as well as the efficiency innovations that most enterprises focus on. 
+
 Leaders are already moving fast into the new software paradigm: small stuff in size, yet big in impact. Industrial giant GE (mentioned at the start of this article) transformed itself into a digital organisation, stayed on top of progress in cloud and microservices architecture, and ranked 18th in BCG’s annual list of the most innovative companies.
-Why have trade-offs?
+
+## Why have trade-offs?
+
 High performing companies don’t do trade-offs between speed and performance. 
+
 Toyota didn’t win by making cars faster, they won by making high quality cars faster. In a sense, making software shares some similarities to manufacturing, as lean methodologies can be applied. 
-If interested, you can listen to the rest of the debate in this podcast by venture firm a16z. 
+If interested, you can listen to the rest of the debate in this podcast by venture firm a16z.
+
 While companies are spending all their efforts, time, and money trying to roll out and customise their ERP, the competitors are focusing on new offerings that meet customer expectations. In fact, 60% of companies take a year or longer to create new products. Within that time, new startups or competitors could crop up. 
+
 Let’s look at China’s equivalent of Facebook - WeChat - which runs on 2K+ microservices. They are constantly innovating, with impressive growth and a portfolio of services. WeChat users basically manage all the necessary aspects of their lives through the app: from messaging, to payments, shopping, and hailing taxis, etc. 
+
 To have such scale without compromising on reliability and agility, their microservices architecture plays a crucial role.
 
-WeChat microservices architecture
-Make something unique
+*WeChat microservices architecture*
+
+## Make something unique
+
 Tying this back to competitive advantage, if companies are all using the industry standard ERP or any enterprise-grade system, they have a point of parity and rarely a point of difference.  
+
 Since we’ve talked about ERP a lot throughout this article, it is worth reiterating that ERP is not a piece of software. It is an activity or objective (hence the name). Thus, even without a single monolithic solution, businesses still want to conduct ERP activities. 
+
 As mentioned above, Gartner predicted the death of the ERP concept and introduced ERP II, not as another monolith, but the same activity now with a different strategy, which is basically a "loosely coupled and federated microservices ERP environment." 
+
 This environment gives enterprises the chance to make something powerful by combining best of breed SaaS products with their own custom microservices, all configured to their own unique business model and process, while still remaining agile enough to adjust according to customers’ demands. 
+
 Now, take that Silicon Valley startups!
 ____
 Curious about how your current IT system and architecture performs? Is it giving you a competitive edge? Talk to us for a technology audit where we walk you through a journey to map out the current situation and identify opportunities for innovation. 

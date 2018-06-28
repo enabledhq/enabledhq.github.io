@@ -252,38 +252,68 @@ This [postmodern ERP](https://www.theregister.co.uk/2016/03/02/postmodern_erp_di
 Why?
 
 Because many vendors themselves cannot do anything to combat the shift. They are trapped between needing to move to the new and getting caught in a sunk cost fallacy, i.e. they don’t want to abandon their existing software asset. This is very similar to the simplified story of Blockbuster not wanting to give up their DVD stores, then ultimately going out of business because of the faster-moving Netflix. 
+
 Guilty of putting self-interest ahead of their customers, these software vendors must raise their game or risk being shunned by their enterprise clients who increasingly demand value in less than two years.
+
 And don’t be fooled by many who claim to provide so-called cloud ERP - these are often released by the same vendors and built by the same software architects of their legacy monoliths. 
+
 How can someone say they help their client with “digital transformation” when all they do is repackage an aging ERP system? It’s merely the same ball and chain on a different computer. 
-Benefits of microservices
+
+# Benefits of microservices
+
 Meanwhile, the innovative companies who have understood these shifts, are already reaping benefits from microservices in a number of ways.  
-Efficiency 
-Microservices are reusable and interchangeable, which makes replacement with new pieces much easier than fixing the whole monolith. It provides an evolutionary architecture that can grow and adapt to the changing business landscape.    
+
+## Efficiency 
+
+Microservices are reusable and interchangeable, which makes replacement with new pieces much easier than fixing the whole monolith. It provides an evolutionary architecture that can grow and adapt to the changing business landscape.  
+
 For instance, if your business intelligence dashboard is no longer meeting your needs, you can swap it out for another more suitable option without breaking the whole system. 
 
-Source: Red Badger
-Consider this excerpt from Terry Pratchett’s book, The Fifth Elephant:
+![microservices benefits]({{site.baseurl}}/images/img_microservices_cube.jpg)
+
+*Source: [Red Badger](https://blog.red-badger.com/blog/deploy-a-microservices-application-as-though-it-was-a-monolith)*
+
+Consider this excerpt from Terry Pratchett’s book, [The Fifth Elephant](https://www.goodreads.com/book/show/63720.The_Fifth_Elephant):
+
 “This, milord, is my family's axe. We have owned it for almost nine hundred years, see. Of course, sometimes it needed a new blade. And sometimes it has required a new handle, new designs on the metalwork, a little refreshing of the ornamentation . . . but is this not the nine hundred-year-old axe of my family? And because it has changed gently over time, it is still a pretty good axe, y'know. Pretty good.”
+
 The axe is modular: blade, handle, ornamentation. As one of these wears out, it can be swapped for a new or better option. Today, the wooden handle could be replaced with a more impact absorbing fiberglass option. Eventually for the blade, you might go for a hardened titanium core with a carbide-tungsten edge, sandwiched between two layers of carbon fibre. 
+
 Enterprises can realise cost savings and become far more resilient by leveraging the underlying modular nature of microservices.
-Contrast this with the traditional IT governance environment where enterprises want to standardise as much as possible to maximise resource sharing. Thus, they tend to build a list of the most complex possible use cases and try to buy a single tool to account for all scenarios.  Think building a “what if” shopping list.
+
+Contrast this with the traditional [IT governance](https://www.thoughtworks.com/insights/blog/cxo-guide-microservices) environment where enterprises want to standardise as much as possible to maximise resource sharing. Thus, they tend to build a list of the most complex possible use cases and try to buy a single tool to account for all scenarios.  Think building a “what if” shopping list.
+
 For example, a team might only need a simple data store without sophisticated query functionality. But they still have to settle with an industrial strength database server, which presents unnecessary complexity, inefficiency and much larger licencing fees. 
+
 Microservices are also designed for risk mitigation/management:
-Less likely for an application to have a single point of failure because functionality is dispersed across multiple services 
-Hence, applications can perform better and have less downtime
+
+- Less likely for an application to have a single point of failure because functionality is dispersed across multiple services 
+- Hence, applications can perform better and have less downtime
+
 For businesses with lots of branches or subsidiaries, microservices architecture can help reduce time and costs, while still making sure it works seamlessly. 
+
 For example, multinational conglomerate Coca-Cola moved away from on-premise software to microservices, which has helped them create great customer experience.
+
 If interested, you can watch this webinar where Coca-Cola’s tech people talked about this microservices implementation journey.
-Incremental improvements
+
+## Incremental improvements
+
 Any microservice-oriented software enjoys the ability to incrementally enhance with superior agility. How? As mentioned above, microservices are independently replaceable, thus upgrades to the modular components can be done in a very agile manner. Therefore: 
-Custom software projects are easier, shorter, faster to realise, and simpler to understand
-With continuous improvements, customer retention and engagement can also increases as you can rapidly adapt to their needs or because of their behaviours. 
-A less obvious impact on human resources is you might attract and retain more talented engineers. As microservices enables you to incrementally adopt and test new technologies, which is what good engineers want to do, and when they cannot, they will leave. This is in fact what is happening with many monolith vendors, with good talent leaking away, they leave behind those stuck in the old paradigms. 
-Empowering innovations
+
+- Custom software projects are easier, shorter, faster to realise, and simpler to understand
+- With continuous improvements, customer retention and engagement can also increases as you can rapidly adapt to their needs or because of their behaviours. 
+- A less obvious impact on human resources is you might attract and retain more talented engineers. As microservices enables you to incrementally adopt and test new technologies, which is what good engineers want to do, and when they cannot, they will leave. This is in fact what is happening with many monolith vendors, with good talent leaking away, they leave behind those stuck in the old paradigms.
+
+# Empowering innovations
+
 With microservices, enterprises can now foster new business models and be adaptive to the changing needs of customers and employees.
-Enterprises can be more like Startups with high velocity deployment. They can launch a new service, a new business line or even a new startup to fend off other startups and incumbents.  
-A McKinsey article discusses how fostering a culture of experimentation is vital to keep large enterprises going in today’s fast moving world. Microservices is the enabler of experimentation. 
+
+Enterprises can be more like Startups with high velocity deployment. They can launch a new service, a new business line or even a new startup to fend off other startups and incumbents.
+
+A McKinsey article discusses how fostering a culture of experimentation is vital to keep large enterprises going in today’s fast moving world. Microservices is the enabler of experimentation.
+
 For example, fast moving realestate.com.au has started the shift from monolithic to microservices architecture since 2014. They have had gradual replacement of key services such as the “sold” section and the buyer’s section to better serve customers’ needs. 
+
 Moreover, the nimble infrastructure has allowed REA group (operator of realestate.com.au) to release a world-first innovation in partnership with NAB. The idea was to “bring property search and finance together in a single platform.” This kind of integration would have been problematic if both sides had a cumbersome ERP to navigate.
 Instead, “the functionality is mostly enabled using microservices that run on AWS infrastructure.”
 

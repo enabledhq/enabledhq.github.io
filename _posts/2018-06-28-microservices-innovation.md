@@ -46,49 +46,73 @@ If all customers have this power over your brand, it is no longer about being ab
 
 Those businesses who can tweak and adapt their business models quickly have a better opportunity to grab market share and maintain a competitive edge.
 
-The latest survey on the state of corporate innovation notes that high-performing companies were 3x more likely to strive for first-mover advantage, i.e. they understood the importance of speed.
+The latest survey on the state of [corporate innovation](https://www.cbinsights.com/research-aw-state-of-innovation-report) notes that high-performing companies were 3x more likely to strive for first-mover advantage, i.e. they understood the importance of speed.
 Today, this is more important than ever, as leveraging the internet can enable speed of scale, while significantly reducing costs. Think about how much easier it is to set up a news website than it was to start a newspaper. 
 
 Failure to recognise the importance of speed, adaptability and agility will have a highly detrimental impact on a business’ success. For example, a business may be coasting along just fine and seemingly within a couple of weeks, their business model has been severely challenged, and possibly even disrupted. 
 
-Think taxis and Uber, travel agents and comparison sites, DVD rentals and Netflix etc. You can read more about business model disruption in our article on digital transformation. 
+Think taxis and Uber, travel agents and comparison sites, DVD rentals and Netflix etc. You can read more about business model disruption in our article on [digital transformation](http://blog.enabled.com.au/digital-transformation/). 
 
+![digital disruption]({{site.baseurl}}/images/img_digitrans_disruption.png)
 *Source: McKinsey*
 
 ---
 So what are businesses doing in the face of changing customer demands and tech advancements? Fundamentally, there are two contrasting groups in terms of how they use digital technology. For the sake of this article we will label them as follows:
-Enterprises: existing incumbents in their industry, who are mostly non-tech companies
-Startups: digital natives trying to displace the incumbents
-Enterprises
+
+- Enterprises: existing incumbents in their industry, who are mostly non-tech companies
+- Startups: digital natives trying to displace the incumbents
+
+# Enterprises
+
 Corporate Enterprises have all-encompassing IT systems, most often purchased through ‘proven’ vendors.
+
 These systems are employed to solve internal problems and optimise according to industry standards and perceived best practice. 
+
 As shown in the graph below, those purchasing any of the available off-the-shelf Enterprise grade software will only receive the basic functionality required by their industry. 
 
 Thus this methodology raises two key issues:
-Using the industry standard makes you standard in the industry
-Following what is labled ‘best practices’ may only mean watering down your competitive advantage
+
+- Using the industry standard makes you standard in the industry
+- Following what is labled ‘best practices’ may only mean watering down your competitive advantage
+
 This means enterprises:
-Cannot create a point of difference for their customers
-Struggle to keep up with shifts in customer preferences and behaviours
+
+- Cannot create a point of difference for their customers
+- Struggle to keep up with shifts in customer preferences and behaviours
 
 Best practices, or more accurately understood as common practices here, will only get enterprises so far. Then to try and gain a competitive advantage or address a change in customer preference, enterprises may work hard to customise restrictive out-of-the-box software. 
 
 Unfortunately this generally leads to added complexity, time, and cost to IT budgets, making competitive advantage an elusive goal. This is where most of the unpredictability and risks of enterprise system implementations lie, yet it is the most commonly accepted practice.   
-Startups
+
+# Startups
+
 In contrast to Enterprises, successful Startups don’t use IT to support their business. Rather, they focus on customer problems that can be tackled through any means they have, which is usually software.
+
 They orientate around a small set of problems and, starting with a clean slate, they optimise to solve them really well.
+
 Unencumbered by the concept of industry best practice, Startups are equipped to invent business models that have never been seen before which can disrupt existing business models. 
+
 Again using examples of well-known successful startups: Netflix invented the on-demand movie streaming model, Uber invented the on-demand ride hailing model, Amazon invented the on-demand ebook publishing model.
+
 Let’s contrast these two approaches:
-Enterprises solve their own problems with IT
-Startups solve customers’ problems with software
+
+- Enterprises solve their own problems with IT
+- Startups solve customers’ problems with software
+
 Which is more powerful? 
-“Take your eyes off the problem (customers’ problems) and soon a competitor will be solving it better.”
-How did this divide happen?
-The enterprise software journey
+
+> “Take your eyes off the problem (customers’ problems) and soon a competitor will be solving it better."
+
+# How did this divide happen?
+
+## The enterprise software journey
+
 A few decades ago, software started as ‘single purpose’ often aligned with a single business function, e.g. finance.
-Over time, other software arrived to benefit more business functions. These software applications were separate and poorly connected, which meant passing data between them was hard. In the beginning they were separated because connecting the physical computers was hard. Applications and the data they created would be passed on physical media like cards and discs. 
+
+Over time, other software arrived to benefit more business functions. These software applications were separate and poorly connected, which meant passing data between them was hard. In the beginning, they were separated because connecting the physical computers was hard. Applications and the data they created would be passed on physical media like cards and discs. 
+
 Software was expensive to buy and maintain. Updates required major work and carried risk to the systems’ availability.
+
 These factors made dealing with a single vendor appealing, which in turn motivated single software vendors to address multiple business functions.
 This desire for integration turned functionally discrete software applications into monoliths intended to do everything for the enterprise.
 The epitome of the enterprise monolith is the Enterprise Resource Planning (ERP) system.

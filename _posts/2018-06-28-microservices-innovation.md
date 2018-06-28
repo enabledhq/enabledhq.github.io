@@ -54,7 +54,7 @@ Failure to recognise the importance of speed, adaptability and agility will have
 Think taxis and Uber, travel agents and comparison sites, DVD rentals and Netflix etc. You can read more about business model disruption in our article on [digital transformation](http://blog.enabled.com.au/digital-transformation/). 
 
 ![digital disruption]({{site.baseurl}}/images/img_digitrans_disruption.png)
-*Source: McKinsey*
+*Source: [McKinsey](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/an-incumbents-guide-to-digital-disruption)*
 
 ---
 So what are businesses doing in the face of changing customer demands and tech advancements? Fundamentally, there are two contrasting groups in terms of how they use digital technology. For the sake of this article we will label them as follows:
@@ -70,6 +70,8 @@ These systems are employed to solve internal problems and optimise according to 
 
 As shown in the graph below, those purchasing any of the available off-the-shelf Enterprise grade software will only receive the basic functionality required by their industry. 
 
+![competitive advantage enterprise software]({{site.baseurl}}/images/img_microservices_compadvantage.png)
+
 Thus this methodology raises two key issues:
 
 - Using the industry standard makes you standard in the industry
@@ -82,7 +84,7 @@ This means enterprises:
 
 Best practices, or more accurately understood as common practices here, will only get enterprises so far. Then to try and gain a competitive advantage or address a change in customer preference, enterprises may work hard to customise restrictive out-of-the-box software. 
 
-Unfortunately this generally leads to added complexity, time, and cost to IT budgets, making competitive advantage an elusive goal. This is where most of the unpredictability and risks of enterprise system implementations lie, yet it is the most commonly accepted practice.   
+Unfortunately, this generally leads to added complexity, time, and cost to IT budgets, making competitive advantage an elusive goal. This is where most of the unpredictability and risks of enterprise system implementations lie, yet it is the most commonly accepted practice.   
 
 # Startups
 
@@ -96,8 +98,8 @@ Again using examples of well-known successful startups: Netflix invented the on-
 
 Let’s contrast these two approaches:
 
-- Enterprises solve their own problems with IT
-- Startups solve customers’ problems with software
+- Enterprises solve their **own** problems with IT
+- Startups solve **customers**’ problems with software
 
 Which is more powerful? 
 
@@ -107,25 +109,33 @@ Which is more powerful?
 
 ## The enterprise software journey
 
-A few decades ago, software started as ‘single purpose’ often aligned with a single business function, e.g. finance.
+A few decades ago, software started as ‘single purpose’ often aligned with a **single** business function, e.g. finance.
 
 Over time, other software arrived to benefit more business functions. These software applications were separate and poorly connected, which meant passing data between them was hard. In the beginning, they were separated because connecting the physical computers was hard. Applications and the data they created would be passed on physical media like cards and discs. 
 
 Software was expensive to buy and maintain. Updates required major work and carried risk to the systems’ availability.
 
-These factors made dealing with a single vendor appealing, which in turn motivated single software vendors to address multiple business functions.
+These factors made dealing with a **single vendor** appealing, which in turn motivated single software vendors to address multiple business functions.
+
 This desire for integration turned functionally discrete software applications into monoliths intended to do everything for the enterprise.
+
 The epitome of the enterprise monolith is the Enterprise Resource Planning (ERP) system.
-Monolith of the ERP kind
+
+## Monolith of the ERP kind
+
 ERPs were meant to realise efficiencies by sharing information across business functions and organising this information into a central place for decision making.
+
 ERPs have instead become the ‘ball and chain’ of Enterprise:
-They are expensive, consuming time and budgets 
-They are too rigid to adapt, and thus too slow to gain advantage
-Often no one person fully understands the system, yet this is almost a requirement
-They are not created on open standards, thus talented staff pools are restrictive
-They can be complex so users are motivated to find other ways of getting business done outside these systems (often sticking with more manually intensive and error prone paper methods)
-They still remain orientated to business functions, rather than being customer-oriented. (Read more on the Jobs to be done framework, a customer-oriented approach to product development including software)
-Customisation is very hard
+
+- They are expensive, consuming time and budgets 
+- They are too rigid to adapt, and thus too slow to gain advantage
+- Often no one person fully understands the system, yet this is almost a requirement
+- They are not created on open standards, thus talented staff pools are restrictive
+- They can be complex so users are motivated to find other ways of getting business done outside these systems (often sticking with more manually intensive and error prone paper methods)
+- They still remain orientated to business functions, rather than being customer-oriented. (Read more on the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, a customer-oriented approach to product development including software)
+
+## Customisation is very hard
+
 Monolith software by nature assumes they have all things covered in one application. Moreover, ERP providers may not be motivated to allow other software to work with it, as it is “cutting their lunch.” 
 Enterprises must rely on a limited supply of domain experts: you either need to get in line and pay through the nose to make a change, or employ and maintain dedicated people.
 Note that monoliths are not exclusively ERPs. Some website content management systems (CMS) and customer relationship systems (CRM) fit the Monolith description and are equally as burdensome.

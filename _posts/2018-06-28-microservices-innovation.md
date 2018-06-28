@@ -164,7 +164,7 @@ The [cloud](https://aws.amazon.com/what-is-cloud-computing/) allows the “on-de
 
 For instance, back then Microsoft Office was an application that you installed and accessed locally on your computer. Now you can have the web-only version of Microsoft Office applications via Office 365, just like Google’s web-based G Suite products. 
 
-But, simply shifting a monolith to the cloud only means same ball and chain on a different computer – all the shortfalls of a monolith can remain.
+But, simply shifting a monolith to the cloud only means same ball and chain on a different computer – **all the shortfalls of a monolith can remain**.
 
 Mega software companies like Amazon, Google, Facebook and Netflix realised this problem. Their monoliths became so large and so distributed that they started facing unprecedented scale issues:  
 - Their hardware and software requirements became too big to understand holistically by any one team
@@ -178,33 +178,56 @@ As cloud computing means having no “real” computers, it creates computing po
 
 This has led innovative companies to abandon massive teams building software monoliths, in favour of having smaller teams focused on building smaller, limited purpose software elements called Microservices.
 
-Microservices started as an architectural style whereby a specific, well-encapsulated domain area (or business capability) is developed as a suite of small services.
+[Microservices](http://www.itprotoday.com/business-resources/it-innovators-are-microservices-enabling-hybrid-cloud) started as an architectural style whereby a specific, well-encapsulated domain area (or business capability) is developed as a suite of small services.
 
 The idea is the microservice dedicated to that capability, can become the best it could be. 
 Independently deployable, each of these microservices then communicate to each other via well-defined interfaces called Application Programming Interfaces (APIs).
 
 Take a look at the Uber app’s architecture consisting of these building blocks or microservices. 
 
-Source: Uber
-This doesn’t mean a solution is cobbled together
-An important distinction to make: a microservices architecture is not cobbling different software components together. 
+![uber microservices]({{site.baseurl}}/images/img_microservices_uber.png)
+
+*Source: [Uber](https://eng.uber.com/soa/)*
+
+### This doesn’t mean a solution is cobbled together
+
+An important distinction to make: a microservices architecture is **not** cobbling different software components together. 
+
 For instance, it is not the case of using a piece of software over here, then exporting some data into a spreadsheet or CSV only to import it into another piece of software. 
+
 In the scenario above, there is no agreement between the two independent softwares to maintain any consistency, thus if one on either side makes a small change, even as small as renaming the column name in your spreadsheet, the whole process will break. 
+
 Whereas with the microservices architecture, these small components are independent and loosely coupled through an agreement to keep a consistent entry and exit point to their software via a documented API. 
+
 Thus, microservices talk to each other via these APIs to ensure the business operation is seamless and real time. 
+
 APIs and their consistency is one of the crucial mechanisms to escape monoliths, as they essentially are the “contract” between microservices.
+
 Again using Uber as an example, one microservice that they have is for fetching up-to-date currency and exchange data. If the app was “cobbled” together, Uber wouldn’t be able to serve riders simultaneously paying in nearly 60 currencies around the world. 
-Monoliths vs. microservices
+
+### Monoliths vs. microservices
+
 Let’s bring it back and clarify the difference between the old and new paradigms - or monoliths and microservices.
-Using a food analogy, we have monolith software as spaghetti. It is an integrated meal with two main parts, the noodle and the sauce. 
+
+Using a food analogy, we have monolith software as spaghetti. It is an **integrated** meal with two main parts, the noodle and the sauce. 
+
 Although the dish is somewhat customisable at its construction with different pasta shapes or a different sauce, once constructed, it is impractical to swap one of the components out for another as they are too tightly integrated. For instance, once you discover that your dinner guest is gluten intolerant, you cannot adapt quickly to their needs.
-A transitional state called Service Oriented Architecture (SOA) is an improvement over a single Monolith. The services here still have to be carefully shaped to work with the overall solution. Think more of swapping one slice of cake out for another of the same size and shape. Unfortunately, SOA is still dominated by vendor lock-in, meaning you could only use cake slices from the one cake store.
+
+A transitional state called Service Oriented Architecture (SOA) is an improvement over a single Monolith. The services here still have to be carefully shaped to work with the overall solution. Think more of swapping one slice of cake out for another of the same size and shape. 
+
+Unfortunately, SOA is still dominated by vendor lock-in, meaning you could only use cake slices from the one cake store.
+
 On the other hand, microservices could be considered a box of donuts. No trouble with gluten intolerance here as functionally, one could be swapped out for a wheat-free chocolate brownie, or even a piece of fruit. The key is: they have no dependence on each other, they are self-contained pieces of software tackling a very discrete function.
  
-Source: DZone
+ ![microservices analogy ]({{site.baseurl}}/images/img_microservices_donuts.png)![img_microservices_donuts.png]({{site.baseurl}}/images/img_microservices_donuts.png)
+*Source: [DZone](https://dzone.com/articles/what-are-microservices-actually)*
+
 Another often used analogy is the shipping container. This technology revolutionised the shipping of goods. The shape of the goods no longer mattered, as long as they could be placed in a container, they could be moved through a set of standardised interfaces, or APIs in our analogy. 
+
 Also just like a shipping container, it does not matter what the microservice contains, or even what computer language it was developed with. This containerisation has even become a class of technology which wraps a microservice, making it deployable to any computer environment. We also wrote about container as a technology in another post. 
-“Saasification”
+
+### “Saasification”
+
 Along with the rising popularity of cloud and microservices, don’t forget about SaaS (Software as a Service). SaaS is a subscription-based, delivered-over-the-Internet software model. 
 It is possible today to find very large SaaS offerings that could almost be considered to be monoliths. For instance, the Salesforce CRM is an enterprise-grade SaaS product that comes close to being a monolith, yet it does within its own suite of applications, implement strong APIs providing some microservice benefits. 
 That said, there are many micro-SaaS applications that are almost microservices in themselves and have very strong APIs that can be used by other applications.

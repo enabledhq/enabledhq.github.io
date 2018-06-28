@@ -224,23 +224,33 @@ On the other hand, microservices could be considered a box of donuts. No trouble
 
 Another often used analogy is the shipping container. This technology revolutionised the shipping of goods. The shape of the goods no longer mattered, as long as they could be placed in a container, they could be moved through a set of standardised interfaces, or APIs in our analogy. 
 
-Also just like a shipping container, it does not matter what the microservice contains, or even what computer language it was developed with. This containerisation has even become a class of technology which wraps a microservice, making it deployable to any computer environment. We also wrote about container as a technology in another post. 
+Also just like a shipping container, it does not matter what the microservice contains, or even what computer language it was developed with. This containerisation has even become a class of technology which wraps a microservice, making it deployable to any computer environment. We also wrote about [container](http://blog.enabled.com.au/containers-devops/) as a technology in another post. 
 
 ### “Saasification”
 
 Along with the rising popularity of cloud and microservices, don’t forget about SaaS (Software as a Service). SaaS is a subscription-based, delivered-over-the-Internet software model. 
+
 It is possible today to find very large SaaS offerings that could almost be considered to be monoliths. For instance, the Salesforce CRM is an enterprise-grade SaaS product that comes close to being a monolith, yet it does within its own suite of applications, implement strong APIs providing some microservice benefits. 
+
 That said, there are many micro-SaaS applications that are almost microservices in themselves and have very strong APIs that can be used by other applications.
-For instance, besides their own custom services that make up their app, Uber has used a bunch of 3rd party SaaS applications for different business capabilities:
-Google Maps for location and navigation services
-Twilio for SMS notifications
-Braintree for payment processing
-SendGrid for automating email campaigns
-What are big software vendors doing to combat this shift?
-Note: we used the word “combat” rather than “adapt” or even “embrace.” Microservices are seen as a threat by many incumbent software vendors than a better way of benefiting customers.
-Any ERP software vendor who started 10 years ago may still be trapped trying to transition in methods and technology. With customers locked in, they may not even be motivated or able to transition to the postmodern ERP world. 
-This postmodern ERP world presents complexity and a high failure rate for those who “assume the vendors peddling cloud will take care of it. When – inevitably – they don't.” 
+
+For instance, besides their own custom services that make up their app, [Uber](https://nordicapis.com/4-apps-rely-apis-survival/) has used a bunch of 3rd party SaaS applications for different business capabilities:
+
+- Google Maps for location and navigation services
+- Twilio for SMS notifications
+- Braintree for payment processing
+- SendGrid for automating email campaigns
+
+# What are big software vendors doing to combat this shift?
+
+**Note:** we used the word “combat” rather than “adapt” or even “embrace.” Microservices are seen as a threat by many incumbent software vendors than a better way of benefiting customers.
+
+Any ERP software vendor who started 10 years ago may still be trapped trying to transition in methods and technology. With customers locked in, they may not even be motivated or able to transition to the [postmodern ERP](https://www.gartner.com/newsroom/id/3233217) world. 
+
+This [postmodern ERP](https://www.theregister.co.uk/2016/03/02/postmodern_erp_disaster_gartner/) world presents complexity and a high failure rate for those who “assume the vendors peddling cloud will take care of it. When – inevitably – they don't.” 
+
 Why?
+
 Because many vendors themselves cannot do anything to combat the shift. They are trapped between needing to move to the new and getting caught in a sunk cost fallacy, i.e. they don’t want to abandon their existing software asset. This is very similar to the simplified story of Blockbuster not wanting to give up their DVD stores, then ultimately going out of business because of the faster-moving Netflix. 
 Guilty of putting self-interest ahead of their customers, these software vendors must raise their game or risk being shunned by their enterprise clients who increasingly demand value in less than two years.
 And don’t be fooled by many who claim to provide so-called cloud ERP - these are often released by the same vendors and built by the same software architects of their legacy monoliths. 

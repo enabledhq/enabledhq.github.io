@@ -321,40 +321,42 @@ Moreover, the nimble infrastructure has allowed REA group (operator of realestat
 Instead, “the functionality is mostly enabled using [microservices](https://www.itnews.com.au/news/how-rea-and-nab-made-their-tech-work-together-478836) that run on AWS infrastructure.”
 
 ![realestate.com.au microservices NAB app]({{site.baseurl}}/images/img_microservices_realestate.jpg)
-*Users searching on realestate.com.au now see the home loan add-on*
+*Users searching on [realestate.com.au](https://itunes.apple.com/au/app/realestate-com-au-property/id404667893?mt=8) now see the home loan add-on*
 
 # Take risks and disrupt without causing chaos
 
-Startups naturally have a higher propensity for risk taking as they have less to lose than their enterprise counterparts. However, high-performing corporates are twice as likely to report being risk-seeking compared to low performers.
+Startups naturally have a higher propensity for risk taking as they have less to lose than their enterprise counterparts. However, high-performing corporates are twice as likely to report being [risk-seeking](https://www.cbinsights.com/research-aw-state-of-innovation-report) compared to low performers.
 
 So smart disruptors and innovators are always looking for ways to solve their customers’ problems faster and better. To wrap this up, let’s re-examine how they are taking advantage of new technology and view enterprise IT differently.
 
 ## Choose your investment wisely
 
-The adage is “every company is now a technology company,” yet “sometimes the way firms manage IT spend is the problem.”
+The adage is “every company is now a [technology company](https://www.cnbc.com/2017/08/10/every-company-is-a-tech-company-including-blue-apron.html),” yet “sometimes the way firms manage [IT spend](https://www.pwc.com/gx/en/industries/technology/publications/global-100-software-leaders/software-disruption-accelerates.html) is the problem.”
 
 Despite fear of disruption, most enterprise innovation budget goes to continuous improvements of existing processes and products, i.e. the small stuff.
 
 So putting in an industry-standard ERP system is not exactly going to help you disrupt the market as it is mostly about efficiency. The irony is, ERP system is not “the small stuff” in size.
 
-Meanwhile, high-performing companies tend to invest more in empowering and disruptive innovation. Cloud and microservices architecture are enablers of this, as well as the efficiency innovations that most enterprises focus on. 
+Meanwhile, high-performing companies tend to invest more in empowering and [disruptive innovation](https://www.cbinsights.com/research-aw-state-of-innovation-report). Cloud and microservices architecture are enablers of this, as well as the efficiency innovations that most enterprises focus on. 
 
-Leaders are already moving fast into the new software paradigm: small stuff in size, yet big in impact. Industrial giant GE (mentioned at the start of this article) transformed itself into a digital organisation, stayed on top of progress in cloud and microservices architecture, and ranked 18th in BCG’s annual list of the most innovative companies.
+Leaders are already moving fast into the new software paradigm: small stuff in size, yet big in impact. Industrial giant GE (mentioned at the start of this article) transformed itself into a digital organisation, stayed on top of progress in [cloud and microservices](https://www.ge.com/digital/blog/reimagining-cloud-infrastructure-industrial-internet-things) architecture, and ranked 18th in [BCG](https://www.bcg.com/en-au/publications/collections/most-innovative-companies-2018.aspx)’s annual list of the most innovative companies.
 
 ## Why have trade-offs?
 
 High performing companies don’t do trade-offs between speed and performance. 
 
 Toyota didn’t win by making cars faster, they won by making high quality cars faster. In a sense, making software shares some similarities to manufacturing, as lean methodologies can be applied. 
-If interested, you can listen to the rest of the debate in this podcast by venture firm a16z.
 
-While companies are spending all their efforts, time, and money trying to roll out and customise their ERP, the competitors are focusing on new offerings that meet customer expectations. In fact, 60% of companies take a year or longer to create new products. Within that time, new startups or competitors could crop up. 
+If interested, you can listen to the rest of the debate in this [podcast](https://a16z.com/2018/03/28/devops-org-change-software-performance/) by venture firm a16z.
+
+While companies are spending all their efforts, time, and money trying to roll out and customise their ERP, the competitors are focusing on new offerings that meet customer expectations. In fact, 60% of companies take a year or longer to create [new products](https://www.cbinsights.com/research-aw-state-of-innovation-report). Within that time, new startups or competitors could crop up. 
 
 Let’s look at China’s equivalent of Facebook - WeChat - which runs on 2K+ microservices. They are constantly innovating, with impressive growth and a portfolio of services. WeChat users basically manage all the necessary aspects of their lives through the app: from messaging, to payments, shopping, and hailing taxis, etc. 
 
 To have such scale without compromising on reliability and agility, their microservices architecture plays a crucial role.
 
-*WeChat microservices architecture*
+![microservices WeChat]({{site.baseurl}}/images/img_microservices_wechat.png)
+*WeChat [microservices architecture](https://arxiv.org/pdf/1806.04075.pdf)*
 
 ## Make something unique
 

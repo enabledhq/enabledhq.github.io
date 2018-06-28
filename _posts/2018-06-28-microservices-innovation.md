@@ -157,7 +157,7 @@ ERPs have instead become the ‘ball and chain’ of Enterprise:
 - They can be complex so users are motivated to find other ways of getting business done outside these systems (often sticking with more manually intensive and error prone paper methods)
 - They still remain orientated to business functions, rather than being customer-oriented. (Read more on the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, a customer-oriented approach to product development including software)
 
-### Customisation is very hard
+**### Customisation is very hard**
 
 Monolith software by nature assumes they have all things covered in one application. Moreover, ERP providers may not be motivated to allow other software to work with it, as it is “cutting their lunch.” 
 
@@ -169,7 +169,7 @@ In 2000, the Gartner Research Group predicted that by 2018, the concept of using
 
 Yet today many companies are just embarking on a 2-3 year ERP journey. They are buying the unwritten mantra of ERP vendors “providing all things to all people,” which renders the monolith “ill-suited to a future that demands focus and [external connectivity](http://www.sunlike.com.cn/internet/onlineerp/images/Long%20live%20ERPII%20By%20Gartner%20Group.pdf).”
 
-### Failure risk is high
+**### Failure risk is high**
 
 From a project management point of view, large scale projects such as ERP implementation carry a larger risk than smaller ones. As obvious as it sounds, ERP projects are a “[potential minefield](https://www.cio.com/article/3223729/project-management/when-to-kill-and-when-to-recover-a-failed-project.html)” because there are just more moving parts that need simultaneous attention. 
 
@@ -209,10 +209,9 @@ Independently deployable, each of these microservices then communicate to each o
 Take a look at the Uber app’s architecture consisting of these building blocks or microservices. 
 
 ![uber microservices]({{site.baseurl}}/images/img_microservices_uber.png)
-
 *Source: [Uber](https://eng.uber.com/soa/)*
 
-### This doesn’t mean a solution is cobbled together
+**### This doesn’t mean a solution is cobbled together**
 
 An important distinction to make: a microservices architecture is **not** cobbling different software components together. 
 
@@ -228,7 +227,7 @@ APIs and their consistency is one of the crucial mechanisms to escape monoliths,
 
 Again using Uber as an example, one microservice that they have is for fetching up-to-date currency and exchange data. If the app was “cobbled” together, Uber wouldn’t be able to serve riders simultaneously paying in nearly 60 currencies around the world. 
 
-### Monoliths vs. microservices
+**### Monoliths vs. microservices**
 
 Let’s bring it back and clarify the difference between the old and new paradigms - or monoliths and microservices.
 
@@ -242,7 +241,7 @@ Unfortunately, SOA is still dominated by vendor lock-in, meaning you could only 
 
 On the other hand, microservices could be considered a box of donuts. No trouble with gluten intolerance here as functionally, one could be swapped out for a wheat-free chocolate brownie, or even a piece of fruit. The key is: they have no dependence on each other, they are self-contained pieces of software tackling a very discrete function.
  
- ![microservices analogy ]({{site.baseurl}}/images/img_microservices_donuts.png)![img_microservices_donuts.png]({{site.baseurl}}/images/img_microservices_donuts.png)
+ ![microservices analogy ]({{site.baseurl}}/images/img_microservices_donuts.png)
 *Source: [DZone](https://dzone.com/articles/what-are-microservices-actually)*
 
 Another often used analogy is the shipping container. This technology revolutionised the shipping of goods. The shape of the goods no longer mattered, as long as they could be placed in a container, they could be moved through a set of standardised interfaces, or APIs in our analogy. 

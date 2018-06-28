@@ -294,15 +294,17 @@ For businesses with lots of branches or subsidiaries, microservices architecture
 
 For example, multinational conglomerate Coca-Cola moved away from on-premise software to microservices, which has helped them create great customer experience.
 
-If interested, you can watch this webinar where Coca-Cola’s tech people talked about this microservices implementation journey.
+![coca cola microservices]({{site.baseurl}}/images/img_microservices_coca.png)
+
+If interested, you can watch this webinar where Coca-Cola’s tech people talked about this [microservices implementation](https://videos.mulesoft.com/watch/Fdaf7xzJfQw3yDQDpSiYqW) journey.
 
 ## Incremental improvements
 
-Any microservice-oriented software enjoys the ability to incrementally enhance with superior agility. How? As mentioned above, microservices are independently replaceable, thus upgrades to the modular components can be done in a very agile manner. Therefore: 
+Any microservice-oriented software enjoys the ability to incrementally enhance with superior agility. How? As mentioned above, microservices are independently replaceable, thus upgrades to the modular components can be done in a very agile manner. Therefore:
 
 - Custom software projects are easier, shorter, faster to realise, and simpler to understand
 - With continuous improvements, customer retention and engagement can also increases as you can rapidly adapt to their needs or because of their behaviours. 
-- A less obvious impact on human resources is you might attract and retain more talented engineers. As microservices enables you to incrementally adopt and test new technologies, which is what good engineers want to do, and when they cannot, they will leave. This is in fact what is happening with many monolith vendors, with good talent leaking away, they leave behind those stuck in the old paradigms.
+- A less obvious impact on human resources is you might attract and retain more [talented engineers](http://www.forentrepreneurs.com/microservices/). As microservices enables you to incrementally adopt and test new technologies, which is what good engineers want to do, and when they cannot, they will leave. This is in fact what is happening with many monolith vendors, with good talent leaking away, they leave behind those stuck in the old paradigms.
 
 # Empowering innovations
 
@@ -316,16 +318,6 @@ For example, fast moving realestate.com.au has started the shift from monolithic
 
 Moreover, the nimble infrastructure has allowed REA group (operator of realestate.com.au) to release a world-first innovation in partnership with NAB. The idea was to “bring property search and finance together in a single platform.” This kind of integration would have been problematic if both sides had a cumbersome ERP to navigate.
 Instead, “the functionality is mostly enabled using microservices that run on AWS infrastructure.”
-
-
-
-
-
-
-
-
-
-
 
 Users searching on realestate.com.au now see the home loan add-on
 Take risks and disrupt without causing chaos

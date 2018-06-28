@@ -10,6 +10,7 @@ categories:
   - innovation
   - technology
 hero-banner: /images/Blog_header_microservices.png
+image: /images/img_microservices_thumb.jpg
 ---
 "If you went to bed last night as an industrial company, you’re going to wake up today as a software and analytics company." This is a statement from GE’s then CEO back in 2014. It was around the early 2010s that companies started paying attention to software and digital innovation, amid the growth of Internet natives like Airbnb and Uber.
 

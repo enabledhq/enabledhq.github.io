@@ -318,9 +318,10 @@ For example, fast moving realestate.com.au has started the shift from monolithic
 
 Moreover, the nimble infrastructure has allowed REA group (operator of realestate.com.au) to release a world-first innovation in partnership with NAB. The idea was to “bring property search and finance together in a single platform.” This kind of integration would have been problematic if both sides had a cumbersome ERP to navigate.
 
-Instead, “the functionality is mostly enabled using microservices that run on AWS infrastructure.”
+Instead, “the functionality is mostly enabled using [microservices](https://www.itnews.com.au/news/how-rea-and-nab-made-their-tech-work-together-478836) that run on AWS infrastructure.”
 
-Users searching on realestate.com.au now see the home loan add-on
+![realestate.com.au microservices NAB app]({{site.baseurl}}/images/img_microservices_realestate.jpg)
+*Users searching on realestate.com.au now see the home loan add-on*
 
 # Take risks and disrupt without causing chaos
 

@@ -134,22 +134,36 @@ ERPs have instead become the ‘ball and chain’ of Enterprise:
 - They can be complex so users are motivated to find other ways of getting business done outside these systems (often sticking with more manually intensive and error prone paper methods)
 - They still remain orientated to business functions, rather than being customer-oriented. (Read more on the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework, a customer-oriented approach to product development including software)
 
-## Customisation is very hard
+### Customisation is very hard
 
 Monolith software by nature assumes they have all things covered in one application. Moreover, ERP providers may not be motivated to allow other software to work with it, as it is “cutting their lunch.” 
+
 Enterprises must rely on a limited supply of domain experts: you either need to get in line and pay through the nose to make a change, or employ and maintain dedicated people.
+
 Note that monoliths are not exclusively ERPs. Some website content management systems (CMS) and customer relationship systems (CRM) fit the Monolith description and are equally as burdensome.
-In 2000, the Gartner Research Group predicted that by 2018, the concept of using ERPs and monoliths would be “dead.” They proposed a change in business strategy to enable more open and collaborative processes, rather than the procurement of a single monolith product to optimise internal enterprise performance. 
-Yet today many companies are just embarking on a 2-3 year ERP journey. They are buying the unwritten mantra of ERP vendors “providing all things to all people,” which renders the monolith “ill-suited to a future that demands focus and external connectivity.”  
-Failure risk is high
-From a project management point of view, large scale projects such as ERP implementation carry a larger risk than smaller ones. As obvious as it sounds, ERP projects are a “potential minefield” because there are just more moving parts that need simultaneous attention. 
-Check out this list of ERP disasters. 
+
+In 2000, the Gartner Research Group predicted that by 2018, the concept of using [ERPs](http://www.sunlike.com.cn/internet/onlineerp/images/Long%20live%20ERPII%20By%20Gartner%20Group.pdf) and monoliths would be “dead.” They proposed a change in business strategy to enable more open and collaborative processes, rather than the procurement of a single monolith product to optimise internal enterprise performance. 
+
+Yet today many companies are just embarking on a 2-3 year ERP journey. They are buying the unwritten mantra of ERP vendors “providing all things to all people,” which renders the monolith “ill-suited to a future that demands focus and [external connectivity](http://www.sunlike.com.cn/internet/onlineerp/images/Long%20live%20ERPII%20By%20Gartner%20Group.pdf).”
+
+### Failure risk is high
+
+From a project management point of view, large scale projects such as ERP implementation carry a larger risk than smaller ones. As obvious as it sounds, ERP projects are a “[potential minefield](https://www.cio.com/article/3223729/project-management/when-to-kill-and-when-to-recover-a-failed-project.html)” because there are just more moving parts that need simultaneous attention. 
+
+Check out this list of [ERP disasters](https://www.cio.com/article/2429865/enterprise-resource-planning/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html). 
+
 In a world where speed is one of the key defenses against disruption for businesses, being bogged down by legacy systems presents a big concern. How can we responsibly bring a stop to this behaviour?
-“We will be competitive in 24 months when our ERP project is rolled out,” said a leading player in Australian aged care. 
-New software
+
+> “We will be competitive in 24 months when our ERP project is rolled out,” said a leading player in Australian aged care. 
+
+## New software
+
 In line with Gartner’s predictions of a more open and collaborative business strategy, there has been a visible shift to the newer cloud architecture - pioneered by innovative tech companies. 
-The cloud allows the “on-demand delivery of compute power, database storage, applications, and other IT resources” via the internet rather than your on-premises hard drive.  
+
+The [cloud](https://aws.amazon.com/what-is-cloud-computing/) allows the “on-demand delivery of compute power, database storage, applications, and other IT resources” via the internet rather than your on-premises hard drive.  
+
 For instance, back then Microsoft Office was an application that you installed and accessed locally on your computer. Now you can have the web-only version of Microsoft Office applications via Office 365, just like Google’s web-based G Suite products. 
+
 But, simply shifting a monolith to the cloud only means same ball and chain on a different computer – all the shortfalls of a monolith can remain.
 Mega software companies like Amazon, Google, Facebook and Netflix realised this problem. Their monoliths became so large and so distributed that they started facing unprecedented scale issues:  
 Their hardware and software requirements became too big to understand holistically by any one team

@@ -42,14 +42,18 @@ With millennials making up a significant portion of the workforce, it is also im
 
 # Speed and Agility is Key
 
-If all customers have this power over your brand, it is no longer about being able to predict the future 12-18 months in advance, it is about being able to quickly adapt to the changing expectations of your customers.
+If all customers have this power over your brand, it is no longer about being able to predict the future 12-18 months in advance, it is about being able to quickly adapt to the [changing expectations](https://blog.openshift.com/microservices-how-to-explain-them-to-your-ceo/?intcmp=7016000000127cYAAQ) of your customers.
+
 Those businesses who can tweak and adapt their business models quickly have a better opportunity to grab market share and maintain a competitive edge.
+
 The latest survey on the state of corporate innovation notes that high-performing companies were 3x more likely to strive for first-mover advantage, i.e. they understood the importance of speed.
 Today, this is more important than ever, as leveraging the internet can enable speed of scale, while significantly reducing costs. Think about how much easier it is to set up a news website than it was to start a newspaper. 
+
 Failure to recognise the importance of speed, adaptability and agility will have a highly detrimental impact on a business’ success. For example, a business may be coasting along just fine and seemingly within a couple of weeks, their business model has been severely challenged, and possibly even disrupted. 
+
 Think taxis and Uber, travel agents and comparison sites, DVD rentals and Netflix etc. You can read more about business model disruption in our article on digital transformation. 
 
-Source: McKinsey
+*Source: McKinsey*
 
 ---
 So what are businesses doing in the face of changing customer demands and tech advancements? Fundamentally, there are two contrasting groups in terms of how they use digital technology. For the sake of this article we will label them as follows:

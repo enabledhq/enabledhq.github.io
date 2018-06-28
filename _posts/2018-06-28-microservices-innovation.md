@@ -16,21 +16,32 @@ Before that, Information Technology had never proved to be source of competitive
 
 And then software started “eating the world.” New technology players are gaining an advantage by configuring and investing in their own software, unique to them and accessible by no one else, and they are disrupting markets. 
 
-How has this happened? According to venture capital firm a16z, who coined the phrase “software is eating the world:”
-“Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
+How has this happened? According to venture capital firm a16z, who coined the phrase “[software is eating the world](https://a16z.com/2016/08/20/why-software-is-eating-the-world/):”
+
+> “Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
 
 Ultimately, this article will explore how existing companies can change their ways to successfully leverage IT and enhance their competitive advantage. But to do this correctly, we need to shift our attention from IT, towards the sole reason for a business to exist… “To increase shareholder returns!”
 
 Sorry, I jest, it should have been “the Customer!” How can we satisfy customers better and faster, by offering products or services that truly take care of their unmet jobs.
-The Power is now with your Customers
+
+# The Power is now with your Customers
+
 The arrival of smart devices like the iPhone has made computing a very mobile, accessible and personal experience.
+
 The internet provides consumers with a plethora of choice, meaning geography and distribution costs are no longer the barriers they once were.
-“If you make customers unhappy in the physical world, they might each tell six friends. If you make customers unhappy on the Internet, they can each tell 6,000 friends.” - Jeff  Bezos
+
+> “If you make customers unhappy in the physical world, they might each tell six friends. If you make customers unhappy on the Internet, they can each tell 6,000 friends.” - Jeff  Bezos
+
 Customers of today are highly empowered, motivated and self-determinant. Armed with knowledge and computing power at their fingertips, they are quick to seek out the best/cheapest/most advanced etc. option. 
-As we’ve discussed in another blog article, customer experience is the brand goal. 
+
+As we’ve discussed in another blog article, [customer experience](http://blog.enabled.com.au/marketing-customer-experience/) is the brand goal. 
+
 Extending from that point, employees should be considered ‘internal’ customers. As connoisseurs of software, they are no longer happy to use cumbersome and limiting software provided by the IT division.	
-With millennials making up a significant portion of the workforce, it is also important to note how they might be shaping the workplace. A report by PwC discussed the specific expectations millennials have about technology at work, e.g. employer’s provision of state-of-the art technology, and being able to use workplace technology alongside their own. 
-Speed and Agility is Key
+
+With millennials making up a significant portion of the workforce, it is also important to note how they might be shaping the workplace. A report by PwC discussed the specific expectations millennials have about [technology at work](https://www.pwc.com/m1/en/services/consulting/documents/millennials-at-work.pdf), e.g. employer’s provision of state-of-the art technology, and being able to use workplace technology alongside their own. 
+
+# Speed and Agility is Key
+
 If all customers have this power over your brand, it is no longer about being able to predict the future 12-18 months in advance, it is about being able to quickly adapt to the changing expectations of your customers.
 Those businesses who can tweak and adapt their business models quickly have a better opportunity to grab market share and maintain a competitive edge.
 The latest survey on the state of corporate innovation notes that high-performing companies were 3x more likely to strive for first-mover advantage, i.e. they understood the importance of speed.

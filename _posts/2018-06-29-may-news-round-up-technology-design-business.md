@@ -40,7 +40,7 @@ View our [culture book](https://enabled.com.au/team).
 
 ## Why corporate innovation is hard
 
-An analysis on the latest State of Innovation report, which contains findings like 84.9% said innovation is very important, but 78% of respondents focus on incremental changes. So why? 
+An analysis on the latest [State of Innovation](https://www.forbes.com/sites/billfischer/2018/05/06/why-we-cant-innovate/#7236cdc0a55c) report, which contains findings like 84.9% said innovation is very important, but **78%** of respondents focus on incremental changes. So why? 
 
 - We assume we know the customer well
 - "The future is forever, but the present is this quarter"

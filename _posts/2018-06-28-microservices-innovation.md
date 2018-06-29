@@ -296,7 +296,6 @@ Microservices are reusable and interchangeable, which makes replacement with new
 For instance, if your business intelligence dashboard is no longer meeting your needs, you can swap it out for another more suitable option without breaking the whole system. 
 
 ![microservices benefits]({{site.baseurl}}/images/img_microservices_cube.jpg)
-
 *Source: [Red Badger](https://blog.red-badger.com/blog/deploy-a-microservices-application-as-though-it-was-a-monolith)*
 
 Consider this excerpt from Terry Pratchett’s book, [The Fifth Elephant](https://www.goodreads.com/book/show/63720.The_Fifth_Elephant):

@@ -22,6 +22,7 @@ meta-keywords: >-
   news, innovation news, design news, UX news, business news
 hero-banner: /images/Blog_header_june.png
 image: /images/img_august_thumb.png
+short-link: 'https://goo.gl/nmTqQS'
 ---
 A hand-picked selection of news and articles worth reading this month.
 

@@ -43,9 +43,9 @@ An analysis on the latest State of Innovation report, which contains findings li
 
 ![corporate innovation]({{site.baseurl}}/images/img_may_innovation.png)
 
-## Don't start with an MVP 
+## Long read: Time to be an alarmist 
 
-If you start with a bad idea and all you learn is that [your idea](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18) sucks, then you're stuck. Start with the problem instead. We also wrote about this in a previous post on [Lean Startup](http://blog.enabled.com.au/innovation-trap-lean-startup/). 
+The future of warfare is not on the battlefield, but on our screens and in our minds. Learn to discern the truth and get behind the movement against [computational propaganda](https://www.cbinsights.com/research/future-of-information-warfare). 
 
 ## Long read: The secret recipe of Domino's Pizza 
 

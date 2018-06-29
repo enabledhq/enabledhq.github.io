@@ -45,25 +45,25 @@ With Amazon branching out to more areas, the retail battle (both online and offl
 
 If you start with a bad idea and all you learn is that [your idea](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18) sucks, then you're stuck. Start with the problem instead. We also wrote about this in a previous post on [Lean Startup](http://blog.enabled.com.au/innovation-trap-lean-startup/). 
 
-## More than just a pretty face 
+## Long read: The secret recipe of Domino's Pizza 
 
-The beauty industry has taken advantage of digital tech to up the game. Augmented Reality has become more popular as a try-on aid for many brands. The recent acquisition of [Modiface](https://www.businessoffashion.com/articles/news-analysis/loreal-buys-beauty-tech-firm-modiface) helped L'Oreal in the AR race. 
+How the world's biggest pizza chain pulled it off by thinking like a [tech startup](https://producthabits.com/dominos-pizza-drove-90x-increase-stock-value-acting-like-tech-startup/). It took organisational self-awareness, investment in tech innovation, and courage to grow 90x in stock value like that. 
 
-Meanwhile, Sephora has pioneered a variety of [in-store technologies](https://www.techrepublic.com/article/how-sephora-is-leveraging-ar-and-ai-to-transform-retail-and-help-customers-buy-cosmetics/) such as interactive screens, RFID scanning and so on. 
+## All the buzzwords collide in the future of manufacturing
 
-It would be interesting to see how these brands thrive amid a retail crisis by embracing technology.
+Top global spenders on R&D are from manufacturing industry, investing in tech such as 3D printing, robotics, AI, blockchain, Internet of Things etc. All of these can be applied in any step of the [manufacturing process](https://www.cbinsights.com/research/future-factory-manufacturing-tech-trends/ologies-2018/#387e65242995).  
 
-![modiface AR beauty]({{site.baseurl}}/images/img_march_modiface.jpg)
+![future of manufacturing]({{site.baseurl}}/images/img_april_manufacturing.png)
 
 # Handy business tips
 
-**Avoid shaming your users in UX design**
+**GDPR and marketing implications**
 
-A website popup asks you to sign up for a newsletter, with the options "Yes" and "No, I'd prefer to be miserable." Don't use this [dark pattern](https://medium.com/@rizwanjavaid/shaming-users-is-a-horrible-idea-c2277c86c062). 
+With the recent hubbub around data and privacy, it's imperative that companies review their [data collection](https://www.reforge.com/blog/gdpr-growth-marketing) processes, EU-based or not.
 
-**How to "use" your boss**
+**The art of asking questions**
 
-This company has a [user guide](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) for employees on how to "use" their leader, which communicates clear expectations and the leader's working style. 
+Asking the right questions in [UX design](https://www.invisionapp.com/blog/asking-right-questions) is crucial to yield better insight and avoid our own assumptions. Here's how.
 
 # Weird & wonderful
 

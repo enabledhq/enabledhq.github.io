@@ -30,16 +30,18 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## The retail blood bath
+## Why corporate innovation is hard
 
-With Amazon branching out to more areas, the retail battle (both online and offline) has been heating up: 
+An analysis on the latest State of Innovation report, which contains findings like 84.9% said innovation is very important, but 78% of respondents focus on incremental changes. So why? 
 
-- Retailers around the world such as Alibaba and Walmart testing and deploying tech to [automate stores](https://www.nytimes.com/2018/04/01/technology/retailer-stores-automation-amazon.html).
-- Industry leading brands are also beginning to seek more control over their own distribution channels as [direct-to-consumer](http://www.adweek.com/brand-marketing/how-direct-to-consumer-brands-are-tearing-down-and-rebuilding-the-marketing-scene/) smaller players pop up.
-- CPG brands start competing with their previous partners, as retail stores push their own [private labels](https://www.fooddive.com/news/grocery--nielsen-private-label-sales-grew-three-times-faster-than-national-brands/520958/).
-- Brands try to leverage technologies to keep consumers, blurring the physical and [digital boundaries](https://blogs.gartner.com/robert-hetu/2018-gartnerrisnews-retail-technology-survey/).
+- We assume we know the customer well
+- "The future is forever, but the present is this quarter"
+- "Let's leave it till tomorrow"
+- "I’m not in the innovative group"
+- We can't be both process-oriented and innovative
+- We don't have money for innovation
 
-![CPG brand alt distribution channels]({{site.baseurl}}/images/img_april_CPG.jpg)
+![corporate innovation]({{site.baseurl}}/images/img_may_innovation.png)
 
 ## Don't start with an MVP 
 

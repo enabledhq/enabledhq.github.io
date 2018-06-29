@@ -33,19 +33,23 @@ excerpt: >-
   fit?
 short-link: 'https://goo.gl/b8cGcB'
 ---
-"If you went to bed last night as an industrial company, you’re going to wake up today as a software and analytics company." This is a statement from GE’s then CEO back in 2014. It was around the early 2010s that companies started paying attention to software and digital innovation, amid the growth of Internet natives like Airbnb and Uber.
+**Being Eaten by Software**
 
-Before that, Information Technology had never proved to be source of competitive advantage. For instance, you buy a mainframe to better manage your business, so does your competitor. You buy a laptop for all of your employees, so does your competitor. You put in the leading ERP system for your industry, so do all your competitors. 
+"If you went to bed last night as an industrial company, you’re going to wake up today as a software and analytics company." This is a statement from GE’s then CEO back in 2014. The underlying message of his statement is that unless you invest in software you will not remain competitive and so you may never wake up.
 
-And then software started “eating the world.” New technology players are gaining an advantage by configuring and investing in their own software, unique to them and accessible by no one else, and they are disrupting markets. 
+Yet until recently software and IT in general, had never proved to be source of competitive advantage. For instance, you buy a mainframe to better manage your business, so does your competitor. You buy a laptop for all of your employees, so does your competitor. You put in the leading ERP system for your industry, so do all your competitors. 
 
-How has this happened? According to venture capital firm [a16z](https://a16z.com/2016/08/20/why-software-is-eating-the-world/), who coined the phrase “software is eating the world:”
+All this has dramatically changed with the arrival of the digital natives like Airbnb, Uber and Netflix who are gaining an advantage by configuring and investing in their own software, unique to them and accessible by no one else, and they are disrupting markets. 
 
-> “Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
+How has this happened? According to venture capital firm [a16z](https://a16z.com/2016/08/20/why-software-is-eating-the-world/), who coined the phrase “software is eating the world”:
 
-Ultimately, this article will explore how existing companies can change their ways to successfully leverage IT and enhance their competitive advantage. But to do this correctly, we need to shift our attention from IT, towards the sole reason for a business to exist… “To increase shareholder returns!”
+>“Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
 
-Sorry, I jest, it should have been “the Customer!” How can we satisfy customers better and faster, by offering products or services that truly take care of their unmet jobs.
+Unfortunately, existing companies are not the ones who are winning with software, but rather, they are the ones being eaten by it. 
+
+Ultimately, this article will explore how existing businesses can change their ways to successfully leverage IT and enhance their competitive advantage. But to do this correctly, we need to shift our attention from IT, towards the sole reason for a business to exist… “To increase shareholder returns!”
+
+Sorry, I jest, it should have been “the Customer!” - how can we satisfy customers better and faster, by offering products or services that truly take care of their unmet jobs.
 
 # The Power is now with your Customers
 

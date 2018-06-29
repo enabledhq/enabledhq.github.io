@@ -3,6 +3,20 @@ layout: post
 date: '2018-05-29 16:19 +0930'
 published: false
 title: 'May News Round-up: Technology, Design, Business '
+author:
+  - linh
+main-category: news
+categories:
+  - news
+description: >-
+  What’s been happening in May 2018: roundup of news on technology, innovation,
+  business, design and inside Enabled.
+meta-description: >-
+  What’s been happening in May 2018: roundup of news on technology, innovation,
+  business, design and inside Enabled.
+excerpt: >-
+  What’s been happening in May 2018: roundup of news on technology, innovation,
+  business, design and inside Enabled.
 ---
 A hand-picked selection of news and articles worth reading this month.
 

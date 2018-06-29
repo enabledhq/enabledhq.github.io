@@ -41,9 +41,9 @@ With Amazon branching out to more areas, the retail battle (both online and offl
 
 ![CPG brand alt distribution channels]({{site.baseurl}}/images/img_april_CPG.jpg)
 
-## Functionality over form for Amazon
+## Don't start with an MVP 
 
-How the commerce giant win customers with its [design theory](https://www.fastcodesign.com/90160960/the-design-theory-behind-amazons-5-6-billion-success) that doesn't revolve around aesthetics: Look beneath the interface.
+If you start with a bad idea and all you learn is that [your idea](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18) sucks, then you're stuck. Start with the problem instead. We also wrote about this in a previous post on [Lean Startup](http://blog.enabled.com.au/innovation-trap-lean-startup/). 
 
 ## More than just a pretty face 
 

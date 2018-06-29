@@ -3,6 +3,20 @@ layout: post
 date: '2018-06-29 15:02 +0930'
 published: false
 title: 'April News Round-up: Technology, Design, Business '
+author:
+  - linh
+main-category: news
+categories:
+  - news
+description: >-
+  What’s been happening in April 2018: roundup of news on technology,
+  innovation, business, design and inside Enabled.
+meta-description: >-
+  What’s been happening in April 2018: roundup of news on technology,
+  innovation, business, design and inside Enabled.
+excerpt: >-
+  What’s been happening in April 2018: roundup of news on technology,
+  innovation, business, design and inside Enabled.
 ---
 A hand-picked selection of news and articles worth reading this month.
 

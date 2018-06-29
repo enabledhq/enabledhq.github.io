@@ -35,11 +35,11 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 With Amazon branching out to more areas, the retail battle (both online and offline) has been heating up: 
 
 - Retailers around the world such as Alibaba and Walmart testing and deploying tech to [automate stores](https://www.nytimes.com/2018/04/01/technology/retailer-stores-automation-amazon.html).
-- Industry leading brands are also beginning to seek more control over their own distribution channels as direct-to-consumer smaller players pop up.
-- CPG brands start competing with their previous partners, as retail stores push their own private labels.
-- Brands try to leverage technologies to keep consumers, blurring the physical and digital boundaries.
+- Industry leading brands are also beginning to seek more control over their own distribution channels as [direct-to-consumer](http://www.adweek.com/brand-marketing/how-direct-to-consumer-brands-are-tearing-down-and-rebuilding-the-marketing-scene/) smaller players pop up.
+- CPG brands start competing with their previous partners, as retail stores push their own [private labels](https://www.fooddive.com/news/grocery--nielsen-private-label-sales-grew-three-times-faster-than-national-brands/520958/).
+- Brands try to leverage technologies to keep consumers, blurring the physical and [digital boundaries](https://blogs.gartner.com/robert-hetu/2018-gartnerrisnews-retail-technology-survey/).
 
-CPG brand alt distribution channels
+![CPG brand alt distribution channels]({{site.baseurl}}/images/img_april_CPG.jpg)
 
 ## Functionality over form for Amazon
 

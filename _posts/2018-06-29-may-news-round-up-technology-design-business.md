@@ -28,6 +28,14 @@ A hand-picked selection of news and articles worth reading this month.
 
 _Let us know the topics you’re interested in [here](https://enabled1.typeform.com/to/YcdNts)_
 
+# One for the team
+
+We just won an award of excellence in the 24th [Communicator Award](https://www.communicatorawards.com/winners/list/?event=1018&category=1914&award=8) for the corporate communications category. Enabled's book of Who We Are is shaped by as well as shapes how we work. And we're excited to share this piece of internal communication with the world.
+
+![enabled communicator award ]({{site.baseurl}}/images/img_may_whoweare.png)
+
+View our [culture book](https://enabled.com.au/team).
+
 # What's happening out there
 
 ## Why corporate innovation is hard

@@ -47,25 +47,29 @@ An analysis on the latest State of Innovation report, which contains findings li
 
 The future of warfare is not on the battlefield, but on our screens and in our minds. Learn to discern the truth and get behind the movement against [computational propaganda](https://www.cbinsights.com/research/future-of-information-warfare). 
 
-## Long read: The secret recipe of Domino's Pizza 
+## Security trends by the numbers
 
-How the world's biggest pizza chain pulled it off by thinking like a [tech startup](https://producthabits.com/dominos-pizza-drove-90x-increase-stock-value-acting-like-tech-startup/). It took organisational self-awareness, investment in tech innovation, and courage to grow 90x in stock value like that. 
+The cost of cyber attacks is rising around the world. Read stats about [cybersecurity](https://hbr.org/2018/05/security-trends-by-the-numbers) in terms of industry, frequency and more.
 
-## All the buzzwords collide in the future of manufacturing
+![cybersecurity trends]({{site.baseurl}}/images/img_may_security.png)
 
-Top global spenders on R&D are from manufacturing industry, investing in tech such as 3D printing, robotics, AI, blockchain, Internet of Things etc. All of these can be applied in any step of the [manufacturing process](https://www.cbinsights.com/research/future-factory-manufacturing-tech-trends/ologies-2018/#387e65242995).  
+By the way, we're offering a new email subscription that sends out immediate alerts for high-profile IT, software and cyber security / privacy issues. Subscribe [here](http://eepurl.com/dvIgzr).
 
-![future of manufacturing]({{site.baseurl}}/images/img_april_manufacturing.png)
+## Facebook's F8 conference recap
+
+Balancing scandal and tech, the annual developer conference attracted a lot of media attention following the Cambridge Analytica debacle. Nonetheless, Facebook's introduced a bunch of [new products](https://techcrunch.com/2018/05/01/10-big-announcements-from-day-1-of-f8/) that could threaten the existence of Tinder and Snapchat. 
+
+![facebook f8]({{site.baseurl}}/images/img_may_facebook.jpg)
 
 # Handy business tips
 
-**GDPR and marketing implications**
+**Make meetings more human-centred**
 
-With the recent hubbub around data and privacy, it's imperative that companies review their [data collection](https://www.reforge.com/blog/gdpr-growth-marketing) processes, EU-based or not.
+Ultimate guide to [types of meetings](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a), common pitfalls and how to make them serve your business and its people.
 
-**The art of asking questions**
+**How to do "small talk"**
 
-Asking the right questions in [UX design](https://www.invisionapp.com/blog/asking-right-questions) is crucial to yield better insight and avoid our own assumptions. Here's how.
+Icebreaker questions for [team-building](https://blog.knowyourcompany.com/the-25-best-icebreaker-questions-for-team-building-at-work-cf5f48740240) gatherings: no more awkward conversations, more meaningful connections. 
 
 # Weird & wonderful
 

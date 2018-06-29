@@ -33,7 +33,7 @@ excerpt: >-
   fit?
 short-link: 'https://goo.gl/b8cGcB'
 ---
-**Being Eaten by Software**
+# Being Eaten by Software
 
 "If you went to bed last night as an industrial company, you’re going to wake up today as a software and analytics company." This is a statement from GE’s then CEO back in 2014. The underlying message of his statement is that unless you invest in software you will not remain competitive and so you may never wake up.
 

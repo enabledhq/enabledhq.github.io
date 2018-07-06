@@ -54,17 +54,13 @@ The annual Mary Meeker's [Internet Trends](https://techcrunch.com/gallery/mary-m
 
 Full 294-slide report [here](https://www.slideshare.net/kleinerperkins/internet-trends-report-2018-99574140).
 
-## Long read: Time to be an alarmist 
+## Content media and business of attention 
 
-The future of warfare is not on the battlefield, but on our screens and in our minds. Learn to discern the truth and get behind the movement against [computational propaganda](https://www.cbinsights.com/research/future-of-information-warfare). 
+Apple just signed a multi-year [content partnership](https://www.recode.net/2018/6/15/17468350/oprah-winfrey-apple-tv) with Oprah Winfrey. P&G clashed with Youtube, partnered with new media partners to regain control over its [ads](https://www.cnbc.com/2018/06/25/procter-and-gambles-katie-couric-partnership-goes-back-to-shows-brou.html). Instagram also launched its new hour-long [video format](https://www.theguardian.com/technology/2018/jun/20/instagram-long-form-video-launch-youtube-rival) to lure Youtube users. 
 
-## Security trends by the numbers
+## Australian retail war: consumers win 
 
-The cost of cyber attacks is rising around the world. Read stats about [cybersecurity](https://hbr.org/2018/05/security-trends-by-the-numbers) in terms of industry, frequency and more.
-
-![cybersecurity trends]({{site.baseurl}}/images/img_may_security.png)
-
-By the way, we're offering a new email subscription that sends out immediate alerts for high-profile IT, software and cyber security / privacy issues. Subscribe [here](http://eepurl.com/dvIgzr).
+As eBay tackles Amazon's Australian launch of its Prime membership with [eBay Plus](https://www.news.com.au/finance/business/retail/ebay-plus-will-bring-shoppers-free-delivery/news-story/509a52f6553ec9de54ffec5b49685467), consumers are in for some real bargains. Also, different online retailers react differently to the law that requires them to [collect tax](https://www.computerworld.com.au/article/641843/etsy-ebay-alibaba-eschew-amazon-style-geoblock/) on imports under $1000. 
 
 ## Facebook's F8 conference recap
 

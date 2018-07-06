@@ -28,28 +28,31 @@ A hand-picked selection of news and articles worth reading this month.
 
 _Let us know the topics you’re interested in [here](https://enabled1.typeform.com/to/YcdNts)_
 
-# One for the team
+# Enabled for I choose SA
 
-We just won an award of excellence in the 24th [Communicator Award](https://www.communicatorawards.com/winners/list/?event=1018&category=1914&award=8) for the corporate communications category. Enabled's book of Who We Are is shaped by as well as shapes how we work. And we're excited to share this piece of internal communication with the world.
+Brand South Australia ran a story about Enabled as part of the I Choose SA campaign for tech & creative industries. It's an opportunity for us to pay homage to our home state and all the local businesses that have been with us over the years.
 
-![enabled communicator award ]({{site.baseurl}}/images/img_may_whoweare.png)
+![enabled solutions adelaide]({{site.baseurl}}/images/img_june_ichoosesa.png)
 
-View our [culture book](https://enabled.com.au/team).
+[VIEW THE STORY](https://brandsanews.com.au/adelaide-innovation-firm-finds-solutions-in-the-digital-age/)
 
 # What's happening out there
 
-## Why corporate innovation is hard
+## Internet Trends Report
 
-An analysis on the latest [State of Innovation](https://www.forbes.com/sites/billfischer/2018/05/06/why-we-cant-innovate/#7236cdc0a55c) report, which contains findings like 84.9% said innovation is very important, but **78%** of respondents focus on incremental changes. So why? 
+The annual Mary Meeker's [Internet Trends](https://techcrunch.com/gallery/mary-meeker-internet-trends-2018/) report has some notable findings: 
 
-- We assume we know the customer well
-- "The future is forever, but the present is this quarter"
-- "Let's leave it till tomorrow"
-- "I’m not in the innovative group"
-- We can't be both process-oriented and innovative
-- We don't have money for innovation
+- Half of the world's population is online and spending more time on mobile
+- More video content formats, more voice interface 
+- More data captured than ever, pervasiveness of sensors
+- Despite privacy issues, some are willing to trade privacy for product benefits
+- eCommerce and cross-border commerce continues to grow
+- China takes more top tech company spots, chases AI 
+- Hyper-usable UX is a must for enterprise software
 
-![corporate innovation]({{site.baseurl}}/images/img_may_innovation.png)
+![internet trends 2018]({{site.baseurl}}/images/img_june_internettrends.png)
+
+Full 294-slide report [here](https://www.slideshare.net/kleinerperkins/internet-trends-report-2018-99574140).
 
 ## Long read: Time to be an alarmist 
 

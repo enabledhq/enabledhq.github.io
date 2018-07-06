@@ -12,6 +12,14 @@ meta-description: >-
 excerpt: >-
   What’s been happening in June 2018: roundup of news on technology, innovation,
   business, design and inside Enabled.
+main-category: news
+author:
+  - linh
+categories:
+  - news
+meta-keywords: >-
+  technology, innovation, business, design, UX, enabled, enabled adelaide, tech
+  news, innovation news, design news, UX news, business news
 ---
 A hand-picked selection of news and articles worth reading this month.
 

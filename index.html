@@ -55,6 +55,15 @@ published: true
      </div>
   </div>
 
+<script type="text/javascript">
+  //save jQuery
+  var tmp = jQuery.noConflict();
+  //get jQuey for mailchimp, destroys jQuery
+  var $mcj = jQuery.noConflict(true);
+  //restore jQuery
+  window.$ = tmp.noConflict();
+</script>
+
 <script>
   $(function () {
     var filter_value = 'all';

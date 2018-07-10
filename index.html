@@ -67,6 +67,7 @@ published: true
 
 <script>
   $(function () {
+    window.$ = tmp.noConflict();
     var filter_value = 'all';
     var param = $.urlParam('category');
     if(param && param !== 'all'){

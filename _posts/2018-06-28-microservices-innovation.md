@@ -256,9 +256,9 @@ Also just like a shipping container, it does not matter what the microservice co
 
 Along with the rising popularity of cloud and microservices, don’t forget about SaaS (Software as a Service). SaaS is a subscription-based, delivered-over-the-Internet software model. 
 
-It is possible today to find very large SaaS offerings that could almost be considered to be monoliths. For instance, the Salesforce CRM is an enterprise-grade SaaS product that comes close to being a monolith, yet it does within its own suite of applications, implement strong APIs providing some microservice benefits. 
+It is possible today to find very large SaaS offerings that could almost be considered to be monoliths. For instance, the Salesforce CRM is an enterprise-grade SaaS product that comes close to being a monolith, yet within its own suite of applications, it does implement strong APIs providing some microservice benefits.
 
-That said, there are many micro-SaaS applications that are almost microservices in themselves and have very strong APIs that can be used by other applications.
+Additionally, there are many micro-SaaS applications that are almost microservices in themselves and have very strong APIs that can be used by other applications.
 
 For instance, besides their own custom services that make up their app, [Uber](https://nordicapis.com/4-apps-rely-apis-survival/) has used a bunch of 3rd party SaaS applications for different business capabilities:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-07-30 16:09 +0930'
-published: false
+published: true
 title: 'July News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in July 2018: roundup of news on technology, innovation,
@@ -98,4 +98,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-

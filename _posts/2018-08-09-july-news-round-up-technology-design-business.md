@@ -58,13 +58,13 @@ This allows them to tick a customer's job-to-be-done which Amazon's not providin
 
 # Handy business tips
 
-**What you need to know about DesignOps**
+**Positive vs. negative feedback: when & how**
 
-Inspired by the DevOps movement, [DesignOps](https://uxdesign.cc/designops-the-questions-youre-probably-asking-yourself-now-fdac491bfe4f) has evolved to mean both the mindset and the role. Read this 5-min guide for all the details. 
+Which motivates your people more? Read these tips on how to give [useful feedback](https://medium.com/swlh/what-motivates-more-positive-or-negative-feedback-9364133bd58b) and things to watch out for. 
 
-**Balancing data-driven marketing and customer privacy**
+**What you can expect from a UX design process**
 
-Is there a trade-off? Companies can do more to protect their customers' [data](https://hbr.org/2018/06/protecting-customers-privacy-requires-more-than-anonymizing-their-data). By the way, have you subscribed to our new [Security Alert](http://eepurl.com/dvIgzr) email?
+Good reference for the most common [User Experience](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434) deliverables across the following activities: user & market research, design, testing. 
 
 # Weird & wonderful
 

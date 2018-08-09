@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2018-08-09 16:09 +0930'
+date: '2018-07-30 16:09 +0930'
 published: false
 title: 'July News Round-up: Technology, Design, Business '
 description: >-
@@ -25,6 +25,7 @@ meta-keywords: >-
   news, innovation news, design news, UX news, business news
 hero-banner: /images/Blog_header_june.png
 image: /images/img_august_thumb.png
+short-link: goo.gl/FMgBci
 ---
 A hand-picked selection of news and articles worth reading this month.
 

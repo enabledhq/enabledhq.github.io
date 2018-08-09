@@ -68,9 +68,9 @@ Good reference for the most common [User Experience](https://uxplanet.org/a-comp
 
 # Weird & wonderful
 
-💔 Perhaps on the weird side, WeChat trialled ["divorce"](https://www.businessinsider.com.au/wechat-messaging-app-launches-divorce-feature-in-china-2018-5?r=US&IR=T) function on the platform. Couples can now file for divorce via the app.  
+🍕Domino's Pizza fixes potholes to ensure no [good pizzas](https://www.adweek.com/creativity/dominos-offers-to-fix-potholes-in-your-neighborhood-so-carry-out-pizzas-get-home-safely/) are ruined by bad roads: Clever marketing for good cause.   
 
-🚀 Finnish space tourism startup [Space Nation](https://www.digitaltrends.com/mobile/app-attack-space-nation-navigator/) launched an app allowing anyone to train to become an astronaut, with a trip to space up for grabs. 
+📱 Prone to dropping your phone? This mobile "[airbag](https://www.theverge.com/circuitbreaker/2018/6/30/17514940/mobile-airbag-drop-phone)" can sense when your digital friend is free-fallling and save it.  
 
 # Inside Enabled
 

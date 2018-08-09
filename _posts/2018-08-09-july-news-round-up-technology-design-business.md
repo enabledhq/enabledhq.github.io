@@ -46,24 +46,15 @@ Amid the recent data and privacy scandals, Google, Facebook, Microsoft, and Twit
 
 By the way, have you subscribed to our [security alerts](http://eepurl.com/dvIgzr) email?
 
-## Content media and business of attention 
+## Technical debt in marketing 
 
-Apple just signed a multi-year [content partnership](https://www.recode.net/2018/6/15/17468350/oprah-winfrey-apple-tv) with Oprah Winfrey. P&G clashed with Youtube, partnered with new media partners to regain control over its [ads](https://www.cnbc.com/2018/06/25/procter-and-gambles-katie-couric-partnership-goes-back-to-shows-brou.html). Instagram also launched its new hour-long [video format](https://www.theguardian.com/technology/2018/jun/20/instagram-long-form-video-launch-youtube-rival) to lure Youtube users. 
+Similar to tech debt in IT, [technical debt](https://contentmarketinginstitute.com/2018/07/tech-bankrupting-marketing/) in marketing is a growing concern for many organisations. "You need to deploy technology nimbly and decouple from the mother ship of legacy systems."
 
-## Australian retail war: consumers win 
+## Long read: One way to thrive in the Amazon era
 
-As eBay tackles Amazon's Australian launch of its Prime membership with [eBay Plus](https://www.news.com.au/finance/business/retail/ebay-plus-will-bring-shoppers-free-delivery/news-story/509a52f6553ec9de54ffec5b49685467), consumers are in for some real bargains. Also, different online retailers react differently to the law that requires them to [collect tax](https://www.computerworld.com.au/article/641843/etsy-ebay-alibaba-eschew-amazon-style-geoblock/) on imports under $1000. 
+As the giant extends its reach, one retailer is fighting back by providing "[personal chief technology officers](https://www.bloomberg.com/news/features/2018-07-19/best-buy-should-be-dead-but-it-s-thriving-in-the-age-of-amazon)", and it's working. Best Buy should have been dead, but they've tweaked their proposition to focus on sending staff into people's homes.
 
-## WWDC 2018: A lot of software, not much hardware
-
-Apple's annual highly anticipated developer conference focused on new features coming to:
-
-- [iOS 12](https://www.theverge.com/2018/6/4/17417730/apple-ios-12-iphone-update-best-features-wwdc-2018): Screen Time, Memoji, grouped notifications
-- [macOS](https://www.theverge.com/2018/6/4/17410820/apple-wwdc-summary-updates-highlights-news-2018) Mojave: dark mode, privacy focus
-- watchOS: attempt to take on Fitbit 
-- tvOS: Dolby Atmos support on Apple TV 4K
-
-![WWDC 2018]({{site.baseurl}}/images/img_june_wwdc.png)
+This allows them to tick a customer's job-to-be-done which Amazon's not providing: advice and help in installing & using electronics. 
 
 # Handy business tips
 

@@ -31,31 +31,20 @@ A hand-picked selection of news and articles worth reading this month.
 
 _Let us know the topics you’re interested in [here](https://enabled1.typeform.com/to/YcdNts)_
 
-# Enabled for I choose SA
-
-Brand South Australia ran a story about Enabled as part of the I Choose SA campaign for tech & creative industries. It's an opportunity for us to pay homage to our home state and all the local businesses that have been with us over the years.
-
-![enabled solutions adelaide]({{site.baseurl}}/images/img_june_ichoosesa.png)
-
-[VIEW THE STORY](https://brandsanews.com.au/adelaide-innovation-firm-finds-solutions-in-the-digital-age/)
-
 # What's happening out there
 
-## Internet Trends Report
+## Data sharing between the tech giants 
 
-The annual Mary Meeker's [Internet Trends](https://techcrunch.com/gallery/mary-meeker-internet-trends-2018/) report has some notable findings: 
+Amid the recent data and privacy scandals, Google, Facebook, Microsoft, and Twitter announced a joint initiative called the [Data Transfer Project](https://www.theverge.com/2018/7/20/17589246/data-transfer-project-google-facebook-microsoft-twitter), allowing users to move data between platforms: 
 
-- Half of the world's population is online and spending more time on mobile
-- More video content formats, more voice interface 
-- More data captured than ever, pervasiveness of sensors
-- Despite privacy issues, some are willing to trade privacy for product benefits
-- eCommerce and cross-border commerce continues to grow
-- China takes more top tech company spots, chases AI 
-- Hyper-usable UX is a must for enterprise software
+- Although still under development, this is good news for consumers
+- “Portability and interoperability are central to cloud innovation and competition” - said Microsoft, who just bought the largest open-source dev platform [Github](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/) 
+- Closer to home, the recent [My Health Record](http://www.abc.net.au/news/2018-07-24/digital-health-agency-changes-my-health-record-app-contracts/10026644) fall-out highlights the need to not only protect people's data but also communicating clearly about it
 
-![internet trends 2018]({{site.baseurl}}/images/img_june_internettrends.png)
 
-Full 294-slide report [here](https://www.slideshare.net/kleinerperkins/internet-trends-report-2018-99574140).
+![data transfer project]({{site.baseurl}}/images/img_july_datasharing.png)
+
+By the way, have you subscribed to our [security alerts](http://eepurl.com/dvIgzr) email?
 
 ## Content media and business of attention 
 

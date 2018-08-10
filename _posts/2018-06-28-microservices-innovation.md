@@ -328,7 +328,7 @@ If interested, you can watch this webinar where Coca-Cola’s tech people talked
 Any microservice-oriented software enjoys the ability to incrementally enhance with superior agility. How? As mentioned above, microservices are independently replaceable, thus upgrades to the modular components can be done in a very agile manner. Therefore:
 
 - Custom software projects are easier, shorter, faster to realise, and simpler to understand
-- With continuous improvements, customer retention and engagement can also increases as you can rapidly adapt to their needs or because of their behaviours. 
+- With continuous improvements, customer retention and engagement can also increase as you can rapidly adapt to their needs or because of their behaviours. 
 - A less obvious impact on human resources is you might attract and retain more [talented engineers](http://www.forentrepreneurs.com/microservices/). As microservices enables you to incrementally adopt and test new technologies, which is what good engineers want to do, and when they cannot, they will leave. This is in fact what is happening with many monolith vendors, with good talent leaking away, they leave behind those stuck in the old paradigms.
 
 ## Empowering innovations
@@ -421,4 +421,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            

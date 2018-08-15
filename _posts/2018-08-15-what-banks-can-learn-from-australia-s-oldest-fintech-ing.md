@@ -24,16 +24,20 @@ Let’s go back to the campaign mentioned at the start of this article.
 
 I have been using IFTTT to automate useful tasks, from “IF it rains tomorrow THEN send me a notification”, “IF I post on Instagram THEN post it to a Slack channel”, to more peculiar tasks like “trigger a phone call to yourself so that you can politely excuse yourself from an [awkward situation](https://ifttt.com/applets/DEz9XLCh-get-yourself-out-of-an-awkward-situation-international).”
 
-When ING leveraged this nifty platform, I thought this was a brilliant move on multiple fronts. From a Jobs to be Done perspective, ING articulated pretty well their customer’s job, which is to put away money into savings without having to actively think about it. 
+When ING leveraged this nifty platform, I thought this was a brilliant move on multiple fronts. From a [Jobs to be Done](http://blog.enabled.com.au/jobs-to-be-done/) perspective, ING articulated pretty well their customer’s job, which is to put away money into savings without having to actively think about it. 
 Check out some of the savings triggers available for the action “move money to my savings account” in the image below. 
   
-Source: IFTTT
+![ING IFTTT applet]({{site.baseurl}}/images/img_ING_IFTTT.png)  
+*Source: [IFTTT](https://ifttt.com/ing_australia)*
 
-Human angle 
+### Human angle 
 
 ING understands that their customers are already interacting mainly on mobile, using common apps and utilities which makes the IFTTT integration a natural extension, i.e. the barrier to adoption isn’t high. 
+
 Moreover, ING understands that saving money isn’t fun, so they went with a gamifying angle. The choice of triggers include things that are relevant to everyone, from passive ones like “when temperature drops”, to active ones like “when you achieve your Fitbit goals”, and social ones like “when you post a status on Facebook.” 
-These also help customers achieve the emotional and social jobs of saving money besides functional ones (other elements of the Jobs to be done framework).
+
+These also help customers achieve the emotional and social jobs of saving money besides functional ones (other elements of the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework).
+
 Technology angle 
 With the triggers available when using smart speakers, ING could be paving the way/testing the waters for potential voice banking applications. 
 Moreover, opening up an enterprise backend to external parties is a scary thought for many, yet to enable this new feature, ING opened its APIs to IFTTT. 

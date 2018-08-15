@@ -301,6 +301,8 @@ So what has ING been doing to fend off disruption?
 
 If we look at companies’ responses to [disruptive innovation](https://www.toptal.com/finance/investment-banking-freelancer/fintech-and-banks) in terms of the quadrants from MIT Sloan below, banks are generally at the top left quadrant. 
  
+![disruptive innovation quadrant MIT]({{site.baseurl}}/images/img_ING_disruption.png)
+ 
 Some possible examples that illustrate this quadrant:
 
 - Dismissing the disruptiveness of new fintech offerings 

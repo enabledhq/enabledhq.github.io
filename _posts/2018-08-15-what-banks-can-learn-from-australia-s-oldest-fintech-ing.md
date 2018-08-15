@@ -148,13 +148,19 @@ Why the differences in priorities?
 ## 5. The lounge concept
 
 ING doesn’t have branches or ATMs like traditional banks. They leverage others’ networks:
-They partner with Australia Post to enable Bank@Post for the most common over-counter banking transactions. 
-They offer free ATMs provided certain conditions are met (mentioned in previous section).
+
+- They partner with Australia Post to enable [Bank@Post](https://auspost.com.au/money-insurance/transfer-money/bank-at-post) for the most common over-counter banking transactions. 
+- They offer free ATMs provided certain conditions are met (mentioned in previous section).
+
 But ING does have one physical branch in Sydney called the “ING lounge.” Going with a friendly and informal style, this is reserved for money-related consultation and digital coaching. 
 
-Website copy that makes it more human. Source: ING
+![ING lounge concept]({{site.baseurl}}/images/img_ING_lounge.png)
+*Website copy that makes it more human. Source: [ING](https://www.ing.com.au/ing-lounge.html)*
+
 The lounge serves the purpose of warming customers up to bigger purchases that require human interactions, i.e. mortgage. ING’s main distribution channel for this product is still the broker network, and the lounge is an upgrade of their direct channel. 
-6. The social enterprise accelerator
+
+## 6. The social enterprise accelerator
+
 Dreamstarter is an ongoing initiative that helps social enterprises through a crowdfunding platform. 
 We mentioned ING in our article about the future of brands, where trust is built beyond cause marketing. 
 By now, it’s possible to say that ING’s strategies/tactics are usually multi-faceted. What I mean by this is they are intentional, rather than shooting in the dark; they have potential effect across different areas (human, business, tech), rather than being an isolated phenomenon or one-hit wonder. 

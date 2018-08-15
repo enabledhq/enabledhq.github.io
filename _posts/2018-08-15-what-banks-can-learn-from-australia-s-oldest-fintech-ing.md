@@ -38,34 +38,57 @@ Moreover, ING understands that saving money isn’t fun, so they went with a gam
 
 These also help customers achieve the emotional and social jobs of saving money besides functional ones (other elements of the [Jobs to be done](http://blog.enabled.com.au/jobs-to-be-done/) framework).
 
-Technology angle 
+### Technology angle 
+
 With the triggers available when using smart speakers, ING could be paving the way/testing the waters for potential voice banking applications. 
+
 Moreover, opening up an enterprise backend to external parties is a scary thought for many, yet to enable this new feature, ING opened its APIs to IFTTT. 
+
 The benefits from being able to create new customer experiences outweigh concerns around proprietary or security issues.  
+
 ING said: “This is an example of how by securely opening our APIs to third parties we're able to help meet the ever changing banking needs of Australians.”
-We previously covered the topic of APIs in relation to microservices and the new software paradigm. 
-Business angle
+
+We previously covered the topic of APIs in relation to microservices and the new [software paradigm](http://blog.enabled.com.au/microservices-innovation/). 
+
+### Business angle
+
 How does this feed into their business strategy? Some might see this as a flashy campaign but the IFTTT initiative highlights a few points: 
-Staying true to their origin as a competitive savings account
-Getting ready for “open banking” by opening up their APIs (more on this later)
-The new campaign also builds on the success of ING’s previous savings feature Everyday Round Up, which helps customers save money while spending by automatically rounding up loose change into their savings account.
 
-2. The referral campaign
-We all know the power of customer referrals or word of mouth (see our blog post on Customer Experience). ING was very early in understanding the amplification of social connectivity and the ease of sharing. Now combine that with some monetary incentives and you have the ING’s referral campaign, which has been running for several years. 
+- Staying true to their origin as a competitive savings account
+- Getting ready for “open banking” by opening up their APIs (more on this later)
 
-Rewards for both the referrer and referred have ranged from $25 to $100 per referral.  
-Last year, 40% of new ING customers came from referrals. With no physical branches, no TV advertising, low brand awareness compared to major banks, this makes sense for customer acquisition. 
+The new campaign also builds on the success of ING’s previous savings feature [Everyday Round Up](https://www.smh.com.au/money/saving/roundups-go-mainstream-as-ing-direct-taps-into-behavioural-finance-trend-20171013-gz0sly.html), which helps customers save money while spending by automatically rounding up loose change into their savings account.
+
+## 2. The referral campaign
+
+We all know the power of customer referrals or word of mouth (see our blog post on [Customer Experience](http://blog.enabled.com.au/marketing-customer-experience/)). ING was very early in understanding the amplification of social connectivity and the ease of sharing. Now combine that with some monetary incentives and you have the ING’s referral campaign, which has been running for several years. 
+
+![ING referral campaign]({{site.baseurl}}/images/img_ING_referral.png)
+*Rewards for both the referrer and referred have ranged from $25 to $100 per referral.*
+
+Last year, 40% of new [ING customers](https://newsroom.ing.com.au/record-customer-numbers-boost-growth-at-ing/) came from referrals. With no physical branches, no TV advertising, low brand awareness compared to major banks, this makes sense for customer acquisition. 
+
 Even without a referral, a new sign up still attract a $75 welcome bonus. This person might go on to refer more people in the future to earn a bonus. In a way, this helps curb the churn issue because customers have more motivation to stay, besides the product benefits to be discussed throughout this article. 
-3. The email communications
-Enabling cross-sell and upsell 
+
+## 3. The email communications
+
+### Enabling cross-sell and upsell 
+
 Without physical branches, digital communications to customers must be spot-on. The usual lead nurturing practices would have had ING simply sending out sales emails after certain periods of time and “hassling” customers till they take an action (which may lead to unsubscribing). 
+
 But ING knows better than that. 
+
 Enabled by data analytics, the bank automate personalised email campaigns sending targeted and contextually relevant offers across digital channels including the website, which we will discuss later. 
+
 The results? 120% increase in incremental sales conversion and 45% year-on-year jump in cross-sell purchases. 
+
 Another contributing factor to the effectiveness of ING’s email campaigns is the focus on loyalty and advocacy. They recognise that:
-Chasing new customers over rewarding existing ones is unfair
-Meeting customers at their “moment of truths” is crucial
-Benefit reminders 
+
+- Chasing new customers over rewarding existing ones is unfair
+- Meeting customers at their “moment of truths” is crucial
+
+### Benefit reminders 
+
 Together with the cross-sell and up-sell emails, the benefit reminders serve as a loyalty building tool. These emails articulate the monthly and annual value provided to customers, which have double the open rate of any other email campaigns. 
 What I find particularly useful is the reminder email about the steps required to enjoy full account benefits (including free ATMs everywhere, no international transaction fees etc.) 
 The image below shows the two steps customers need to do every month and whether they have been ticked off. 

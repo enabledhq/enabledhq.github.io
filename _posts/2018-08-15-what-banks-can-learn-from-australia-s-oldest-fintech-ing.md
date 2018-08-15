@@ -3,8 +3,9 @@ layout: post
 date: '2018-08-15 15:58 +0930'
 published: false
 title: What banks can learn from Australia's oldest fintech ING
+hero-banner: /images/Blog_Header_ING.png
 ---
-Take a look at this list of results: over a million customers, sixth biggest lender, challenger bank status, most recommended bank and so on. This looks pretty impressive for Australia’s self-proclaimed “[oldest fintech](https://www.businessinsider.com.au/ing-australias-oldest-fintech-is-reporting-a-sudden-surge-in-customer-growth-2018-3)” having been operational in the country since 1999.\
+Take a look at this list of results: over a million customers, sixth biggest lender, challenger bank status, most recommended bank and so on. This looks pretty impressive for Australia’s self-proclaimed “[oldest fintech](https://www.businessinsider.com.au/ing-australias-oldest-fintech-is-reporting-a-sudden-surge-in-customer-growth-2018-3)” having been operational in the country since 1999.
 
 How does the multinational bank ING do it? Some common themes used by analysts to describe the bank’s strengths are intuitive customer experience, digital disruption, and simplified business structure.
 
@@ -315,29 +316,41 @@ With so much potential disruption flying around, it’s hard to understand why b
 
 That said: 
 
-“Most bankers also recognise they may need to disrupt themselves to remain relevant in a fast-moving technology-driven economy, so adaptation is key.”
+> “Most bankers also recognise they may need to disrupt themselves to remain relevant in a fast-moving technology-driven economy, so adaptation is key.”
 
-*Source: Australian Financial Review*
+*Source: [Australian Financial Review](https://www.afr.com/technology/peer-inside-ings-future-of-voiceactivated-open-banking-20170818-gxzfxa)*
 
 To start the journey of adaptation, banks need to overcome things like legacy systems, lack of speed and agility, lack of user-friendly interfaces and digital experience. 
-Some enabling building blocks for adopting open banking already being utilised by fast movers are APIs, microservices, and DevOps. 
+
+Some enabling building blocks for adopting [open banking](https://www.computerweekly.com/news/252439063/The-dawn-of-open-banking-in-Australia) already being utilised by fast movers are APIs, microservices, and DevOps. 
+
 It’s worth noting how ING is tackling this on both the global and local front, and that the gap between the two is pretty close. Remember the modular architecture mentioned above that allows ING businesses around the world to pick and choose what they want? Perhaps this leads to more unity (shared resources) as well as innovation (learning and improving on each other’s work) across the whole group.
-Platform business model 
-Going back to ING and their preparation for open banking, consider their ambition of being the “WeChat of banks.”
-ING aspires to form its own ecosystem by becoming a platform that connects and aggregates from other platforms. 
-We wrote about the platform business model before. Here, the global bank wants to take it one step up by being a collection of platforms instead of a singular platform. 
+
+## Platform business model 
+
+Going back to ING and their preparation for open banking, consider their ambition of being the “[WeChat of banks](https://www.ing.com/Newsroom/All-news/Becoming-the-WeChat-of-banks.htm).”
+
+ING aspires to form its own ecosystem by becoming a platform that connects and aggregates from other platforms.
+
+We wrote about the [platform business model](http://blog.enabled.com.au/platform-business-model/) before. Here, the global bank wants to take it one step up by being a collection of platforms instead of a singular platform. 
+
 The key to any platform’s success is connectedness. 
-“That means using the right architecture with open APIs and global IT systems.”
+
+> “That means using the right architecture with open APIs and global IT systems.”
+
 It seems ING is in the top right quadrant of the disruptive innovation response mentioned above, i.e. having high motivation and capability to respond. 
+
 Can the bank fend off other fintechs or tech giants like Amazon getting into financial services? Could ING’s digital transformation grow to the scale of WeChat? It’s indeed an exciting space to watch. 
-Key takeaways
-Here are the main points to take away from the ING story:
-Great user experience goes a long way
-Don’t let corporate antibodies develop 
-Talk buzzwords all you want, but walk the talk
-Invest in tech, with the customer in mind
-Open up, or get eaten up 
-Monitor the landscape, experiment, learn, repeat 
+
+# Key takeaways
+
+- Here are the main points to take away from the ING story:
+- Great user experience goes a long way
+- Don’t let corporate antibodies develop 
+- Talk buzzwords all you want, but walk the talk
+- Invest in tech, with the customer in mind
+- Open up, or get eaten up 
+- Monitor the landscape, experiment, learn, repeat
 
 _Disclaimer: All the views here are from my personal experience of being a customer. I am not employed by or affiliated with ING or its subsidiaries in any way whatsoever._
 

@@ -4,6 +4,12 @@ date: '2018-08-15 15:58 +0930'
 published: false
 title: What banks can learn from Australia's oldest fintech ING
 hero-banner: /images/Blog_Header_ING.png
+image: /images/img_ING_thumb.png
+main-category: innovation
+categories:
+  - innovation
+author:
+  - linh
 ---
 Take a look at this list of results: over a million customers, sixth biggest lender, challenger bank status, most recommended bank and so on. This looks pretty impressive for Australia’s self-proclaimed “[oldest fintech](https://www.businessinsider.com.au/ing-australias-oldest-fintech-is-reporting-a-sudden-surge-in-customer-growth-2018-3)” having been operational in the country since 1999.
 

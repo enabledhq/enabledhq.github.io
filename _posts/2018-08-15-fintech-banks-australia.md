@@ -143,9 +143,9 @@ So this is powerful on two fronts:
 
 ## 4. The convenience enabler
 
-> “We are digital first, and increasingly mobile first. Our customers are the most digitally engaged of any bank in this country.”
-
 Recognising that people are increasingly willing to switch banks that provide better [digital experience](https://www.zdnet.com/article/ing-direct-attributes-163000-customer-gain-to-improved-digital-experience/), ING wouldn’t hesitate to give customers the convenience they desire. 
+
+> “We are digital first, and increasingly mobile first. Our customers are the most digitally engaged of any bank in this country.”
 
 ### Seamless payments
 

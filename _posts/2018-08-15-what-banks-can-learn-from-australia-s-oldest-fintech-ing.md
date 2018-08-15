@@ -126,14 +126,15 @@ Recognising that people are increasingly willing to switch banks that provide be
 
 For instance, they listened to customers’ demand and enabled [Apple Pay](https://www.zdnet.com/article/ing-direct-attributes-163000-customer-gain-to-improved-digital-experience/) early on, only after ANZ in Australia. 
 
-Other big banks focused on protecting their own turf by using their own NFC pay tag, or filing to the Australian Competition and Consumer Commission for permission to collectively negotiate against Apple. Were the big banks scared? Were they naïve? Apple said they could be missing out on the future of payments. 
+Other big banks focused on protecting their own turf by using their own NFC pay tag, or filing to the Australian Competition and Consumer Commission for permission to collectively negotiate against Apple. Were the big banks scared? Were they naïve? Apple said they could be missing out on the [future of payments](https://www.afr.com/technology/apple-pay-boss-says-cba-nab-westpac-risk-missing-the-future-of-payments-20170209-gu978p). 
 
 Another payment innovation in Australia this year is PayID, which enables instant transfers between Australian bank accounts without having to remember/know one’s BSB and account number.  
+
 People can create a PayID for their chosen bank account using either a phone number, email, or ABN. So why would some banks allow only one type of PayID? Obviously ING allows more than one type, because it goes back to serving customer needs. 
 
 ### Voice banking
 
-Again, as an example of responding swiftly to consumer demand, ING was the first Australian bank to enable Siri to check your bank account balance. They also have plans to expand Siri’s command lists for things like making transfers and payments.
+Again, as an example of responding swiftly to consumer demand, ING was the first Australian bank to enable [Siri](https://www.gizmodo.com.au/2018/01/siri-can-check-your-ing-bank-balance/) to check your bank account balance. They also have plans to expand Siri’s command lists for things like making transfers and payments.
 
 Among the big banks, NAB and Westpac have launched voice banking tech with Amazon Alexa and Google Assistant. 
 

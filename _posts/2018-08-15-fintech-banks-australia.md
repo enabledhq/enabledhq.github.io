@@ -20,13 +20,13 @@ meta-keywords: >-
   innovation in banking 
 short-link: 'https://goo.gl/v1wUYZ'
 description: >-
-  With open banking and digital disruption from fintechs on the horizon, are
+  With open banking & digital disruption from fintechs on the horizon, are
   Australia’s big banks ready? Lessons from ING about innovation in banking.
 meta-description: >-
-  With open banking and digital disruption from fintechs on the horizon, are
+  With open banking & digital disruption from fintechs on the horizon, are
   Australia’s big banks ready? Lessons from ING about innovation in banking.
 excerpt: >-
-  With open banking and digital disruption from fintechs on the horizon, are
+  With open banking & digital disruption from fintechs on the horizon, are
   Australia’s big banks ready? Lessons from ING about innovation in banking.
 ---
 Take a look at this list of results: over a million customers, sixth biggest lender, challenger bank status, most recommended bank and so on. This looks pretty impressive for Australia’s self-proclaimed “[oldest fintech](https://www.businessinsider.com.au/ing-australias-oldest-fintech-is-reporting-a-sudden-surge-in-customer-growth-2018-3)” having been operational in the country since 1999.

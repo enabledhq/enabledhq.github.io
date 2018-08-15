@@ -16,7 +16,8 @@ meta-keywords: >-
   fintech industry, fintech trends, fintech innovation, ing mobile app, mobile
   banking, open banking, fintech platform, customer experience banking, digital
   disruption in banking, australian banking industry, digital banking,
-  innovation in banking
+  innovation in banking 
+short-link: 'https://goo.gl/v1wUYZ'
 ---
 Take a look at this list of results: over a million customers, sixth biggest lender, challenger bank status, most recommended bank and so on. This looks pretty impressive for Australia’s self-proclaimed “[oldest fintech](https://www.businessinsider.com.au/ing-australias-oldest-fintech-is-reporting-a-sudden-surge-in-customer-growth-2018-3)” having been operational in the country since 1999.
 

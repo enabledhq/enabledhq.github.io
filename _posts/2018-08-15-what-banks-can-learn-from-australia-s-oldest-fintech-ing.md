@@ -4,21 +4,33 @@ date: '2018-08-15 15:58 +0930'
 published: false
 title: What banks can learn from Australia's oldest fintech ING
 ---
-Take a look at this list of results: over a million customers, sixth biggest lender, challenger bank status, most recommended bank and so on. This looks pretty impressive for Australia’s self-proclaimed “oldest fintech” having been operational in the country since 1999.
+Take a look at this list of results: over a million customers, sixth biggest lender, challenger bank status, most recommended bank and so on. This looks pretty impressive for Australia’s self-proclaimed “[oldest fintech](https://www.businessinsider.com.au/ing-australias-oldest-fintech-is-reporting-a-sudden-surge-in-customer-growth-2018-3)” having been operational in the country since 1999.\
+
 How does the multinational bank ING do it? Some common themes used by analysts to describe the bank’s strengths are intuitive customer experience, digital disruption, and simplified business structure.
-Last month, ING released Australia’s first set-and-forget savings feature that lets customers save as they “run, walk, tweet or shiver.” This uses an IFTTT (If This Then That) integration for the automatic triggers and money transfers into a customer’s savings account. 
+
+Last month, ING released Australia’s first set-and-forget [savings feature](https://newsroom.ing.com.au/australian-banking-first-save-as-you-run-walk-tweet-or-shiver/) that lets customers save as they “run, walk, tweet or shiver.” This uses an IFTTT (If This Then That) integration for the automatic triggers and money transfers into a customer’s savings account. 
+
 ING’s latest tech-enabled innovation is just one among their many tactics to reshape “how banking can be.”
+
 In this article, we will delve into ING’s success pillars and analyse some of their moves in Australia.  
-Customer-focused strategies help fuel growth
-“Too many organisations spend too much money telling customers how wonderful they are and not enough money on actually serving the needs of customers.” - ING’s former CEO
-The IFTTT campaign
+
+# Customer-focused strategies help fuel growth
+
+> “Too many organisations spend too much money telling customers how wonderful they are and not enough money on actually serving the needs of customers.” - ING’s former CEO
+
+## 1. The IFTTT campaign
+
 Let’s go back to the campaign mentioned at the start of this article. 
-I have been using IFTTT to automate useful tasks, from “IF it rains tomorrow THEN send me a notification”, “IF I post on Instagram THEN post it to a Slack channel”, to more peculiar tasks like “trigger a phone call to yourself so that you can politely excuse yourself from an awkward situation.”
+
+I have been using IFTTT to automate useful tasks, from “IF it rains tomorrow THEN send me a notification”, “IF I post on Instagram THEN post it to a Slack channel”, to more peculiar tasks like “trigger a phone call to yourself so that you can politely excuse yourself from an [awkward situation](https://ifttt.com/applets/DEz9XLCh-get-yourself-out-of-an-awkward-situation-international).”
+
 When ING leveraged this nifty platform, I thought this was a brilliant move on multiple fronts. From a Jobs to be Done perspective, ING articulated pretty well their customer’s job, which is to put away money into savings without having to actively think about it. 
 Check out some of the savings triggers available for the action “move money to my savings account” in the image below. 
   
 Source: IFTTT
+
 Human angle 
+
 ING understands that their customers are already interacting mainly on mobile, using common apps and utilities which makes the IFTTT integration a natural extension, i.e. the barrier to adoption isn’t high. 
 Moreover, ING understands that saving money isn’t fun, so they went with a gamifying angle. The choice of triggers include things that are relevant to everyone, from passive ones like “when temperature drops”, to active ones like “when you achieve your Fitbit goals”, and social ones like “when you post a status on Facebook.” 
 These also help customers achieve the emotional and social jobs of saving money besides functional ones (other elements of the Jobs to be done framework).

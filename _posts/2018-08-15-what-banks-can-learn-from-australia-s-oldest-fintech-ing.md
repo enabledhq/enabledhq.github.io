@@ -157,16 +157,22 @@ But ING does have one physical branch in Sydney called the “ING lounge.” Goi
 ![ING lounge concept]({{site.baseurl}}/images/img_ING_lounge.png)
 *Website copy that makes it more human. Source: [ING](https://www.ing.com.au/ing-lounge.html)*
 
-The lounge serves the purpose of warming customers up to bigger purchases that require human interactions, i.e. mortgage. ING’s main distribution channel for this product is still the broker network, and the lounge is an upgrade of their direct channel. 
+The lounge serves the purpose of warming customers up to bigger purchases that require human interactions, i.e. mortgage. ING’s main distribution channel for this product is still the [broker network](https://www.brokernews.com.au/news/breaking-news/ing-focusing-on-dual-brokerdirect-growth-242333.aspx), and the lounge is an upgrade of their direct channel. 
 
 ## 6. The social enterprise accelerator
 
-Dreamstarter is an ongoing initiative that helps social enterprises through a crowdfunding platform. 
-We mentioned ING in our article about the future of brands, where trust is built beyond cause marketing. 
+Dreamstarter is an ongoing initiative that helps [social enterprises](https://campaigns.ing.com.au/Dreamstarter) through a crowdfunding platform. 
+
+We mentioned ING in our article about the [future of brands](http://blog.enabled.com.au/future-of-brands/), where trust is built beyond cause marketing. 
+
 By now, it’s possible to say that ING’s strategies/tactics are usually multi-faceted. What I mean by this is they are intentional, rather than shooting in the dark; they have potential effect across different areas (human, business, tech), rather than being an isolated phenomenon or one-hit wonder. 
+
 With the Dreamstarter initiative, it is about giving back to the community, and building trust to the extent that:
-“ING's overall Net Promoter Score is about 56, the highest of any bank in Australia. By comparison, the average overall rating for the big four is minus 23.”
-Source: Australian Financial Review 
+
+> “ING's overall Net Promoter Score is about 56, the highest of any bank in Australia. By comparison, the average overall rating for the big four is minus 23.”
+
+*Source: [Australian Financial Review](https://www.afr.com/brand/chanticleer/ing-direct-can-teach-the-big-four-some-lessons-20160331-gnvgpu)* 
+
 What it means to be Digital-first
 In this section, let’s talk about how ING built a “$50 billion balance sheet with 500,000 transactions on a daily basis purely by being a ‘digital destination’”.
 IT Architecture

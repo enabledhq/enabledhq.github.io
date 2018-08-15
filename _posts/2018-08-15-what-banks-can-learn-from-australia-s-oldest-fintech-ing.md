@@ -263,7 +263,7 @@ To kick off this section, here’s a quote about the banking industry’s existe
 
 This and a similar saying “Banking is necessary, banks are not” (both attributed to Bill Gates back in the nineties), highlight the need to constantly stay relevant by focusing on customer needs. 
 
-Unbundling of banks 
+## Unbundling of banks 
 
 Even though ING is considered a challenger bank relative to the big banks, we can still ask questions like: “When will the disruptor be disrupted?”
 
@@ -285,25 +285,40 @@ Some possible examples that illustrate this quadrant:
 
 Is ING in the same quadrant as most banks? I’d argue not. Let’s discuss further in the next section. 
 
-Open banking
+## Open banking
 
 With the general trend of “open everything,” open banking is already gaining traction, whether incumbents like it or not. 
-What is open banking? It’s a data sharing scheme that lets “accredited third-parties to access customer banking data via secure application programming interfaces (APIs).”
-With open banking in place, certain transactional and product data now belongs to customers, not banks, flipping the existing model on its head. Effectively, that means more power to customers as they decide who they want to give such data to in exchange for better services and products. 
-Now cast your mind back to the IFTTT integration mentioned at the start of this article. ING has laid some sort of foundation for open banking in Australia (government rollout planned for 2019) by giving IFTTT’s access to their APIs to develop this offering. 
-On the global stage, ING has joined the open banking movement with the launch of Yolt in the UK – an ING-owned fintech app that aggregates data from various financial institutions to give users an overview of their personal finance. An Australian equivalent is the Qantas Money app. 
 
-Yolt app (left) vs. Qantas Money app (right)
+What is [open banking](https://www.afr.com/business/banking-and-finance/financial-services/open-banking-already-changing-the-uk-market-20180516-h104pr)? It’s a data sharing scheme that lets “accredited third-parties to access customer banking data via secure application programming interfaces (APIs).”
+
+With open banking in place, certain transactional and product data now belongs to customers, not banks, flipping the existing model on its head. Effectively, that means more power to customers as they decide who they want to give such data to in exchange for better services and products. 
+
+Now cast your mind back to the IFTTT integration mentioned at the start of this article. ING has laid some sort of foundation for open banking in Australia (government rollout planned for 2019) by giving IFTTT’s access to their APIs to develop this offering. 
+
+On the global stage, ING has joined the open banking movement with the launch of [Yolt](https://www.yolt.com/) in the UK – an ING-owned fintech app that aggregates data from various financial institutions to give users an overview of their personal finance. An Australian equivalent is the [Qantas Money](https://www.qantasmoney.com/app) app. 
+
+![personal finance app]({{site.baseurl}}/images/img_ING_yolt.png)
+*Yolt app (left) vs. Qantas Money app (right)*
+
 But is this the incumbents playing catch-up? Because some fintechs without backing from any bank or financial institution have launched similar apps at least 4 years prior. 
+
 Examples: 
-Japanese startup Money Tree entered Australia in 2017 after launching successfully in Japan (2013) and the US (2014) 
-Pocketbook is an Australian startup that launched in 2012 
-It doesn’t stop there. Open banking is heating up the competition with more parties wanting a share of the pie, including mobile phone operators, credit reference agencies, e-commerce providers, insurance companies.
+
+- Japanese startup [Money Tree](https://www.zdnet.com/article/moneytree-enters-australia-as-government-looks-to-open-banking-regime/) entered Australia in 2017 after launching successfully in Japan (2013) and the US (2014) 
+- [Pocketbook](https://www.afr.com/technology/apps/business/how-pocketbook-went-from-a-sydney-spreadsheet-to-a-fintech-with-300000-users-20170523-gwbp5j) is an Australian startup that launched in 2012 
+
+It doesn’t stop there. [Open banking](https://www.afr.com/business/banking-and-finance/financial-services/open-banking-already-changing-the-uk-market-20180516-h104pr) is heating up the competition with more parties wanting a share of the pie, including mobile phone operators, credit reference agencies, e-commerce providers, insurance companies.
+
 Established fintechs like PayPal and Square are edging to jump in and take a cut from bankers. That’s not to mention global tech giants like Amazon, Google, Facebook and Apple wanting to do the same, just because they can. 
+
 With so much potential disruption flying around, it’s hard to understand why banks want to stay in that top left quadrant (see image above). 
+
 That said: 
+
 “Most bankers also recognise they may need to disrupt themselves to remain relevant in a fast-moving technology-driven economy, so adaptation is key.”
-Source: Australian Financial Review
+
+*Source: Australian Financial Review*
+
 To start the journey of adaptation, banks need to overcome things like legacy systems, lack of speed and agility, lack of user-friendly interfaces and digital experience. 
 Some enabling building blocks for adopting open banking already being utilised by fast movers are APIs, microservices, and DevOps. 
 It’s worth noting how ING is tackling this on both the global and local front, and that the gap between the two is pretty close. Remember the modular architecture mentioned above that allows ING businesses around the world to pick and choose what they want? Perhaps this leads to more unity (shared resources) as well as innovation (learning and improving on each other’s work) across the whole group.

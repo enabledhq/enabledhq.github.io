@@ -8,6 +8,7 @@ image: /images/img_ING_thumb.png
 main-category: innovation
 categories:
   - innovation
+  - ux
 author:
   - linh
 meta-keywords: >-

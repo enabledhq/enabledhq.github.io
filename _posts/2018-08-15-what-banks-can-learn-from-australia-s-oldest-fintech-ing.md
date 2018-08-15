@@ -173,28 +173,48 @@ With the Dreamstarter initiative, it is about giving back to the community, and 
 
 *Source: [Australian Financial Review](https://www.afr.com/brand/chanticleer/ing-direct-can-teach-the-big-four-some-lessons-20160331-gnvgpu)* 
 
-What it means to be Digital-first
-In this section, let’s talk about how ING built a “$50 billion balance sheet with 500,000 transactions on a daily basis purely by being a ‘digital destination’”.
-IT Architecture
+# What it means to be Digital-first
+
+In this section, let’s talk about how ING built a “$50 billion balance sheet with 500,000 transactions on a daily basis purely by being a ‘[digital destination](https://www.cio.com.au/article/632814/future-banks-will-completely-jargon-free-ing-cio/)’”.
+
+## IT Architecture
+
 Being a branchless bank, ING needs to ensure “extreme availability.” In fact, the digital platform needs to be available to customers 99.9% of the time.  
-What’s also interesting is the bank’s redesign of its software architecture to be modular and Lego-like. This has allowed them to ship out new tools, such as the Everyday Round Up feature mentioned above, at half the time it used to take.  
+
+What’s also interesting is the bank’s redesign of its [software architecture](https://www.itnews.com.au/news/how-ing-direct-got-people-to-save-money-without-thinking-478838) to be modular and Lego-like. This has allowed them to ship out new tools, such as the Everyday Round Up feature mentioned above, at half the time it used to take.  
+
 The new architecture involves a Google’s Polymer application toolkit in and a customised API Blueprint platform. While all of these sound technical, the concept is simple: instead of a monolithic architecture, ING picks and chooses the best bits, swaps out what they don’t want or customises the bits they want. 
-This modular characteristic is emblematic of microservices - which we’ve talked about extensively in a previous post.
+
+This modular characteristic is emblematic of [microservices](http://blog.enabled.com.au/microservices-innovation/) - which we’ve talked about extensively in a previous post.
+
 Similar to the app architecture, ING’s website was also built in a modular fashion. This allows other ING businesses around the world to pick only the “modules” they want. 
-ING’s head of IT strategy sums it up nicely: 
-“We no longer build applications. We have, and are enriching, a module market sourced from industry and the ING global community. Modules are assembled into applications as the business requires.”
-Culture & operations
+
+ING’s head of [IT strategy](https://www.itnews.com.au/news/inside-ing-directs-new-lego-block-app-architecture-407763) sums it up nicely: 
+
+> “We no longer build applications. We have, and are enriching, a module market sourced from industry and the ING global community. Modules are assembled into applications as the business requires.”
+
+## Culture & operations
+
 The right tools won’t magically get results if there aren’t the right culture and processes to support them. 
-ING transitioned from waterfall to agile two years ago, and became inspiration for ANZ’s own Agile shake-up. They even rolled out Agile further across the enterprise with the “BizDevOps” model, which is basically bringing the Business and IT teams together. 
+
+ING transitioned from waterfall to agile two years ago, and became inspiration for ANZ’s own [Agile](https://www.cio.com.au/article/633261/sharing-stories-cio50-24-ani-paul-ing-australia/) shake-up. They even rolled out Agile further across the enterprise with the “BizDevOps” model, which is basically bringing the Business and IT teams together. 
+
 A recent survey on corporate innovation says the majority of companies takes 12 months or more to launch a new product. 
+
 Within just one year, ING managed to launch a bunch of them, from payment tech integration, to credit card and insurance offerings. 
-Customer involvement 
+
+## Customer involvement 
+
 As a digital-first bank, it’s natural for ING to invest heavily in their web & mobile channels. 
 If you look at the recent two-year journey to overhaul their digital platform with the help of more than 16,000 customer volunteers, now that’s true customer focus. 
+
 It was the biggest single investment up to 2016, to the tune of tens of millions. But ROI will be quick. Because instead of mass advertising and marketing to customers, ING can personalise offers based on behavioural analytics (see the section on email communications above). 
+
 This decreases the likelihood of the sequence: irrelevant offers > disengagement > customer churn.
 After all, they had customers co-design the website overhaul through five stages. 
-User experience
+
+## User experience
+
 Since most banking transactions are done on mobile devices, let’s zoom in the mobile app. The table below shows the user ratings for ING and the big 4 banks on the two main mobile platforms. 
  
 App ratings as of July 2018

@@ -217,50 +217,76 @@ After all, they had customers co-design the website overhaul through five stages
 
 Since most banking transactions are done on mobile devices, let’s zoom in the mobile app. The table below shows the user ratings for ING and the big 4 banks on the two main mobile platforms. 
  
-App ratings as of July 2018
+![Australian bank app ratings]({{site.baseurl}}/images/img_ING_appratings.jpg)
+*App ratings as of July 2018*
 
 It seems that ING’s simple mobile app User Interface and User Experience has scored points with customers, putting them just after ANZ in the overall rating (that is if you compare the averaged score).
 
 This presents a counter-intuitive notion at first: Tech needs to get out of the way. That means, banks shouldn’t want to keep customers in the app, but help them get the job done and move on. 
 
-“People don’t have time these days, and even if they did, they don’t want to spend it on banking.”
+“People don’t have time these days, and even if they did, they don’t want to spend it on [banking](https://www.ing.com/Newsroom/All-news/Even-I-dont-have-time-for-banking-Ralph-Hamers.htm).”
 
 Now let’s look at the mobile banking evaluation from an independent research body. In Forrester’s 2017 Global Mobile Banking Functionality Survey, CBA and Westpac topped the list in Australia, and are in the world’s top 10. 
 
 Why such disparity between consumer and “academic” evaluation? 
 
-“Verbatim customer responses suggest the CBA app rates highly due to features, while the ING app is far more simplistic, but resonates with customers due to ease of use and visual appeal.” 
+“Verbatim customer responses suggest the CBA app rates highly due to features, while the [ING app](https://www.rfigroup.com/rfi-group/news/westpac-cba-top-mobile-banking-survey) is far more simplistic, but resonates with customers due to ease of use and visual appeal.” 
+
 The researcher also mentioned strong brand perceptions, or customer expectations flowing through to mobile app ratings. 
+
 In this case, customers have come to expect simplicity from ING, and that’s exactly what the bank has delivered with the app. 
+
 On the other hand, CBA’s branding is around “Can” - or the bank saying yes to customer requests. Thus, it may be natural to expect broad functionality from the CBA app. 
+
 If we go back to explaining the evaluation disparity, the CBA app satisfies the functional element, i.e. has lots of features, but might not be as usable as the ING app. After all, there are other elements making up good User Experience that companies need to consider.
 
-Source: usability.gov
-Here are some wise words from Forrester about Spanish bank BBVA who has the best banking app in the world: 
+![user experience banking]({{site.baseurl}}/images/img_ING_UX.jpg)
+*Source: [usability.gov](https://www.usability.gov/what-and-why/user-experience.html)*
+
+Here are some wise words from Forrester about Spanish bank BBVA who has the best [banking app](https://www.computerweekly.com/news/450424306/BBVA-tops-Forrester-mobile-bank-app-chart) in the world: 
+
 “Becoming customer-obsessed is not about focusing on adding new mobile banking functionality, it is about putting customers at the heart of what the bank does.”
-In other words, banks need to understand the customers’ jobs-to-be-done. 
-One point of criticism for most Australian banking apps though: Accessibility. ANZ seems to be the only one among the banks listed above actively promoting their accessible mobile app.  
+
+In other words, banks need to understand the customers’ [jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/). 
+
+One point of criticism for most Australian banking apps though: Accessibility. ANZ seems to be the only one among the banks listed above actively promoting their accessible mobile app.
+
 Even something as simple as leveraging Apple iOS built-in text scaling feature is absent in those banking apps, including ING. 
-So banks could be missing out on this overlooked market segment. And all it takes to get started might just be doing an accessibility audit.
-Getting ready for digital disruption
+
+So banks could be missing out on this overlooked market segment. And all it takes to get started might just be doing an [accessibility audit](https://enabled.com.au/accessibility).
+
+# Getting ready for digital disruption
+
 To kick off this section, here’s a quote about the banking industry’s existence, or any industry for that matter: 
-“Customers need banking not banks.”
+
+> “Customers need banking not banks.”
+
 This and a similar saying “Banking is necessary, banks are not” (both attributed to Bill Gates back in the nineties), highlight the need to constantly stay relevant by focusing on customer needs. 
+
 Unbundling of banks 
+
 Even though ING is considered a challenger bank relative to the big banks, we can still ask questions like: “When will the disruptor be disrupted?”
-In our previous article on digital transformation, we’ve discussed how fintech startups can disrupt traditional banks by unbundling their services. These startups focus on providing one or a couple of services really well, e.g. wealth management, stock exchange, money transfer.
+
+In our previous article on [digital transformation](http://blog.enabled.com.au/digital-transformation/), we’ve discussed how fintech startups can disrupt traditional banks by unbundling their services. These startups focus on providing one or a couple of services really well, e.g. wealth management, stock exchange, money transfer.
+
 So what has ING been doing to fend off disruption? 
-Constant improvements to make sure the core offering is the best there is for the customers (like what we’ve talked about so far)
-“Reward for bundling” because they realise they can’t be all things to all customers 
-If we look at companies’ responses to disruptive innovation in terms of the quadrants from MIT Sloan below, banks are generally at the top left quadrant. 
+
+- Constant improvements to make sure the core offering is the best there is for the customers (like what we’ve talked about so far)
+- “Reward for [bundling](https://www.cmo.com.au/article/587293/how-ing-direct-boosting-customer-loyalty-using-data-analytics/)” because they realise they can’t be all things to all customers 
+
+If we look at companies’ responses to [disruptive innovation](https://www.toptal.com/finance/investment-banking-freelancer/fintech-and-banks) in terms of the quadrants from MIT Sloan below, banks are generally at the top left quadrant. 
  
 Some possible examples that illustrate this quadrant:
-Dismissing the disruptiveness of new fintech offerings 
-Spending on improving internal processes/acquiring assets and not improving customer experience
-Forming alliance with “competitors” to protect own turf (e.g. CBA, Westpac, NAB vs. Apple Pay mentioned above)  
-Closing off instead of opening up in terms of tech or business, whether internally or externally 
+
+- Dismissing the disruptiveness of new fintech offerings 
+- Spending on improving internal processes/acquiring assets and not improving customer experience
+- Forming alliance with “competitors” to protect own turf (e.g. CBA, Westpac, NAB vs. Apple Pay mentioned above)  
+- Closing off instead of opening up in terms of tech or business, whether internally or externally 
+
 Is ING in the same quadrant as most banks? I’d argue not. Let’s discuss further in the next section. 
+
 Open banking
+
 With the general trend of “open everything,” open banking is already gaining traction, whether incumbents like it or not. 
 What is open banking? It’s a data sharing scheme that lets “accredited third-parties to access customer banking data via secure application programming interfaces (APIs).”
 With open banking in place, certain transactional and product data now belongs to customers, not banks, flipping the existing model on its head. Effectively, that means more power to customers as they decide who they want to give such data to in exchange for better services and products. 

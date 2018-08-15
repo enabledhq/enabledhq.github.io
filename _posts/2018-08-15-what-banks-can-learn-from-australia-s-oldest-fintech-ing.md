@@ -199,16 +199,16 @@ The right tools won’t magically get results if there aren’t the right cultur
 
 ING transitioned from waterfall to agile two years ago, and became inspiration for ANZ’s own [Agile](https://www.cio.com.au/article/633261/sharing-stories-cio50-24-ani-paul-ing-australia/) shake-up. They even rolled out Agile further across the enterprise with the “BizDevOps” model, which is basically bringing the Business and IT teams together. 
 
-A recent survey on corporate innovation says the majority of companies takes 12 months or more to launch a new product. 
+A recent survey on [corporate innovation](https://www.slideshare.net/CBInsights/the-state-of-innovation-survey-of-677-corporate-strategy-executives) says the majority of companies takes 12 months or more to launch a new product. 
 
 Within just one year, ING managed to launch a bunch of them, from payment tech integration, to credit card and insurance offerings. 
 
 ## Customer involvement 
 
 As a digital-first bank, it’s natural for ING to invest heavily in their web & mobile channels. 
-If you look at the recent two-year journey to overhaul their digital platform with the help of more than 16,000 customer volunteers, now that’s true customer focus. 
+If you look at the recent two-year journey to overhaul their [digital platform](https://newsroom.ing.com.au/customers-drive-ing-directs-digital-experience/) with the help of more than 16,000 customer volunteers, now that’s true customer focus. 
 
-It was the biggest single investment up to 2016, to the tune of tens of millions. But ROI will be quick. Because instead of mass advertising and marketing to customers, ING can personalise offers based on behavioural analytics (see the section on email communications above). 
+It was the biggest single investment up to 2016, to the tune of tens of millions. But ROI will be quick. Because instead of mass advertising and marketing to customers, ING can personalise offers based on [behavioural analytics](https://www.smh.com.au/business/banking-and-finance/ing-spends-big-on-site-to-automate-marketing-20160512-gotmnb.html) (see the section on email communications above). 
 
 This decreases the likelihood of the sequence: irrelevant offers > disengagement > customer churn.
 After all, they had customers co-design the website overhaul through five stages. 
@@ -218,11 +218,17 @@ After all, they had customers co-design the website overhaul through five stages
 Since most banking transactions are done on mobile devices, let’s zoom in the mobile app. The table below shows the user ratings for ING and the big 4 banks on the two main mobile platforms. 
  
 App ratings as of July 2018
+
 It seems that ING’s simple mobile app User Interface and User Experience has scored points with customers, putting them just after ANZ in the overall rating (that is if you compare the averaged score).
+
 This presents a counter-intuitive notion at first: Tech needs to get out of the way. That means, banks shouldn’t want to keep customers in the app, but help them get the job done and move on. 
+
 “People don’t have time these days, and even if they did, they don’t want to spend it on banking.”
+
 Now let’s look at the mobile banking evaluation from an independent research body. In Forrester’s 2017 Global Mobile Banking Functionality Survey, CBA and Westpac topped the list in Australia, and are in the world’s top 10. 
+
 Why such disparity between consumer and “academic” evaluation? 
+
 “Verbatim customer responses suggest the CBA app rates highly due to features, while the ING app is far more simplistic, but resonates with customers due to ease of use and visual appeal.” 
 The researcher also mentioned strong brand perceptions, or customer expectations flowing through to mobile app ratings. 
 In this case, customers have come to expect simplicity from ING, and that’s exactly what the bank has delivered with the app. 

@@ -80,46 +80,72 @@ But ING knows better than that.
 
 Enabled by data analytics, the bank automate personalised email campaigns sending targeted and contextually relevant offers across digital channels including the website, which we will discuss later. 
 
-The results? 120% increase in incremental sales conversion and 45% year-on-year jump in cross-sell purchases. 
+The results? 120% increase in incremental [sales conversion](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=UVP12470USEN) and 45% year-on-year jump in cross-sell purchases. 
 
-Another contributing factor to the effectiveness of ING’s email campaigns is the focus on loyalty and advocacy. They recognise that:
+Another contributing factor to the effectiveness of ING’s [email campaigns](https://www.cmo.com.au/article/587293/how-ing-direct-boosting-customer-loyalty-using-data-analytics/) is the focus on loyalty and advocacy. They recognise that:
 
 - Chasing new customers over rewarding existing ones is unfair
 - Meeting customers at their “moment of truths” is crucial
 
 ### Benefit reminders 
 
-Together with the cross-sell and up-sell emails, the benefit reminders serve as a loyalty building tool. These emails articulate the monthly and annual value provided to customers, which have double the open rate of any other email campaigns. 
+Together with the cross-sell and up-sell emails, the benefit reminders serve as a loyalty building tool. These emails articulate the monthly and annual value provided to customers, which have double the open rate of any other [email campaigns](https://www.cmo.com.au/article/587293/how-ing-direct-boosting-customer-loyalty-using-data-analytics/). 
+
 What I find particularly useful is the reminder email about the steps required to enjoy full account benefits (including free ATMs everywhere, no international transaction fees etc.) 
 The image below shows the two steps customers need to do every month and whether they have been ticked off. 
  
+![ING account monthly fee email]({{site.baseurl}}/images/img_ING_reminder.png)
+ 
 This presents ING as a helpful assistant who genuinely doesn’t want customers to miss out on benefits. Wouldn’t it be good if other banks out there sent you reminders like this to help you avoid the sneaky monthly account fees? 
-Plain-English transactional emails
-Staying true to their motto of simplicity, ING has managed to disrupt the perception of traditional banking lingo.
-Their transactional emails are jargon-free and straight to the point, e.g. for new payee, transfer confirmation etc. 
-“The essence of simplicity even flows down to the way our developers write error messages.” - ING’s CIO
-What’s admirable here is ING is not taking an entitled attitude where organisations “impose jargons” on customers because the [banking] industry has been around for hundreds of years. 
 
-Snapshot of ING’s straight forward T&Cs 
+### Plain-English transactional emails
+
+Staying true to their motto of simplicity, ING has managed to disrupt the perception of traditional banking lingo.
+
+Their transactional emails are jargon-free and straight to the point, e.g. for new payee, transfer confirmation etc. 
+
+> “The essence of simplicity even flows down to the way our developers write error messages.” - ING’s CIO
+
+What’s admirable here is ING is not taking an entitled attitude where organisations “[impose jargons](https://www.cio.com.au/article/632814/future-banks-will-completely-jargon-free-ing-cio/)” on customers because the [banking] industry has been around for hundreds of years. 
+
+![ING terms conditions]({{site.baseurl}}/images/img_ING_TandCs.png)
+*Snapshot of ING’s straight forward T&Cs* 
+
 So this is powerful on two fronts: 
-Making the current customer experience pleasant
-Thinking ahead, this is actually preparing them for the future of conversational user interface with AI’s natural language processing capability. 
-4. The convenience enabler
-“We are digital first, and increasingly mobile first. Our customers are the most digitally engaged of any bank in this country.”
-Recognising that people are increasingly willing to switch banks that provide better digital experience, ING wouldn’t hesitate to give customers the convenience they desire. 
-Seamless payments
-For instance, they listened to customers’ demand and enabled Apple Pay early on, only after ANZ in Australia. 
-Other big banks focused on protecting their own turf by using their own NFC pay tag, or filing to the Australian Competition and Consumer Commission for permission to collectively negotiate against Apple. Were the big banks scared? Were they naïve? Apple said they could be missing out on the future of payments.  
+
+- Making the current customer experience pleasant
+- Thinking ahead, this is actually preparing them for the future of conversational user interface with AI’s natural language processing capability. 
+
+## 4. The convenience enabler
+
+> “We are digital first, and increasingly mobile first. Our customers are the most digitally engaged of any bank in this country.”
+
+Recognising that people are increasingly willing to switch banks that provide better [digital experience](https://www.zdnet.com/article/ing-direct-attributes-163000-customer-gain-to-improved-digital-experience/), ING wouldn’t hesitate to give customers the convenience they desire. 
+
+### Seamless payments
+
+For instance, they listened to customers’ demand and enabled [Apple Pay](https://www.zdnet.com/article/ing-direct-attributes-163000-customer-gain-to-improved-digital-experience/) early on, only after ANZ in Australia. 
+
+Other big banks focused on protecting their own turf by using their own NFC pay tag, or filing to the Australian Competition and Consumer Commission for permission to collectively negotiate against Apple. Were the big banks scared? Were they naïve? Apple said they could be missing out on the future of payments. 
+
 Another payment innovation in Australia this year is PayID, which enables instant transfers between Australian bank accounts without having to remember/know one’s BSB and account number.  
 People can create a PayID for their chosen bank account using either a phone number, email, or ABN. So why would some banks allow only one type of PayID? Obviously ING allows more than one type, because it goes back to serving customer needs. 
-Voice banking
+
+### Voice banking
+
 Again, as an example of responding swiftly to consumer demand, ING was the first Australian bank to enable Siri to check your bank account balance. They also have plans to expand Siri’s command lists for things like making transfers and payments.
+
 Among the big banks, NAB and Westpac have launched voice banking tech with Amazon Alexa and Google Assistant. 
+
 Limited to moving money into savings for now, ING also has an Alexa and Google Assistant integration through IFTTT (mentioned at the start of this article). 
+
 Why the differences in priorities? 
-ING went after the largest segment of their customer base: iOS users
-Compared with other big tech companies, Apple has generally been considered better with privacy issues, which voice banking might raise
-5. The lounge concept
+
+- ING went after the largest segment of their customer base: iOS users
+- Compared with other big tech companies, Apple has generally been considered better with privacy issues, which voice banking might raise
+
+## 5. The lounge concept
+
 ING doesn’t have branches or ATMs like traditional banks. They leverage others’ networks:
 They partner with Australia Post to enable Bank@Post for the most common over-counter banking transactions. 
 They offer free ATMs provided certain conditions are met (mentioned in previous section).

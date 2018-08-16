@@ -2,7 +2,7 @@
 layout: post
 date: '2018-08-15 15:58 +0930'
 published: true
-title: What banks can learn from Australia's oldest fintech ING
+title: What Banks Can Learn from Australia's Oldest Fintech ING
 hero-banner: /images/Blog_Header_ING.png
 image: /images/img_ING_thumb.png
 main-category: innovation

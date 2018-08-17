@@ -39,6 +39,7 @@ short-link: 'https://goo.gl/b8cGcB'
   "@context" : "http://schema.org",
   "@type" : "Article",
   "name" : "Why Microservices Are The New Innovation Enablers For Enterprises",
+  "headline" : "Why Microservices Are The New Innovation Enablers For Enterprises",
   "author" : {
     "@type" : "Person",
     "name" : "Grant Hull"
@@ -48,8 +49,13 @@ short-link: 'https://goo.gl/b8cGcB'
   "articleSection" : [ "Being Eaten by Software", "The Power is now with your Customers", "Speed and Agility is Key", "How did this divide happen?", "The enterprise software journey", "Monolith of the ERP kind", "New software", "New paradigms", "Monoliths vs. microservices", "“Saasification", "What are big software vendors doing to combat this shift?", "Benefits of microservices", "Take risks and disrupt without causing chaos" ],
   "publisher" : {
     "@type" : "Organization",
-    "name" : "Enabled"
-  }
+	"name" : "Enabled",
+	"logo": {
+      "@type": "ImageObject", 
+      "url": "https://enabled.com.au/images/enabled_logo_colour.jpg"
+    }
+  },
+"description": "Innovative leaders & startups are moving to the new software paradigm with microservices architecture, allowing them to innovate faster. Where does ERP fit?"
 }
 </script>
 

@@ -371,7 +371,8 @@ Can the bank fend off other fintechs or tech giants like Amazon getting into fin
 
 # Key takeaways
 
-- Here are the main points to take away from the ING story:
+Here are the main points to take away from the ING story:
+
 - Great user experience goes a long way
 - Don’t let corporate antibodies develop 
 - Talk buzzwords all you want, but walk the talk

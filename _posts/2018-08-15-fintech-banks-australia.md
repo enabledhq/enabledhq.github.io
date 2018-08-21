@@ -246,7 +246,7 @@ Since most banking transactions are done on mobile devices, let’s zoom in the 
 ![Australian bank app ratings]({{site.baseurl}}/images/img_ING_appratings.jpg)
 *App ratings by users (out of 5) as of July 2018*
 
-It seems that ING’s simple mobile app User Interface and User Experience has scored points with customers, putting them just after ANZ in the overall rating (that is if you compare the averaged score).
+It seems that ING’s simple mobile app User Interface and User Experience has scored points with customers, putting them just after ANZ in the overall rating (that is if you compare the averaged score for 2 platforms).
 
 This presents a counter-intuitive notion at first: Tech needs to get out of the way. That means, banks shouldn’t want to keep customers in the app, but help them get the job done and move on. 
 

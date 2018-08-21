@@ -156,7 +156,7 @@ Other big banks focused on protecting their own turf by using their own NFC pay 
 
 Another payment innovation in Australia this year is PayID, which enables instant transfers between Australian bank accounts without having to remember/know one’s BSB and account number.  
 
-People can create a PayID for their chosen bank account using either a phone number, email, or ABN. So why would some banks allow only one type of PayID? Obviously ING allows more than one type, because it goes back to serving customer needs. 
+People can create a PayID for their chosen bank account using either a phone number, email, or ABN. So why do many banks allow only one type of PayID? Obviously ING allows more than one type, because it goes back to serving customer needs. 
 
 ### Voice banking
 
@@ -244,7 +244,7 @@ After all, they had customers co-design the website overhaul through five stages
 Since most banking transactions are done on mobile devices, let’s zoom in the mobile app. The table below shows the user ratings for ING and the big 4 banks on the two main mobile platforms. 
  
 ![Australian bank app ratings]({{site.baseurl}}/images/img_ING_appratings.jpg)
-*App ratings as of July 2018*
+*App ratings by users (out of 5) as of July 2018*
 
 It seems that ING’s simple mobile app User Interface and User Experience has scored points with customers, putting them just after ANZ in the overall rating (that is if you compare the averaged score).
 

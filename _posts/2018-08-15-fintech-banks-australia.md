@@ -408,7 +408,6 @@ Here are the main points to take away from the ING story:
 
 _Disclaimer: All the views here are from my personal experience of being a customer. I am not employed by or affiliated with ING or its subsidiaries in any way whatsoever._
 
-----------------
 
 
 <div id="disqus_thread"></div>

@@ -40,15 +40,16 @@ http://placehold.it/1000x550
 
 
 <div class="content-container">
-    <div class="post-content">
-	    <article>          
+    <article>
+    	<div class="post-content">
       		{{ content }}
- 		</article>      
-      
-       	{% include react-share.html %} 
- 	   	{% include subscribe.html %}
-	   	{% include author-info.html %}
-    </div>      
+    	</div>
+ 	</article>
+  	<div class="article-trailer">
+    	{% include react-share.html %} 
+	    {% include subscribe.html %}
+		{% include author-info.html %}
+  	</div>
  </div>
 
   

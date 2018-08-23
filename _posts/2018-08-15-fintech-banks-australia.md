@@ -409,17 +409,7 @@ Here are the main points to take away from the ING story:
 _Disclaimer: All the views here are from my personal experience of being a customer. I am not employed by or affiliated with ING or its subsidiaries in any way whatsoever._
 
 ----------------
-<div class="rns"></div>
-<script type="text/javascript">
-  (function() {
-    window.rnsData = {
-      apiKey: 'udia1bzzclxhomku'
-    };
-    var s = document.createElement('script');
-    s.src = 'https://cdn.reactandshare.com/plugin/rns.js';
-    document.body.appendChild(s);
-  }());
-</script>
+
 
 <div id="disqus_thread"></div>
 <script>

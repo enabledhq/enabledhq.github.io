@@ -119,6 +119,6 @@ Inside of the Unity host we have an extension which opens up a UDP socket to lis
 ---
 Got more questions? Tweet to us [@EnabledHQ](https://twitter.com/EnabledHQ) 
 
-Or leave your feedback about our blog & website [here](https://enabled1.typeform.com/to/YcdNts).
+
 
 

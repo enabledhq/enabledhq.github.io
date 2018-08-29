@@ -36,7 +36,7 @@ excerpt: >-
     "name" : "Linh Dao"
   },
   "datePublished" : "2016-08-04",
-  "image" : "http://blog.enabled.com.au/images/img_digitrans_comic.png",
+  "image" : "http://blog.enabled.com.au/images/img_myth_software4.png",
   "articleSection" : [ "Myth 1: Software development is a predictable process", "Myth 2: Adding more people will speed production up", "Myth 3: It’s all about coding", "Myth 4: There is a silver bullet software development methodology", "Myth 5: Certificates (badges) prove high quality", "Myth 6: Adding extra features at any point isn’t a big deal", "Myth 7: You should strive to get the most superior technology", "Myth 8: Releasing the software product means that the project has come to an end", "Myth 9: Using common KPIs will result in better performance", "Myth 10: Software can be bug-free" ],
   "publisher" : {
     "@type" : "Organization",

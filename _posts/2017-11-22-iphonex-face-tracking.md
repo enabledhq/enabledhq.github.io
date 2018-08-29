@@ -52,9 +52,8 @@ The result is the ability to stream blend shape parameters live from your iPhone
   left:0;
   width:100%;
   height:100%;" width="896" height="504"
-src="https://youtu.be/5VYANFkIFdA">
+src="https://www.youtube.com/embed/5VYANFkIFdA">
 </iframe></div>
-
 
 # Hasn't this been done?
 

@@ -184,6 +184,9 @@ Another payment innovation in Australia this year is PayID, which enables instan
 
 People can create a PayID for their chosen bank account using either a phone number, email, or ABN. So why do many banks allow only one type of PayID? Obviously ING allows more than one type, because it goes back to serving customer needs. 
 
+![payID ING]({{site.baseurl}}/images/img_ING_payID.png)
+*PayID instructions from ING* 
+
 ### Voice banking
 
 Again, as an example of responding swiftly to consumer demand, ING was the first Australian bank to enable [Siri](https://www.gizmodo.com.au/2018/01/siri-can-check-your-ing-bank-balance/) to check your bank account balance. They also have plans to expand Siri’s command lists for things like making transfers and payments.
@@ -407,5 +410,3 @@ Here are the main points to take away from the ING story:
 - Monitor the landscape, experiment, learn, repeat
 
 _Disclaimer: All the views here are from my personal experience of being a customer. I am not employed by or affiliated with ING or its subsidiaries in any way whatsoever._
-
-

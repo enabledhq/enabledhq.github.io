@@ -240,6 +240,9 @@ What’s also interesting is the bank’s redesign of its [software architecture
 
 The new architecture involves a Google’s Polymer application toolkit in and a customised API Blueprint platform. While all of these sound technical, the concept is simple: instead of a monolithic architecture, ING picks and chooses the best bits, swaps out what they don’t want or customises the bits they want. 
 
+![ING mobile banking app]({{site.baseurl}}/images/img_ING_mobilebanking.png)
+*Mobile banking. Source: [ING](https://www.ing.com.au/mobile-banking.html)*
+
 This modular characteristic is emblematic of [microservices](http://blog.enabled.com.au/microservices-innovation/) - which we’ve talked about extensively in a previous post.
 
 Similar to the app architecture, ING’s website was also built in a modular fashion. This allows other ING businesses around the world to pick only the “modules” they want. 

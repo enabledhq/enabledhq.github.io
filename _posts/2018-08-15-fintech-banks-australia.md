@@ -259,7 +259,7 @@ ING transitioned from waterfall to agile two years ago, and became inspiration f
 
 A recent survey on [corporate innovation](https://www.slideshare.net/CBInsights/the-state-of-innovation-survey-of-677-corporate-strategy-executives) says the majority of companies takes 12 months or more to launch a new product. 
 
-Within just one year, ING managed to launch a bunch of them, from payment tech integration, to credit card and insurance offerings. 
+Within just **one** year, ING managed to launch a bunch of them, from payment tech integration, to credit card and insurance offerings. 
 
 ## Customer involvement 
 
@@ -286,7 +286,7 @@ This presents a counter-intuitive notion at first: Tech needs to get out of the 
 
 Now let’s look at the mobile banking evaluation from an independent research body. In Forrester’s 2017 Global Mobile Banking Functionality Survey, CBA and Westpac topped the list in Australia, and are in the world’s top 10. 
 
-Why such disparity between consumer and “academic” evaluation? 
+**Why such disparity between consumer and “academic” evaluation? **
 
 “Verbatim customer responses suggest the CBA app rates highly due to features, while the [ING app](https://www.rfigroup.com/rfi-group/news/westpac-cba-top-mobile-banking-survey) is far more simplistic, but resonates with customers due to ease of use and visual appeal.” 
 
@@ -296,7 +296,7 @@ In this case, customers have come to expect simplicity from ING, and that’s ex
 
 On the other hand, CBA’s branding is around “Can” - or the bank saying yes to customer requests. Thus, it may be natural to expect broad functionality from the CBA app. 
 
-If we go back to explaining the evaluation disparity, the CBA app satisfies the functional element, i.e. has lots of features, but might not be as usable as the ING app. After all, there are other elements making up good User Experience that companies need to consider.
+If we go back to explaining the evaluation disparity, the CBA app satisfies the **functional** element, i.e. has lots of features, but might not be as **usable** as the ING app. After all, there are other elements making up good User Experience that companies need to consider.
 
 ![user experience banking]({{site.baseurl}}/images/img_ING_UX.jpg)
 *Source: [usability.gov](https://www.usability.gov/what-and-why/user-experience.html)*
@@ -307,7 +307,7 @@ Here are some wise words from Forrester about Spanish bank BBVA who has the best
 
 In other words, banks need to understand the customers’ [jobs-to-be-done](http://blog.enabled.com.au/jobs-to-be-done/). 
 
-One point of criticism for most Australian banking apps though: Accessibility. ANZ seems to be the only one among the banks listed above actively promoting their accessible mobile app.
+One point of criticism for most Australian banking apps though: **Accessibility**. ANZ seems to be the only one among the banks listed above actively promoting their accessible mobile app.
 
 Even something as simple as leveraging Apple iOS built-in text scaling feature is absent in those banking apps, including ING. 
 
@@ -351,7 +351,7 @@ With the general trend of “open everything,” open banking is already gaining
 
 What is [open banking](https://www.afr.com/business/banking-and-finance/financial-services/open-banking-already-changing-the-uk-market-20180516-h104pr)? It’s a data sharing scheme that lets “accredited third-parties to access customer banking data via secure application programming interfaces (APIs).”
 
-With open banking in place, certain transactional and product data now belongs to customers, not banks, flipping the existing model on its head. Effectively, that means more power to customers as they decide who they want to give such data to in exchange for better services and products. 
+With open banking in place, certain transactional and product data now belongs to **customers**, not banks, flipping the existing model on its head. Effectively, that means **more power** to customers as they decide who they want to give such data to in exchange for better services and products. 
 
 Now cast your mind back to the IFTTT integration mentioned at the start of this article. ING has laid some sort of foundation for open banking in Australia (government rollout planned for 2019) by giving IFTTT’s access to their APIs to develop this offering. 
 

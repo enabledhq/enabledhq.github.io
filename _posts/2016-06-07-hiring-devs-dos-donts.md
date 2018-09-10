@@ -39,7 +39,7 @@ I have no delusion that hiring a service provider in the digital space would be 
 
 To try and overcome this, I’d like to share a popular list of questions and pointers created for the innovation workshops I teach. I hope that armed with these, people can avoid the bad, and help capable software developers win the jobs they deserve.
 
-Questions to consider when choosing a Software Developer
+# Questions to consider when choosing a Software Developer
 --------------------------------------------------------
 
 __Do they have an attractive and functional portfolio?__<br />
@@ -68,7 +68,7 @@ If you are extremely successful in finding a good developer you will notice they
 ![Software Development Project](/images/img_whatthecustomerneeded.jpg)
 *What might happen in a software development project. Image courtesy of [projectcartoon.com](http://projectcartoon.com/)*
 
-Questions to ask the candidate software developer
+# Questions to ask the candidate software developer
 -------------------------------------------------
 
 __What development methodology do you like?__<br />
@@ -94,7 +94,7 @@ This question will determine if they are effective at working with other people.
 __Do you have a support agreement?__<br />
 As mentioned above, software will always require additional attention after its initial release, it is important to know how the developer will assist you into the future and how they will respond and charge. This may be included with their development agreement, otherwise, ask for it.
 
-Warning signs that things are not well
+# Warning signs that things are not well
 --------------------------------------
 
 
@@ -122,4 +122,3 @@ It is acceptable for a developer to ask for a deposit, this demonstrates your co
 
 __It is hard to get a personal meeting or get them on the phone__<br />
 No news is good news, unless you are asking for news then the opposite is true. Not being able to get a voice call with your developer from time to time could certainly be a warning sign, even when working with developers in other geographical locations. That said, you should also be sensitive to your developer by giving them room to operate. Too much communication can slow a development down.
-

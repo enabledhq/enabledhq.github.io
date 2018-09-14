@@ -52,6 +52,14 @@ Cloud computing has been a buzzword for some time now. But what about [edge comp
 
 Reading the [discussion paper](http://www.newuniversity.nousgroup.com.au/discussion-paper-1) on the potential merger of University of Adelaide & UniSA reminds us of our article on the [digital disruption](http://blog.enabled.com.au/digital-disruption-education/) happening in education.
 
+## Mixed Reality: mixed feelings 
+
+Earlier this month, the [Magic Leap](https://www.cnbc.com/2018/08/08/magic-leap-one-creators-edition-first-look.html) mixed reality headset finally launched after years of hype and mystery, with a hefty price tag of USD2,300. And it's only available for developers.
+
+![magic leap mixed reality]({{site.baseurl}}/images/img_august_magicleap.jpg)
+
+Optimists think this is the next mobile computing frontier, after the smartphone. Others are less convinced, citing the [underwhelming](https://www.cnet.com/news/i-finally-tried-magic-leap-and-i-have-mixed-feelings/) first impression. Interesting space to watch nonetheless.  
+
 # Handy business tips
 
 **Positive vs. negative feedback: when & how**

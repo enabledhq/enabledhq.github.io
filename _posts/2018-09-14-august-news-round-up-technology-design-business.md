@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-08-30 16:00 +0930'
-published: false
+published: true
 title: 'August News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in August 2018: roundup of news on technology,
@@ -73,4 +73,3 @@ Optimists think this is the next mobile computing frontier, after the smartphone
 
  
 Proud to be included in the [Brand South Australia](https://www.instagram.com/p/Bm2FTWshjis/?taken-by=enabledhq) toolkit for technology and creative industry along with our client Schneider Electric — Let's keep spreading the good word about SA!
-

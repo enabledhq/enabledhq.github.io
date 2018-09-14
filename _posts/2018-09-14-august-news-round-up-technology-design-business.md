@@ -42,15 +42,15 @@ As boundaries between the digital & physical world blur:
 - Internet companies want more physical touchpoints: Amazon opening cashier-less stores, Google planning a retail flagship store in Chicago
 - Traditional retailers go big with digital: Walmart attempting to [pursue VR](https://www.bloomberg.com/news/articles/2018-08-17/walmart-eyes-virtual-reality-shopping-system-patent-filings-say) for shopping from home
 
-## Technical debt in marketing 
+## Long read: What's edge computing?
 
-Similar to tech debt in IT, [technical debt](https://contentmarketinginstitute.com/2018/07/tech-bankrupting-marketing/) in marketing is a growing concern for many organisations. "You need to deploy technology nimbly and decouple from the mother ship of legacy systems."
+Cloud computing has been a buzzword for some time now. But what about [edge computing](https://www.cbinsights.com/research/what-is-edge-computing/)? This nascent technology is starting to attract attention as we move to an even more Internet-connected ecosystem. Here's a good overview plus potential industry use cases. 
 
-## Long read: One way to thrive in the Amazon era
+![edge computing definition]({{site.baseurl}}/images/img_august_edge.png)
 
-As the giant extends its reach, one retailer is fighting back by providing "[personal chief technology officers](https://www.bloomberg.com/news/features/2018-07-19/best-buy-should-be-dead-but-it-s-thriving-in-the-age-of-amazon)", and it's working. Best Buy should have been dead, but they've tweaked their proposition to focus on sending staff into people's homes.
+## Super university
 
-This allows them to tick a customer's job-to-be-done which Amazon's not providing: advice and help in installing & using electronics. 
+Reading the [discussion paper](http://www.newuniversity.nousgroup.com.au/discussion-paper-1) on the potential merger of University of Adelaide & UniSA reminds us of our article on the [digital disruption](http://blog.enabled.com.au/digital-disruption-education/) happening in education.
 
 # Handy business tips
 

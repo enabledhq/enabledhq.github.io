@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2018-09-14 16:00 +0930'
+date: '2018-08-30 16:00 +0930'
 published: false
 title: 'August News Round-up: Technology, Design, Business '
 description: >-
@@ -15,6 +15,17 @@ excerpt: >-
 What’s been happening in August 2018: >-
   roundup of news on technology, innovation, business, design and inside
   Enabled.
+author:
+  - linh
+main-category: news
+categories:
+  - news
+short-link: 'https://goo.gl/EiYuQW'
+meta-keywords: >-
+  technology, innovation, business, design, UX, enabled, enabled adelaide, tech
+  news, innovation news, design news, UX news, business news
+hero-banner: /images/Blog_header_june.png
+image: /images/img_august_thumb.png
 ---
 A hand-picked selection of news and articles worth reading this month.
 
@@ -22,18 +33,14 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## Data sharing between the tech giants 
+## Taking back from the tech giants 
 
-Amid the recent data and privacy scandals, Google, Facebook, Microsoft, and Twitter announced a joint initiative called the [Data Transfer Project](https://www.theverge.com/2018/7/20/17589246/data-transfer-project-google-facebook-microsoft-twitter), allowing users to move data between platforms: 
+Retailers try to take [ad revenue](https://www.reuters.com/article/us-retail-advertising-insight/retailers-set-sights-on-facebook-google-ad-revenue-idUSKBN1KG0CZ) away from Facebook and Google by selling ad slots on their own websites to manufacturers, similar to selling shelf position in the physical world => Clever way to fight back the "retail apocalypse" and take advantage of questionable online ad ROI.
 
-- Although still under development, this is good news for consumers
-- “Portability and interoperability are central to cloud innovation and competition” - said Microsoft, who just bought the largest open-source dev platform [Github](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/) 
-- Closer to home, the recent [My Health Record](http://www.abc.net.au/news/2018-07-24/digital-health-agency-changes-my-health-record-app-contracts/10026644) fall-out highlights the need to not only protect people's data but also communicating clearly about it
+As boundaries between the digital & physical world blur:
 
-
-![data transfer project]({{site.baseurl}}/images/img_july_datasharing.png)
-
-By the way, have you subscribed to our [security alerts](http://eepurl.com/dvIgzr) email?
+- Internet companies want more physical touchpoints: Amazon opening cashier-less stores, Google planning a retail flagship store in Chicago
+- Traditional retailers go big with digital: Walmart attempting to pursue VR for shopping from home
 
 ## Technical debt in marketing 
 

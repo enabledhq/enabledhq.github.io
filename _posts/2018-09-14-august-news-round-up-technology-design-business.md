@@ -40,7 +40,7 @@ Retailers try to take [ad revenue](https://www.reuters.com/article/us-retail-adv
 As boundaries between the digital & physical world blur:
 
 - Internet companies want more physical touchpoints: Amazon opening cashier-less stores, Google planning a retail flagship store in Chicago
-- Traditional retailers go big with digital: Walmart attempting to pursue VR for shopping from home
+- Traditional retailers go big with digital: Walmart attempting to [pursue VR](https://www.bloomberg.com/news/articles/2018-08-17/walmart-eyes-virtual-reality-shopping-system-patent-filings-say) for shopping from home
 
 ## Technical debt in marketing 
 

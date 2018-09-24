@@ -106,11 +106,12 @@ Worse, the Quote of the Day was at one point compromised from a [security standp
 For a website that talks about cutting edge [enterprise IT](https://www.enterpriseconnect.com/) and technology, this processing speed of email unsubscription seems on par with how a paper-based government body processes a query. 
 
 ![enterprise connect]({{site.baseurl}}/images/img_UXfail_ubm2.png)
-
  
 ## CMO.com.au
 
 This is what happens when you don’t moderate article comments but have them shown on every page as a sticky element. 
+
+![cmo.com.au ]({{site.baseurl}}/images/img_UXfail_cmo.png)
 
 The initial idea could be to give readers the impression of high content engagement. So yes, there’s high engagement, but high relevance? Probably not.  
 
@@ -132,6 +133,8 @@ Thirdly, analytics for the slides are different on the My Uploads tab and Analyt
 
 This is where you go to unsubscribe or edit your email subscription preferences. 
 
+![hubspot unsubscribe ]({{site.baseurl}}/images/img_UXfail_hubspot1.png)
+
 The only thing that HubSpot gets right after making me scroll through an impressive list of 29 types of emails, is yes, users have got “a lot of options.” 
 
 Also, the social media icons are missing after the call-to-action “Follow us on”. For a marketing automation software company, this is pretty weird. 
@@ -145,9 +148,10 @@ I can list a lot more but let’s just pick 2 Google products.
 ## Online branding for business
 
 This is my experience dealing with this suite of products: Google+, My Business and About me. 
-From the Enabled’s Google+ Page, clicking on “Edit profile” triggers a pop-up which has “Manage Page” on it. Clicking that leads you to an About me page (in a different tab). Still can’t edit profile at this stage. 
 
-On that About me page, there is an option to “Manage in Google My Business” which unsurprisingly triggers a new tab where you can edit local business info like opening hours, description, contact info etc. OK but where do I edit the Google+ profile?
+From the Enabled’s **Google+** Page, clicking on “Edit profile” triggers a pop-up which has “Manage Page” on it. Clicking that leads you to an **About me** page (in a different tab). Still can’t edit profile at this stage. 
+
+On that **About me** page, there is an option to “Manage in **Google My Business**” which unsurprisingly triggers a new tab where you can edit local business info like opening hours, description, contact info etc. OK but where do I edit the Google+ profile?
 
 Something is unnecessarily complex here. Let’s rewind a little. 
 
@@ -155,7 +159,11 @@ It turns out:
 
 **On Google+**: You can edit your 140-character-long profile here => There should be a clearer indicator for that action on this page. 
 
+![google plus profile edit]({{site.baseurl}}/images/img_UXfail_Googleplus.png)
+
 **On the About me page**: You have to click the pen to edit your “Story”. The funny thing is, Google says changes made on this page will be reflected on Google+ (and others?), which is not the case. 
+
+![google about me page]({{site.baseurl}}/images/img_UXfail_aboutme.png)
 
 **On Google My Business**: You can edit yet another piece of profile information that shows up when someone search for your business on Google. 
 
@@ -164,6 +172,8 @@ What can be done here? One word: streamline.
 ## Google Photos
 
 Google Photos is another example of confusing UI. Just a straightforward wish to save a photo to your device might take you in a loop of unnecessary steps. 
+
+![google photos]({{site.baseurl}}/images/img_UXfail_photos.jpg)
 
 Let’s say I want to save the selected image to my camera roll (Photos on iOS). I can’t get to that action unless I click on “Open in…”, which then takes me to a similar looking screen but this time with a “Save image” button. 
 
@@ -200,11 +210,14 @@ Either these organisations are:
 ## Towards delightful UX
 
 As with any benchmarking, there’re multiple levels of UX maturity. Check out this UX pyramid:
+
+![UX maturity pyramid]({{site.baseurl}}/images/img_UXfail_pyramid.png)
+
 Most of the examples in this post stop at the Usable level. But some even stop before the Functional level, let along the “delight” level, which includes things like microcopy, microinteractions, animations, etc. 
 
 **What next?** 
 
-If you want to learn more about delightful mobile UX and UI, check out our previous post 10 Plus 1 Commandments for the Modern Mobile App Designer.
+If you want to learn more about delightful mobile UX and UI, check out our previous post _10 Plus 1 Commandments for the Modern [Mobile App](http://blog.enabled.com.au/modern-app-design/) Designer_.
 
 Or if you want us to audit the user experience of your app, website, or digital product, drop us a line. 
 

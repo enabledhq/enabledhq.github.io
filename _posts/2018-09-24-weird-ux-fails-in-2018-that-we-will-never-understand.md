@@ -3,6 +3,20 @@ layout: post
 date: '2018-09-24 15:16 +0930'
 published: false
 title: 'Weird UX fails in 2018 that we will never understand '
+main-category: ux
+categories:
+  - ux
+author:
+  - linh
+excerpt: >-
+  UX & UI fails are still everywhere. Check out this list of user experience
+  fails in 2018 from various industries and see if you can improve your own.
+meta-description: >-
+  UX & UI fails are still everywhere. Check out this list of user experience
+  fails in 2018 from various industries and see if you can improve your own.
+description: >-
+  UX & UI fails are still everywhere. Check out this list of user experience
+  fails in 2018 from various industries and see if you can improve your own.
 ---
 As much as experts, analysts, speakers, lecturers, consultants keep hailing whatever the current year as the year of [Customer Experience](http://blog.enabled.com.au/marketing-customer-experience/), UX fails are still everywhere.
 

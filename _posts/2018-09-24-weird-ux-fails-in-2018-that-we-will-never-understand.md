@@ -4,7 +4,7 @@ date: '2018-09-24 15:16 +0930'
 published: false
 title: 'Weird UX fails in 2018 that we will never understand '
 ---
-As much as experts, analysts, speakers, lecturers, consultants keep hailing whatever the current year as the year of Customer Experience, UX fails are still everywhere.
+As much as experts, analysts, speakers, lecturers, consultants keep hailing whatever the current year as the year of [Customer Experience](http://blog.enabled.com.au/marketing-customer-experience/), UX fails are still everywhere.
 
 These user experience flops can range from mildly inconvenient to downright frustrating. 
 
@@ -16,7 +16,7 @@ Now let’s dive into the list of UX fails that I’ve encountered from a variet
 
 # Banking and Finance
 
-Recently, I wrote a fairly extensive post on the digital disruption coming to banks and touched on the topic of UX by zooming in on ING.  
+Recently, I wrote a fairly extensive post on the [digital disruption](http://blog.enabled.com.au/fintech-banks-australia/) coming to banks and touched on the topic of UX by zooming in on ING.  
 
 Continuing that thread, I don’t understand why some financial institutions still put out digital experience that felt like it belonged in your grandma’s era. 
 
@@ -26,11 +26,15 @@ I had been frustrated by not being able to press enter to log in after typing my
 
 Finally, I discovered the reason:
   
-Look at the limited number of supported browsers, especially if you’re a Mac user like me. Their reasoning to stop supporting outdated browsers or operating systems is to ensure the “highest standard” in data security. Fair enough. 
+![virgin money browser support]({{site.baseurl}}/images/img_UXfail_virginmoney1.png)  
+  
+Look at the limited number of [supported browsers](https://my.virginmoney.com.au/online-security/), especially if you’re a Mac user like me. Their reasoning to stop supporting outdated browsers or operating systems is to ensure the “highest standard” in data security. Fair enough. 
 
 But if you look at the image again, it seems Windows 7 is “winning” here. Everyone should get Windows 7 in order to be supported by Virgin Money website. 
 
-Next, their virtually non-existent mobile app. Why? Because you won’t be able to use it without calling their Customer Care Team to get a secure token (see the last screen of the image below).  
+Next, their virtually non-existent mobile app. Why? Because you won’t be able to use it without **calling** their Customer Care Team to get a secure token (see the last screen of the image below).  
+
+![virgin money app]({{site.baseurl}}/images/img_UXfail_virginmoney.png)
 
 Judging by the user rating of 1.1 out of 5 on the App Store, the Virgin Money app has a loooong way to go (which is funny because they actually put out an update to support iPhone X face ID – talk about priorities). 
 
@@ -38,22 +42,28 @@ Judging by the user rating of 1.1 out of 5 on the App Store, the Virgin Money ap
 
 Check out the online sign-up process for an account at HSBC.
 
-After filling in an ugly online form, you have to print out two other forms, complete them, find a suitable referee to sign your form, and believe it or not, post it to them (see image). 
+After filling in an ugly online form, you have to print out **two** other forms, complete them, find a suitable referee to sign your form, and believe it or not, post it to them (see image). 
+
+![hsbc online sign up ]({{site.baseurl}}/images/img_UXfail_HSBC.png)
 
 Which era are we in? Especially after being exposed to the better UX by other financial institutions and fintech startups, this is off-putting. 
 
 
 ## Commonwealth Bank of Australia
 
-I’ve mentioned CBA in my previous post when comparing the big banks’ mobile apps with ING’s. Now here are two of my pet peeves when it comes to the CBA app. 
+I’ve mentioned CBA in my previous post when comparing the big banks’ [mobile apps](http://blog.enabled.com.au/fintech-banks-australia/) with ING’s. Now here are two of my pet peeves when it comes to the CBA app. 
 
 **One**: I can’t set up a recurring transfer from my savings account to my normal account in the CBA app. 
 
 Granted that it is a function not yet supported by CBA, why not prevent users from going all the way to the final step - after choosing start/end dates, payment frequency - only to see this error message?
 
+![CBA mobile app ]({{site.baseurl}}/images/img_UXfail_CBA.jpg)
+
 **Two**: The security code notification just won’t go away. Usually, you get this as a security measurement if you want to add a new payee, change your personal details etc. 
 
 There’s no way to dismiss it on the screen or even after logging off or quitting the app altogether. Okay, this might not be a UX fail per se. But if you’re have a notification OCD like me, that could get on your nerve (!).
+
+![CBA mobile app]({{site.baseurl}}/images/img_UXfail_CBA1.png)
 
 # Logistics 
 
@@ -61,17 +71,21 @@ There’s no way to dismiss it on the screen or even after logging off or quitti
 
 Warning: a lot of venting ahead. This is my experience when AusPost lost my parcel by “safe dropping” it to the wrong address. 
 
-Aside from how long it took (19 days) and how many hoops I had to jump through to get my missing item query resolved (in a less than satisfactory manner), their online support portal is not that user-friendly. 
+Aside from how long it took (19 days) and how many hoops I had to jump through to get my missing item query resolved (in a less than satisfactory manner), their online [support portal](https://auspost.com.au/help-and-support) is not that user-friendly. 
 
-UX fail #1: following up on a lodged support request
+**UX fail #1: following up on a lodged support request**
 
 After being logged into MyPost, I clicked on Help and Support, which took me to a new tab that apparently required me to log in again. Clicking on that Log in link took me to yet another tab with a list of my enquiries. 
 
-UX fail #2: half-hearted feedback seeking 
+**UX fail #2: half-hearted feedback seeking **
 
-Why the limited character count in feedback form? As if they don’t want customers to list all the problems with Australia Post. I had to cut off my sentence there, which should have been: “might as well suggest the “Safe Drop” parcel feature when no one is home is not reliable and shouldn’t be used.”  
+Why the limited character count in feedback form? As if they don’t want customers to list all the problems with Australia Post. 
 
-Target – who was the retailer that sent the missing parcel – dealt with my issue in a much more organised and empathetic way. Go Target! 
+![Australia post customer support feedback]({{site.baseurl}}/images/img_UXfail_Auspost.png)
+
+I had to cut off my sentence there, which should have been: “might as well suggest the “Safe Drop” parcel feature when no one is home is not reliable and shouldn’t be used.”  
+
+Target – who was the retailer that sent the parcel – dealt with my issue in a much more organised and empathetic way. Go Target! 
 
 # Media & Publishing
 
@@ -79,14 +93,20 @@ Target – who was the retailer that sent the missing parcel – dealt with my i
 
 Forbes forces you to view the Welcome screen with Quote of the day and some ads. To dismiss it, you have to click “Continue to site”.
 
+![forbes quote of the day]({{site.baseurl}}/images/img_UXfail_forbes1.png)
 
-Many people find this landing page annoying: “For years, the Quote of the Day has been compromised intellectually.” Or as evidenced by these Google search results:
+Many people find this landing page annoying: “For years, the Quote of the Day has been compromised [intellectually](https://www.theverge.com/2015/2/10/8014221/hackers-used-the-most-insulting-part-of-forbes-website-to-distribute).” Or as evidenced by these Google search results:
 
-Worse, the Quote of the Day was at one point compromised from a security standpoint too. 
+![forbes quote of the day annoying]({{site.baseurl}}/images/img_UXfail_forbes.png)
+
+Worse, the Quote of the Day was at one point compromised from a [security standpoint](http://www.washingtonpost.com/blogs/the-switch/wp/2015/02/10/forbes-web-site-was-compromised-by-chinese-cyberespionage-group-researchers-say/) too. 
 
 ## Enterprise Connect
 
-For a website that talks about cutting edge enterprise IT and technology, this processing speed of email unsubscription seems on par with how a paper-based government body processes a query. 
+For a website that talks about cutting edge [enterprise IT](https://www.enterpriseconnect.com/) and technology, this processing speed of email unsubscription seems on par with how a paper-based government body processes a query. 
+
+![enterprise connect]({{site.baseurl}}/images/img_UXfail_ubm2.png)
+
  
 ## CMO.com.au
 

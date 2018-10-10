@@ -17,6 +17,12 @@ meta-keywords: >-
   news, innovation news, design news, UX news, business news
 hero-banner: /images/Blog_header_june.png
 image: /images/img_august_thumb.png
+author:
+  - linh
+main-category: news
+categories:
+  - news
+short-link: goo.gl/9xW4Rk
 ---
 A hand-picked selection of news and articles worth reading this month.
 
@@ -24,20 +30,21 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## Taking back from the tech giants 
+## The state of Artificial Intelligence in Enterprises
 
-Retailers try to take [ad revenue](https://www.reuters.com/article/us-retail-advertising-insight/retailers-set-sights-on-facebook-google-ad-revenue-idUSKBN1KG0CZ) away from Facebook and Google by selling ad slots on their own websites to manufacturers, similar to selling shelf position in the physical world => Clever way to fight back the "retail apocalypse" and take advantage of questionable online ad ROI.
+MIT Sloan Management Review’s 2018 [Global Report on AI](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) highlights different levels of AI adoption within enterprises - Passives, Experimenters, Investigators, Pioneers: 
 
-As boundaries between the digital & physical world blur:
+- A majority of companies expect AI to affect business model shifts
+- Pioneers are less held back by “lack of leadership support” or an “unclear business case” for AI adoption
+- Chinese companies are aggressively investing in AI business applications
+ 
+ ![state of AI enterprise]({{site.baseurl}}/images/img_september_stateAI.jpg)
 
-- Internet companies want more physical touchpoints: Amazon opening cashier-less stores, Google planning a retail flagship store in Chicago
-- Traditional retailers go big with digital: Walmart attempting to [pursue VR](https://www.bloomberg.com/news/articles/2018-08-17/walmart-eyes-virtual-reality-shopping-system-patent-filings-say) for shopping from home
+## Long read: Digital privacy & consumer consent
 
-## Long read: What's edge computing?
+Interesting read on consumer psychology and how people view privacy: We are fast to demand our privacy, though when offered privacy as an optional extra, even at a small price, we are fast to forgo it. 
 
-Cloud computing has been a buzzword for some time now. But what about [edge computing](https://www.cbinsights.com/research/what-is-edge-computing/)? This nascent technology is starting to attract attention as we move to an even more Internet-connected ecosystem. Here's a good overview plus potential industry use cases. 
-
-![edge computing definition]({{site.baseurl}}/images/img_august_edge.png)
+The article touches on [various studies](https://hbr.org/cover-story/2018/09/uninformed-consent), including one where "people readily disclosed their friends’ email addresses in exchange for free pizza."
 
 ## Super university
 

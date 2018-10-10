@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-09-30 11:10 +1030'
-published: false
+published: true
 title: 'September News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in September 2018: roundup of news on technology,

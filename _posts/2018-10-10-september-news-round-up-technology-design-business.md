@@ -46,9 +46,11 @@ Interesting read on consumer psychology and how people view privacy: We are fast
 
 The article touches on [various studies](https://hbr.org/cover-story/2018/09/uninformed-consent), including one where "people readily disclosed their friends’ email addresses in exchange for free pizza."
 
-## Super university
+## Two decades of Google
 
-Reading the [discussion paper](http://www.newuniversity.nousgroup.com.au/discussion-paper-1) on the potential merger of University of Adelaide & UniSA reminds us of our article on the [digital disruption](http://blog.enabled.com.au/digital-disruption-education/) happening in education.
+20 years on, Google is the [dominant player](https://www.theguardian.com/technology/2018/sep/24/google-at-20-larry-page-sergey-brin-internet) in search (90% market share). But that could change with Amazon attacking online retail advertising. On other fronts, Facebook "wants to kill the web" and regulators want to curb Google's monopoly.
+
+![google timeline]({{site.baseurl}}/images/img_september_google.png)
 
 ## Mixed Reality: mixed feelings 
 

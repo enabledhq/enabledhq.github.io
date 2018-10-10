@@ -64,9 +64,9 @@ While some are going ga-ga over the new phones and flashy features, some have pi
 
 # Weird & wonderful
 
-💸 Dreaming of being able to fly like Iron Man? Now you can, just pay $600k for [this suit](https://www.businessinsider.com.au/this-real-life-iron-man-jet-suit-is-now-available-to-buy-richard-browning-2018-7).
+📦 Living in a limited space? Store stuff in your [ceiling](https://www.bumblebeespaces.com/), use an app to track and retrieve them.
 
-🏢 A skyscraper in China is fitted with a [waterfall](https://www.fastcompany.com/90215672/this-crazy-new-skyscraper-is-topped-with-a-functioning-waterfall) taller than Niagara Falls and costs $116/hr to run.  
+🍌 This Korean supermarket is selling a pack of 6 [bananas](https://adage.com/article/cmo-strategy/story-bananas/314570/) of different ripeness. Genius? 
 
 # Inside Enabled
 

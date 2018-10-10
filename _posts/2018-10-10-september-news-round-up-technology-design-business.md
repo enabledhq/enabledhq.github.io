@@ -52,14 +52,15 @@ The article touches on [various studies](https://hbr.org/cover-story/2018/09/uni
 
 ![google timeline]({{site.baseurl}}/images/img_september_google.png)
 
-## Mixed Reality: mixed feelings 
+## The iPhone event 
 
-Earlier this month, the [Magic Leap](https://www.cnbc.com/2018/08/08/magic-leap-one-creators-edition-first-look.html) mixed reality headset finally launched after years of hype and mystery, with a hefty price tag of USD2,300. And it's only available for developers.
+By now, the new line of Apple's iPhones has already been all over the news. The [AI chips](https://www.marketwatch.com/story/from-iphone-to-aiphone-apples-new-chips-are-key-to-its-future-2018-09-12) that Apple designed themselves could be the key to their future. Apple also quietly updated the Service Pricing, which points to higher [hidden costs](https://www.forbes.com/sites/gordonkelly/2018/09/16/apple-new-iphone-xs-max-xr-upgrade-release-date-price-cost/#3cac090e7f26).
 
-![magic leap mixed reality]({{site.baseurl}}/images/img_august_magicleap.jpg)
+![iPhone XS ]({{site.baseurl}}/images/img_september_iphone.jpg)
 
-Optimists think this is the next mobile computing frontier, after the smartphone. Others are less convinced, citing the [underwhelming](https://www.cnet.com/news/i-finally-tried-magic-leap-and-i-have-mixed-feelings/) first impression. Interesting space to watch nonetheless.  
+While some are going ga-ga over the new phones and flashy features, some have picked on the smaller stuff, like the "failed" [3D Touch](https://hackernoon.com/why-apples-3d-touch-failed-miserably-72545b608ad), or the [Walkie-Talkie](https://www.zdnet.com/article/apple-watchs-walkie-talkie-is-practically-useless/) function on the new Apple WatchOS that let you live out your childhood's dream. 
  
+![apple watch walkie talkie]({{site.baseurl}}/images/img_september_walkie.jpg)
 
 # Weird & wonderful
 

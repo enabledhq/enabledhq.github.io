@@ -26,7 +26,8 @@ excerpt: >-
 meta-keywords: >-
   B2B ecommerce, B2B ecommerce open source, B2B ecommerce store, B2B ecommerce
   market, b2b ecommerce software solution, b2b commerce software, orocommerce
-  partner australia, orocommerce solution partner, b2b ecommerce australia
+  partner australia, orocommerce solution partner, b2b ecommerce australia 
+short-link: goo.gl/iaD8eV
 ---
 As OroCommerce’s [solution partner](https://oroinc.com/b2b-ecommerce/partner/enabled), Enabled brings its consulting and software design experience to help clients wishing to deploy B2B ecommerce functionality.
 

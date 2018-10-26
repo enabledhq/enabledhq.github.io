@@ -2,7 +2,7 @@
 layout: post
 date: '2018-10-26 15:33 +1030'
 published: true
-title: 'Enabled Solutions becomes silver partner of leading B2B ecommerce vendor '
+title: 'Enabled Solutions Becomes Silver Partner of Leading B2B Ecommerce Vendor '
 author:
   - grant
 main-category: news

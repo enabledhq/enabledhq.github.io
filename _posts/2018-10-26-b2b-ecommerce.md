@@ -13,8 +13,7 @@ hero-banner: /images/Blog_Header_oro.png
 image: /images/img_oro_thumb.png
 description: >-
   As OroCommerce’s solution partner, Enabled brings its consulting & software
-  design experience to help clients wishing to deploy B2B ecommerce store in
-  Australia.
+  design experience to help clients wishing to deploy B2B ecommerce store.
 meta-description: >-
   As OroCommerce’s solution partner, Enabled brings its consulting & software
   design experience to help clients wishing to deploy B2B ecommerce store in

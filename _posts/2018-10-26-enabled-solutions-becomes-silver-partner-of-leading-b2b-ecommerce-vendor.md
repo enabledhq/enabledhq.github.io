@@ -3,10 +3,18 @@ layout: post
 date: '2018-10-26 15:33 +1030'
 published: false
 title: 'Enabled Solutions becomes silver partner of leading B2B ecommerce vendor '
+author:
+  - grant
+main-category: news
+categories:
+  - technology
+  - news
 ---
 As OroCommerce’s [solution partner](https://oroinc.com/b2b-ecommerce/partner/enabled), Enabled brings its consulting and software design experience to help clients wishing to deploy B2B ecommerce functionality.
  
 Not taking partnerships lightly, Enabled believes Oro has the credentials and unique proposition for the B2B ecommerce market.
+
+![oroecommerce partner australia ]({{site.baseurl}}/images/img_oro_enabled.png)
 
 # The B2B ecommerce landscape
 
@@ -22,8 +30,10 @@ Yet, with the B2B eCommerce market expected to hit $6.7 trillion by 2020, dwarfi
 *Based on diagram from [Customer Think](http://customerthink.com/31-reasons-why-b2b-ecommerce-and-personalization-technologies-are-a-good-match/)*
 
 Enabled’s view is that customising a general B2C to fit complex business processes such as B2B ecommerce, is costly and problematic  over the long run. Hence, a ready out-of-the-box solution that can get businesses up and running fast is key. 
-OroCommerce - the solution for B2B ecommerce
-Global market research firm Frost & Sullivan awarded the New Product Innovation award to OroCommerce, recognizing it as the only open-source ecommerce platform built from the ground up for B2B businesses.
+
+# OroCommerce - the solution for B2B ecommerce
+
+Global market research firm Frost & Sullivan awarded the [New Product Innovation](https://ww2.frost.com/news/press-releases/frost-sullivan-selects-oro-inc-2017-b2b-ecommerce-new-product-innovation-award/) award to OroCommerce, recognizing it as the only open-source ecommerce platform built from the ground up for B2B businesses.
 
 OroCommerce is an excellent platform for building B2B ecommerce solutions. Its out-of-the-box features are an excellent starting point, and the API is ideal for extending and integrating with popular systems such as PayPal, Mailchimp, Zendesk etc. Moreover, businesses also get the built-in full-featured CRM system with OroCommerce.
 
@@ -34,14 +44,16 @@ Some of OroCommerce’s most popular integrations
 Interestingly, Oro's founders previously founded Magento and with deep experience in the space, they wanted to take on “subpar” Magento in B2B ecommerce. 
 
 Although being a new kid on the block, OroCommerce is getting noticed in the industry and is starting to be requested by Enabled's customers.  
-Enabled’s expertise in ecommerce
+
+# Enabled’s expertise in ecommerce
+
 Enabled is one of under 40 solution partners of OroCommerce globally, and one of three in Australia.
 
 Our previous notable ecommerce projects include:
  - Developing an online store for the world's first fully automated beer brewing machine. 
 
-
-See the full case study of BrewArt.
+![brewart ecommerce store ]({{site.baseurl}}/images/img_oro_brewart.jpg)
+*See the full case study of [BrewArt](https://enabled.com.au/casestudy-Coopers)*
 
 - Developing a sophisticated series of apps and integrations for Schneider Electric. This includes the award-winning iCat app for electricians, and seamless integration of this with the ecommerce systems of electrical wholesalers across Australia.
 

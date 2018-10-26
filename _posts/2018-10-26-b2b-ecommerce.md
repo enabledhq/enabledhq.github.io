@@ -21,8 +21,7 @@ meta-description: >-
   Australia.
 excerpt: >-
   As OroCommerce’s solution partner, Enabled brings its consulting & software
-  design experience to help clients wishing to deploy B2B ecommerce store in
-  Australia.
+  design experience to help clients wishing to deploy B2B ecommerce store.
 meta-keywords: >-
   B2B ecommerce, B2B ecommerce open source, B2B ecommerce store, B2B ecommerce
   market, b2b ecommerce software solution, b2b commerce software, orocommerce

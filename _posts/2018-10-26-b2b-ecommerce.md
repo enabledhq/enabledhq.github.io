@@ -29,7 +29,7 @@ short-link: goo.gl/iaD8eV
 ---
 As OroCommerce’s [solution partner](https://oroinc.com/b2b-ecommerce/partner/enabled), Enabled brings its consulting and software design experience to help clients wishing to deploy B2B ecommerce functionality.
 
-Not taking partnerships lightly, Enabled believes Oro has the credentials and unique proposition for the B2B ecommerce market.
+Not taking partnerships lightly, Enabled believes Oro has the credentials and unique proposition for the Business-to-business (B2B) ecommerce market.
 
 ![oroecommerce partner australia ]({{site.baseurl}}/images/img_oro_enabled.png)
 

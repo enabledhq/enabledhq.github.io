@@ -81,7 +81,7 @@ B2C and B2B ecommerce differ in terms of the purchaser, the length of the purcha
 - B2B ecommerce caters to multiple purchasers<br>
 - B2B sellers need specific features when selling online, e.g. custom workflow<br>
 - All B2B businesses have unique needs, e.g. self-service or not<br>
-Source: OroCommerce<br>
+  <em>Source: OroCommerce</em><br>
 </p>
 
 # OroCommerce - the solution for B2B ecommerce

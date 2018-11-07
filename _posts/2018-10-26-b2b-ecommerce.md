@@ -35,7 +35,7 @@ Not taking partnerships lightly, Enabled believes Oro has the credentials and un
 
 # The B2B ecommerce landscape
 
-While the process of B2C commerce is pretty simple and straightforward, B2B commerce can become very complicated.
+While the process of Business-to-customer (B2C) commerce is pretty simple and straightforward, B2B commerce can become very complicated.
 
 Within a single customer, there are more parties involved and unique workflows, e.g. purchase orders, approvals, competitive bids etc. That’s not to mention procurement processes may vary vastly between different sized companies in different industries and regions. 
  

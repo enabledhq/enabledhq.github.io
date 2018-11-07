@@ -30,21 +30,25 @@ _Let us know the topics you’re interested in [here](https://enabled1.typeform.
 
 # What's happening out there
 
-## The state of Artificial Intelligence in Enterprises
+## Good design is good for business
 
-MIT Sloan Management Review’s 2018 [Global Report on AI](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) highlights different levels of AI adoption within enterprises - Passives, Experimenters, Investigators, Pioneers: 
+The first ever report conducted into the [value of design](https://www.dezeen.com/2018/10/25/good-design-good-for-business-mckinsey-company-report/) in business by McKinsey outlines 4 key themes around Design - more than a **feeling**, more than a **phase**, more than a **department** and more than a **product**. 
 
-- A majority of companies expect AI to affect business model shifts
-- Pioneers are less held back by “lack of leadership support” or an “unclear business case” for AI adoption
-- Chinese companies are aggressively investing in AI business applications
+Enabled's been advocating a user-centric approach with our integrated design capabilities. And now the report highlights these nuggets of truth:
+
+- "Design has gone from being a middle-management topic to a senior management topic"
+- "Separate design departments don't work"
+- There're financial returns for those doing it right
  
- ![state of AI enterprise]({{site.baseurl}}/images/img_september_stateAI.jpg)
+![business value of design]({{site.baseurl}}/images/img_october_bizdesign.jpg)
+ 
+If you're curious about how Enabled can help you use [design](https://enabled1.typeform.com/to/y2SrR5) to drive your business, drop us a message.
 
-## Long read: Digital privacy & consumer consent
+## Can tech be good for society?
 
-Interesting read on consumer psychology and how people view privacy: We are fast to demand our privacy, though when offered privacy as an optional extra, even at a small price, we are fast to forgo it. 
+"Companies know you better than you may know yourself." Apple CEO Tim Cook warns of danger around the growing "[data industrial complex](https://www.fastcompany.com/90256013/apples-tim-cook-warns-of-threat-from-growing-data-industrial-complex)".
 
-The article touches on [various studies](https://hbr.org/cover-story/2018/09/uninformed-consent), including one where "people readily disclosed their friends’ email addresses in exchange for free pizza."
+Meanwhile, the UN released 2018's World Economic and Social Survey report, warning that [frontier technologies](https://apnews.com/2f92ef8facbe41519eece0be5f3c06d6) can help lives but boost inequality. 
 
 ## Two decades of Google
 

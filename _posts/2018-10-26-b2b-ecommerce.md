@@ -75,13 +75,13 @@ Yet, with the B2B eCommerce market expected to hit $6.7 trillion by 2020, dwarfi
 Enabled’s view is that customising a general B2C to fit complex business processes such as B2B ecommerce, is costly and problematic  over the long run. Hence, a ready out-of-the-box solution that can get businesses up and running fast is key. 
 
 <p style="background-color:#7954ab;border-radius:4px;font-size:19px;color:#fbfafa;padding:15px;margin:5px;"><b>
-# What are the differences between B2C and B2B ecommerce?</b><br>
+ What are the differences between B2C and B2B ecommerce?</b><br>
 B2C and B2B ecommerce differ in terms of the purchaser, the length of the purchasing process, how buyers can purchase, and the features required for a smooth customer experience. Specifically:<br>
 - The average B2B sales cycle is longer but larger<br>
 - B2B ecommerce caters to multiple purchasers<br>
 - B2B sellers need specific features when selling online, e.g. custom workflow<br>
 - All B2B businesses have unique needs, e.g. self-service or not<br>
-Source: OroCommerce</p>
+_Source: OroCommerce_</p>
 
 # OroCommerce - the solution for B2B ecommerce
 

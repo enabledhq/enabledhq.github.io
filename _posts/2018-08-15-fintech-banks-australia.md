@@ -286,7 +286,7 @@ This presents a counter-intuitive notion at first: Tech needs to get out of the 
 
 Now let’s look at the mobile banking evaluation from an independent research body. In Forrester’s 2017 Global Mobile Banking Functionality Survey, CBA and Westpac topped the list in Australia, and are in the world’s top 10. 
 
-**Why such disparity between consumer and “academic” evaluation? **
+**Why such disparity between consumer and “academic” evaluation?**
 
 “Verbatim customer responses suggest the CBA app rates highly due to features, while the [ING app](https://www.rfigroup.com/rfi-group/news/westpac-cba-top-mobile-banking-survey) is far more simplistic, but resonates with customers due to ease of use and visual appeal.” 
 

@@ -52,6 +52,14 @@ The article touches on [various studies](https://hbr.org/cover-story/2018/09/uni
 
 ![google timeline]({{site.baseurl}}/images/img_september_google.png)
 
+<p align=justify style="background-color:#02f3e5;
+border-radius:4px;
+font-size:16px;
+padding:15px;
+margin:5px;"><b>
+This is a Sample Textbox</b>
+</p> 
+
 ## The iPhone event 
 
 By now, the new line of Apple's iPhones has already been all over the news. The [AI chips](https://www.marketwatch.com/story/from-iphone-to-aiphone-apples-new-chips-are-key-to-its-future-2018-09-12) that Apple designed themselves could be the key to their future. Apple also quietly updated the Service Pricing, which points to higher [hidden costs](https://www.forbes.com/sites/gordonkelly/2018/09/16/apple-new-iphone-xs-max-xr-upgrade-release-date-price-cost/#3cac090e7f26).

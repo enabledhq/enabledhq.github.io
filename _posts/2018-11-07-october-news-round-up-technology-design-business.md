@@ -50,21 +50,21 @@ If you're curious about how Enabled can help you use [design](https://enabled1.t
 
 Meanwhile, the UN released 2018's World Economic and Social Survey report, warning that [frontier technologies](https://apnews.com/2f92ef8facbe41519eece0be5f3c06d6) can help lives but boost inequality. 
 
-## Two decades of Google
+## Why great products only do one thing
 
-20 years on, Google is the [dominant player](https://www.theguardian.com/technology/2018/sep/24/google-at-20-larry-page-sergey-brin-internet) in search (90% market share). But that could change with Amazon attacking online retail advertising. On other fronts, Facebook "wants to kill the web" and regulators want to curb Google's monopoly.
+A good read on the simplicity philosophy that can be applied to [product development](https://uxplanet.org/why-greatest-products-do-only-one-thing-b57764559d1b), user experience design, software design etc. Examples include Apple, Nike, McDonalds and the Walkman.
 
-![google timeline]({{site.baseurl}}/images/img_september_google.png)
+## Google Pixel phone event 
 
-## The iPhone event 
+There wasn't much room for surprises when Google unveiled the new Pixel 3 phones earlier this month. People had already seen the products & packaging photos thanks to extensive leaks. 
 
-By now, the new line of Apple's iPhones has already been all over the news. The [AI chips](https://www.marketwatch.com/story/from-iphone-to-aiphone-apples-new-chips-are-key-to-its-future-2018-09-12) that Apple designed themselves could be the key to their future. Apple also quietly updated the Service Pricing, which points to higher [hidden costs](https://www.forbes.com/sites/gordonkelly/2018/09/16/apple-new-iphone-xs-max-xr-upgrade-release-date-price-cost/#3cac090e7f26).
+![pixel 3 vs iPhone xs ]({{site.baseurl}}/images/img_october_pixel3.jpg)
 
-![iPhone XS ]({{site.baseurl}}/images/img_september_iphone.jpg)
 
-While some are going ga-ga over the new phones and flashy features, some have picked on the smaller stuff, like the "failed" [3D Touch](https://hackernoon.com/why-apples-3d-touch-failed-miserably-72545b608ad), or the [Walkie-Talkie](https://www.zdnet.com/article/apple-watchs-walkie-talkie-is-practically-useless/) function on the new Apple WatchOS that let you live out your childhood's dream. 
- 
-![apple watch walkie talkie]({{site.baseurl}}/images/img_september_walkie.jpg)
+As usual, there'll be comparisons with Apple's new iPhones, but you get different views depending on what's being compared.
+
+- [Bigger models showdown](https://appleinsider.com/articles/18/10/28/video-shootout-apples-iphone-xs-max-versus-googles-pixel-3-xl): iPhone XS Max vs. Pixel 3 XL  
+- [Mixed showdown](https://www.theverge.com/2018/10/15/17973484/google-pixel-3-xl-review-camera-features-screen-battery-price-photos): iPhone XS vs. Pixel 3 XL and Pixel 3
 
 # Weird & wonderful
 

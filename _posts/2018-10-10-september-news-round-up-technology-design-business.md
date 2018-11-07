@@ -52,8 +52,14 @@ The article touches on [various studies](https://hbr.org/cover-story/2018/09/uni
 
 ![google timeline]({{site.baseurl}}/images/img_september_google.png)
 
-<p style="background-color:#7954ab;border-radius:4px;font-size:16px;color:#fbfafa;padding:15px;margin:5px;"><b>
-This is a Sample Textbox</b></p> 
+<p style="background-color:#7954ab;border-radius:4px;font-size:20px;color:#fbfafa;padding:15px;margin:5px;"><b>
+What are the differences between B2C and B2B ecommerce?
+Major differences include who makes the purchase, the length of the purchasing process, how buyers can purchase, and the features required for an exceptional customer experience
+The Average Sales Cycle is Longer but Larger
+B2B eCommerce Must Cater to Multiple Buyers
+Merchants Selling to Businesses Need Specific Features When Going Online
+All B2B Businesses are Unique
+</b></p> 
 
 ## The iPhone event 
 

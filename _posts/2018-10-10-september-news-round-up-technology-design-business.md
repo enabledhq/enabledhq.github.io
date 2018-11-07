@@ -52,7 +52,7 @@ The article touches on [various studies](https://hbr.org/cover-story/2018/09/uni
 
 ![google timeline]({{site.baseurl}}/images/img_september_google.png)
 
-<p style="background-color:#7954ab;border-radius:4px;font-size:16px;padding:15px;margin:5px;"><b>
+<p style="background-color:#7954ab;border-radius:4px;font-size:16px;color:#fbfafa;padding:15px;margin:5px;"><b>
 This is a Sample Textbox</b></p> 
 
 ## The iPhone event 

@@ -59,8 +59,10 @@ The Enabled team arrived at the Adelaide Oval on a fine evening. There are two t
 
 ![adelaide oval]({{site.baseurl}}/images/img_echallenge_oval.jpg)
 
-If you look very closely, you might just be able to see “Will you marry me Natasha?” on the black score board.
-That blue ute surely has found a better parking spot than us.
+If you look very closely, you might just be able to see:
+
+- “Will you marry me Natasha?” on the black score board.
+- That blue ute surely has found a better parking spot than us
 
 Normally most of us at Enabled rock up in the office in our normal “software dev” attire (whatever that is 🤓), but on that Thursday night:
 

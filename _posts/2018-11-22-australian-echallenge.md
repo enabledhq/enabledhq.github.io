@@ -38,8 +38,8 @@ image: /images/img_thumb_echallenge.jpeg
     "name" : "Linh Dao"
   },
   "datePublished" : "2018-11-22",
-  "image" : "http://blog.enabled.com.au/images/img_oro_enabled.png",
-  "articleSection" : [ "The B2B ecommerce landscape", "What are the differences between B2C and B2B ecommerce?", "OroCommerce - the solution for B2B ecommerce", "Enabled’s expertise in ecommerce", "What next"  ],
+  "image" : "http://blog.enabled.com.au/images/Blog_header_echallenge.png",
+  "articleSection" : [ "A little bit of background information", "What is Enabled’s involvement in the Australian eChallenge?", "The Awards Dinner " ],
   "publisher" : {
     "@type" : "Organization",
     "name" : "Enabled",
@@ -65,7 +65,7 @@ In the end, participants present their product or service to a judging panel, wh
 
 The eChallenge program recently expanded to France to help French students launch their ventures. They’re also given access to SA business mentors. 
 
-# What is Enabled’s involvement?
+# What is Enabled’s involvement in the Australian eChallenge?
 
 We run a course for participants who enter the [Tech eChallenge](https://www.adelaide.edu.au/echallenge/australian-echallenge/categories#tech) category - which is about “[technological innovation](https://www.adelaide.edu.au/course-outlines/108575/1/sem-1/) with the emphasis on product design and the development of a prototype that has market relevance.”
 

@@ -116,6 +116,8 @@ I glanced back at our table and spotted some familiar faces…
 	<em>Seeing double?</em>
 </div>
 
+---
+
 University of Adelaide’s Professor Noel Lindsay showed off some impressive stats for the eChallenge program over the years.
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">

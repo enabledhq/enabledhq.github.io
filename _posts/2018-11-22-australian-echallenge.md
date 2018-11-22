@@ -94,6 +94,7 @@ We even took an Oscar-inspired selfie.
 	<img src="{{site.baseurl}}/images/img_echallenge_selfie.JPG">
 </div>
 
+
 The excitement of seeing our logo pop up on the large screen. 
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">

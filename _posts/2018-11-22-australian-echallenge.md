@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-11-22 11:55 +1030'
-published: false
+published: true
 title: 'Enabled Celebrated Australian eChallenge’s 18th Birthday at Awards Dinner '
 hero-banner: /images/Blog_header_echallenge.png
 main-category: news
@@ -138,5 +138,4 @@ And the winner is..
 ![tech echallenge 2018 winner]({{site.baseurl}}/images/img_echallenge_grant.JPG)
 *QTonic team took out the Tech eChallenge first prize*
 
-That’s a wrap. May the entrepreneurial spirit fly high in SA ✈️ See you next year! 
-
+That’s a wrap. May the entrepreneurial spirit fly high in SA ✈️ See you next year!

@@ -122,8 +122,11 @@ University of Adelaide’s Professor Noel Lindsay showed off some impressive sta
 	<img src="{{site.baseurl}}/images/img_echallenge_noel1.jpg" alt="australian echallenge">
 </div>
 
-![noel lindsay echallenge]({{site.baseurl}}/images/img_echallenge_noel2.jpg)
-*Stats about the eChallenge's economic impact on SA*
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+    <img src="{{site.baseurl}}/images/img_echallenge_noel2.jpg" alt="australian echallenge">
+<em>Stats about the eChallenge's economic impact on SA</em></div>
+
+---
 
 Again, I couldn’t hide the excitement seeing Enabled’s banner on the big screen.
 

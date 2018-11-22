@@ -96,15 +96,25 @@ University of Adelaide’s Professor Noel Lindsay showed off some impressive sta
 
 Again, I couldn’t hide the excitement seeing Enabled’s banner on the big screen.
 
-These students were finalists talking about their innovation.
+![tech echallenge]({{site.baseurl}}/images/img_echallenge_students.JPG)
+*These students were finalists talking about their innovation.*
 
 Obligatory food pics…
 
+![echallenge awards dinner]({{site.baseurl}}/images/img_echallenge_food.JPG)
+
 Drumroll please...Our CEO Grant Hull went on stage to announce the winner of the tech eChallenge category.
+
+![grant hull echallenge]({{site.baseurl}}/images/img_echallenge_grant1.jpeg)
 
 But before that, he made some jokes about the tech category being a kid that wanted to go to France like the other siblings.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MV9k-IXDEow?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 And the winner is..
+
+![tech echallenge 2018 winner]({{site.baseurl}}/images/img_echallenge_grant.JPG)
+*QTonic team took out the Tech eChallenge first prize*
 
 That’s a wrap. See you next year! 
 

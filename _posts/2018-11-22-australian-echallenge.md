@@ -139,9 +139,13 @@ Obligatory food pics…
 	<img src="{{site.baseurl}}/images/img_echallenge_food.JPG" alt="echallenge awards dinner">
 </div>
 
+---
+
 Drumroll please...Our CEO Grant Hull went on stage to announce the winner of the tech eChallenge category.
 
-![grant hull echallenge]({{site.baseurl}}/images/img_echallenge_grant1.jpeg)
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+	<img src="{{site.baseurl}}/images/img_echallenge_grant1.jpeg" alt="grant hull echallenge">
+</div>
 
 But before that, he made some jokes about the tech category being a kid that wanted to go to France like the other siblings.
 
@@ -149,7 +153,8 @@ But before that, he made some jokes about the tech category being a kid that wan
 
 And the winner is..
 
-![tech echallenge 2018 winner]({{site.baseurl}}/images/img_echallenge_grant.JPG)
-*QTonic team took out the Tech eChallenge first prize*
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+    <img src="{{site.baseurl}}/images/img_echallenge_grant.JPG" alt="tech echallenge 2018 winner">
+<em>QTonic team took out the Tech eChallenge first prize</em></div>
 
 That’s a wrap. May the entrepreneurial spirit fly high in SA ✈️ See you next year!

@@ -103,12 +103,16 @@ The excitement of seeing our logo pop up on the large screen.
 
 Rebecca Morse from channel 10 was the MC for the night, opening with a line about no spoilers wanted for channel 10’s Bachelorette TV show. 
 
-![australian echallenge]({{site.baseurl}}/images/img_echallenge_channel10.jpg)
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+	<img src="{{site.baseurl}}/images/img_echallenge_channel10.jpg" alt="australian echallenge">
+</div>
 
 I glanced back at our table and spotted some familiar faces…
 
-![grant hull enabled echallenge]({{site.baseurl}}/images/img_echallenge_book.JPG)
-*Seeing double?*
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+	<img src="{{site.baseurl}}/images/img_echallenge_book.JPG" alt="grant hull australian echallenge">
+	<em>Seeing double?n</em>
+</div>
 
 University of Adelaide’s Professor Noel Lindsay showed off some impressive stats for the eChallenge program over the years.
 

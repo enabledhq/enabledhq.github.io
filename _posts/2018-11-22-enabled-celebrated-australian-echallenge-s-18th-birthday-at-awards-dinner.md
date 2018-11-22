@@ -66,19 +66,33 @@ If you look very closely, you might just be able to see:
 
 Normally most of us at Enabled rock up in the office in our normal “software dev” attire (whatever that is 🤓), but on that Thursday night:
 
-Suit and tie - and dress of course!
+
+![enabled australian echallenge]({{site.baseurl}}/images/img_echallenge_team.JPG)
+*Suit and tie - and dress of course!*
 
 We even took an Oscar-inspired selfie.
 
+![enabled australian echallenge ]({{site.baseurl}}/images/img_echallenge_selfie.JPG)
+
 The excitement of seeing our logo pop up on the large screen. 
+
+![sponsor australian echallenge ]({{site.baseurl}}/images/img_echallenge_banner.JPG)
 
 Rebecca Morse from channel 10 was the MC for the night, opening with a line about no spoilers wanted for channel 10’s Bachelorette TV show. 
 
+![australian echallenge]({{site.baseurl}}/images/img_echallenge_channel10.jpg)
+
 I glanced back at our table and spotted some familiar faces…
 
-Seeing double? 
+![grant hull enabled echallenge]({{site.baseurl}}/images/img_echallenge_book.JPG)
+*Seeing double?*
 
 University of Adelaide’s Professor Noel Lindsay showed off some impressive stats for the eChallenge program over the years.
+
+![noel lindsay echallenge]({{site.baseurl}}/images/img_echallenge_noel1.jpg)
+
+![noel lindsay echallenge]({{site.baseurl}}/images/img_echallenge_noel2.jpg)
+*Stats about the eChallenge's economic impact on SA*
 
 Again, I couldn’t hide the excitement seeing Enabled’s banner on the big screen.
 

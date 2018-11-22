@@ -122,7 +122,7 @@ University of Adelaide’s Professor Noel Lindsay showed off some impressive sta
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_echallenge_noel1.jpg" alt="australian echallenge">
-</div>
+<em>25 years in the making</em></div>
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
     <img src="{{site.baseurl}}/images/img_echallenge_noel2.jpg" alt="australian echallenge">

@@ -96,7 +96,9 @@ We even took an Oscar-inspired selfie.
 
 The excitement of seeing our logo pop up on the large screen. 
 
-![sponsor australian echallenge ]({{site.baseurl}}/images/img_echallenge_banner.JPG)
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+	<img src="{{site.baseurl}}/images/img_echallenge_banner.JPG" alt="sponsor australian echallenge">
+</div>
 
 Rebecca Morse from channel 10 was the MC for the night, opening with a line about no spoilers wanted for channel 10’s Bachelorette TV show. 
 

@@ -86,15 +86,11 @@ If you look very closely, you might just be able to see:
 - “Will you marry me Natasha?” on the black score board.
 - That blue ute surely has found a better parking spot than us
 
-Normally most of us at Enabled rock up in the office in our normal “software dev” attire (whatever that is 🤓), but on that Thursday night:
-
-
-![enabled australian echallenge]({{site.baseurl}}/images/img_echallenge_team.JPG)
-*Suit and tie - and dress of course!*
+Normally most of us at Enabled rock up in the office in our normal “software dev” attire (whatever that is 🤓), but on that Thursday night: Suit and tie - and dress of course!
 
 We even took an Oscar-inspired selfie.
 
-![enabled australian echallenge ]({{site.baseurl}}/images/img_echallenge_selfie.JPG)
+![enabled australian echallenge]({{site.baseurl}}/images/img_echallenge_selfie.JPG)
 
 The excitement of seeing our logo pop up on the large screen. 
 

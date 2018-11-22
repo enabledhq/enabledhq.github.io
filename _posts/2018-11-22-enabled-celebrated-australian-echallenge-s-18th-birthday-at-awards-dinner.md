@@ -116,5 +116,5 @@ And the winner is..
 ![tech echallenge 2018 winner]({{site.baseurl}}/images/img_echallenge_grant.JPG)
 *QTonic team took out the Tech eChallenge first prize*
 
-That’s a wrap. See you next year! 
+That’s a wrap. May the entrepreneurial spirit fly high in SA ✈️ See you next year! 
 

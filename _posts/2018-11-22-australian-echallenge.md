@@ -127,12 +127,17 @@ University of Adelaide’s Professor Noel Lindsay showed off some impressive sta
 
 Again, I couldn’t hide the excitement seeing Enabled’s banner on the big screen.
 
-![tech echallenge]({{site.baseurl}}/images/img_echallenge_students.JPG)
-*These students were finalists talking about their innovation.*
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+	<img src="{{site.baseurl}}/images/img_echallenge_students.JPG" alt="tech echallenge">
+<em>These students were finalists talking about their innovation</em></div>
+
+---
 
 Obligatory food pics…
 
-![echallenge awards dinner]({{site.baseurl}}/images/img_echallenge_food.JPG)
+<div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
+	<img src="{{site.baseurl}}/images/img_echallenge_food.JPG" alt="echallenge awards dinner">
+</div>
 
 Drumroll please...Our CEO Grant Hull went on stage to announce the winner of the tech eChallenge category.
 

@@ -80,7 +80,7 @@ With [Huawei](https://au.pcmag.com/news/59231/huawei-to-launch-5g-foldable-smart
 
 OLED and microLED screens dominated CES,  with dazzling displays of brilliance and colour not seen before.
 
-Drawing lots of hype, the products on display combined foldable screen technology and AI to offer consumers more tailored experiences. [LG revealed their 64-inch OLED television](https://www.digitaltrends.com/home-theater/lg-rollable-oled-ces-2019/#/3), which comes with Alexa and Google Assistant and rolls up into a box that houses the speaker system. [Samsung showed off their first microLED display](http://fortune.com/2019/01/07/samsung-ces-micro-led-wall-tv/), an impressive 219-inch screen called ‘The Wall’. This gigantic screen features their Bixby personal voice assistant, it will also offer Apple AirPlay 2 connectivity.
+Drawing lots of hype, the products on display combined foldable screen technology and AI to offer consumers more tailored experiences. [LG revealed their 64-inch OLED television](https://www.digitaltrends.com/home-theater/lg-rollable-oled-ces-2019/#/3), which comes with Alexa and Google Assistant and rolls up into a box that houses the speaker system. [Samsung showed off their first microLED display](http://fortune.com/2019/01/07/samsung-ces-micro-led-wall-tv/), an impressive 219-inch screen called ‘The Wall’. This gigantic screen features their Bixby personal voice assistant and will also offer Apple AirPlay 2 connectivity.
 
 It’s hard to know at this point which way the market will go. OLED screens have brilliant colour and perfect black levels, but colour quality degrades significantly over time. MicroLEDs are brighter, produce a wider range of colours, and don’t suffer the same degradation, however, are much more [costly to manufacture](https://www.techradar.com/au/news/microled-vs-oled-the-battle-of-the-high-end-display-tech) - a 55-inch panel is made up of milions of microLEDs. Despite the high costs, we’ll likely see more microLED devices come onto the market, with [Apple already investing in the technology for its Apple Watch](https://www.theverge.com/2018/3/19/17138240/apple-microled-facility-us-watch-oled).
 
@@ -130,8 +130,8 @@ One product we’re watching keenly is [LG’s HomeBrew](https://www.cnet.com/ne
   height:100%;" width="896" height="504"
 src="https://www.youtube.com/embed/QKFddQ0ks50">
 </iframe>
-<em>Cooper's BrewArt</em>
 </div>
+<em>BrewArt by Coopers</em>
 
 # Weirdest innovations
 

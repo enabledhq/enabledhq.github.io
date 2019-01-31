@@ -167,4 +167,4 @@ Almost too adorable to handle, [Fravel’s makers](http://www.fravelsuitcase.com
 </div>
 </p>
 
-That’s a wrap. Until next year!
+That's a wrap for CES 2019 - we look forward to seeing what tech does make it out onto the market this year! 

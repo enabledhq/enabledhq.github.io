@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2019-01-31 14:55 +1030'
-published: false
+published: true
 title: 'Top Tech Trends from CES 2019'
 hero-banner: /images/Blog_header_echallenge.png
 main-category: news
@@ -108,7 +108,7 @@ There are many benefits to 5G connectivity. If the experts are right, users coul
 
 # Luxury tech
 
-One product we’re watching keenly is [LG’s HomeBrew] (https://www.cnet.com/news/lg-takes-up-the-mantle-of-brewer-with-homebrew-countertop-beer-bot/) - a benchtop device for brewing craft beer. The HomeBrew uses capsules, starts brewing at the touch of a button, and allows you to monitor your brew via their app. It’s unknown if HomeBrew will make it to our shores, however, it’s interesting to note that Australian-owned Coopers launched their [BrewArt system] (https://brewart.com/au/) several years ago to Australian and international markets. BrewArt - the world’s first fully automated internet connected home brewing machine - was proudly developed by Enabled. [Read our case study here] (https://enabled.com.au/casestudy-Coopers).
+One product we’re watching keenly is [LG’s HomeBrew] (https://www.cnet.com/news/lg-takes-up-the-mantle-of-brewer-with-homebrew-countertop-beer-bot/) - a benchtop device for brewing craft beer. The HomeBrew uses capsules, starts brewing at the touch of a button, and allows you to monitor your brew via their app. It’s unknown if HomeBrew will make it to our shores, however, it’s interesting to note that Australian-owned Coopers launched their [BrewArt system] (https://brewart.com/au/) several years ago to Australian and international markets. BrewArt was the world’s first fully automated internet connected home brewing machine; Enabled proudly developed all the digital components, including the app, the Internet of Things capability, and the online Magento store. [Read our case study here] (https://enabled.com.au/casestudy-Coopers).
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_lg_homebrew.png" alt="LG homebrew">

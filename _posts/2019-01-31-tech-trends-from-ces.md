@@ -65,24 +65,24 @@ From this year’s innovations, there were several key trends that we’ll explo
 
 # Foldable devices
 
-Samsung unveilled their [first foldable screen](https://www.techradar.com/au/news/samsung-galaxy-x-foldable-phone) at the Samsung Developer Conference in San Francisco in November last year. Featuring their new [Infinity Flex Display] (https://www.techradar.com/au/news/samsung-foldable-phone-infinity-flex-display) technology, specially designed to be thin and lightweight, the device can easily fold and unfold from a phone into a tablet, and will have full OS support from Android. With no official specs or prices confirmed yet, the device is rumoured to be released in February and available by March this year. 
+Samsung unveilled their [first foldable screen](https://www.techradar.com/au/news/samsung-galaxy-x-foldable-phone) at the Samsung Developer Conference in San Francisco in November last year. Featuring their new [Infinity Flex Display](https://www.techradar.com/au/news/samsung-foldable-phone-infinity-flex-display) technology, specially designed to be thin and lightweight, the device can easily fold and unfold from a phone into a tablet, and will have full OS support from Android. With no official specs or prices confirmed yet, the device is rumoured to be released in February and available by March this year. 
 
-Following the trend, Chinese company Royole have beaten Samsung and other competitors to market with the release of their first foldable phone, the [Flexpai] (https://www.digitaltrends.com/mobile/royole-flexpai-folding-smartphone-news/), making its debut at CES. The phone is quite weighty; this is likely due to its plastic composition, which allows it to be folded up to 200,000 times before showing signs of wear. The phone runs a modified version of Android that reviewers have already noted seems glitchy. Retailing at US $1,300-$1879, we suggest holding out for Samsung’s more sophisticated offering in this category.
+Following the trend, Chinese company Royole have beaten Samsung and other competitors to market with the release of their first foldable phone, the [Flexpai](https://www.digitaltrends.com/mobile/royole-flexpai-folding-smartphone-news/), making its debut at CES. The phone is quite weighty; this is likely due to its plastic composition, which allows it to be folded up to 200,000 times before showing signs of wear. The phone runs a modified version of Android that reviewers have already noted seems glitchy. Retailing at US $1,300-$1879, we suggest holding out for Samsung’s more sophisticated offering in this category.
 
-With [Huawei] (https://au.pcmag.com/news/59231/huawei-to-launch-5g-foldable-smartphone-in-february) set to release their own foldable phone, [Lenovo and LG] (https://www.techadvisor.co.uk/new-product/tablets/lenovo-foldable-tablet-3685417/) rumoured to be working on prototypes, and a patent reportedly filed by [Apple] (https://www.forbes.com/sites/jaymcgregor/2018/03/30/apples-foldable-phone-could-copy-old-samsung-design/#817e0cf75b5a), we expect to see more foldable tech come onto the market in the coming year; this won’t be limited to phones and tablets. 
+With [Huawei](https://au.pcmag.com/news/59231/huawei-to-launch-5g-foldable-smartphone-in-february) set to release their own foldable phone, [Lenovo and LG](https://www.techadvisor.co.uk/new-product/tablets/lenovo-foldable-tablet-3685417/) rumoured to be working on prototypes, and a patent reportedly filed by [Apple](https://www.forbes.com/sites/jaymcgregor/2018/03/30/apples-foldable-phone-could-copy-old-samsung-design/#817e0cf75b5a), we expect to see more foldable tech come onto the market in the coming year; this won’t be limited to phones and tablets. 
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
-	<img src="{{site.baseurl}}/images/img_royale_flexpai.jpg" alt="royale flexpai foldable device">
-	<em>Royale's Flexpai foldable phone.</em>
+	<img src="{{site.baseurl}}/images/img_royole_flexpai.jpg" alt="royole flexpai foldable device">
+	<em>Royole's Flexpai foldable phone.</em>
 </div>
 
 # OLED and microLED screens
 
 OLED and microLED screens dominated CES,  with dazzling displays of brilliance and colour not seen before.
 
-Drawing lots of hype, the products on display combined foldable screen technology and AI to offer consumers more tailored experiences. [LG revealed their 64-inch OLED television] (https://www.digitaltrends.com/home-theater/lg-rollable-oled-ces-2019/#/3), which comes with Alexa and Google Assistant and rolls up into a box that houses the speaker system. [Samsung showed off their first microLED display] (http://fortune.com/2019/01/07/samsung-ces-micro-led-wall-tv/), an impressive 219-inch screen called ‘The Wall’. This gigantic screen features their Bixby personal voice assistant, it will also offer Apple AirPlay 2 connectivity.
+Drawing lots of hype, the products on display combined foldable screen technology and AI to offer consumers more tailored experiences. [LG revealed their 64-inch OLED television](https://www.digitaltrends.com/home-theater/lg-rollable-oled-ces-2019/#/3), which comes with Alexa and Google Assistant and rolls up into a box that houses the speaker system. [Samsung showed off their first microLED display](http://fortune.com/2019/01/07/samsung-ces-micro-led-wall-tv/), an impressive 219-inch screen called ‘The Wall’. This gigantic screen features their Bixby personal voice assistant, it will also offer Apple AirPlay 2 connectivity.
 
-It’s hard to know at this point which way the market will go. OLED screens have brilliant colour and perfect black levels, but colour quality degrades significantly over time. MicroLEDs are brighter, produce a wider range of colours, and don’t suffer the same degradation, however, are much more [costly to manufacture] (https://www.techradar.com/au/news/microled-vs-oled-the-battle-of-the-high-end-display-tech) - a 55-inch panel is made up of milions of microLEDs. Despite the high costs, we’ll likely see more microLED devices come onto the market, with [Apple already investing in the technology for its Apple Watch] (https://www.theverge.com/2018/3/19/17138240/apple-microled-facility-us-watch-oled).
+It’s hard to know at this point which way the market will go. OLED screens have brilliant colour and perfect black levels, but colour quality degrades significantly over time. MicroLEDs are brighter, produce a wider range of colours, and don’t suffer the same degradation, however, are much more [costly to manufacture](https://www.techradar.com/au/news/microled-vs-oled-the-battle-of-the-high-end-display-tech) - a 55-inch panel is made up of milions of microLEDs. Despite the high costs, we’ll likely see more microLED devices come onto the market, with [Apple already investing in the technology for its Apple Watch](https://www.theverge.com/2018/3/19/17138240/apple-microled-facility-us-watch-oled).
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_lg_foldingtv.jpg" alt="lg folding tv">
@@ -96,19 +96,19 @@ It’s hard to know at this point which way the market will go. OLED screens hav
 
 # 5G connectivity
 
-The next generation of connectivity is now a reality. Possibly one of the most talked about trends at CES, Verizon CEO and CES Keynote Speaker Hans Vestburg described 5G technology as a “[quantum leap compared to 4G] (https://www.cnbc.com/video/2019/01/08/5g-huge-quantum-leap-verizon-ceo.html).” 
+The next generation of connectivity is now a reality. Possibly one of the most talked about trends at CES, Verizon CEO and CES Keynote Speaker Hans Vestburg described 5G technology as a “[quantum leap compared to 4G](https://www.cnbc.com/video/2019/01/08/5g-huge-quantum-leap-verizon-ceo.html).” 
 
-There are many benefits to 5G connectivity. If the experts are right, users could experience incredibly fast speeds, ranging from [100Mbps to 20Gbps] (https://arstechnica.com/information-technology/2017/02/5g-imt-2020-specs/) (so potentially up to a thousand times faster than 4G). The technology will enable faster network response times and allow more devices to be connected simultaneously, paving the way for hyper-connected smart cities of the future and the [Internet of Things] (https://enabled.com.au/services#services-internetthings). 
+There are many benefits to 5G connectivity. If the experts are right, users could experience incredibly fast speeds, ranging from [100Mbps to 20Gbps](https://arstechnica.com/information-technology/2017/02/5g-imt-2020-specs/) (so potentially up to a thousand times faster than 4G). The technology will enable faster network response times and allow more devices to be connected simultaneously, paving the way for hyper-connected smart cities of the future and the [Internet of Things](https://enabled.com.au/services#services-internetthings). 
 
 5G capable devices and services will start to come onto the market this year. Some noteworthy developments include: 
-- Samsung demoing their [5G smartphone prototype] (https://www.zdnet.com/article/ces-2019-samsung-announces-5g-smartphone-sneak-peek/), to be released later this year
-- Skyward announcing plans to connect [1 million drone flights] (https://www.zdnet.com/article/ces-2019-the-biggest-5g-news/) on Verizon’s 5G network
-- US carrier AT&T partnering with a Chicago university to [connect hospitals and healthcare providers] (https://www.zdnet.com/article/ces-2019-at-t-5g-to-connect-hospitals-and-stadiums/)
-- [Telstra signing deals] (https://www.zdnet.com/article/ces-2019-telstra-confirms-5g-smartphones-by-mid-2019/) with several smartphone brands to have 5G smartphones on its network by mid-year
+- Samsung demoing their [5G smartphone prototype](https://www.zdnet.com/article/ces-2019-samsung-announces-5g-smartphone-sneak-peek/), to be released later this year
+- Skyward announcing plans to connect [1 million drone flights](https://www.zdnet.com/article/ces-2019-the-biggest-5g-news/) on Verizon’s 5G network
+- US carrier AT&T partnering with a Chicago university to [connect hospitals and healthcare providers](https://www.zdnet.com/article/ces-2019-at-t-5g-to-connect-hospitals-and-stadiums/)
+- [Telstra signing deals](https://www.zdnet.com/article/ces-2019-telstra-confirms-5g-smartphones-by-mid-2019/) with several smartphone brands to have 5G smartphones on its network by mid-year
 
 # Luxury tech
 
-One product we’re watching keenly is [LG’s HomeBrew] (https://www.cnet.com/news/lg-takes-up-the-mantle-of-brewer-with-homebrew-countertop-beer-bot/) - a benchtop device for brewing craft beer. The HomeBrew uses capsules, starts brewing at the touch of a button, and allows you to monitor your brew via their app. It’s unknown if HomeBrew will make it to our shores, however, it’s interesting to note that Australian-owned Coopers launched their [BrewArt system] (https://brewart.com/au/) several years ago to Australian and international markets. BrewArt was the world’s first fully automated internet connected home brewing machine; Enabled proudly developed all the digital components, including the app, the Internet of Things capability, and the online Magento store. [Read our case study here] (https://enabled.com.au/casestudy-Coopers).
+One product we’re watching keenly is [LG’s HomeBrew](https://www.cnet.com/news/lg-takes-up-the-mantle-of-brewer-with-homebrew-countertop-beer-bot/) - a benchtop device for brewing craft beer. The HomeBrew uses capsules, starts brewing at the touch of a button, and allows you to monitor your brew via their app. It’s unknown if HomeBrew will make it to our shores, however, it’s interesting to note that Australian-owned Coopers launched their [BrewArt system](https://brewart.com/au/) several years ago to Australian and international markets. BrewArt was the world’s first fully automated internet connected home brewing machine; Enabled proudly developed all the digital components, including the app, the Internet of Things capability, and the online Magento store. [Read our case study here](https://enabled.com.au/casestudy-Coopers).
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_lg_homebrew.png" alt="LG homebrew">
@@ -134,7 +134,7 @@ src="https://https://youtu.be/QKFddQ0ks50">
 It wouldn’t be CES without some weird and out-there gadgets. Here are our favourites.
 
 Hupnos sleep mask for snorers
-This certainly isn’t the most attractive wearable, but it could help out in the bedroom! Simply put the mask on when you go to sleep and [the app will listen and track your sleeping patterns] (https://www.cnet.com/news/ces-2019-hupnos-sleep-mask-claims-to-keep-your-snoring-in-check/). If it detects the wearer has started snoring, it uses a built-in accelerometer and gentle vibrations to help nudge them into a better sleep position. 
+This certainly isn’t the most attractive wearable, but it could help out in the bedroom! Simply put the mask on when you go to sleep and [the app will listen and track your sleeping patterns](https://www.cnet.com/news/ces-2019-hupnos-sleep-mask-claims-to-keep-your-snoring-in-check/). If it detects the wearer has started snoring, it uses a built-in accelerometer and gentle vibrations to help nudge them into a better sleep position. 
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_hupnos_mask.png" alt="hupnos sleep mask">
@@ -142,7 +142,7 @@ This certainly isn’t the most attractive wearable, but it could help out in th
 </div>
 
 PiBo Robot
-This cute and needy little robot just wants to be friends with you. Always. Using the power of internet connectivity and an app, [PiBo] (http://dev.circul.us/pibo/#story) can tell you the weather, read your diary, help you wake up, send voice and text messages, manage your photos, play your favourite music, and even gives words of affirmation (like, I love you). Perhaps not as powerful as the likes of Amazon’s Alexa or Google Home, PiBo does use AI to learn what you like and give you more of that.
+This cute and needy little robot just wants to be friends with you. Always. Using the power of internet connectivity and an app, [PiBo](http://dev.circul.us/pibo/#story) can tell you the weather, read your diary, help you wake up, send voice and text messages, manage your photos, play your favourite music, and even gives words of affirmation (like, I love you). Perhaps not as powerful as the likes of Amazon’s Alexa or Google Home, PiBo does use AI to learn what you like and give you more of that.
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_pibo_family.png" alt="pibo robot">
@@ -150,7 +150,7 @@ This cute and needy little robot just wants to be friends with you. Always. Usin
 </div>
 
 Fravel Suitcase
-Almost too adorable to handle, [Fravel’s makers] (http://www.fravelsuitcase.com/index.html) describe the travel companion as, “Cute and squishy. Everything you like about your pet without the messy part.” That latter part is a huge selling point in our books. Somewhat limited in capability - there’s no AI to speak of - it is feature packed in other ways. Fravel uses smart technology to give life-like features, such as tactile and movement sensors to make the ears wiggle and light-up heart beat when patted, a built-in battery and power save mode activated via the handle, and USB charging ability.
+Almost too adorable to handle, [Fravel’s makers](http://www.fravelsuitcase.com/index.html) describe the travel companion as, “Cute and squishy. Everything you like about your pet without the messy part.” That latter part is a huge selling point in our books. Somewhat limited in capability - there’s no AI to speak of - it is feature packed in other ways. Fravel uses smart technology to give life-like features, such as tactile and movement sensors to make the ears wiggle and light-up heart beat when patted, a built-in battery and power save mode activated via the handle, and USB charging ability.
 
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_fravel.png" alt="fravel suitcase">

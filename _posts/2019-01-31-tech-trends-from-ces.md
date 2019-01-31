@@ -137,8 +137,8 @@ src="https://www.youtube.com/embed/QKFddQ0ks50">
 
 It wouldn’t be CES without some weird and out-there gadgets. Here are our favourites.
 
-Hupnos sleep mask for snorers
-This certainly isn’t the most attractive wearable, but it could help out in the bedroom! Simply put the mask on when you go to sleep and [the app will listen and track your sleeping patterns](https://www.cnet.com/news/ces-2019-hupnos-sleep-mask-claims-to-keep-your-snoring-in-check/). If it detects the wearer has started snoring, it uses a built-in accelerometer and gentle vibrations to help nudge them into a better sleep position. 
+<p>**Hupnos sleep mask for snorers**</p>
+<p>This certainly isn’t the most attractive wearable, but it could help out in the bedroom! Simply put the mask on when you go to sleep and [the app will listen and track your sleeping patterns](https://www.cnet.com/news/ces-2019-hupnos-sleep-mask-claims-to-keep-your-snoring-in-check/). If it detects the wearer has started snoring, it uses a built-in accelerometer and gentle vibrations to help nudge them into a better sleep position.</p> 
 
 <p>
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">

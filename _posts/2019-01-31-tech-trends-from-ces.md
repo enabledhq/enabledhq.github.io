@@ -131,7 +131,6 @@ One product we’re watching keenly is [LG’s HomeBrew](https://www.cnet.com/ne
 src="https://www.youtube.com/embed/QKFddQ0ks50">
 </iframe>
 </div>
-<em>BrewArt by Coopers</em>
 
 # Weirdest innovations
 

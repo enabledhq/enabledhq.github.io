@@ -124,7 +124,7 @@ One product we’re watching keenly is [LG’s HomeBrew](https://www.cnet.com/ne
   left:0;
   width:100%;
   height:100%;" width="896" height="504"
-src="https://https://youtu.be/QKFddQ0ks50">
+src="https://youtu.be/QKFddQ0ks50">
 </iframe>
 <em>Cooper's BrewArt</em>
 </div>

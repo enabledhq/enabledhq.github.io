@@ -3,7 +3,7 @@ layout: post
 date: '2019-01-31 14:55 +1030'
 published: true
 title: 'Top Tech Trends from CES 2019'
-hero-banner: /images/Blog_header_echallenge.png
+hero-banner: /images/blog_header_giantscreens.jpg
 main-category: news
 categories:
   - innovation

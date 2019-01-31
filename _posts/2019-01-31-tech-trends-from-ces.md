@@ -102,7 +102,7 @@ It’s hard to know at this point which way the market will go. OLED screens hav
 
 The next generation of connectivity is now a reality. Possibly one of the most talked about trends at CES, Verizon CEO and CES Keynote Speaker Hans Vestburg described 5G technology as a “[quantum leap compared to 4G](https://www.cnbc.com/video/2019/01/08/5g-huge-quantum-leap-verizon-ceo.html).” 
 
-There are many benefits to 5G connectivity. If the experts are right, users could experience incredibly fast speeds, ranging from [100Mbps to 20Gbps](https://arstechnica.com/information-technology/2017/02/5g-imt-2020-specs/) (so potentially up to a thousand times faster than 4G). The technology will enable faster network response times and allow more devices to be connected simultaneously, paving the way for hyper-connected smart cities of the future and the [Internet of Things](https://enabled.com.au/services#services-internetthings). 
+There are many benefits to 5G: if the experts are right, users could experience incredibly fast speeds, ranging from [100Mbps to 20Gbps](https://arstechnica.com/information-technology/2017/02/5g-imt-2020-specs/) (so potentially up to a thousand times faster than 4G). The technology will enable faster network response times and allow more devices to be connected simultaneously, paving the way for hyper-connected smart cities of the future and the [Internet of Things](https://enabled.com.au/services#services-internetthings). 
 
 5G capable devices and services will start to come onto the market this year. Some noteworthy developments include: 
 - Samsung demoing their [5G smartphone prototype](https://www.zdnet.com/article/ces-2019-samsung-announces-5g-smartphone-sneak-peek/), to be released later this year

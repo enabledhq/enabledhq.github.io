@@ -84,15 +84,19 @@ Drawing lots of hype, the products on display combined foldable screen technolog
 
 It’s hard to know at this point which way the market will go. OLED screens have brilliant colour and perfect black levels, but colour quality degrades significantly over time. MicroLEDs are brighter, produce a wider range of colours, and don’t suffer the same degradation, however, are much more [costly to manufacture](https://www.techradar.com/au/news/microled-vs-oled-the-battle-of-the-high-end-display-tech) - a 55-inch panel is made up of milions of microLEDs. Despite the high costs, we’ll likely see more microLED devices come onto the market, with [Apple already investing in the technology for its Apple Watch](https://www.theverge.com/2018/3/19/17138240/apple-microled-facility-us-watch-oled).
 
+<p>
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_lg_foldingtv.jpg" alt="lg folding tv">
 	<em>LG's folding OLED television</em>
 </div>
+</p>
 
+<p>
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
 	<img src="{{site.baseurl}}/images/img_samsungtv.png" alt="samsung wall tv">
 	<em>Samsung's 219-inch microLED 'Wall' TV</em>
 </div>
+</p>
 
 # 5G connectivity
 

@@ -134,7 +134,7 @@ src="https://www.youtube.com/embed/QKFddQ0ks50">
 
 # Weirdest innovations
 
-It wouldn’t be CES without some weird and out-there gadgets. Here are our favourites.
+It wouldn’t be CES without some weird and out-there gadgets. Here are our favourites...
 
 **Hupnos sleep mask for snorers**
 

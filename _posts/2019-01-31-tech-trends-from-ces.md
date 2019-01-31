@@ -137,8 +137,9 @@ src="https://www.youtube.com/embed/QKFddQ0ks50">
 
 It wouldn’t be CES without some weird and out-there gadgets. Here are our favourites.
 
-<p>**Hupnos sleep mask for snorers**</p>
-<p>This certainly isn’t the most attractive wearable, but it could help out in the bedroom! Simply put the mask on when you go to sleep and [the app will listen and track your sleeping patterns](https://www.cnet.com/news/ces-2019-hupnos-sleep-mask-claims-to-keep-your-snoring-in-check/). If it detects the wearer has started snoring, it uses a built-in accelerometer and gentle vibrations to help nudge them into a better sleep position.</p> 
+**Hupnos sleep mask for snorers**
+
+This certainly isn’t the most attractive wearable, but it could help out in the bedroom! Simply put the mask on when you go to sleep and [the app will listen and track your sleeping patterns](https://www.cnet.com/news/ces-2019-hupnos-sleep-mask-claims-to-keep-your-snoring-in-check/). If it detects the wearer has started snoring, it uses a built-in accelerometer and gentle vibrations to help nudge them into a better sleep position. 
 
 <p>
 <div style="margin-left:auto;margin-right:auto;max-width:600px;width:100%;">
@@ -147,7 +148,8 @@ It wouldn’t be CES without some weird and out-there gadgets. Here are our favo
 </div>
 </p>
 
-PiBo Robot
+**PiBo Robot**
+
 This cute and needy little robot just wants to be friends with you. Always. Using the power of internet connectivity and an app, [PiBo](http://dev.circul.us/pibo/#story) can tell you the weather, read your diary, help you wake up, send voice and text messages, manage your photos, play your favourite music, and even gives words of affirmation (like, I love you). Perhaps not as powerful as the likes of Amazon’s Alexa or Google Home, PiBo does use AI to learn what you like and give you more of that.
 
 <p>
@@ -157,7 +159,8 @@ This cute and needy little robot just wants to be friends with you. Always. Usin
 </div>
 </p>
 
-Fravel Suitcase
+**Fravel Suitcase**
+
 Almost too adorable to handle, [Fravel’s makers](http://www.fravelsuitcase.com/index.html) describe the travel companion as, “Cute and squishy. Everything you like about your pet without the messy part.” That latter part is a huge selling point in our books. Somewhat limited in capability - there’s no AI to speak of - it is feature packed in other ways. Fravel uses smart technology to give life-like features, such as tactile and movement sensors to make the ears wiggle and light-up heart beat when patted, a built-in battery and power save mode activated via the handle, and USB charging ability.
 
 <p>

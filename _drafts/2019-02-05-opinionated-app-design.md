@@ -60,13 +60,15 @@ We don’t ask you if you want to enable notifications until you have opened the
 
 Big, bright, in-your-face colours.
 
-The colours alone make competitions in our app much more fun than any competing app, and we saw that simple design led to fun competition. 
+The colours alone make competitions in our app much more fun than any competing app, and its simple design led to fun competition. 
 
 For example, in Steps, you can change your name at any time and it doesn't need to be unique. People changed their names to emoji. They changed their names to other people's names. Then there was that time everyone decided to change their name to "Hi Harrison" because it annoyed Harrison. 
 
 Sometimes people changed their name because they were losing, or maybe they were winning (sorely). It turned out that the simplicity of assigning names led to inside-jokes and creativity in how they were used.
 
-We put a lot of attention to detail into places you wouldn't expect. Like, how do we generate game codes? I wanted *aesthetically pleasing* game codes, not just random numbers and letters. I wanted *nice looking* letters, and even the *nice sounding* sequences of letters. Take a look at the image below cycling through some random game codes.
+[Screenshot with names]
+
+We put a lot of attention into places you wouldn't expect. Like, how do we generate game codes? I wanted *aesthetically pleasing* game codes, not just random numbers and letters. I wanted *nice looking* letters, and even *nice sounding* sequences of letters. Take a look at the image below cycling through some random game codes.
 
 [Cycling through random codes gif]
 
@@ -78,8 +80,6 @@ And when you first join a game you get assigned a random, emotionally charged an
 
 [Gif of generating a random name]
 
-Because the core design of the app is so simple and focused, it let us spend time polishing the details.
-
 ## Don't do what other apps do
 
 Don't follow convention when making an app. Don't mimic existing apps that employ [dark](https://medium.com/@scf4/an-example-of-a-dark-pattern-in-facebook-messenger-4211772e744f) [patterns](https://medium.com/@GabeRealMedina/is-facebook-messenger-still-experimenting-with-dark-ux-bcbeac45dcb) (hey, Facebook Messenger). 
@@ -89,4 +89,3 @@ Try to find the absolute minimum amount of data you need for your app to functio
 Don't make that "Skip" button tiny and the "Sign Up Now!" button big and bright. Maybe it works. But don't do that. It's a bad thing to do. Respect the fact that your users make choices and don't try to guide them to those beneficial to you. This shouldn't be a controversial opinion. 
 
 Because there are no analytics in Steps I will never validate whether any of the above were good decisions. Except that it's obvious they were good decisions. Because they put you, the potential user, first. And us, the developer, last. That's the way it should be.
-

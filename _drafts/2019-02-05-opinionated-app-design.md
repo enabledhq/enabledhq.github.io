@@ -28,6 +28,8 @@ Unsung, our iOS developer, made our [3D button code](https://github.com/enableds
 
 ![PressableButton.gif]({{site.baseurl}}/images/PressableButton.gif)
 
+And then John and Dylan, our people who actually know what a cloud is (what is it?) helped me make the server properly using CloudKit
+
 ## Ground rules
 
 I had rules about how this app had to be.

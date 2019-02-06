@@ -32,7 +32,7 @@ And then John and Dylan, our people who actually know what a cloud is (what is i
 
 ## Ground rules
 
-I had rules about how this app had to be.
+I had rules about how this app had to be
 
 First: [No analytics](https://twitter.com/twolivesleft/status/1092616914973552640)
 

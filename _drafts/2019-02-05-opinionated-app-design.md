@@ -53,3 +53,25 @@ When we ask for your step count data we tell you exactly why we need it and what
 Turns out we can fit that into one sentence.
 
 We don’t ask you if you want to enable notifications until you have opened the app seven times. Why? Because if we see that you keep checking the app then you might actually want notifications. I thought seven seemed like a good number of times to wait. There is no empirical data to back this up.
+
+## Strong Voice
+
+Big, bright, in-your-face colours.
+
+The colours alone make competitions in our app much more fun than any competing app. Prove me wrong.
+
+We saw that simple design led to fun competition. 
+
+In Steps, you can change your name at any time and it doesn't have to be unique. People changed their names to emoji. They changed their names to other people's names. Then there was that time everyone decided to change their name to "Hi Harrison" because it annoyed Harrison. 
+
+Sometimes people changed their name because they were losing, or maybe they were winning (sorely). It turned out that the simplicity of assigning names led to anarchy and inside-jokes in how names were used.
+
+## Takeaway
+
+Don't follow convention when making an app. Don't look at existing apps that employ [dark](https://medium.com/@scf4/an-example-of-a-dark-pattern-in-facebook-messenger-4211772e744f) [patterns](https://medium.com/@GabeRealMedina/is-facebook-messenger-still-experimenting-with-dark-ux-bcbeac45dcb) (hey, Facebook Messenger). 
+
+Try to find the absolute minimum amount of data you need for your app to function, and then find the fewest, clearest words through which to ask for that data. Always respect "No."
+
+Don't make that "Skip" button tiny and the "Sign Up Now!" button big and bright. Maybe it works. But don't do that. It's a shitty thing to do. Respect the fact that your users make choices and don't try to guide them to those beneficial to you. This shouldn't be a controversial opinion. 
+
+Because there are no analytics in Steps I will never know if any of the above were good decisions. Except... it's obvious they were good decisions because they put you, the potential user, first. And me, the developer, last. That's the way it should be.

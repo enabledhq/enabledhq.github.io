@@ -24,7 +24,7 @@ Josh, our designer, made a cool icon.
 
 (Icon)
 
-Unsung, our iOS developer, gave me his 3D button code.
+Unsung, our iOS developer, made our [3D button code](https://github.com/enabledsolutions/PressableButton).
 
-(3d button)
+![PressableButton.gif]({{site.baseurl}}/images/PressableButton.gif)
 

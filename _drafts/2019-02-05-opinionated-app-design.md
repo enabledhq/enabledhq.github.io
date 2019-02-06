@@ -66,6 +66,20 @@ For example, in Steps, you can change your name at any time and it doesn't need 
 
 Sometimes people changed their name because they were losing, or maybe they were winning (sorely). It turned out that the simplicity of assigning names led to inside-jokes and creativity in how they were used.
 
+We put a lot of attention to detail into places you wouldn't expect. Like, how do we generate game codes? I wanted *aesthetically pleasing* game codes, not just random numbers and letters. I wanted *nice looking* letters, and even the *nice sounding* sequences of letters. Take a look at the image below cycling through some random game codes.
+
+[Cycling through random codes gif]
+
+To do this we have a state machine that looks like the following:
+
+[State machine diagram]
+
+And when you first join a game you get assigned a random, emotionally charged animal name:
+
+[Gif of generating a random name]
+
+Because the core design of the app is so simple and focused, it let us spend time polishing the details.
+
 ## Don't do what other apps do
 
 Don't follow convention when making an app. Don't mimic existing apps that employ [dark](https://medium.com/@scf4/an-example-of-a-dark-pattern-in-facebook-messenger-4211772e744f) [patterns](https://medium.com/@GabeRealMedina/is-facebook-messenger-still-experimenting-with-dark-ux-bcbeac45dcb) (hey, Facebook Messenger). 

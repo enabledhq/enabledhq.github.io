@@ -46,7 +46,7 @@ This app had to be simple. I didn't want sign-in, but I wanted a multiplayer exp
 
 Let's take a look at the on-boarding screens in Steps. Each one clearly explains its value to you. The button to make it go away is big and bright.
 
-![Onboarding.png]({{site.baseurl}}/images/Onboarding.png)
+![Steps-Onboarding.png]({{site.baseurl}}/images/Steps-Onboarding.png)
 
 When we ask for your step count data we tell you exactly why we need it and what we will store. 
 

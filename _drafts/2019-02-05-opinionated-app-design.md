@@ -58,7 +58,7 @@ We don’t ask you if you want to enable notifications until you have opened the
 
 ## Strong voice
 
-Big, bright, in-your-face colours.
+Steps has big, bright, in-your-face colours.
 
 The colours alone make competitions in our app much more fun than any competing app, and its simple design led to fun competition. 
 

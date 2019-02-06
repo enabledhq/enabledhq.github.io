@@ -58,19 +58,19 @@ We don’t ask you if you want to enable notifications until you have opened the
 
 Big, bright, in-your-face colours.
 
-The colours alone make competitions in our app much more fun than any competing app, and we saw that simple design led to fun competitions. 
+The colours alone make competitions in our app much more fun than any competing app, and we saw that simple design led to fun competition. 
 
-In Steps, you can change your name at any time and it doesn't have to be unique. People changed their names to emoji. They changed their names to other people's names. Then there was that time everyone decided to change their name to "Hi Harrison" because it annoyed Harrison. 
+For example, in Steps, you can change your name at any time and it doesn't need to be unique. People changed their names to emoji. They changed their names to other people's names. Then there was that time everyone decided to change their name to "Hi Harrison" because it annoyed Harrison. 
 
 Sometimes people changed their name because they were losing, or maybe they were winning (sorely). It turned out that the simplicity of assigning names led to inside-jokes and creativity in how they were used.
 
 ## Don't do what other apps do
 
-Don't follow convention when making an app. Don't look at existing apps that employ [dark](https://medium.com/@scf4/an-example-of-a-dark-pattern-in-facebook-messenger-4211772e744f) [patterns](https://medium.com/@GabeRealMedina/is-facebook-messenger-still-experimenting-with-dark-ux-bcbeac45dcb) (hey, Facebook Messenger). 
+Don't follow convention when making an app. Don't mimic existing apps that employ [dark](https://medium.com/@scf4/an-example-of-a-dark-pattern-in-facebook-messenger-4211772e744f) [patterns](https://medium.com/@GabeRealMedina/is-facebook-messenger-still-experimenting-with-dark-ux-bcbeac45dcb) (hey, Facebook Messenger). 
 
 Try to find the absolute minimum amount of data you need for your app to function, and then find the fewest, clearest words through which to ask for that data. Always respect "No."
 
-Don't make that "Skip" button tiny and the "Sign Up Now!" button big and bright. Maybe it works. But don't do that. It's a shitty thing to do. Respect the fact that your users make choices and don't try to guide them to those beneficial to you. This shouldn't be a controversial opinion. 
+Don't make that "Skip" button tiny and the "Sign Up Now!" button big and bright. Maybe it works. But don't do that. It's a bad thing to do. Respect the fact that your users make choices and don't try to guide them to those beneficial to you. This shouldn't be a controversial opinion. 
 
-Because there are no analytics in Steps I will never know if any of the above were good decisions. Except that it's obvious they were good decisions, because they put you, the potential user, first. And us, the developer, last. That's the way it should be.
+Because there are no analytics in Steps I will never validate whether any of the above were good decisions. Except that it's obvious they were good decisions. Because they put you, the potential user, first. And us, the developer, last. That's the way it should be.
 

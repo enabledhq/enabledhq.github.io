@@ -6,7 +6,7 @@ title: Opinionated App Design
 ---
 _TL;DR Our weekly step competition app has opinions. [Get it here](https://itunes.apple.com/us/app/play-steps/id1422593756)_
 
-We made a cool new app. Seriously, look at it, it’s so cool. 
+We made a [cool new app](https://itunes.apple.com/us/app/play-steps/id1422593756). Seriously, look at it, it’s so cool. 
 
 ![Steps-Header.jpg]({{site.baseurl}}/images/Steps-Header.jpg)
 

@@ -12,9 +12,9 @@ We made a cool new app. Seriously, look at it, it’s so cool.
 
 Steps pits you against your friends in the simplest ever weekly step count competition.
 
-It started life as an app for us Apple Watch users in the office to tally our weekly steps and compete with those Fitbit ~jerks~ friends.
+It started life as an app for us Apple Watch fans in the office to tally our steps and compete with those Fitbit ~jerks~ friends.
 
-Then I wanted to learn how to put a server in the cloud and make the steps beam up and back down onto everyone’s iPhones. I started on [glitch.com](glitch.com) and made the roughest, quickest, dirtiest bit of code I could write. And it worked! Not just technically, but we actually started using it to compete with each other. Nearly everyone got in on it.
+Then I wanted to learn how to put a server in the cloud and make the steps beam up and back down onto everyone’s iPhones. I started on [glitch.com](http://beautiful-ladybug.glitch.me) and made the roughest, quickest, dirtiest bit of code I could write. And it worked! Not just technically, but we actually started using it to compete with each other. Nearly everyone got in on it.
 
 We even wrote an Apple TV app to broadcast the live results of our game.
 

@@ -22,7 +22,7 @@ We even wrote an Apple TV app to broadcast the live results of our game.
 
 Josh, our designer, made a cool icon.
 
-(Icon)
+![Steps-Icon.png]({{site.baseurl}}/images/Steps-Icon.png)
 
 Unsung, our iOS developer, made our [3D button code](https://github.com/enabledsolutions/PressableButton).
 

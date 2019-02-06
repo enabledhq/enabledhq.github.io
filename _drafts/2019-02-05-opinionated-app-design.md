@@ -53,6 +53,3 @@ When we ask for your step count data we tell you exactly why we need it and what
 Turns out we can fit that into one sentence.
 
 We don’t ask you if you want to enable notifications until you have opened the app seven times. Why? Because if we see that you keep checking the app then you might actually want notifications. I thought seven seemed like a good number of times to wait. There is no empirical data to back this up.
-
-
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2018-06-30 13:22 +0930'
-published: true
+published: false
 title: 'June News Round-up: Technology, Design, Business '
 description: >-
   What’s been happening in June 2018: roundup of news on technology, innovation,

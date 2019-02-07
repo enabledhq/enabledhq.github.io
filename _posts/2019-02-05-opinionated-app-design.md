@@ -46,7 +46,7 @@ I was often advised by our cloud gurus to, "Use Firebase. It's so much easier th
 
 Users had already decided whether they were opting-in to analytics when they set up their iPhones. To respect that choice there would be no tracking
 
-![Analytics.png]({{site.baseurl}}/images/Analytics.png)
+![Analytics.png]({{site.baseurl}}/images/Analytics.png){:class="aligncenter"}
 
 ## Bold choices
 
@@ -54,7 +54,7 @@ This app had to be simple. I didn't want sign-in, but I wanted a multiplayer exp
 
 Let's take a look at the on-boarding screens in Steps. Each one clearly explains its value to you. The button to make it go away is big and bright
 
-![Steps-Onboarding.png]({{site.baseurl}}/images/Steps-Onboarding.png)
+![Steps-Onboarding.png]({{site.baseurl}}/images/Steps-Onboarding.png){:class="aligncenter"}
 
 When we ask for your step count data we tell you exactly why we need it and what we will store
 
@@ -72,15 +72,15 @@ Sometimes people changed their name because they were losing, or maybe they were
 
 Here's our game from that time Courtney hit 100,000 steps (how the hell)
 
-![Steps-Names.png]({{site.baseurl}}/images/Steps-Names.png)
+![Steps-Names.png]({{site.baseurl}}/images/Steps-Names.png){:class="aligncenter"}
 
 We put a lot of attention into places you wouldn't expect. Like, how do we generate game codes? I wanted *aesthetically pleasing* game codes, not just random numbers and letters. I wanted *nice looking* letters, and even *nice sounding* sequences of letters. Take a look at the image below cycling through some random game codes
 
-![Steps-Generator.gif]({{site.baseurl}}/images/Steps-Generator.gif)
+![Steps-Generator.gif]({{site.baseurl}}/images/Steps-Generator.gif){:class="aligncenter"}
 
 To do this we have a state machine that looks like the following:
 
-![Steps-State-Diagram.png]({{site.baseurl}}/images/Steps-State-Diagram.png)
+![Steps-State-Diagram.png]({{site.baseurl}}/images/Steps-State-Diagram.png){:class="aligncenter"}
 
 Generating the following code patterns
 

@@ -10,11 +10,11 @@ categories:
   - news
 short-link: play-steps
 ---
-_TL;DR Our weekly step competition app has opinions. [Get it here](https://itunes.apple.com/us/app/play-steps/id1422593756)_
-
 We made a [cool new app](https://itunes.apple.com/us/app/play-steps/id1422593756). Seriously, look at it, it’s so cool
 
 ![Steps-Header.jpg]({{site.baseurl}}/images/Steps-Header.jpg)
+
+_TL;DR Our weekly step competition app has opinions. [Get it here](https://itunes.apple.com/us/app/play-steps/id1422593756)_
 
 Steps pits you against your friends in the simplest ever weekly step count competition
 

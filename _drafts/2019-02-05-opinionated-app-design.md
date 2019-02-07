@@ -76,7 +76,7 @@ To do this we have a state machine that looks like the following:
 
 ![Steps-State-Diagram.png]({{site.baseurl}}/images/Steps-State-Diagram.png)
 
-It generates codes following these patterns
+Generating the following code patterns
 
     open vowel close
     open double-vowel consonant

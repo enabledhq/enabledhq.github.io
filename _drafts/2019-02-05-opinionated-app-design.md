@@ -70,7 +70,7 @@ Here's our game from that time Courtney hit 100,000 steps (how the hell)
 
 We put a lot of attention into places you wouldn't expect. Like, how do we generate game codes? I wanted *aesthetically pleasing* game codes, not just random numbers and letters. I wanted *nice looking* letters, and even *nice sounding* sequences of letters. Take a look at the image below cycling through some random game codes
 
-![generator.gif]({{site.baseurl}}/images/generator.gif)
+![Steps-Generator.gif]({{site.baseurl}}/images/Steps-Generator.gif)
 
 To do this we have a state machine that looks like the following:
 

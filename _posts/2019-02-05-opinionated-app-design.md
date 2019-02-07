@@ -10,6 +10,7 @@ categories:
   - news
 short-link: play-steps
 hero-banner: /images/Steps-Blog-Header.jpg
+image: /images/Steps-Thumb.jpg
 ---
  
 We made a [cool new app](https://itunes.apple.com/us/app/play-steps/id1422593756). Seriously, look at it, it’s so cool

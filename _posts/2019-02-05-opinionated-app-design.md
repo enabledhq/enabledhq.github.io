@@ -11,6 +11,9 @@ categories:
 short-link: play-steps
 hero-banner: /images/Steps-Blog-Header.jpg
 image: /images/Steps-Thumb.jpg
+description: >-
+  We made a new app: the simplest ever weekly step count competition. Learn all
+  about its design choices and where we decided to say 'no'
 ---
  
 We made a [cool new app](https://itunes.apple.com/us/app/play-steps/id1422593756). Seriously, look at it, it’s so cool

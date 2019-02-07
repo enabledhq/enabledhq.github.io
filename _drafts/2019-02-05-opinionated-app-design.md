@@ -74,7 +74,23 @@ We put a lot of attention into places you wouldn't expect. Like, how do we gener
 
 To do this we have a state machine that looks like the following:
 
-[State machine diagram]
+![Steps-State-Diagram.png]({{site.baseurl}}/images/Steps-State-Diagram.png)
+
+It generates codes following these patterns
+
+    // open vowel close
+    // open double-vowel consonant
+    // open vowel consonant vowel
+    // double-vowel close vowel
+    // double-vowel consonant vowel consonant
+    // vowel consonant vowel consonant vowel
+    // vowel open vowel consonant
+    // vowel close double-vowel
+    // vowel close vowel consonant
+    // consonant vowel consonant vowel consonant
+    // consonant vowel consonant double-vowel
+    // consonant double-vowel consonant vowel
+   // consonant double-vowel close
 
 And when you first join a game you get assigned a random, emotionally charged animal name:
 

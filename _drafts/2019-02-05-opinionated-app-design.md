@@ -92,10 +92,6 @@ Generating the following code patterns
     consonant double-vowel consonant vowel
     consonant double-vowel close
 
-And when you first join a game you get assigned a random, emotionally charged animal name:
-
-[Gif of generating a random name]
-
 ## Don't do what other apps do
 
 Don't follow convention when making an app. Don't mimic existing apps that employ [dark](https://medium.com/@scf4/an-example-of-a-dark-pattern-in-facebook-messenger-4211772e744f) [patterns](https://medium.com/@GabeRealMedina/is-facebook-messenger-still-experimenting-with-dark-ux-bcbeac45dcb) (hey, Facebook Messenger)

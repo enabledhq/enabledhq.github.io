@@ -78,19 +78,19 @@ To do this we have a state machine that looks like the following:
 
 It generates codes following these patterns
 
-    // open vowel close
-    // open double-vowel consonant
-    // open vowel consonant vowel
-    // double-vowel close vowel
-    // double-vowel consonant vowel consonant
-    // vowel consonant vowel consonant vowel
-    // vowel open vowel consonant
-    // vowel close double-vowel
-    // vowel close vowel consonant
-    // consonant vowel consonant vowel consonant
-    // consonant vowel consonant double-vowel
-    // consonant double-vowel consonant vowel
-   // consonant double-vowel close
+    open vowel close
+    open double-vowel consonant
+    open vowel consonant vowel
+    double-vowel close vowel
+    double-vowel consonant vowel consonant
+    vowel consonant vowel consonant vowel
+    vowel open vowel consonant
+    vowel close double-vowel
+    vowel close vowel consonant
+    consonant vowel consonant vowel consonant
+    consonant vowel consonant double-vowel
+    consonant double-vowel consonant vowel
+    consonant double-vowel close
 
 And when you first join a game you get assigned a random, emotionally charged animal name:
 

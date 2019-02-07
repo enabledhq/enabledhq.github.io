@@ -9,6 +9,11 @@ main-category: ux
 categories:
   - news
 short-link: play-steps
+hero-banner: /images/Steps-Blog-Header.jpg
+image: /images/Steps-Thumb.jpg
+description: >-
+  We made a new app: the simplest ever weekly step count competition. Learn all
+  about its design choices and where we decided to say 'no'
 ---
  
 We made a [cool new app](https://itunes.apple.com/us/app/play-steps/id1422593756). Seriously, look at it, it’s so cool
@@ -37,7 +42,7 @@ Unsung, our iOS developer, made our [3D button code](https://github.com/enableds
 
 And then John and Dylan, our people who actually know what a cloud is (what is it?) helped me make the server properly using CloudKit
 
-## Ground rules
+# Ground rules
 
 I had rules about how this app had to be
 
@@ -49,7 +54,7 @@ Users had already decided whether they were opting-in to analytics when they set
 
 ![Analytics.png]({{site.baseurl}}/images/Analytics.png){:class="aligncenter"}
 
-## Bold choices
+# Bold choices
 
 This app had to be simple. I didn't want sign-in, but I wanted a multiplayer experience. I didn't want features, I wanted fun
 
@@ -61,7 +66,7 @@ When we ask for your step count data we tell you exactly why we need it and what
 
 We don’t ask you if you want to enable notifications until you have opened the app seven times. Why? Because if we see that you keep checking the app then you might actually want notifications. I thought seven seemed like a good number of times to wait. There is no empirical data to back this up
 
-## Strong voice
+# Strong voice
 
 Steps has big, bright, in-your-face colours
 
@@ -99,7 +104,7 @@ Generating the following code patterns
     consonant double-vowel consonant vowel
     consonant double-vowel close
 
-## Don't do what other apps do
+# Don't do what other apps do
 
 Don't follow convention when making an app. Don't mimic existing apps that employ [dark](https://medium.com/@scf4/an-example-of-a-dark-pattern-in-facebook-messenger-4211772e744f) [patterns](https://medium.com/@GabeRealMedina/is-facebook-messenger-still-experimenting-with-dark-ux-bcbeac45dcb) (hey, Facebook Messenger)
 

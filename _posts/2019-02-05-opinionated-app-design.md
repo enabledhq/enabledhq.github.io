@@ -18,7 +18,7 @@ description: >-
  
 We made a [cool new app](https://itunes.apple.com/us/app/play-steps/id1422593756). Seriously, look at it, it’s so cool
 
-![Steps-Header.jpg]({{site.baseurl}}/images/Steps-Header.jpg){:class="aligncenter"}
+![Steps-Header.png]({{site.baseurl}}/images/Steps-Header.png){:class="aligncenter"}
 
 _TL;DR Our weekly step competition app has opinions. [Get it here](https://itunes.apple.com/us/app/play-steps/id1422593756)_
 

@@ -64,7 +64,7 @@ For example, in Steps, you can change your name at any time and it doesn't need 
 
 Sometimes people changed their name because they were losing, or maybe they were winning (sorely). It turned out that the simplicity of assigning names led to inside-jokes and creativity in how they were used
 
-[Screenshot with names]
+![Steps-Names.png]({{site.baseurl}}/images/Steps-Names.png)
 
 We put a lot of attention into places you wouldn't expect. Like, how do we generate game codes? I wanted *aesthetically pleasing* game codes, not just random numbers and letters. I wanted *nice looking* letters, and even *nice sounding* sequences of letters. Take a look at the image below cycling through some random game codes
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2019-02-05 15:44 +1030'
-published: false
+published: true
 title: Opinionated App Design
 ---
 _TL;DR Our weekly step competition app has opinions. [Get it here](https://itunes.apple.com/us/app/play-steps/id1422593756)_

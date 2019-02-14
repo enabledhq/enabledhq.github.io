@@ -113,3 +113,6 @@ Try to find the absolute minimum amount of data you need for your app to functio
 Don't make that "Skip" button tiny and the "Sign Up Now!" button big and bright. Maybe it works. But don't do that. Respect the fact that your users make choices and don't try to guide them to those beneficial to you. This shouldn't be a controversial opinion
 
 Because there are no analytics in Steps I will never validate whether any of the above were good decisions. Except that it's obvious they were good decisions. Because they put you, the potential user, first. And us, the developer, last. That's the way it should be
+
+### Editor's Note ###
+Simeon has made a deliberate decision to excise periods from the end of paragraphs. Please [contact him](mailto:simeon@enabled.com.au) if you'd like an explanation of his reasoning behind this.
